@@ -1,0 +1,827 @@
+[
+    {"question": " Lähiliikenne on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kaikki liikenne kenttäalueella."},
+      {"answerCorrectness": "correct", "answerText": " Kaikki liikenne lentopaikan liikennealueella ja kaikki lentopaikan läheisyydessä lentävät ilma-alukset."},
+      {"answerCorrectness": "incorrect", "answerText": " Kaikki lentopaikalla olevat ajoneuvot."},
+      {"answerCorrectness": "incorrect", "answerText": " Kaikki lentopaikalla olevat ilma-alukset."}]},
+  
+    {"question": "Radioliikenteessä käytettävät VHF taajuudet ovat alueella:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 118,0 - 135,975 mhz."},
+      {"answerCorrectness": "incorrect", "answerText": " 118,0 - 121,5 mhz."},
+      {"answerCorrectness": "incorrect", "answerText": " 118,0 - 135,975 khz."},
+      {"answerCorrectness": "incorrect", "answerText": " 118,0 - 121,5 khz."}]},
+  
+    {"question": "Ilma-alus on lentopinnalla FL 100. Pisin odotettavissa oleva teoreettinen radionkantama on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1200nm."},
+      {"answerCorrectness": "incorrect", "answerText": " 100nm."},
+      {"answerCorrectness": "incorrect", "answerText": " 150nm."},
+      {"answerCorrectness": "correct", "answerText": " 120nm."}]},
+  
+    {"question": "Ilma-alus saavuttaa parhaan yhteysetäisyyden VHF-liikenteessä, jos ilma-alus on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Korkealla ja kaukana."},
+      {"answerCorrectness": "incorrect", "answerText": " Meren pinnan korkeudella lentokentän lähellä."},
+      {"answerCorrectness": "correct", "answerText": " Korkealla lentokentän läheisyydessä."},
+      {"answerCorrectness": "incorrect", "answerText": " Matalalla ja kaukana."}]},
+  
+    {"question": "Mitä tarkoittaa lyhenne \"IMC\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Näkösääolosuhteet."},
+      {"answerCorrectness": "correct", "answerText": " Mittarisääolosuhteet."},
+      {"answerCorrectness": "incorrect", "answerText": " Lento mittarilentosääntöjen mukaisesti."},
+      {"answerCorrectness": "incorrect", "answerText": " Lento näkölentosääntöjen mukaisesti."}]},
+  
+    {"question": "Termi \"erityis-VFR-lento\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " VFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueella näkösääolosuhteita huonommissa sääolosuhteissa."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentoa, johon ei vaikuta sääolosuhteet."},
+      {"answerCorrectness": "incorrect", "answerText": " VFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueen ulkopuolella näkösääolosuhteita huonommissa sääolosuhteissa."},
+      {"answerCorrectness": "incorrect", "answerText": " IFR-lentoa, jonka lennonjohto on selvittänyt suoritettavaksi lähialueella näkösääolosuhteita huonommissa sääolosuhteissa."}]},
+  
+    {"question": "Mitä tarkoittaa termi \"VMC\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Lento näkölentosääntöjen mukaisesti."},
+      {"answerCorrectness": "incorrect", "answerText": " Näkölentosäännöt."},
+      {"answerCorrectness": "incorrect", "answerText": " Mittarilentosäännöt."},
+      {"answerCorrectness": "correct", "answerText": " Näkösääolosuhteet."}]},
+  
+    {"question": "Mitä tarkoittaa termi \"VFR-lento\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Lento ilman matkustajia."},
+      {"answerCorrectness": "incorrect", "answerText": " Koululento."},
+      {"answerCorrectness": "incorrect", "answerText": " Lento mittarilentosääntöjen mukaisesti."},
+      {"answerCorrectness": "correct", "answerText": " Lento näkölentosääntöjen mukaisesti."}]},
+  
+    {"question": "Mitä tarkoittaa menetelmäsana \"WILCO\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kuulin viimeisimmän sanomasi kokonaan."},
+      {"answerCorrectness": "incorrect", "answerText": " Lupa myönnetty."},
+      {"answerCorrectness": "incorrect", "answerText": " Lopetin sanomani ja odotan vastausta."},
+      {"answerCorrectness": "correct", "answerText": " Ymmärsin sanomasi ja noudatan sitä."}]},
+  
+    {"question": "Mitä tarkoittaa menetelmäsana \"SELVÄ\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ymmärsin sanomasi ja noudatan sitä."},
+      {"answerCorrectness": "correct", "answerText": " Lupa myönnetty."},
+      {"answerCorrectness": "incorrect", "answerText": " Olen vastaanottanut viimeisen lähetyksesi."},
+      {"answerCorrectness": "incorrect", "answerText": " Lopetin sanomani ja odotan vastausta."}]},
+  
+    {"question": "Mitä tarkoittaa menetelmäsana \"KUITTAA\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Sano uudelleen kaikki tai seuraava osa lähetyksestäsi."},
+      {"answerCorrectness": "incorrect", "answerText": " Lopetin sanomani ja odotan vastausta."},
+      {"answerCorrectness": "incorrect", "answerText": " Olen vastaanottanut viimeisen lähetyksesi."},
+      {"answerCorrectness": "correct", "answerText": " Ilmoita, että olet vastaanottanut ja ymmärtänyt sanoman."}]},
+  
+    {"question": "\"VAPAUTA OIKEALLE\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Poistu kiitotieltä välittömästi."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön jälkeen kaarra oikealle."},
+      {"answerCorrectness": "incorrect", "answerText": " Seuraava rullaustien risteys on oikealla puolella."},
+      {"answerCorrectness": "correct", "answerText": " Käänny oikealle pois kiitotieltä."}]},
+  
+    {"question": "\"TEE YLÖSVETO\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tee 360 asteen kaarto."},
+      {"answerCorrectness": "incorrect", "answerText": " Rullaa odotuspaikalla olevan lentokoneen ohi."},
+      {"answerCorrectness": "correct", "answerText": " Suorita keskeytetty lähestyminen."},
+      {"answerCorrectness": "incorrect", "answerText": " Ohita edessäsi oleva ilma-alus."}]},
+  
+    {"question": "\"ODOTA\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Odota, kutsun sinua uudelleen."},
+      {"answerCorrectness": "incorrect", "answerText": " Valitse transponderiin \"STANDBY\"."},
+      {"answerCorrectness": "incorrect", "answerText": " Jatka nykyisellä suunnalla ja kuuntele."},
+      {"answerCorrectness": "incorrect", "answerText": " Pysy nykyisessä paikassa."}]},
+  
+    {"question": "\"KUUNTELE\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kuuntele moottorin ääntä."},
+      {"answerCorrectness": "correct", "answerText": " Kuuntele… taajuutta."},
+      {"answerCorrectness": "incorrect", "answerText": " Ota yhteys taajuudella..."},
+      {"answerCorrectness": "incorrect", "answerText": " Toistan selvyyden tai tärkeyden vuoksi."}]},
+  
+    {"question": "\"ILMOITA\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Sano uudelleen."},
+      {"answerCorrectness": "incorrect", "answerText": " Välitä viestisi."},
+      {"answerCorrectness": "correct", "answerText": " Ilmoita seuraava tieto."},
+      {"answerCorrectness": "incorrect", "answerText": " Jatka viestiäsi."}]},
+  
+    {"question": "\"TEE YMPYRÄÄ OIKEALLE\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kaarra oikeaan väistääksesi muuta liikennettä."},
+      {"answerCorrectness": "correct", "answerText": " Kaarra oikeaan ja jatka sitä kunnes toisin ohjeistetaan."},
+      {"answerCorrectness": "incorrect", "answerText": " Tee 360 asteen kaarros oikealle."},
+      {"answerCorrectness": "incorrect", "answerText": " Käytössä on oikeanpuoleinen laskukierros."}]},
+  
+    {"question": "Mitä tarkoittaa termi \"KORKEUS\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Standardikorkeutta."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentopintaa."},
+      {"answerCorrectness": "incorrect", "answerText": " Korkeutta lentokentästä."},
+      {"answerCorrectness": "correct", "answerText": " Korkeutta keskimääräisestä merenpinnan tasosta."}]},
+  
+    {"question": "Mitä tarkoittaa termi \"LENTOPINTA (Flight Level)\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin paikalliseen QFE-asetukseen perustuen."},
+      {"answerCorrectness": "incorrect", "answerText": " Painetaso joka perustuu paikalliseen QNH:hon."},
+      {"answerCorrectness": "correct", "answerText": " Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin standardiasetukseen 1013,2 hpa perustuen."},
+      {"answerCorrectness": "incorrect", "answerText": " Tasoa ilmakehässä, joka on luotu porrastustarkoituksessa ja määritelty korkeusmittarin paikalliseen QNH-asetukseen perustuen."}]},
+  
+    {"question": "Kun lentäjä ilmoittaa \"VIISI TUHATTA JALKAA\":", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen korkeus on 5 000ft kentän pinnasta."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen korkeusmittari on asetettu standardipaineelle 1012,2 hpa."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen korkeusmittari on asetettu paikalliselle QFE:lle."},
+      {"answerCorrectness": "correct", "answerText": " Ilma-aluksen korkeus on 5 000ft keskimerenpinnasta."}]},
+  
+    {"question": "Korkeus 4 500ft QNH luetaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄ VIISI SATAA JALKAA MEREN PINNAN YLÄPUOLELLA."},
+      {"answerCorrectness": "correct", "answerText": " NELJÄ TUHATTA VIISI SATAA JALKAA."},
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄ VIISI TUHATTA JALKAA."},
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄ PISTE VIISI."}]},
+  
+    {"question": "Korkeus 5 000ft luetaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " VIISI ZERO ZERO ZERO."},
+      {"answerCorrectness": "incorrect", "answerText": " VIISI NOLLA NOLLA NOLLA JALKAA."},
+      {"answerCorrectness": "correct", "answerText": " VIISI TUHATTA JALKAA."},
+      {"answerCorrectness": "incorrect", "answerText": " VIISI KYMMENTÄ SATAA."}]},
+  
+    {"question": "Korkeus 11 000ft luetaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI NOLLA NOLLA NOLLA JALKAA."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSITOISTA TUHATTA NOLLA JALKAA."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSITOISTA TUHATTA JALKAA."},
+      {"answerCorrectness": "correct", "answerText": " YKSI YKSI TUHATTA JALKAA."}]},
+  
+    {"question": "Korkeus 10 500ft luetaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " KYMMENEN PISTE VIISI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI NOLLA VIISI SATAA JALKAA MEREN PINNAN YLÄPUOLELLA."},
+      {"answerCorrectness": "correct", "answerText": " YKSI NOLLA TUHATTA VIISI SATAA JALKAA."},
+      {"answerCorrectness": "incorrect", "answerText": " KYMMENEN TUHATTA VIISI SATAA JALKAA."}]},
+  
+    {"question": "Taajuus 118.125 mhz luetaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " YKSI SATAA KAHDEKSANTOISTA YKSI KAKSI VIISI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN YKSI KAKSI VIISI."},
+      {"answerCorrectness": "correct", "answerText": " YKSI YKSI KAHDEKSAN DESIMAALI YKSI KAKSI VIISI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN PISTE YKSI KAKSI VIISI."}]},
+  
+    {"question": "Kun luetaan numeroita radioon, 583 sanotaan näin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " VIISI KYMMENTÄ KAHDEKSAN KOLME."},
+      {"answerCorrectness": "incorrect", "answerText": " VIISI SATAA KAHDEKSAN KOLME."},
+      {"answerCorrectness": "correct", "answerText": " VIISI KAHDEKSAN KOLME."},
+      {"answerCorrectness": "incorrect", "answerText": " VIISI SATAA KAHDEKSAN KYMMENTÄ KOLME."}]},
+  
+    {"question": "Kun luetaan numeroita radioon, 496 sanotaan näin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄ YHDEKSÄNKYMMENTÄ KUUSI."},
+      {"answerCorrectness": "correct", "answerText": " NELJÄ YHDEKSÄN KUUSI"},
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄ SATAA YHDEKSÄNKYMMENTÄ KUUSI."},
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄ SATAA YHDEKSÄN KUUSI."}]},
+  
+    {"question": "Kun luetaan numeroita radioon, 4501 sanotaan näin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄKYMMENTÄ VIISI SATAA YKSI."},
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄ TUHATTA VIISI SATAA YKSI."},
+      {"answerCorrectness": "incorrect", "answerText": " NELJÄ VIISI NOLLA PISTE YKSI."},
+      {"answerCorrectness": "correct", "answerText": " NELJÄ VIISI NOLLA YKSI."}]},
+  
+    {"question": "Kun luetaan numeroita radioon, 600 sanotaan näin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " KUUS NOL NOL."},
+      {"answerCorrectness": "incorrect", "answerText": " KUUSI TUPLA NOLLA."},
+      {"answerCorrectness": "incorrect", "answerText": " KUUSIKYMMENTÄ NOLLA."},
+      {"answerCorrectness": "correct", "answerText": " KUUSI SATAA."}]},
+  
+    {"question": "Taajuus 118.0 Mhz tulee lausua radioon näin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN PISTE NOLLA."},
+      {"answerCorrectness": "incorrect", "answerText": " SATA KAHDEKSANTOISTA PISTE NOLLA."},
+      {"answerCorrectness": "correct", "answerText": " YKSI YKSI KAHDEKSAN DESIMAALI NOLLA."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN."}]},
+  
+    {"question": "Miten lausutaan taajuus 118.1 MHz ilmailun radioliikenteessä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " YKSI SATAA YKSITOISTA PISTE YKSI."},
+      {"answerCorrectness": "correct", "answerText": " YKSI YKSI KAHDEKSAN DESIMAALI YKSI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN YKSI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN PISTE YKSI."}]},
+  
+    {"question": "Miten lausutaan taajuus 118.150 MHz ilmailun radioliikenteessä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN DESIMAALI YKSI VIISI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN PISTE YKSI VIISI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI YKSI KAHDEKSAN VÄLI YKSI VIISI NOLLA."},
+      {"answerCorrectness": "correct", "answerText": " YKSI YKSI KAHDEKSAN DESIMAALI YKSI VIISI NOLLA."}]},
+  
+    {"question": "Taajuus 121.725 Mhz tulee lausua radioon näin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " YKSI KAKSI YKSI PISTE SEITSEMÄN KAKSI VIISI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI KAKSIKYMMENTÄ YKSI DESIMAALI SEITSEMÄN KAKSIKYMMENTÄ VIISI."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI KAKSI YKSI PISTE SEITSEMÄN KAKSI."},
+      {"answerCorrectness": "correct", "answerText": " YKSI KAKSI YKSI DESIMAALI SEITSEMÄN KAKSI VIISI."}]},
+  
+    {"question": "Lentäjä voi lyhentää ilma-aluksensa radiokutsun:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ei lainkaan."},
+      {"answerCorrectness": "incorrect", "answerText": " Kun yhteys maa-asemaan on saatu."},
+      {"answerCorrectness": "incorrect", "answerText": " Oman harkintansa mukaan."},
+      {"answerCorrectness": "correct", "answerText": " Vasta, kun maa-asema on käyttänyt lyhennettyä kutsutunnusta."}]},
+  
+    {"question": "Aika 10:20 lähetetään:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " KELLO KYMMENEN KAKSIKYMMENTÄ"},
+      {"answerCorrectness": "incorrect", "answerText": " KYMMENEN KAKSI NOLLA"},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI NOLLA KAKSIKYMMENTÄ"},
+      {"answerCorrectness": "correct", "answerText": " YKSI NOLLA KAKSI NOLLA tai KAKSI NOLLA"}]},
+  
+    {"question": "Kello on 9:10. Haluat sanoa ajan 10:20. Miten muotoilet sanoman?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " KELLO KYMMENEN KAKSIKYMMENTÄ"},
+      {"answerCorrectness": "incorrect", "answerText": " KAKSI NOLLA"},
+      {"answerCorrectness": "incorrect", "answerText": " KYMMENEN KAKSI NOLLA"},
+      {"answerCorrectness": "correct", "answerText": " YKSI NOLLA KAKSI NOLLA"}]},
+  
+    {"question": "Tunnus 70-VEL lausutaan radioon:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " SEITSEMÄN NOLLA LIMA"},
+      {"answerCorrectness": "correct", "answerText": " SEITSEMÄN NOLLA VICTOR ECHO LIMA"},
+      {"answerCorrectness": "incorrect", "answerText": " SEITSEMÄN NOLLA WHISKEY ECHO LIMA"},
+      {"answerCorrectness": "incorrect", "answerText": " SEITSEMÄNKYMMENTÄ VICTOR ECHO LIMA"}]},
+  
+    {"question": "Tunnus EXTRA lausutaan radioon:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " ECHO EX TORONTO ROMEO ALFA"},
+      {"answerCorrectness": "incorrect", "answerText": " ECHO X-RAY TORONTO ROMEO ALFA"},
+      {"answerCorrectness": "correct", "answerText": " ECHO X-RAY TANGO ROMEO ALFA"},
+      {"answerCorrectness": "incorrect", "answerText": " EXTRA"}]},
+  
+    {"question": "Tunnus C-MNXY lausutaan radioon:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " CHARLIE MIKE NOVEMBER EXTRA YANKEE"},
+      {"answerCorrectness": "incorrect", "answerText": " CHARLIE METRO NOVEMBER EXTRA YANKEE"},
+      {"answerCorrectness": "correct", "answerText": " CHARLIE MIKE NOVEMBER X-RAY YANKEE"},
+      {"answerCorrectness": "incorrect", "answerText": " CHARLIE MIKE NECTAR X-RAY YANKEE"}]},
+  
+    {"question": "Tunnus B9-DFF lausutaan radioon:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " BRAVO YSI DELTA FOXTROT FOXTROT"},
+      {"answerCorrectness": "incorrect", "answerText": " BRAVO YSI DELTA FOX FOX"},
+      {"answerCorrectness": "correct", "answerText": " BRAVO YHDEKSÄN DELTA FOXTROT FOXTROT"},
+      {"answerCorrectness": "incorrect", "answerText": " BRAVO YHDEKSÄN DELTA KAKSI FOXTROT"}]},
+  
+    {"question": "Lentäjä kysyy QFE:tä seuraavasti:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " PYYDÄN QUEBEQ FOXTROT ECHO."},
+      {"answerCorrectness": "incorrect", "answerText": " PYYDÄN QUEBEQ FOX ECHO."},
+      {"answerCorrectness": "correct", "answerText": " PYYDÄN QFE."},
+      {"answerCorrectness": "incorrect", "answerText": " PYYDÄN QUEEN FOX EASY."}]},
+  
+    {"question": "Mikä on oikea tapa lausua FRI-VOR radioon?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " FOXTROT ROMEO INDIA VICTOR OSCAR ROMEO."},
+      {"answerCorrectness": "incorrect", "answerText": " FRIDAY VOR."},
+      {"answerCorrectness": "incorrect", "answerText": " FOX ROMEO INDIA VOR."},
+      {"answerCorrectness": "correct", "answerText": " FOXTROT ROMEO INDIA VOR."}]},
+  
+    {"question": "Lähialueen lyhenne on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " MATZ."},
+      {"answerCorrectness": "correct", "answerText": " CTR."},
+      {"answerCorrectness": "incorrect", "answerText": " CTZ."},
+      {"answerCorrectness": "incorrect", "answerText": " CTA."}]},
+  
+    {"question": "Mikä seuraavista lyhenteistä tulee lausua kirjain kirjaimelta ICAOn aakkosin?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " ILS."},
+      {"answerCorrectness": "incorrect", "answerText": " RVR."},
+      {"answerCorrectness": "incorrect", "answerText": " CAVOK."},
+      {"answerCorrectness": "correct", "answerText": " Y-BC."}]},
+  
+    {"question": "Mitä paineasetusta käytetään suhteellisen korkeuden määrittämiseen lentokentän pinnasta mitattuna?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " QNH"},
+      {"answerCorrectness": "incorrect", "answerText": " QBA"},
+      {"answerCorrectness": "incorrect", "answerText": " ELT"},
+      {"answerCorrectness": "correct", "answerText": " QFE"}]},
+  
+    {"question": "Mikä koodi kertoo magneettisen suunnan lentokoneesta jollekin asemalle?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " QNH"},
+      {"answerCorrectness": "incorrect", "answerText": " QDR"},
+      {"answerCorrectness": "incorrect", "answerText": " QGH"},
+      {"answerCorrectness": "correct", "answerText": " QDM"}]},
+  
+    {"question": "Mikä koodi kertoo magneettisen suunnan jostakin asemasta ilma-alukseen?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " QDR"},
+      {"answerCorrectness": "incorrect", "answerText": " QGH"},
+      {"answerCorrectness": "incorrect", "answerText": " QDM"},
+      {"answerCorrectness": "incorrect", "answerText": " QNH"}]},
+  
+    {"question": "Mikä koodi kertoo tosisuunnan jostakin asemasta lentokoneeseen?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " QFE"},
+      {"answerCorrectness": "incorrect", "answerText": " QDR"},
+      {"answerCorrectness": "incorrect", "answerText": " QNH"},
+      {"answerCorrectness": "correct", "answerText": " QTE"}]},
+  
+    {"question": "Mitä tarkoittaa lyhenne \"QDM\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ilmakehän paine lentokentän korkeudessa."},
+      {"answerCorrectness": "correct", "answerText": " Magneettinen lentosuunta lentokoneesta mittausasemalle."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilmakehän paine lentokentän korkeudessa, muunnettuna vastaamaan meren pinnalla vallitsevaa painetta."},
+      {"answerCorrectness": "incorrect", "answerText": " Vallitseva sää lentokentällä."}]},
+  
+    {"question": "Mitä tarkoittaa lyhenne \"QNH\"?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Korkeusmittarin paineasteikon asetus, jolla korkeusmittari näyttää korkeutta merenpinnasta."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilmakehän paine lentokentän korkeudessa."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosisuunta joltakin asemalta."},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettinen suunta joltakin asemalta."}]},
+  
+    {"question": "Mikä seuraavista listoista on sellainen, jossa kaikki kohdat tulee lukea takaisin lennonjohdolle?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Lentopintaa koskevat ohjeet, korkeusmittariasetus, pintatuuli, kiitotieinformaatio."},
+      {"answerCorrectness": "incorrect", "answerText": " VOR tieto, taajuuksien muutokset, tutkapalvelun tyyppi."},
+      {"answerCorrectness": "correct", "answerText": " Selvitys kiitotielle, laskuun, lentoonlähtöön, rullaukseen takaisinpäin, ylittää tai odottaakiitotielle pääsyä."},
+      {"answerCorrectness": "incorrect", "answerText": " Lennonjohdon reittiselvitykset, kiitotieselvitykset, vallitsevat säätiedot."}]},
+  
+    {"question": "Lentäjän tulee lukea takaisin vähintään:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Korkeusmittariasetus, rullausohjeet, määränpään sää, kiitotieselvitykset, lähestymisen apuvälineiden tilannetiedotukset."},
+      {"answerCorrectness": "incorrect", "answerText": " Reittiselvitykset, nopeusohjeet, säätiedot, rullausselvitys, kiitotien kuntotiedot."},
+      {"answerCorrectness": "correct", "answerText": " Toisiotutkakoodi, lentoonlähtöselvitys, korkeusmittariasetus, radiotaajuudet."},
+      {"answerCorrectness": "incorrect", "answerText": " Lennonjohdon reittiselvitykset, kiitotieselvitykset, vallitsevat säätiedot."}]},
+  
+    {"question": "Mikä seuraavista väittämistä on oikein?\"Maasta ilmaan kommunikoinnissa lennonjohtaja aina…\":", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Sanoo kutsumerkkisi vain avauskutsussa."},
+      {"answerCorrectness": "incorrect", "answerText": " Sanoo viimeiseksi kutsumerkkisi."},
+      {"answerCorrectness": "incorrect", "answerText": " Sanoo kutsumerkkisi ensiksi tai viimeiseksi, riippuen asiasta."},
+      {"answerCorrectness": "correct", "answerText": " Sanoo ensiksi kutsumerkkisi."}]},
+  
+    {"question": "Haluat rullata lähtöpaikalle. Käytät sanontaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " PYYDÄN LUPAA RULLATA."},
+      {"answerCorrectness": "incorrect", "answerText": " PYYDÄN RULLAUSSELVITYSTÄ."},
+      {"answerCorrectness": "correct", "answerText": " PYYDÄN RULLATA."},
+      {"answerCorrectness": "incorrect", "answerText": " MIKÄ ON RULLAUSSELVITYKSENI."}]},
+  
+    {"question": "Kun torni pyytää \"ILMOITA MYÖTÄTUULI\", lentäjän tulee ilmoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Arvioitu tuulen nopeus ja suunta lentokorkeudella."},
+      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu myötätuulikomponentti laskussa."},
+      {"answerCorrectness": "incorrect", "answerText": " Kun lentokone on laskukierroksen loppuosalla."},
+      {"answerCorrectness": "correct", "answerText": " Kun lentokone on laskukierroksessa, toisen ja kolmannen kaarron välissä."}]},
+  
+    {"question": "Lennonjohtaja haluaa tiedon siitä, millä korkeudella ilma-alus on. Hän käyttää sanontaa:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " ILMOITA KORKEUS"},
+      {"answerCorrectness": "incorrect", "answerText": " LÄHETÄ KORKEUS"},
+      {"answerCorrectness": "incorrect", "answerText": " MIKÄ ON KORKEUTESI"},
+      {"answerCorrectness": "incorrect", "answerText": " PYYDÄN KORKEUS"}]},
+  
+    {"question": "Mitä sanontaa lennojohto käyttää kun ilmoittaa lentäjälle, että paikkailmoitusta ei tarvitse tehdä pakollisen ilmoittautumispisteen X päällä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " PERUUTA PAIKKAILMOITUS X"},
+      {"answerCorrectness": "incorrect", "answerText": " ÄLÄ KERRO PAIKKAA X"},
+      {"answerCorrectness": "incorrect", "answerText": " EI PAIKKAILMOITUSTA X:SSÄ"},
+      {"answerCorrectness": "correct", "answerText": " JÄTÄ POIS PAIKKAILMOITUS X"}]},
+  
+    {"question": "Mikäli lentäjä ei kykene noudattamaan selvitystä, tulee lentäjän käyttää sanontaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " EI VOI HYVÄKSYÄ"},
+      {"answerCorrectness": "correct", "answerText": " EN PYSTY"},
+      {"answerCorrectness": "incorrect", "answerText": " EN KYKENE"},
+      {"answerCorrectness": "incorrect", "answerText": " PYYDÄN UUTTA SELVITYSTÄ"}]},
+  
+    {"question": "Miten pyydät toistamaan sanoman?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " OLE HYVÄ JA SANO UUDELLEEN"},
+      {"answerCorrectness": "incorrect", "answerText": " SANO KAIKKI UUDELLEEN"},
+      {"answerCorrectness": "correct", "answerText": " SANO UUDELLEEN"},
+      {"answerCorrectness": "incorrect", "answerText": " TOISTA VIESTI"}]},
+  
+    {"question": "Mikä seuraavista viesteistä saa korkeimman prioriteetin?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " RULLAA POUSARILLE."},
+      {"answerCorrectness": "incorrect", "answerText": " HUOMIOI KUNNOSSAPITOTYÖ RULLAUSTIELLÄ."},
+      {"answerCorrectness": "correct", "answerText": " PYYDÄN QDM."},
+      {"answerCorrectness": "incorrect", "answerText": " ILMOITA LOPPUOSA NUMERO YKSI."}]},
+  
+    {"question": "Jos lennonjohtaja lähettää ohjeen jonka ymmärrät ja aiot noudattaa, vakiovastaus on:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " WILCO."},
+      {"answerCorrectness": "incorrect", "answerText": " VAHVISTAN."},
+      {"answerCorrectness": "incorrect", "answerText": " TARKISTA."},
+      {"answerCorrectness": "incorrect", "answerText": " SELVÄ."}]},
+  
+    {"question": "Jos lentäjä ei kykene saamaan yhteyttä asemaan määrätyllä taajuudella, hänen tulee:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Lähettää sokeasti."},
+      {"answerCorrectness": "incorrect", "answerText": " Lähettää taajuudella 121.5."},
+      {"answerCorrectness": "correct", "answerText": " Yrittää toisella, asiaan liittyvällä taajuudella."},
+      {"answerCorrectness": "incorrect", "answerText": " Lähettää lausuen sanat kahdesti."}]},
+  
+    {"question": "Kun ilma-alus lähettää viestin aloittaen sanonnalla \"Lähetän sokeasti, koska vastaanotin on rikki\", pitäisi lisäksi:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Odottaa viisi minuuttia sen hetkisessä paikassa."},
+      {"answerCorrectness": "incorrect", "answerText": " Informoida muuta liikennettä kaartamalla 360 astetta oikealle."},
+      {"answerCorrectness": "correct", "answerText": " Ilmoittaa seuraavan aiotun lähetyksen aika."},
+      {"answerCorrectness": "incorrect", "answerText": " Jatkaa varakentälle."}]},
+  
+    {"question": "Olet odotuspaikalla, olet suorittanut lentoonlähtötarkistuksen, ja olet valmiina rullaamaan kiitotielle lentoonlähtöä varten. Miten ilmoitat lennonjohdolle olevasi valmis?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " (KUTSUMERKKI) VALMIS."},
+      {"answerCorrectness": "incorrect", "answerText": " (KUTSUMERKKI) (SIJAINTI) VALMIS RULLAAMAAN KIITOTIELLE."},
+      {"answerCorrectness": "incorrect", "answerText": " (KUTSUMERKKI) (SIJAINTI) VALMIS JATKAMAAN."},
+      {"answerCorrectness": "incorrect", "answerText": " (KUTSUMERKKI) VALMIS LENTOONLÄHTÖÖN."}]},
+  
+    {"question": "\"EN PYSTY\" sanonta tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " En pysty toimimaan pyyntösi, selvityksen tai ohjeen mukaan ja pyydän uutta selvitystä."},
+      {"answerCorrectness": "correct", "answerText": " En pysty toimimaan pyyntösi, selvityksen tai ohjeen mukaan."},
+      {"answerCorrectness": "incorrect", "answerText": " En halua toimia pyyntösi, selvityksen tai ohjeen mukaan."},
+      {"answerCorrectness": "incorrect", "answerText": " Toista edellinen lähetyksesi."}]},
+  
+    {"question": "Lennät Etelä-Suomessa koneella OH-ABC. Korkeusmittariasetus on standardi. Kun lennonjohto kysyy korkeuttasi, mikä on oikea vastaus?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " SÄILYTÄN LENTOPINTA VIISI NOLLA, O-BC"},
+      {"answerCorrectness": "incorrect", "answerText": " LENTOPINNALLA VIISI NOLLA, O-BC"},
+      {"answerCorrectness": "incorrect", "answerText": " O-BC, LENTOPINTA VIISI NOLLA"},
+      {"answerCorrectness": "correct", "answerText": " LENTOPINTA VIISI NOLLA, O-BC"}]},
+  
+    {"question": "Lennät koilliseen 2 500 jalassa. Ilmoitat suuntasi ja korkeutesi näin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " LENNÄN KORKEUS KAKSI VIISI SATAA JALKAA OHJAUSSUUNTA 045."},
+      {"answerCorrectness": "incorrect", "answerText": " OHJAUSSUUNTA 045 KORKEUS KAKSI VIISI NOLLA NOLLA JALKAA."},
+      {"answerCorrectness": "incorrect", "answerText": " OHJAUSSUUNTA 045 KORKEUS KAKSI VIISI SATAA JALKAA."},
+      {"answerCorrectness": "correct", "answerText": " OHJAUSSUUNTA 045 KORKEUS KAKSI TUHATTA VIISI SATAA JALKAA."}]},
+  
+    {"question": "Mikä on oikea vastaus lennonjohdon kehotukseen \"O-CD, OTA YHTEYS MALMIN TORNIIN 131.250\"", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " OSCAR CHARLIE DELTA, YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA."},
+      {"answerCorrectness": "correct", "answerText": " VAIHDAN MALMIN TORNI YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA, OSCAR CHARLIE DELTA."},
+      {"answerCorrectness": "incorrect", "answerText": " YKSI KOLME YKSI DESIMAALI KAKSI VIISI NOLLA, OSCAR CHARLIE DELTA."},
+      {"answerCorrectness": "incorrect", "answerText": " WILCO OSCAR CHARLIE DELTA."}]},
+  
+    {"question": "Lennonjohto antaa kehotuksen laskeutumiseen käyttäen sanontaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " SELVÄ..."},
+      {"answerCorrectness": "incorrect", "answerText": " JÄTÄ XX YY VARTEN"},
+      {"answerCorrectness": "incorrect", "answerText": " SÄILYTÄ..."},
+      {"answerCorrectness": "correct", "answerText": " LASKEUDU..."}]},
+  
+    {"question": "Lennonjohtaja antaa lentäjälle selvityksen nousta tiettyyn korkeuteen käyttäen sanontaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " SÄILYTÄ..."},
+      {"answerCorrectness": "incorrect", "answerText": " JÄTÄ XX YY VARTEN"},
+      {"answerCorrectness": "correct", "answerText": " NOUSE..."},
+      {"answerCorrectness": "incorrect", "answerText": " SELVÄ..."}]},
+  
+    {"question": "Ilma-alus on aluksi selvitetty nousemaan pinnalle FL100. Porrastussyistä ilmaalus pitää pysäyttää vaakalentoon pinnalle FL80 muutamaksi minuutiksi. Lennonjohto antaa tämän ohjeen sanomalla:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " OIKAISE LENTOPINNALLE 80"},
+      {"answerCorrectness": "incorrect", "answerText": " SELVÄ LENTOPINNALLE 80"},
+      {"answerCorrectness": "incorrect", "answerText": " SÄILYTÄ LENTOPINTA 80"},
+      {"answerCorrectness": "correct", "answerText": " PYSÄYTÄ NOUSU LENTOPINNALLA 80"}]},
+  
+    {"question": "Kun lennonjohto kysyy \"Pystytkö säilyttämään lentopinnan 40\", oikea vastaus kuuluu:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " KYLLÄ tai EI."},
+      {"answerCorrectness": "incorrect", "answerText": " ROGER tai MOORE."},
+      {"answerCorrectness": "incorrect", "answerText": " WILCO tai EI."},
+      {"answerCorrectness": "incorrect", "answerText": " EI ONNISTU / KYLLÄ ONNISTUU."}]},
+  
+    {"question": "Olet juuri laskeutunut kentälle jolla on lennonjohtotorni. Torni kehottaa sinua ottamaan yhteyttä kun olet poistunut kiitotieltä. Sinä olet poistunut kiitotieltä kun:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Kaikki ilma-aluksen osat ovat ylittäneet odotusviivan"},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen pyrstö on kiitotien reunalla"},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-alus alkaa kääntyä pois kiitotieltä"},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen ohjaamo on ylittänyt odotusviivan"}]},
+  
+    {"question": "Mikäli torni pyytää ilmoittamaan kun kiitotie on ylitetty, ilmoitus tapahtuu sanomalla:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " OLEN JÄTTÄNYT KIITOTIEN."},
+      {"answerCorrectness": "incorrect", "answerText": " OLEN KIITOTIEN TOISELLA PUOLEN."},
+      {"answerCorrectness": "correct", "answerText": " KIITOTIE VAPAUTETTU."},
+      {"answerCorrectness": "incorrect", "answerText": " OLEN YLITTÄNYT KIITOTIEN."}]},
+  
+    {"question": "Paikkailmoitus perusosalla tehdään:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Aina."},
+      {"answerCorrectness": "incorrect", "answerText": " Vain auringonlaskun jälkeen."},
+      {"answerCorrectness": "correct", "answerText": " Vain kun on käsketty lennonjohtajan toimesta."},
+      {"answerCorrectness": "incorrect", "answerText": " Vain lentäjän niin harkitessa."}]},
+  
+    {"question": "Loppuosa ilmoitetaan:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " O-BC LOPPUOSALLA."},
+      {"answerCorrectness": "incorrect", "answerText": " LOPPULÄHESTYMINEN, O-BC."},
+      {"answerCorrectness": "incorrect", "answerText": " LÄHESTYN LOPPUOSAA, O-BC."},
+      {"answerCorrectness": "incorrect", "answerText": " MALMIN TORNI, LOPPUOSA, O-BC."}]},
+  
+    {"question": "Minkä niminen laskukierrosen osa on merkitty kirjaimella \"E\"?(Katso liite LAPL/PPL 090-1)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " PERUSOSA."},
+      {"answerCorrectness": "incorrect", "answerText": " KIITOTIE."},
+      {"answerCorrectness": "incorrect", "answerText": " SIVUTUULI."},
+      {"answerCorrectness": "correct", "answerText": " MYÖTÄTUULI."}],
+      "image": "090-01.PNG"},
+  
+    {"question": "Mikä kirjain osoittaa \"Perusosaa\"?(Katso liite LAPL/PPL 090-1)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " G"},
+      {"answerCorrectness": "incorrect", "answerText": " D"},
+      {"answerCorrectness": "incorrect", "answerText": " E"},
+      {"answerCorrectness": "correct", "answerText": " F"}],
+      "image": "090-01.PNG"},
+  
+    {"question": "Mikä kirjain osoittaa \"Loppuosaa\"?(Katso liite LAPL/PPL 090-1)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " E"},
+      {"answerCorrectness": "incorrect", "answerText": " C"},
+      {"answerCorrectness": "correct", "answerText": " G"},
+      {"answerCorrectness": "incorrect", "answerText": " F"}],
+      "image": "090-01.PNG"},
+  
+    {"question": "Mikä on radiokielessä nimeltään paikka, jota osoittaa kirjain A?(Katso liite LAPL/PPL 090-1)", "answers": [
+      {"answerCorrectness": "correct", "answerText": " ASEMATASO"},
+      {"answerCorrectness": "incorrect", "answerText": " RULLAUSTIE"},
+      {"answerCorrectness": "incorrect", "answerText": " PERUSOSA"},
+      {"answerCorrectness": "incorrect", "answerText": " KIITOTIE"}],
+      "image": "090-01.PNG"},
+  
+    {"question": "Mikä on radiokielessä nimeltään paikka, jota osoittaa kirjain B?(Katso liite LAPL/PPL 090-1)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " ASEMATASO"},
+      {"answerCorrectness": "incorrect", "answerText": " LÄHTÖPAIKKA"},
+      {"answerCorrectness": "incorrect", "answerText": " SIVUTUULIOSA"},
+      {"answerCorrectness": "correct", "answerText": " ODOTUSPAIKKA"}],
+      "image": "090-01.PNG"},
+  
+    {"question": "Mikä seuraavista on ehdollinen selvitys?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " JAT 737, RULLAA KIITOTIELLE JA ODOTA."},
+      {"answerCorrectness": "correct", "answerText": " OH-ABC, JAT 737:N JÄLKEEN RULLAA ODOTUSPAIKALLE D KIITOTIE 26."},
+      {"answerCorrectness": "incorrect", "answerText": " O-BC, KERRO LOPPUOSA, OLET VUOROLLA KOLME."},
+      {"answerCorrectness": "incorrect", "answerText": " OH-ABC, LENTOONLÄHTÖ HARKINTASI MUKAAN."}]},
+  
+    {"question": "Mitä termiä käytetään, kun halutaan peruuttaa aikaisemmin lähetetty sanoma?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " ÄLÄ HUOMIOI"},
+      {"answerCorrectness": "correct", "answerText": " PERUUTAN"},
+      {"answerCorrectness": "incorrect", "answerText": " UUDELLEENSELVITYS"},
+      {"answerCorrectness": "incorrect", "answerText": " EI"}]},
+  
+    {"question": "Lupa rullata odotuspaikalta lentoonlähtöpaikalle sanotaan:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " SIIRRY KIITOTIELLE."},
+      {"answerCorrectness": "incorrect", "answerText": " SELVÄ KIITOTIELLE, ODOTA."},
+      {"answerCorrectness": "incorrect", "answerText": " SELVÄ LENTOONLÄHTÖPAIKALLE, ODOTA."},
+      {"answerCorrectness": "incorrect", "answerText": " SIIRRY LÄHTÖPAIKALLE."}]},
+  
+    {"question": "Kun ohjajaa pyydetään valitsemaan uudelleen määrätty moodi ja koodi 6620 lennonjohtaja käyttää sanontaa:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " KOODAA UUDELLEEN 6620"},
+      {"answerCorrectness": "incorrect", "answerText": " KYTKE 6620"},
+      {"answerCorrectness": "incorrect", "answerText": " VAHVISTA KOODI 6620"},
+      {"answerCorrectness": "incorrect", "answerText": " VALITSE UUDELLEEN KOODI 6620"}]},
+  
+    {"question": "Kuulet viestin \"OH-ABC KOODAA IDENT\". Sinun tulee:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Valita transponderiin ALT-korkeuden ilmaisin (moodi C)."},
+      {"answerCorrectness": "incorrect", "answerText": " Vastata tunnuksellasi."},
+      {"answerCorrectness": "incorrect", "answerText": " Valita transponderiin \"STANDBY\"."},
+      {"answerCorrectness": "correct", "answerText": " Käyttää tunnistuspulssia tutkavastaajassa."}]},
+  
+    {"question": "Sanonta \"KOODAA CHARLIE\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Varmista, että transponderi on kytketty päälle."},
+      {"answerCorrectness": "incorrect", "answerText": " Koodaa transponderiin 7700."},
+      {"answerCorrectness": "incorrect", "answerText": " Transponderi."},
+      {"answerCorrectness": "correct", "answerText": " Valitse transponderiin \"ALT\"."}]},
+  
+    {"question": "Lennonjohto ilmoittaa \"OH-ABC, VAHVISTA KAHDEKSAN PISTE KOLME KOLME\". Miten ilmoitat lennonjohdolle, että ilma-aluksessa on käytössä radio, jolla mahdollista käyttää 8.33 kHz kanavaväliä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " \"KYLLÄ, OH-ABC\""},
+      {"answerCorrectness": "incorrect", "answerText": " \"EI KAHDEKSAN PISTE KOLME KOLME, OH-ABC\""},
+      {"answerCorrectness": "incorrect", "answerText": " \"VAHVISTAN, OH-ABC\""},
+      {"answerCorrectness": "correct", "answerText": " \"VAHVISTAN KAHDEKSAN PISTE KOLME KOLME, OH-ABC\""}]},
+  
+    {"question": "Tutkaympäristössä lennonjohdon antamat suuntaohjeet ovat:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Magneettisia lentosuuntia."},
+      {"answerCorrectness": "incorrect", "answerText": " Absoluuttisia lentosuuntia."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosilentosuuntia."},
+      {"answerCorrectness": "correct", "answerText": " Magneettisia ohjaussuuntia."}]},
+  
+    {"question": "Mikäli radio ei toimi, transponderiin tulee koodata:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 7700"},
+      {"answerCorrectness": "incorrect", "answerText": " 7500"},
+      {"answerCorrectness": "incorrect", "answerText": " 7000"},
+      {"answerCorrectness": "correct", "answerText": " 7600"}]},
+  
+    {"question": "Lentäjä, joka koodaa A7700 ilmoittaa maa-asemalle, että:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Hänen koneensa on hädässä"},
+      {"answerCorrectness": "incorrect", "answerText": " Hänen lentonsa on kaapattu"},
+      {"answerCorrectness": "incorrect", "answerText": " Hänen radionsa ei toimi"},
+      {"answerCorrectness": "incorrect", "answerText": " Hänen matkustajansa on sairas"}]},
+  
+    {"question": "Mikä transponderin moodi antaa korkeustiedon:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Mod B"},
+      {"answerCorrectness": "correct", "answerText": " Mod C"},
+      {"answerCorrectness": "incorrect", "answerText": " Mod A"},
+      {"answerCorrectness": "incorrect", "answerText": " Mod D"}]},
+  
+    {"question": "Jos lennät konetta, jossa ei ole transponderia, mitä vastaat jos lennonjohtaja sanoo sinulle \"ILMOITA TRANSPONDERISI TYYPPI\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " EN VOI."},
+      {"answerCorrectness": "incorrect", "answerText": " EN VOI KOODATA."},
+      {"answerCorrectness": "incorrect", "answerText": " MINULLA EI OLE TRANSPONDERIA."},
+      {"answerCorrectness": "correct", "answerText": " EI TRANSPONDERIA."}]},
+  
+    {"question": "Mikäli ilma-aluksen lentoon puututaan ilmassa, millä sanonnalla tunnistava ilmaalus antaa tunnistettavan ilma-aluksen jatkaa lentoa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " EXPEDITE"},
+      {"answerCorrectness": "correct", "answerText": " PROCEED"},
+      {"answerCorrectness": "incorrect", "answerText": " MAY CONTINUE"},
+      {"answerCorrectness": "incorrect", "answerText": " YOU LAND"}]},
+  
+    {"question": "Sanonta \"CALL SIGN\", tunnistavan ilma-aluksen lentäjältä tunnistettavan ilmaaluksen lentäjälle, tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ilmoita päällikön nimi!"},
+      {"answerCorrectness": "incorrect", "answerText": " Palaa lähtökentällesi!"},
+      {"answerCorrectness": "correct", "answerText": " Mikä on kutsumerkkisi?"},
+      {"answerCorrectness": "incorrect", "answerText": " Lähetä hätäkutsu!"}]},
+  
+    {"question": "Sanonta \"YOU LAND\", tunnistavan ilma-aluksen lentäjältä tunnistettavan ilmaaluksen lentäjälle, tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Voit jatkaa"},
+      {"answerCorrectness": "incorrect", "answerText": " Laske seuraavalle lentopaikalle"},
+      {"answerCorrectness": "correct", "answerText": " Laske tälle lentopaikalle"},
+      {"answerCorrectness": "incorrect", "answerText": " Seuraa minua"}]},
+  
+    {"question": "Mitä sanontaa tunnistettavan ilma-aluksen lentäjän tulee käyttää tunnistavan aluksen lentäjälle, jos hän ei pysty noudattamaan saatuja kehotuksia?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " CAN NOT"},
+      {"answerCorrectness": "incorrect", "answerText": " UNABLE"},
+      {"answerCorrectness": "incorrect", "answerText": " NO"},
+      {"answerCorrectness": "incorrect", "answerText": " WILCO"}]},
+  
+    {"question": "Tunnistettavan koneen lentäjä kertoo tunnistavan koneen lentäjälle olevansa eksyksissä seuraavalla sanonnalla:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " HIJACK"},
+      {"answerCorrectness": "correct", "answerText": " AM LOST"},
+      {"answerCorrectness": "incorrect", "answerText": " WILCO"},
+      {"answerCorrectness": "incorrect", "answerText": " MAYDAY"}]},
+  
+    {"question": "Mitä taajuutta tunnistavan ja tunnistettavan konen tulee käyttää keskinäisessä radiokeskustelussaan?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Paikallista hätätaajuutta"},
+      {"answerCorrectness": "incorrect", "answerText": " Paikallista ilmavoimien taajuutta"},
+      {"answerCorrectness": "correct", "answerText": " Kansainvälistä hätätaajuutta 121.5 mhz"},
+      {"answerCorrectness": "incorrect", "answerText": " Ilmasta-ilmaan taajuutta"}]},
+  
+    {"question": "Mikäli ilma-aluksen lentoon puututaan ilmassa, millä sanonnalla tunnistava ilma-alus kehottaa tunnistettavan ilma-aluksen seuraamaan itseään?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " FOLLOW"},
+      {"answerCorrectness": "incorrect", "answerText": " FOLLOW UP"},
+      {"answerCorrectness": "incorrect", "answerText": " DECEND"},
+      {"answerCorrectness": "incorrect", "answerText": " WILCO"}]},
+  
+    {"question": "Mitkä ovat hätäviestin kaksi luokkaa?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Hätätila ja pakkotila"},
+      {"answerCorrectness": "incorrect", "answerText": " Hätätila ja PAN PAN"},
+      {"answerCorrectness": "incorrect", "answerText": " Hätätila ja varmistus"},
+      {"answerCorrectness": "incorrect", "answerText": " MAYDAY ja PAN PAN"}]},
+  
+    {"question": "Hätätilan määritelmä:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi mutta johon ei tarvita välitöntä apua."},
+      {"answerCorrectness": "incorrect", "answerText": " Tilanne, jossa vakava ja/tai välitön vaara uhkaa ja tarvitaan välitöntä apua."},
+      {"answerCorrectness": "incorrect", "answerText": " Tilanne, joka vaikuttaa ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen tahon turvallisuuteen, mutta johon ei tarvita välitöntä apua."},
+      {"answerCorrectness": "correct", "answerText": " Tilanne, joka vaikuttaa ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen tahon turvallisuuteen, ja johon tarvitaan välitöntä apua."}]},
+  
+    {"question": "Pakkotilan määritelmä:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tilanne koskien ilma-aluksen tai siinä olevan henkilön, tai jonkin ulkopuolisen tahon turvallisuutta, ja johon tarvitaan välitöntä apua."},
+      {"answerCorrectness": "incorrect", "answerText": " Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi ja johon tarvitaan välitöntä apua."},
+      {"answerCorrectness": "incorrect", "answerText": " Tilanne, joka uhkaa tulla vakavaksi tai välittömäksi vaaraksi mutta johon ei tarvitavälitöntä apua."},
+      {"answerCorrectness": "correct", "answerText": " Tilanne koskien ilma-aluksen tai muun kulkuneuvon ja niissä olevien tai muualla havaittujen henkilöiden turvallisuutta, mutta joka ei vaadi välittömiä avustustoimenpiteitä."}]},
+  
+    {"question": "Lentäjä haluaa lähettää sanoman, joka koskee toisen ilma-aluksen turvallisuutta. Tämä toinen ilma-alus ei kuitenkaan ole välittömässä vaarassa. Tällöin lentäjän tulee aloittaa sanomansa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Morsekoodilla \"XXX\""},
+      {"answerCorrectness": "incorrect", "answerText": " Sanalla \"MAYDAY\""},
+      {"answerCorrectness": "incorrect", "answerText": " Morsekoodilla \"MAYDAY\""},
+      {"answerCorrectness": "correct", "answerText": " Sanalla \"PANPAN\""}]},
+  
+    {"question": "Matkalennolla huomaat että pienkone on tehnyt pakkolaskun niitylle. Kone näyttää vahingoittumattomalta ja lentäjä on kunnossa. Millä sanonnalla aloitat viestin, jolla kerrot lennonjohdolle tapahtumasta?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " HÄTÄTILA, HÄTÄTILA, HÄTÄTILA"},
+      {"answerCorrectness": "incorrect", "answerText": " MAYDAY, MAYDAY, MAYDAY"},
+      {"answerCorrectness": "correct", "answerText": " PANPAN, PANPAN, PANPAN"},
+      {"answerCorrectness": "incorrect", "answerText": " APUA-APUA, APUA-APUA, APUA-APUA"}]},
+  
+    {"question": "Mikä radiopuhelinliikenteen sanonta tarkoitta. \"OLEMME SUURESSA VÄLITTÖMÄSSÄ VAARASSA JA TARVITSEMME VÄLITÖNTÄ APUA\"?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Sana \"MAYDAY\" lähetettynä morseaakkosin."},
+      {"answerCorrectness": "incorrect", "answerText": " Puhuttu sana \"VARMISTUS\"."},
+      {"answerCorrectness": "correct", "answerText": " Puhuttu sana \"MAYDAY\"."},
+      {"answerCorrectness": "incorrect", "answerText": " Puhuttu sana \"PANPAN\"."}]},
+  
+    {"question": "Sanonta, jolla hätäkutsu alkaa radioliikenteessä, on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " PANPAN, PANPAN, PANPAN"},
+      {"answerCorrectness": "incorrect", "answerText": " HÄTÄTILA, HÄTÄTILA, HÄTÄTILA"},
+      {"answerCorrectness": "correct", "answerText": " MAYDAY, MAYDAY, MAYDAY"},
+      {"answerCorrectness": "incorrect", "answerText": " APUA, APUA, APUA"}]},
+  
+    {"question": "Teet pakkolaskun. Vaurioitat ilma-alustasi ja loukkaannut. Lähistöllä ei ole ketään joka voisi auttaa. Millä sanonnalla sinun tulisi aloittaa radiosanoma, jolla kutsut apua?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " PANPAN, PANPAN, PANPAN"},
+      {"answerCorrectness": "incorrect", "answerText": " HÄTÄTILA, HÄTÄTILA, HÄTÄTILA"},
+      {"answerCorrectness": "correct", "answerText": " MAYDAY, MAYDAY, MAYDAY"},
+      {"answerCorrectness": "incorrect", "answerText": " MEDICAL, MEDICAL, MEDICAL"}]},
+  
+    {"question": "Mikä seuraavista taajuuksista on kansainvälinen hätätaajuus?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 121.050 MHz"},
+      {"answerCorrectness": "correct", "answerText": " 121.500 MHz"},
+      {"answerCorrectness": "incorrect", "answerText": " 122.500 MHz"},
+      {"answerCorrectness": "incorrect", "answerText": " 122.050 MHz"}]},
+  
+    {"question": "Taajuus 121.5 MHz on:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Kansainvälinen hätätaajuus"},
+      {"answerCorrectness": "incorrect", "answerText": " Taajuus ilmasta-ilmaan kommunikaatiota varten"},
+      {"answerCorrectness": "incorrect", "answerText": " Paikallinen valvontataajuus"},
+      {"answerCorrectness": "incorrect", "answerText": " Paikallinen hätätaajuus"}]},
+  
+    {"question": "Kun ilma-alus ei kykene muodostamaan keskusteluyhteyttä toisen maa- tai ilma-asemankanssa, ilma-aluksen tulee lähettää sanomansa kahdesti ja aloittaa sanoma termillä:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " SANAT KAHDESTI"},
+      {"answerCorrectness": "correct", "answerText": " LÄHETÄN SOKEASTI"},
+      {"answerCorrectness": "incorrect", "answerText": " PANPAN"},
+      {"answerCorrectness": "incorrect", "answerText": " MAYDAY"}]},
+  
+    {"question": "Radiokokeilusanoman tulee olla seuraavan muotoinen:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " TURUN TORNI OH-ABC KUULUVUUSKOKEILU 119.7"},
+      {"answerCorrectness": "correct", "answerText": " TURUN TORNI OH-ABC RADIOKOKEILU 119.7"},
+      {"answerCorrectness": "incorrect", "answerText": " TURUN TORNI OH-ABC RADIOKOKEILU 119.7, KUULUUKO?"},
+      {"answerCorrectness": "incorrect", "answerText": " TURUN TORNI OH-ABC MITEN KUULUU"}]},
+  
+    {"question": "Tehdäksesi radioliikenteestäsi tehokkaamman, sinun tulee:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Sanoa lauseiden väliin sana EROTUS"},
+      {"answerCorrectness": "incorrect", "answerText": " Moduloida ääntäsi"},
+      {"answerCorrectness": "incorrect", "answerText": " Sanoa sanat kahdesti"},
+      {"answerCorrectness": "correct", "answerText": " Käyttää vakio äänenvoimakkuutta"}]},
+  
+    {"question": "Kuuluvuusasteikolla \"kuuluvuus 5\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ei saa selvää"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu tyydyttävästi"},
+      {"answerCorrectness": "correct", "answerText": " Kuuluu hyvin"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu, mutta huonosti"}]},
+  
+    {"question": "Kuuluvuusasteikolla \"kuuluvuus 4\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ei saa selvää"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu, mutta huonosti"},
+      {"answerCorrectness": "correct", "answerText": " Kuuluu tyydyttävästi"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu taustamelua"}]},
+  
+    {"question": "Kuuluvuusasteikolla \"kuuluvuus 3\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ei saa selvää"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu hyvin"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu taustamelua"},
+      {"answerCorrectness": "correct", "answerText": " Kuuluu, mutta huonosti"}]},
+  
+    {"question": "Kuuluvuusasteikolla \"kuuluvuus 2\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Saa selvää silloin tällöin"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu hyvin"},
+      {"answerCorrectness": "incorrect", "answerText": " Ei saa selvää"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu taustamelua"}]},
+  
+    {"question": "Kuuluvuusasteikolla \"kuuluvuus 1\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Ei saa selvää"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu taustamelua"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu hyvin"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuuluu, mutta huonosti"}]},
+  
+    {"question": "Mikä ilmaliikennepalvelu tuottaa automaattista tietoa lentokentästä ja säästä lähtevää ja saapuvaa liikennettä varten?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " ATIS"},
+      {"answerCorrectness": "incorrect", "answerText": " FIS"},
+      {"answerCorrectness": "incorrect", "answerText": " LARS"},
+      {"answerCorrectness": "incorrect", "answerText": " AFIS"}]},
+  
+    {"question": "Millä seuraavista sanomaluokista on etuoikeus radiopuhelinliikenteessä muihin nähden:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Pakkotilannesanomat sisältäen myös sanomat, joita edeltää lääkintäkuljetustunnus."},
+      {"answerCorrectness": "correct", "answerText": " Hätäkutsut, hätäsanomat ja hätäliikenne."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentoturvallisuussanomat."},
+      {"answerCorrectness": "incorrect", "answerText": " Radiosuuntimisliikenne."}]},
+  
+    {"question": "Jos ATIS-järjestelmä ei ole käytettävissä, lentäjä pyytää lähtöön tarvittavia tietoja seuraavalla sanonnalla:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " KERRO LÄHTÖTIEDOT"},
+      {"answerCorrectness": "correct", "answerText": " SAANKO LÄHTÖTIEDOT"},
+      {"answerCorrectness": "incorrect", "answerText": " PYYDÄN LÄHTÖOHJEITA"},
+      {"answerCorrectness": "incorrect", "answerText": " HALUAISIN SAADA LÄHTÖTIEDOT"}]},
+  
+    {"question": "Lyhenne ATIS tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Lentokentän liikennetiedotus."},
+      {"answerCorrectness": "correct", "answerText": " Lentopaikan automaattinen tiedotuspalvelu."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen tekninen tietopalvelu."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentoliikenteen tiedotuspalvelu."}]},
+  
+    {"question": "ATIS löytyy:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tornin taajuudelta"},
+      {"answerCorrectness": "incorrect", "answerText": " Lähestymisen taajuudelta"},
+      {"answerCorrectness": "correct", "answerText": " VHF- tai VOR-taajuudelta"},
+      {"answerCorrectness": "incorrect", "answerText": " Taajuudelta \"MAA\""}]},
+  
+    {"question": "Lähestyn matkalennolla Pirkkalan kenttää ja olen kuunnellut ATIS -tiedotuksen. Tällöin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ottaessani yhteyttä torniin kerron tiedotuksen kirjaimen ja QNH:n ja tuulen"},
+      {"answerCorrectness": "correct", "answerText": " Ottaessani yhteyttä torniin kerron tiedotuksen kirjaimen ja QNH:n"},
+      {"answerCorrectness": "incorrect", "answerText": " Ottaessani yhteyttä torniin kerron tiedotuksen kirjaimen ja QNH:n ja siirtopinnan"},
+      {"answerCorrectness": "incorrect", "answerText": " Ei tarvitse erikseen mainita mitään tiedotuksesta"}]},
+  
+    {"question": "Sen aseman kutsutunnus, joka antaa lentotiedotuspalvelua, on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " KOTI"},
+      {"answerCorrectness": "incorrect", "answerText": " RADIO"},
+      {"answerCorrectness": "incorrect", "answerText": " JOHTO"},
+      {"answerCorrectness": "correct", "answerText": " TIEDOTUS"}]},
+  
+    {"question": "Mitä seuraavista ATS-elimen käyttämistä sanoista sinun ei tule lukea takaisin?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " \"Odota\""},
+      {"answerCorrectness": "incorrect", "answerText": " \"Älä kuittaa\""},
+      {"answerCorrectness": "correct", "answerText": " \"Kaikki asemat\""},
+      {"answerCorrectness": "incorrect", "answerText": " Ei mitään näistä"}]},
+  
+    {"question": "\"Uudelleen selvitetty\" tarkoittaa:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Edelliseen selvitykseen on tehty muutos"},
+      {"answerCorrectness": "incorrect", "answerText": " Voin käyttää aikaisempaa tai tarvittaessa uutta selvitystä"},
+      {"answerCorrectness": "incorrect", "answerText": " Aikaisemmassa selvityksessä on ollut virhe"},
+      {"answerCorrectness": "incorrect", "answerText": " Ei vaikuta varsinaiseen toimintaan"}]},
+  
+    {"question": "Mikä seuraavista EI ole ICAO:n aakkonen:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " X-ray"},
+      {"answerCorrectness": "correct", "answerText": " Roma"},
+      {"answerCorrectness": "incorrect", "answerText": " Zulu"},
+      {"answerCorrectness": "incorrect", "answerText": " Alfa"}]},
+  
+    {"question": "ICAO:n puheaakkosissa E on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ego"},
+      {"answerCorrectness": "incorrect", "answerText": " Experimental"},
+      {"answerCorrectness": "correct", "answerText": " Echo"},
+      {"answerCorrectness": "incorrect", "answerText": " Eksrei"}]},
+  
+    {"question": "ICAO:n puheaakkosissa A on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Adolf"},
+      {"answerCorrectness": "incorrect", "answerText": " Alex"},
+      {"answerCorrectness": "incorrect", "answerText": " Audi"},
+      {"answerCorrectness": "correct", "answerText": " Alfa"}]},
+  
+    {"question": "ICAO:n puheaakkosissa K:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kevin"},
+      {"answerCorrectness": "correct", "answerText": " Kilo"},
+      {"answerCorrectness": "incorrect", "answerText": " Kenneth"},
+      {"answerCorrectness": "incorrect", "answerText": " Kolf"}]},
+  
+    {"question": "Mitkä seuraavista pitää kuitata:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Liikenne ja tuuli"},
+      {"answerCorrectness": "correct", "answerText": " QNH ja liikenne"},
+      {"answerCorrectness": "incorrect", "answerText": " Kaikki"},
+      {"answerCorrectness": "incorrect", "answerText": " QNH ja tuulitiedot"}]},
+  
+    {"question": "QDM on:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Magneettinen suunta koneelta VDF:lle"},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettinen suunta VDF:ltä koneelle"},
+      {"answerCorrectness": "incorrect", "answerText": " Tosisuunta koneelta VDF:lle"},
+      {"answerCorrectness": "incorrect", "answerText": " Tosisuunta VDF:ltä koneelle"}]},
+  
+    {"question": "Lennonjohto ilmoittaa radion kuuluvuudeksi 2. Tämä tarkoittaa, että torni:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kuulee, mutta huonosti"},
+      {"answerCorrectness": "incorrect", "answerText": " Kuulee tyydyttävästi"},
+      {"answerCorrectness": "correct", "answerText": " Saa lähetyksestä selvää silloin tällöin"},
+      {"answerCorrectness": "incorrect", "answerText": " Ei saa lähetyksestä selvää"}]},
+  
+    {"question": "Kuinka monta asemaa voi lähettää yhtä aikaa yhdellä ilmailun VHF-puhetaajuudella?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kolme asemaa"},
+      {"answerCorrectness": "incorrect", "answerText": " Kaksi asemaa"},
+      {"answerCorrectness": "correct", "answerText": " Yksi asema"},
+      {"answerCorrectness": "incorrect", "answerText": " Määrä on rajaton"}]},
+  
+    {"question": "Olet lähestymässä määränpäätäsi ja vähentämässä korkeutta. Läpäistessäsi siirtopinnan asetat korkeusmittariin:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Lentopaikan QNH:n."},
+      {"answerCorrectness": "incorrect", "answerText": " 101 hPa."},
+      {"answerCorrectness": "incorrect", "answerText": " SWC-sääkartan ilmoittaman QNH:n."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentopaikan QFE:n."}]},
+  
+    {"question": "Mikäli lentäjä haluaa ilmoittaa hätä- tai pakkotilanteesta radiolla, millä radiotaajuudella hänen tulisi ensisijaisesti ilmoittaa tilanteesta kansainvälisen hätätaajuuden 121.500 MHz lisäksi?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Sen hetkisellä käytössä olevalla radiotaajuudella."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentäjän tai koneen kotikentän taajuudella."},
+      {"answerCorrectness": "incorrect", "answerText": " Hänen tulisi aina ensisijaisesti vaihtaa kansainväliselle hätätaajuudelle 121.500 MHz"},
+      {"answerCorrectness": "incorrect", "answerText": " Lähimmän lentokentän taajuudelle, jolla on saatavilla täysi lennonjohtopalvelu."}]}]

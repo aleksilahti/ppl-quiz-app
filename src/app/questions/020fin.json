@@ -1,0 +1,954 @@
+[
+    {"question": " Halonisammutin:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " On melko turvallinen käytettäväksi ohjaamossa, mikäli ohjaamo tuuletetaan käytönjälkeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Soveltuu ainoastaan puu- ja kangaspaloihin, eikä se sen takia sovellu käytettäväksiohjaamossa."},
+    {"answerCorrectness": "incorrect", "answerText": " Sisältää hyvin myrkyllisiä kaasuja, eikä sitä saisi koskaan käyttää ohjaamossa."},
+    {"answerCorrectness": "incorrect", "answerText": " On turvallinen käytettäväksi ohjaamossa."}]},
+  
+    {"question": "Jos epäilet kaasuttimen jäätymistä ilma-aluksessa, jota ei ole varustettukaasuttimen lämpötilamittarilla, oikea toimenpide on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Säätää imuilman esilämmitystä päälle sen verran, minkä tuntee tarpeelliseksi riippuenjäätämistilanteesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Valita aina imuilman esilämmitys täydelle teholle."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisätä kaasua menetetyn tehon kompensoimiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Valita aina imuilman esilämmitys täydelle teholle, kunnes moottori alkaa käydä karkeastija sen jälkeen valita lämmitys takaisin kylmälle."}]},
+  
+    {"question": "Vesiliirtonopeus:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa, mikäli renkaan urasyvyys pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa, mikäli veden syvyys maassa kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Voidaan laskea solmuissa kertomalla rengaspaineen neliöjuuri yhdeksällä."},
+    {"answerCorrectness": "incorrect", "answerText": " Mitataan arvolla maamaileja tunnissa."}]},
+  
+    {"question": "Kytkemällä kaksi 12 volttista, 40 ampeerituntista akkua sarjaan, saadaanaikaiseksi:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 24 volttia ja 80 ampeeritunnin kapasiteetti."},
+    {"answerCorrectness": "incorrect", "answerText": " 12 volttia ja 80 ampeeritunnin kapasiteetti."},
+    {"answerCorrectness": "incorrect", "answerText": " 12 volttia ja 40 ampeeritunnin kapasiteetti."},
+    {"answerCorrectness": "incorrect", "answerText": " 24 volttia ja 40 ampeeritunnin kapasiteetti."}]},
+  
+    {"question": "Mikäli öljynjäähdytin tukkeutuu lennolla, ohitusventtiili mahdollistaa öljynkulkemisen jäähdyttimen ohitse. Ohitusventtiilin toiminta riippuu:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Mekaanisesta valitsimesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Paineesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Lämpötilasta."},
+    {"answerCorrectness": "incorrect", "answerText": " Hydraulisesta valitsimesta."}]},
+  
+    {"question": "Potkurin lavassa on kiertoa pituussuunnassa, jotta:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Saavutetaan asteittain kasvava nousu tyvestä kärkeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Saadaan kompensoitua potkurin hidastuva ratanopeus tyvestä kärkeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Saavutetaan asteittain kasvava lapakulma tyvestä kärkeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Saavutetaan sopiva kohtauskulma tyvestä kärkeen."}]},
+  
+    {"question": "Magneetot ovat:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Itsenäisiä, moottorin pyörittämiä generaattoreita, jotka tuottavat korkeajännitteisiäkipinöitä."},
+    {"answerCorrectness": "incorrect", "answerText": " Asennettu virranjakajaan ja toimivat samassa järjestyksessä, kuin sytytystulpat."},
+    {"answerCorrectness": "incorrect", "answerText": " Nokka-akselin pyörittämiä generaattoreita, joita tarvitaan sähkölaitteita varten."},
+    {"answerCorrectness": "incorrect", "answerText": " Laitteita, jotka tuottavat matalajännitteisen kipinän sytytystulpille."}]},
+  
+    {"question": "Mikä seuraavista on oikea toimenpide, mikäli kaasutin syttyy palamaankäynnistyksen yhteydessä?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kaikki vastausvaihtoehdot ovat oikein."},
+    {"answerCorrectness": "incorrect", "answerText": " Valita käynnistyskytkin OFF-asentoon."},
+    {"answerCorrectness": "incorrect", "answerText": " Valita seosvipu täysin laihalle."},
+    {"answerCorrectness": "incorrect", "answerText": " Valita kaasuttimen lämmitys pois päältä."}]},
+  
+    {"question": "Renkaan liikkuminen vanteella (tyre creep):", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Voidaan estää liimaa käyttämällä."},
+    {"answerCorrectness": "incorrect", "answerText": " Tarkoittaa ilma-aluksen liikkumista jarruja vasten."},
+    {"answerCorrectness": "incorrect", "answerText": " Voidaan tunnistaa renkaaseen ja vanteeseen piirretyn merkintäviivan siirtymisestä."},
+    {"answerCorrectness": "incorrect", "answerText": " Voidaan estää piirtämällä merkintäviiva renkaaseen ja vanteeseen."}]},
+  
+    {"question": "Liite LAPL/PPL 020-01 kuvaa ilma-aluksen sähköjärjestelmää. Jos lennollakuormitusmittarin näyttämä arvo putoaa nollaan, todennäköisin syy on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Akku on täysin latautunut."},
+    {"answerCorrectness": "incorrect", "answerText": " Virtakisko on ylikuormittunut."},
+    {"answerCorrectness": "incorrect", "answerText": " Akku on tyhjä."},
+    {"answerCorrectness": "incorrect", "answerText": " Alternaattori on vikaantunut."}]},
+  
+    {"question": "Polttomoottoriperiaatteella toimivan moottorin tehoa voidaan lisätä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienentämällä iskunpituutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentämällä sylinterin pinta-alaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvattamalla moottorin kierroslukua."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvattamalla polttoainetankin kokoa."}]},
+  
+    {"question": "Liu'ussa vakioteholla, kiintopotkurilla varustetun ilma-aluksen moottorinkierrosluku:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee, mikäli ilmanopeus kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee, mikäli tehoasetusta ei muuteta."},
+    {"answerCorrectness": "incorrect", "answerText": " Säilyy vakiona ilmanopeudesta riippumatta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa, mikäli ilmanopeuden annetaan kasvaa."}]},
+  
+    {"question": "Heti käynnistämisen jälkeen tulisi tarkastaa käynnistimen (starter) varoitusvalo.Jos se palaa edelleen, tulee:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Seurata tilannetta 30 sekuntia ja sammuttaa moottori sen jälkeen, mikäli valo ei sammu."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei tarvitse tehdä mitään. Käynnistimen varoitusvalo palaa aina, kun moottori onkäynnissä."},
+    {"answerCorrectness": "incorrect", "answerText": " Sammuttaa moottori välittömästi."},
+    {"answerCorrectness": "incorrect", "answerText": " Sammuttaa moottori, laskea 30:een ja käynnistää moottori uudelleen."}]},
+  
+    {"question": "Mikä on polttoaineen ja ilman kemiallisesti oikean seossuhteen käyttämisenmerkitys?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Se mahdollistaa täydellisen palamisen."},
+    {"answerCorrectness": "incorrect", "answerText": " Se on tilavuussuhteeltaan 15:1."},
+    {"answerCorrectness": "incorrect", "answerText": " Se antaa parhaan lopputuloksen."},
+    {"answerCorrectness": "incorrect", "answerText": " Sitä käytetään yleensä."}]},
+  
+    {"question": "Missä olosuhteissa ilmanopeusmittari näyttää tosi-ilmanopeutta, mikäli jätetäänhuomioimatta mittari- ja asentovirheet?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Missä tahansa korkeudessa, kun lämpötila on ISA-olosuhteiden mukainen."},
+    {"answerCorrectness": "incorrect", "answerText": " Ainoastaan standardi-ilmakehässä (ISA), merenpinnan tasolla."},
+    {"answerCorrectness": "incorrect", "answerText": " Missä tahansa korkeudessa, kunhan ilma jäähtyy ylöspäin mentäessä ISA-olosuhteidenmukaisesti."},
+    {"answerCorrectness": "incorrect", "answerText": " Missä tahansa korkeudessa ja lämpötilassa."}]},
+  
+    {"question": "Koekäytön yhteydessä, oikeanpuoleinen magneetto valittuna, havaitsetmoottorin käyvän karkeasti ja epäilet sen sammuvan. Mitä sinun tulisi tehdä?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Vaihdat nopeasti vasemmanpuoleiselle magneetolle."},
+    {"answerCorrectness": "incorrect", "answerText": " Annat moottorin sammua kokonaan ja keskeytät lennon, vika on tutkittava ennenseuraavaa lentoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisäät tehoa moottorin toimimiseksi ja valitset molemmat magneetot käyttöön."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaihdat nopeasti molemmat magneetot käyttöön."}]},
+  
+    {"question": "Teoriassa 100Ah akku tarjoaa 25A virtaa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 100 minuuttia."},
+    {"answerCorrectness": "incorrect", "answerText": " 25 tuntia."},
+    {"answerCorrectness": "incorrect", "answerText": " 25 minuuttia."},
+    {"answerCorrectness": "incorrect", "answerText": " 4 tuntia."}]},
+  
+    {"question": "Yhden täyden Otto-syklin aikana mäntä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Liikkuu sylinterinpäätä kohden neljä kertaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Liikkuu sylinterinpäätä kohden kaksi kertaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Pyörii kiertokangen ympäri kahdesti."},
+    {"answerCorrectness": "incorrect", "answerText": " Tekee kaksi työtahtia."}]},
+  
+    {"question": "Mikä seuraavista ei ole kuivana toimivan alipainejärjestelmän osa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Alipainepumppu."},
+    {"answerCorrectness": "incorrect", "answerText": " Järjestelmän voitelulaite."},
+    {"answerCorrectness": "incorrect", "answerText": " Paineensäädin."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmansuodatin."}]},
+  
+    {"question": "Rullatessasi kiintopotkurilla varustetulla ilma-aluksella epäilet kaasuttimenolevan jäässä. Mikä on oikea toimenpide?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Säätää imuilman esilämmitys täydelle teholle ja ottaa se myöhemmin pois päältälentoonlähdön jälkeen, kun ilma-alus on nousussa."},
+    {"answerCorrectness": "incorrect", "answerText": " Säätää imuilman esilämmitys täydelle teholle, minkä jälkeen takaisin pois päältä, silläkierrosluku pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Välttää imuilman esilämmityksen käyttöä maassa ja luottaa moottorin toimivan riittävänlämpimänä suojakuorensa sisällä."},
+    {"answerCorrectness": "incorrect", "answerText": " Säätää imuilman esilämmitys täydelle teholle, ottaa se myöhemmin pois päältä ennenlentoonlähtöä ja varmistaa riittävä kierrosluku lentoonlähdön yhteydessä."}]},
+  
+    {"question": "Mekaanisen kierroslukumittarin toiminta:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Perustuu kitkaan, joka syntyy eräänlaisessa kupissa, jonka voima siirretään suoraanvarren avulla mittarin neulaan; jousivoima vastustaa samaan aikaan neulaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Perustuu magneettisen kentän vastustamisen avulla luodun vääntömomentinsiirtämiseen varren avulla suoraan mittarin neulaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Perustuu suoraan voimanvälitykseen laturin hihnalta."},
+    {"answerCorrectness": "incorrect", "answerText": " Perustuu suoraan voimanvälitykseen kampiakselista varren avulla omalle generaattorille.Varren päässä oleva vaihteisto hidastaa pyörimisnopeutta generaattorille, joka tuottaajännitteen. Kierrosluku on kalibroitu jännitteen mukaan."}]},
+  
+    {"question": "Nakutusta voi syntyä käytettäessä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Korkeampioktaanista polttoainetta kuin on suositeltu."},
+    {"answerCorrectness": "incorrect", "answerText": " Liian pientä ahtopainetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Liian suurta kierroslukua."},
+    {"answerCorrectness": "incorrect", "answerText": " Liian laihaa seossuhdetta."}]},
+  
+    {"question": "Ennenaikainen syttyminen nelitahtisissa mäntämoottoreissa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Johtuu rikkaasta seoksesta kuumassa moottorissa."},
+    {"answerCorrectness": "incorrect", "answerText": " Tunnistetaan sille ominaisesta helisevästä äänestä, jonka polttoaine tuottaa palaessaan."},
+    {"answerCorrectness": "incorrect", "answerText": " On polttoaine-ilmaseoksen räjähdysmäistä palamista."},
+    {"answerCorrectness": "incorrect", "answerText": " On polttoaine-ilmaseoksen palamista ennen sytytystulpan kipinää."}]},
+  
+    {"question": "Mikäli moottori ylikuumenee, saattaa polttoaineen ja ilman seos syttyä ennenkuin sytytystulppa tuottaa kipinän.", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Tätä ilmiötä kutsutaan nakutukseksi (detonaatioksi)."},
+    {"answerCorrectness": "incorrect", "answerText": " Tätä ilmiötä kutsutaan ennenaikaiseksi syttymiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Tehoa tulisi tällöin lisätä moottorin jäähdyttämiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Seosta tulisi tällöin laihentaa moottorin jäähdyttämiseksi."}]},
+  
+    {"question": "Tyypillisesti sähköllä toimivia mittareita ovat:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kaartomittari ja öljynpainemittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin kierroslukumittari ja polttoaineen määrämittarit."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin kierroslukumittari ja kaartomittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaineen määrämittarit ja kaartomittari."}]},
+  
+    {"question": "Jotkut kaasuttimet ovat varustettu diffuusorilla, joka:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Estää seoksen muuttumisen liian rikkaaksi kierrosluvun pienentyessä."},
+    {"answerCorrectness": "incorrect", "answerText": " Estää seoksen muuttumisen liian rikkaaksi kierrosluvun kasvaessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Estää seoksen muuttumisen liian laihaksi kierrosluvun kasvaessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Estää seoksen muuttumisen liian laihaksi kierrosluvun pienentyessä."}]},
+  
+    {"question": "Mihin kohtaan moottoria on asennettu öljyn lämpötila-anturi, joka on kytkettyohjaamossa sijaitsevaan öljynlämpömittariin?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Paikkaan, jossa öljy poistuu öljysäiliöstä."},
+    {"answerCorrectness": "incorrect", "answerText": " Juuri ennen öljyn kulkeutumista öljynjäähdyttimeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin kuumien osien sisälle."},
+    {"answerCorrectness": "incorrect", "answerText": " Öljynjäähdyttimen jälkeen, ennen kuin öljy kulkeutuu moottorin kuumiin osiin."}]},
+  
+    {"question": "Moottorin jäähdyttämiseksi:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaine-ilmaseosta voidaan rikastaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaine-ilmaseosta voidaan laihentaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanopeutta voidaan pienentää."},
+    {"answerCorrectness": "incorrect", "answerText": " Kidusluukut (cowl flaps) voidaan sulkea."}]},
+  
+    {"question": "Liitteessä (LAPL/PPL 020-02) olevat siiven osat A, B ja C ovat nimeltään:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pääsalko, siipikaaret ja tanko."},
+    {"answerCorrectness": "incorrect", "answerText": " Etusalko, sekundäärinen salko ja siipikaari."},
+    {"answerCorrectness": "incorrect", "answerText": " Tanko, sekundäärinen salko ja siipikaari."},
+    {"answerCorrectness": "incorrect", "answerText": " Etusalko, siipikaaret ja takasalko."}]},
+  
+    {"question": "Puolikuorirakenne tarkoittaa, että:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Yhteen hitsatuista kevyistä teräsputkista muodostuu kolmiomainen kehikko."},
+    {"answerCorrectness": "incorrect", "answerText": " Rakenteessa ei ole yhtään aukkoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Verhous kantaa osan kuormasta. Kaaret ja jäykisteet antavat muodon ja kantavat osankuormasta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kevennysreiättömässä rakenteessa ulkokuori kantaa kaiken kuorman. Lisäksi tukeaantavat kiristetyt vaijerit."}]},
+  
+    {"question": "Yleisilmailukoneella, joka on varustettu mekaanisella nokkapyöräohjauksella,ohjaaminen tapahtuu maassa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Vaijereilla, jota käytetään ohjaussauvalla."},
+    {"answerCorrectness": "incorrect", "answerText": " Tangoilla tai vaijereilla, joita käytetään polkimilla."},
+    {"answerCorrectness": "incorrect", "answerText": " Ainoastaan käyttämällä tietyn puolen jarruja."},
+    {"answerCorrectness": "incorrect", "answerText": " Hydraulisylintereillä, jotka mahdollistavat keskittämisen."}]},
+  
+    {"question": "Moottorin puristussuhde on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaistilavuuden ja puristustilavuuden välinen suhde."},
+    {"answerCorrectness": "incorrect", "answerText": " Iskutilavuuden ja kokonaistilavuuden välinen suhde."},
+    {"answerCorrectness": "incorrect", "answerText": " Iskutilavuus suhteessa puristustilavuuteen."},
+    {"answerCorrectness": "incorrect", "answerText": " Puristustilavuus suhteessa iskutilavuuteen."}]},
+  
+    {"question": "100Ah akku:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " On käytettävä samanaikaisesti toisen samanlaisen akun kanssa."},
+    {"answerCorrectness": "incorrect", "answerText": " Sen lataaminen kestää 100 tuntia."},
+    {"answerCorrectness": "incorrect", "answerText": " Tuottaa virtaa virtakiskolle (bus bar) 45A lämpölaukaisijan kautta."},
+    {"answerCorrectness": "incorrect", "answerText": " Tuottaa teoriassa 20 ampeerin virran viideksi tunniksi."}]},
+  
+    {"question": "Mikäli alternaattori tai generaattori hajoaa kesken lennon:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Sähkönkulutus tulisi vähentää mahdollisimman pieneksi ja laskeutua, kun se onturvallisesti mahdollista."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentoa voi jatkaa normaalisti, sillä akku tuottaa tarvittavan virran sähkönkulutukselle."},
+    {"answerCorrectness": "incorrect", "answerText": " Tulisi laturin valintakytkin laittaa OFF-asentoon ja jatkaa lentoa normaalisti ilman sähköä."},
+    {"answerCorrectness": "incorrect", "answerText": " Tulisi sulkea kaikki sähkölaitteet ja laskeutua heti, kun mahdollista."}]},
+  
+    {"question": "Mikäli liu'un aikana ilmanopeusmittarin ja korkeusmittarin staattinen aukkomenee tukkoon jään takia:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanopeusmittari näyttää todellista pienempää ja korkeusmittari suurempaa arvoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanopeusmittari näyttää todellista suurempaa ja korkeusmittari pienempää arvoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Molemmat mittarit näyttävät todellista suurempaa arvoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Molemmat mittarit näyttävät todellista pienempää arvoa."}]},
+  
+    {"question": "Yhden Otto-kierron aikana nelitahtisen mäntämoottorin venttiilit aukeavat:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Imutahdin aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaksi kertaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Työtahdin aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Kerran."}]},
+  
+    {"question": "Magneettikompassin lähelle kiinnitetyn eksymätaulukon tarkoitus on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Osoittaa magneettisen suunnan ja kompassin osoittaman suunnan välinen ero."},
+    {"answerCorrectness": "incorrect", "answerText": " Osoittaa ero tosipohjoisen ja ilma-aluksen kulkusuunnan välillä."},
+    {"answerCorrectness": "incorrect", "answerText": " Kompensoida ohjaajan ja matkustajien kantamien sähkömagneettisten laitteidenaiheuttamat häiriöt."},
+    {"answerCorrectness": "incorrect", "answerText": " Osoittaa ero magneettisen pohjoisen ja ilma-aluksen kulkusuunnan välillä."}]},
+  
+    {"question": "Yleisin tapa sammuttaa kaasutinkäyttöinen lentomoottori on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Säätää seosvipu täysin laihalle."},
+    {"answerCorrectness": "incorrect", "answerText": " Säätää kaasuvipu tyhjäkäynnille ja seosvipu täysin laihalle."},
+    {"answerCorrectness": "incorrect", "answerText": " Säätää kaasuvipu tyhjäkäynnille."},
+    {"answerCorrectness": "incorrect", "answerText": " Kääntää käynnistyskytkin OFF-asentoon."}]},
+  
+    {"question": "Miksi ilma-alusten sytytysjärjestelmä on varustettu kipinänvahvistimella?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kaikki vastausvaihtoehdot ovat oikein."},
+    {"answerCorrectness": "incorrect", "answerText": " Sillä estetään kipinän iskeminen väärään suuntaan käynnistyksen yhteydessä."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurella pyörimisnopeudella tarvitaan voimakkaampi kipinä seoksen syttymiseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin kierrosnopeus on liian alhainen käynnistyksen yhteydessä, jotta magneetontuottama virta riittäisi sytyttämään seoksen."}]},
+  
+    {"question": "Yksityisen ilma-aluksen huoltotoimenpiteet, joita lentäjä saa itse tehdämääräysten mukaan:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " On kirjattava ilma-aluksen lokikirjaan ja huollon kuittaa huollon suorittanut lentäjä."},
+    {"answerCorrectness": "incorrect", "answerText": " On kirjattava ilma-aluksen lokikirjaan ja huollon kuittaa valtuutettu mekaanikko."},
+    {"answerCorrectness": "incorrect", "answerText": " On kirjattava ilma-aluksen lokikirjaan ja huollon kuittaa ilmailuviranomaisen hyväksymätarkastaja."},
+    {"answerCorrectness": "incorrect", "answerText": " Eivät vaadi kirjausta tai seurantaa."}]},
+  
+    {"question": "Hiilimonoksidi, erittäin myrkyllinen kaasu, voi päästä lennolla ilma-aluksenohjaamoon viallisen pakokaasujärjestelmän kautta. Hiilimonoksidi:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Voidaan tunnistaa sen harmaasta väristä."},
+    {"answerCorrectness": "incorrect", "answerText": " Voidaan tunnistaa sen vahvasta tuoksusta."},
+    {"answerCorrectness": "incorrect", "answerText": " On hajuton ja väritön."},
+    {"answerCorrectness": "incorrect", "answerText": " Omaa selvästi erottuvan maun."}]},
+  
+    {"question": "Lapakulma _____ potkurin tyvestä kärkeen, jotta saavutetaan optimaalinen _____potkurin tyvestä kärkeen.", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee, kohtauskulma"},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa, kohtauskulma"},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa, tehollinen nousu"},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee, geometrinen nousu"}]},
+  
+    {"question": "Suuntahyrrä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Antaa stabiilin näyttämän koneen asennosta, jonka avulla voidaan säilyttää koneennokan asento ja suunta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kärsii kiihtyvyysvirheistä kaarron aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei kärsi ryömimisestä, joka johtuu kitkasta mittarin laakereissa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ryömii alkuperäisestä asennostaan johtuen maan pyörimisestä."}]},
+  
+    {"question": "Nousussa korkeus _____ ja ilman tiheys _____. Tämän takia seosta tulee _____.", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee/kasvaa/laihentaa"},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa/pienenee/laihentaa"},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee/pienenee/rikastaa"},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa/pienenee/rikastaa"}]},
+  
+    {"question": "Lennettäessä merenpinnan tasolla, nelitahtisen moottorin tuottama teho:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nousee aluksi, jonka jälkeen säilyy vakiona kun kierrosluku kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa kun kierrosluku kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " On verrannollinen sylinteriin syötetyn seoksen tilavuudesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Säilyy vakiona, kun kierrosluku kasvaa."}]},
+  
+    {"question": "Kun vakiokierrospotkurilla varustettu lentokone kiihdyttää kiitotietä pitkin:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kohtauskulma pienenee ja kierrosluku säilyy vakiona."},
+    {"answerCorrectness": "incorrect", "answerText": " Kohtauskulma pysyy vakiona ja kierrosluku kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Lapakulma kasvaa, säilyttäen kohtauskulman ja kierrosluvun vakiona."},
+    {"answerCorrectness": "incorrect", "answerText": " Potkurin kärjen ratanopeus pienenee vähitellen."}]},
+  
+    {"question": "Kuvassa (PPL(A) 020-03) on kevyen ilma-aluksen sähköjärjestelmä, joka onvarustettu nollakeskeisellä ampeerimittarilla. Lennon aikana akun ollessa täysi jaakun valintakytkimen ollessa ON-asennossa, ampeerimittarin neulan tulisi olla:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Neulan asento vaihtelee, mutta näyttää pääsääntöisesti negatiivista lukemaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Oikealla, näyttäen suurta positiivista lukemaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Keskellä, nolla-asennossa."},
+    {"answerCorrectness": "incorrect", "answerText": " Vasemmalla, näyttäen negatiivista lukemaa."}]},
+  
+    {"question": "Ohjainlukko:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lukitsee ohjaimet ja estää vauriot tuulisissa olosuhteissa, koneen ollessa pysäköitynä."},
+    {"answerCorrectness": "incorrect", "answerText": " Sitä tulee aina käyttää lennettäessä puuskaisella säällä."},
+    {"answerCorrectness": "incorrect", "answerText": " Pakollinen vain korkeusperäsimessä."},
+    {"answerCorrectness": "incorrect", "answerText": " Rajoittaa ohjaussauvan sen suunnittelurajoihin asti, jotta koneen runko ei vahingoitunormaalioperoinnin aikana."}]},
+  
+    {"question": "Jos renkaaseen tai sen kiinnityksiin syttyy tulipalo ja palo on välittömästisammutettava, turvallisin sammutusaine on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Bromotrifluorimetaani (BTF)."},
+    {"answerCorrectness": "incorrect", "answerText": " Vesihappo."},
+    {"answerCorrectness": "incorrect", "answerText": " Jauhe."},
+    {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidi."}]},
+  
+    {"question": "Magneettikompassia käytettäessä lentäjän on muistettava, että:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kaartovirheet ovat suurimmillaan kaarrettaessa pohjoisen ja etelän kautta, pienimmilläänidän ja lännen kautta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaartovirheet kasvavat, mitä lähempänä ollaan magneettista päiväntasaajaa japienenevät siirryttäessä kohti magneettisia napoja."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaartovirheet ovat suurimmillaan kaarrettaessa idän ja lännen kautta, pienimmilläänpohjoisen ja etelän kautta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kiihtyvyysvirheet kasvavat, mitä lähempänä ollaan magneettisia napoja ja pienenevätsiirryttäessä kohti magneettista päiväntasaajaa."}]},
+  
+    {"question": "Mikäli kylmää moottoria käynnistettäessä öljynpainemittari ei näytä nousua 30sekunnin kuluessa käynnistyksestä, on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Moottori sammutettava välittömästi."},
+    {"answerCorrectness": "incorrect", "answerText": " Voidaan jättää huomioimatta, mikäli öljyn määrä oli riittävä konetta tarkastettaessa ennenkäynnistystä."},
+    {"answerCorrectness": "incorrect", "answerText": " Voidaan jättää huomioimatta jos öljy on kuumaa ja öljyn määrä oli riittävä konettatarkastettaessa ennen käynnistystä."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin kierroslukua tulee lisätä, minkä jälkeen öljynpaine tulee tarkastaa uudelleen."}]},
+  
+    {"question": "Renkaan ryömiminen (tyre creep) voidaan tunnistaa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kahdesta vastakkaisilla puolilla toisiaan olevista keltaisista nuolista renkaan kyljessä."},
+    {"answerCorrectness": "incorrect", "answerText": " Kahdesta valkoisesta neliöstä, jotka ovat piirretty vanteeseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Renkaan kylkeen ja vanteeseen maalatusta kohdistusviivasta."},
+    {"answerCorrectness": "incorrect", "answerText": " Tarkastamalla rengaspaine."}]},
+  
+    {"question": "Pakokaasun lämpötilamittari:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Tekee saman asian kuin sylinterinpään lämpötilamittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Tarvitsee sähköä tasavirtakiskolta."},
+    {"answerCorrectness": "incorrect", "answerText": " On mittari, joka on tarkoitettu suojaamaan moottoria liialliselta kuumentumiselta."},
+    {"answerCorrectness": "incorrect", "answerText": " Pystyy ilmaisemaan, onko palokammion polttoaine-ilmaseos liian rikas tai laiha."}]},
+  
+    {"question": "Nelitahtisen moottorin oikea työkierto on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Imu-, työ-, puristus- ja poistotahti."},
+    {"answerCorrectness": "incorrect", "answerText": " Poisto-, imu-, työ- ja puristustahti."},
+    {"answerCorrectness": "incorrect", "answerText": " Imu-, puristus-, työ- ja poistotahti."},
+    {"answerCorrectness": "incorrect", "answerText": " Poisto-, työ-, puristus- ja imutahti."}]},
+  
+    {"question": "Lentäminen tyhjällä akulla varustetulla ilma-aluksella, joka on käynnistettykäyttäen apuna maavirtaa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ei ole suositeltavaa, sillä akku ei välttämättä lataudu oikein lennon aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " On sallittua, koska akkua ei tarvita lennolla."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei ole suositeltavaa, koska sähköä ei ole riittävästi."},
+    {"answerCorrectness": "incorrect", "answerText": " On sallittua, koska akku latautuu täyteen ennen lentoonlähtöä."}]},
+  
+    {"question": "Ryyppypumpun lukittuminen paikoilleen on tarkistettava käytön jälkeen, koska:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Se voi aiheuttaa polttoainevuodon kasvattaen tulipalon mahdollisuutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Se voi aiheuttaa polttoaineen imeytymisen polttoainetankista kaasuttimeen, tehdenseoksesta erittäin rikkaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Jos se tärisee suljettuna, se aiheuttaa moottorin sammumisen."},
+    {"answerCorrectness": "incorrect", "answerText": " Se voi aiheuttaa polttoaineen imeytymisen polttoainesuodattimesta imujärjestelmään,tehden seoksesta erittäin rikkaan."}]},
+  
+    {"question": "Mikä vaikutus on ilma-aluksen lentokelpoisuudelle sillä, että sitä ei huolletalentokelpoisuustodistuksen mukaisen huoltoaikataulun mukaisesti?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen omistajan tulee hakea viranomaiselta poikkeuslupaa huoltoaikatauluun."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokelpoisuustodistus tulee uusia ennen kuin ilma-aluksella voi lentää."},
+    {"answerCorrectness": "incorrect", "answerText": " Sillä ei ole vaikutusta lentokelpoisuustodistukseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokelpoisuustodistus on pätemätön niin kauan, kunnes tarvittavat huoltotoimenpiteetovat suoritettu."}]},
+  
+    {"question": "Työtahdin aikana nelitahtisen moottorin palokaasujen lämpötila sylinterissä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
+    {"answerCorrectness": "incorrect", "answerText": " Käyttäytyy Charles:n lain mukaisesti."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Nousee."}]},
+  
+    {"question": "Mäntämoottorin kampiakseli:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pyörii nokka-akseliin verrattuna puolella nopeudella."},
+    {"answerCorrectness": "incorrect", "answerText": " Muuttaa edestakaisen liikkeen pyöriväksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Säätää venttiilien asentoja."},
+    {"answerCorrectness": "incorrect", "answerText": " Muuttaa pyörivän liikkeen edestakaiseksi."}]},
+  
+    {"question": "Moottoritilassa olevat levyt:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ovat ilmanohjaimia, jotka ohjaavat ilmavirtauksen menemään sylinterin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Ovat sijoitettu voitelujärjestelmään ja ovat tarkoitettu hidastamaan öljyn valumistamoottoriin."},
+    {"answerCorrectness": "incorrect", "answerText": " Vähentävät ilmavirtaa moottorin ympärillä."},
+    {"answerCorrectness": "incorrect", "answerText": " Tulee sijoittaa tiiviisti keskenään ilmavirran vähentämiseksi moottorin ympärillä."}]},
+  
+    {"question": "Ennenaikainen syttyminen:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Tapahtuu sytytystulpan aiheuttaman kipinän jälkeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Tapahtuu sytytyksen jälkeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Tunnetaan myös nimellä koputus."},
+    {"answerCorrectness": "incorrect", "answerText": " Aiheutuu yleensä kuumasta kohdasta palokammiossa."}]},
+  
+    {"question": "Moottorissa käytettävää seossuhdetta on paras käyttää:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Hieman laihalla, jolloin ylimääräinen ilma jäähdyttää moottoria."},
+    {"answerCorrectness": "incorrect", "answerText": " Hieman rikkaalla, jolloin ylimääräinen ilma jäähdyttää moottoria."},
+    {"answerCorrectness": "incorrect", "answerText": " Hieman rikkaalla, jolloin ylimääräinen polttoaine jäähdyttää moottoria."},
+    {"answerCorrectness": "incorrect", "answerText": " Kemiallisesti oikeassa suhteessa, koska se on kaikista tehokkain."}]},
+  
+    {"question": "Jos pitot-järjestelmän lämmitys vikaantuu jäätävissä olosuhteissa ja ilma-alusaloittaa liu'un tukkeutuneella pitot-putkella, niin korkeusmittarin,pystynopeusmittarin ja ilmanopeusmittarin näyttämät ovat:(korkeusmittari/pystynopeusmittari/ilmanopeusmittari)", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Näyttää oikein/näyttää oikein/epäluotettava"},
+    {"answerCorrectness": "incorrect", "answerText": " Näyttää liian alhaista arvoa/näyttää oikein/näyttää liian korkeaa arvoa"},
+    {"answerCorrectness": "incorrect", "answerText": " Näyttää oikein/näyttää oikein/näyttää liian korkeaa arvoa"},
+    {"answerCorrectness": "incorrect", "answerText": " Näyttää oikein/näyttää liian alhaista arvoa/näyttää liian korkeaa arvoa"}]},
+  
+    {"question": "Sylinterinpään lämpötilamittari:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Tarvitsee vaihtovirtaa mittarin neulan liikkumiseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Saa tietonsa anturista, joka on sijoitettu noin 10cm etäisyydelle sylinteristäpakokaasujärjestelmässä."},
+    {"answerCorrectness": "incorrect", "answerText": " Saa tietonsa moottorin kuumimpaan sylinteriin liitetystä kaksoismetalliliuskasta."},
+    {"answerCorrectness": "incorrect", "answerText": " On pääasiallisesti polttoainehallintamittari."}]},
+  
+    {"question": "Staattisen paineen aukko tukkiutuu vaakalennon aikana jäätävissä olosuhteissa.Ilma-aluksen aloittaessa myöhemmin nousun, jolloin korkeusmittarin,pystynopeusmittarin ja ilmanopeusmittarin näyttämät ovat:(korkeusmittari/pystynopeusmittari/ilmanopeusmittari)", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Säilyy muuttumattomana/säilyy muuttumattomana/näyttää liian alhaista arvoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Säilyy muuttumattomana/näyttää liian alhaista arvoa/näyttää liian korkeaa arvoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Näyttää liian korkeaa arvoa/näyttää liian korkeaa arvoa/näyttää liian alhaista arvoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Näyttää liian alhaista arvoa/säilyy muuttumattomana/näyttää liian korkeaa arvoa."}]},
+  
+    {"question": "Todennäköisin syy öljynpainemittarin neulan heilahteluille vaakalennossamoottorin käydessä matkalentoteholla on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Alhainen tehoasetus."},
+    {"answerCorrectness": "incorrect", "answerText": " Väljät sähköliittimet."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmaa öljysäiliössä."},
+    {"answerCorrectness": "incorrect", "answerText": " Alhainen öljymäärä."}]},
+  
+    {"question": "Pääasiallinen syy, minkä takia kevyissä ilma-aluksissa on kiinteät laskutelineeton:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Koulukonetta täytyy tukea tietyltä korkeudelta."},
+    {"answerCorrectness": "incorrect", "answerText": " Koulukoneen on liikuttava maassa."},
+    {"answerCorrectness": "incorrect", "answerText": " Koulukoneen on kestettävä laskussa absorboituva liike-energia."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisävastuksen aiheuttama suorituskyvyn menetys korvautuu kiinteän laskutelineenyksinkertaisuudella, edullisella hinnalla ja helpolla huollettavuudella."}]},
+  
+    {"question": "Polttoainesäiliöön ilmaantuva vesi aiheutuu yleisimmin:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Huonosti asettuvista korkeista."},
+    {"answerCorrectness": "incorrect", "answerText": " Tankkauksen yhteydessä polttoaineesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoainesäiliöön jäävän ilman kosteudesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Vuodoista polttoainesäiliössä, jotka ovat päästäneet sadetta sisään."}]},
+  
+    {"question": "Korkeusmittari:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Sisältää aneroidinkapselin ja staattisen paineen lähteen. Kapseli supistuu korkeudenpienentyessä."},
+    {"answerCorrectness": "incorrect", "answerText": " Sisältää osittain tyhjennetyn kotelon, joka laajenee liu'un aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Sisältää painekotelon, joka laajenee liu'un aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Sisältää painekotelon, joka on yhteydessä kokonaispaineen aukkoon. Kotelo supistuuliu'un aikana."}]},
+  
+    {"question": "Moottorin kiihdytyspumppua käytetään, jotta moottori ei sammu tehonmuutostenaikana. Tällainen ilmiö syntyy:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kun kaasuvipu avataan nopeasti, eikä polttoainetta ole heti riittävästi saatavillatehoasetusta varten."},
+    {"answerCorrectness": "incorrect", "answerText": " Kun kaasuvipu suljetaan nopeasti, jolloin moottori ei saa polttoainetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kun kaasuvipu suljetaan nopeasti ja seoksesta tulee hetkellisesti liian rikas."},
+    {"answerCorrectness": "incorrect", "answerText": " Kun kaasuvipu avataan nopeasti, jolloin seoksesta tulee hetkellisesti liian rikas."}]},
+  
+    {"question": "Jos vallitseva ilmankosteus ei ole tiedossa, kaasuttimen jäätäminen onmahdollista:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lämpötilavälillä -20°C...+10°C."},
+    {"answerCorrectness": "incorrect", "answerText": " Millä tahansa lämpötilalla."},
+    {"answerCorrectness": "incorrect", "answerText": " Lämpötilavälillä -30°C...+10°C."},
+    {"answerCorrectness": "incorrect", "answerText": " Lämpötilassa 0°C ja sen alapuolella."}]},
+  
+    {"question": "Mikäli sulake palaa lennon aikana:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Se voidaan vaihtaa niin usein, kuin on tarve."},
+    {"answerCorrectness": "incorrect", "answerText": " Se voidaan vaihtaa ainoastaan kerran lennon aikana samanarvoisella sulakkeella."},
+    {"answerCorrectness": "incorrect", "answerText": " Sitä ei pitäisi vaihtaa ennen laskeutumista."},
+    {"answerCorrectness": "incorrect", "answerText": " Sen tilalle voi vaihtaa korkeampaa virtaa kestävän sulakkeen uudelleenpalamisenehkäisemiseksi."}]},
+  
+    {"question": "Suurin osa uudenaikaisten kevyiden ilma-alusten nokkatelineistä on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Öljy-jousitoimisia iskua vaimentavia joustintukia."},
+    {"answerCorrectness": "incorrect", "answerText": " Kierrejousisia joustintukia."},
+    {"answerCorrectness": "incorrect", "answerText": " Teräsjousitoimisia joustintukia."},
+    {"answerCorrectness": "incorrect", "answerText": " Kumisia joustintukia."}]},
+  
+    {"question": "Mikäli liu'un aikana pystynopeusmittariin kulkeutuva staattisen paineen linjamenee tukkoon, pystynopeusmittarin näyttämä on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Näyttää liukua."},
+    {"answerCorrectness": "incorrect", "answerText": " Jatkaa samaa näyttämää."},
+    {"answerCorrectness": "incorrect", "answerText": " Näyttää nousua."},
+    {"answerCorrectness": "incorrect", "answerText": " Nolla, pienen viiveen jälkeen."}]},
+  
+    {"question": "Lennon aikana pitot-putken eteenpäin osoittavan reiän havaitsema paine on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaispaine ja dynaaminen paine."},
+    {"answerCorrectness": "incorrect", "answerText": " Vain dynaaminen paine."},
+    {"answerCorrectness": "incorrect", "answerText": " Dynaaminen paine ja staattinen paine."},
+    {"answerCorrectness": "incorrect", "answerText": " Vain staattinen paine."}]},
+  
+    {"question": "Mikä seuraavista kasvattaa kiintopotkurin lavan kohtauskulmaa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenevä tosi-ilmanopeus ja pienenevä kierrosluku."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenevä tosi-ilmanopeus ja lisääntyvä kierrosluku."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisääntyvä tosi-ilmanopeus ja pienenevä kierrosluku."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisääntyvä tosi-ilmanopeus ja lisääntyvä kierrosluku."}]},
+  
+    {"question": "Keinohorisontissa oleva hyrrä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Säilyttää asentonsa maapallon suhteen ja pyörii pystysuorassa ilma-aluksenpituusakselin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Säilyttää asentonsa ilma-aluksen suhteen ja pyörii vaakatasossa ilma-aluksenpituusakselin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Säilyttää asentonsa maapallon suhteen ja pyörii vaakatasossa akselin ollessapystysuorassa."},
+    {"answerCorrectness": "incorrect", "answerText": " Säilyttää asentonsa maapallon suhteen ja pyörii pystysuorassa ilma-aluksenlateraalitason ympäri."}]},
+  
+    {"question": "Kiintopotkurilla ja kaasuttimella varustetun lentokoneen ensimmäiset oireetkaasuttimen jäätyessä ovat:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Äkillinen kierrosnopeuden pieneneminen sekä moottorin lämpötilan lasku."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaakalennossa ahtopaineen nousu sekä ilmanopeuden lasku."},
+    {"answerCorrectness": "incorrect", "answerText": " Öljyn lämpötilan nousu ja öljynpaineen lasku."},
+    {"answerCorrectness": "incorrect", "answerText": " Asteittainen kierrosluvun pieneneminen sekä mahdollisesti huono käynti ja tärinä."}]},
+  
+    {"question": "Alternaattorin pääasiallinen hyöty generaattoriin verrattuna on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Generaattorin tuottama virta vaihtelee liikaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Alternaattori tuottaa tasavirtaa käämityksestään."},
+    {"answerCorrectness": "incorrect", "answerText": " Generaattori voi tuottaa ainoastaan vaihtovirtaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Alternaattori tuottaa lähes täyttä tehoa tyhjäkäynnillä."}]},
+  
+    {"question": "Venturiputken kurkussa ilman nopeus _____, staattinen tai vallitseva paine _____ja lämpötila _____.", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa/pienenee/pienenee"},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa/kasvaa/kasvaa"},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee/kasvaa/pienenee"},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee/pienenee/kasvaa"}]},
+  
+    {"question": "Mitkä seuraavista mittareista toimivat tyypillisesti tyhjiöpumppujärjestelmällä?1. Suuntahyrrä2. Kaartomittari3. Keinohorisontti4. Korkeusmittari5. Magneettikompassi", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 1 ja 3."},
+    {"answerCorrectness": "incorrect", "answerText": " 1, 3 ja 4."},
+    {"answerCorrectness": "incorrect", "answerText": " 1, 3 ja 5."},
+    {"answerCorrectness": "incorrect", "answerText": " 1 ja 2."}]},
+  
+    {"question": "Nakutus on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Osa tavallista moottorin käyntiä."},
+    {"answerCorrectness": "incorrect", "answerText": " Tunnettu myös nimellä \"mäntäläimäys\"."},
+    {"answerCorrectness": "incorrect", "answerText": " Vahingollista männille."},
+    {"answerCorrectness": "incorrect", "answerText": " Mahdotonta tunnistaa ulkopuolelta."}]},
+  
+    {"question": "Virranjakajan varsi pyörii:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Samalla nopeudella kuin moottori."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaksinkertaisella nopeudella moottorin nopeuteen verrattuna."},
+    {"answerCorrectness": "incorrect", "answerText": " Neljäsosanopeudella moottorin nopeuteen verrattuna."},
+    {"answerCorrectness": "incorrect", "answerText": " Puolikkaalla nopeudella moottorin nopeuteen verrattuna."}]},
+  
+    {"question": "Suuntahyrrä voidaan asettaa linjaan magneettikompassin kanssa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nestepyörteen (liquid swirl) takia."},
+    {"answerCorrectness": "incorrect", "answerText": " Pyörittämällä suuntahyrrän näyttämää säätönupin avulla, koneen ollessa suorassavaakalennossa."},
+    {"answerCorrectness": "incorrect", "answerText": " Säännöllisesti kiihtyvyysvirheiden poistamiseksi kaarroissa."},
+    {"answerCorrectness": "incorrect", "answerText": " Minimoimaan magneettikentän pystysuuntaiset vaikutukset."}]},
+  
+    {"question": "Missä kohtaa ilma-aluksen moottorin polttoainejärjestelmää sähköllä toimivapolttoaineen siirtopumppu tyypillisesti sijaitsee?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Välittömästi mekaanisen polttoainepumpun vieressä."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoainesäiliön alimmassa kohdassa."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoainesäiliön korkeimmassa kohdassa."},
+    {"answerCorrectness": "incorrect", "answerText": " Mekaanisen polttoainepumpun ja kaasuttimen välissä."}]},
+  
+    {"question": "Magneettinen suunta:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " On kompassisuunnan, eksymän ja erannon summa."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaartovirheet eivät vaikuta siihen."},
+    {"answerCorrectness": "incorrect", "answerText": " Viittaa aina tosipohjoiseen."},
+    {"answerCorrectness": "incorrect", "answerText": " On kompassisuunnan ja eksymän summa."}]},
+  
+    {"question": "Liian suuri öljynpaine estetään ilma-aluksen moottorissa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin suodattimen ohitusventtiilillä."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin korkeakapasiteettisella painepumpulla."},
+    {"answerCorrectness": "incorrect", "answerText": " Huolehtimalla, että moottorin kierrosluku ei ylitä punaisen viivan kierroslukua."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin öljynpaineen rajoitusventtiilillä."}]},
+  
+    {"question": "Kuinka pian öljynpainemittarin tulisi antaa näyttämää kylmän moottorinkäynnistyksen jälkeen?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 30 sekunnissa, muussa tapauksessa sammuta moottori."},
+    {"answerCorrectness": "incorrect", "answerText": " Mikäli öljyn määrä oli riittävä ilma-alusta tarkastettaessa ja moottorin kierrosluku onsallituissa rajoissa, niin öljynpainemittari on luultavasti rikki ja siitä tulisi ilmoittaa lennonjälkeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Siinä vaiheessa, kun ennen lentoonlähtöä tehtävät tarkastukset ovat tehtynä. Muussatapauksessa sammuta moottori."},
+    {"answerCorrectness": "incorrect", "answerText": " Heti, muussa tapauksessa sammuta moottori."}]},
+  
+    {"question": "Mikäli kaartomittarin hyrrä pyörii suunnitteluarvoansa pienemmällä nopeudella,miten ilma-aluksen todellinen kaartonopeus ja kaartomittarin näyttämä eroavattoisistaan?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen todellinen kaartonopeus on sama, kuin mittarin näyttämä."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen todellinen kaartonopeus on pienempi, kuin mittarin näyttämä."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaartomittari ei näytä kaartonopeutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen todellinen kaartonopeus on suurempi, kuin mittarin näyttämä."}]},
+  
+    {"question": "Toimiakseen parhaimmalla hyötysuhteella, moottorin:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " On oltava matalimmassa mahdollisessa lämpötilassa, minkä turvallinen käyttö sallii."},
+    {"answerCorrectness": "incorrect", "answerText": " On oltava korkeimmassa mahdollisessa lämpötilassa, minkä turvallinen käyttö sallii."},
+    {"answerCorrectness": "incorrect", "answerText": " Öljyjärjestelmän on saatava jatkuvasti kuumaa öljyä."},
+    {"answerCorrectness": "incorrect", "answerText": " On oltava käytössä korkealla, jotta voidaan hyödyntää kylmän ilman jäähdytysvaikutus."}]},
+  
+    {"question": "Mittaritaulussasi alipainemittari näyttää vikaa järjestelmässä. Hyrrätoimisetmittarit toimivat kuitenkin normaalisti eikä alipainejärjestelmän varoitusvalo pala.Missä epäilet vian olevan?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Alipainemittarissa."},
+    {"answerCorrectness": "incorrect", "answerText": " Alipainejärjestelmän varoitusvalossa."},
+    {"answerCorrectness": "incorrect", "answerText": " Hyrrätoimisissa mittareissa."},
+    {"answerCorrectness": "incorrect", "answerText": " Alipainejärjestelmässä."}]},
+  
+    {"question": "Eksymätaulukkoa tehdessä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen kompassin näyttämää verrataan \"maa-\" tai \"perustason\" kompassinnäyttämään."},
+    {"answerCorrectness": "incorrect", "answerText": " Mahdollistetaan ilma-aluksen tosisuunnan määrittäminen."},
+    {"answerCorrectness": "incorrect", "answerText": " Mahdollistetaan ilma-aluksen erannon määrittäminen."},
+    {"answerCorrectness": "incorrect", "answerText": " Mittaus voidaan suorittaa lentokentällä missä tahansa, kunhan paikka on kuiva jatasainen."}]},
+  
+    {"question": "Mikä osa, tai mitkä osat polttomoottorissa tiivistävät palokammion?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Männänrenkaat ja venttiilit."},
+    {"answerCorrectness": "incorrect", "answerText": " Sylinterin tiiviste."},
+    {"answerCorrectness": "incorrect", "answerText": " Sytytystulpat."},
+    {"answerCorrectness": "incorrect", "answerText": " Nokka-akseli."}]},
+  
+    {"question": "Polttomoottorin kiertokanki yhdistää:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Männän ja kampiakselin."},
+    {"answerCorrectness": "incorrect", "answerText": " Männän ja nokka-akselin."},
+    {"answerCorrectness": "incorrect", "answerText": " Työntötangon ja keinuvivun."},
+    {"answerCorrectness": "incorrect", "answerText": " Keinovivun ja venttiilirungon."}]},
+  
+    {"question": "Mikä osa ohjaa venttiileitä nelitahtisessa polttomoottorissa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kiertokanki."},
+    {"answerCorrectness": "incorrect", "answerText": " Nokka-akseli."},
+    {"answerCorrectness": "incorrect", "answerText": " Männäntappi."},
+    {"answerCorrectness": "incorrect", "answerText": " Diffuusoriventtiili."}]},
+  
+    {"question": "Polttomoottorin sylinterin ympärillä olevien jäähdytysripojen tehtävä on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Parantaa sylinterien erottuvuutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää moottorin aerodynaamista vastusta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvattaa jäähdyttävää pinta-alaa ja parantaa sylinterin jäähdytystä."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää jäähdyttävää pinta-alaa ja keventää moottorin painoa."}]},
+  
+    {"question": "Ilmailukäytössä olevan ahtamattoman polttomoottorin teho pienenee korkeudenkasvaessa, sillä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ilman tiheys pienenee ja moottori ei saa riittävästi happea."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeampi ilman tiheys aiheuttaa huonon polttoaine-ilmaseoksen."},
+    {"answerCorrectness": "incorrect", "answerText": " Kylmemmässä ilmassa moottori ei toimi optimaalisessa lämpötilassaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Matalampi ilman tiheys aiheuttaa liian rikkaan polttoaine-ilmaseoksen."}]},
+  
+    {"question": "Lentomoottori tuottaa eniten tehoa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaakalennossa merenpinnan tasolla."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkealla."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön aikana täydellä kierrosluvulla."}]},
+  
+    {"question": "Polttomoottorin öljyjärjestelmän tehtävänä on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Toimia polttoaineen lisäaineena sopivalle seossuhteelle palaen sylinterissä."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvattaa sylinterissä tapahtuvan seoksen palotapahtuman lämpötilaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ainoastaan vaimentaa moottorin käyntiääntä."},
+    {"answerCorrectness": "incorrect", "answerText": " Voidella ja jäähdyttää moottoria."}]},
+  
+    {"question": "Mikä on todennäköisin syy heilahtelevalle öljynpaineelle lentomoottorissa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kuluneet tai löysät laakerit."},
+    {"answerCorrectness": "incorrect", "answerText": " Alhainen öljyn määrä."},
+    {"answerCorrectness": "incorrect", "answerText": " Viallinen öljynpainemittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Löysä potkurin tiiviste."}]},
+  
+    {"question": "Kun moottori on sammutettu, pääasiallinen sähkövirran lähde on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Akku."},
+    {"answerCorrectness": "incorrect", "answerText": " Lämpölaukaisija."},
+    {"answerCorrectness": "incorrect", "answerText": " Generaattori tai alternaattori."},
+    {"answerCorrectness": "incorrect", "answerText": " Magneetto."}]},
+  
+    {"question": "Toimiakseen alternaattori tarvitsee ensiksi herätevirran. Tämän virran tuottaa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Virranjakaja."},
+    {"answerCorrectness": "incorrect", "answerText": " Sytytyspuola."},
+    {"answerCorrectness": "incorrect", "answerText": " Akku."},
+    {"answerCorrectness": "incorrect", "answerText": " Magneetto."}]},
+  
+    {"question": "Voiko lentomoottorin alternaattori toimia ilman akkuvirtaa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kyllä, mutta vain korkealla kierrosluvulla."},
+    {"answerCorrectness": "incorrect", "answerText": " Kyllä, mikäli magneetot toimivat oikein."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei."},
+    {"answerCorrectness": "incorrect", "answerText": " Kyllä, mikäli lentäjä on sammuttanut kaikki ilma-aluksen sähkölaitteet."}]},
+  
+    {"question": "Mihin virtalähteeseen lentomoottorin starttimoottori on kytketty?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Riippuu lentokonemallista."},
+    {"answerCorrectness": "incorrect", "answerText": " Alternaattoriin tai generaattoriin."},
+    {"answerCorrectness": "incorrect", "answerText": " Ainoastaan ulkopuoliseen virtalähteeseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Suoraan akkuun."}]},
+  
+    {"question": "Moottorin sammutuksen jälkeen on akun päävirtakytkin asetettava OFFasentoon,jotta vältetään akun tyhjeneminen:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Alternaattorin tai generaattorin kautta."},
+    {"answerCorrectness": "incorrect", "answerText": " Suoraan siihen kytkettyjen sähkölaitteiden kautta."},
+    {"answerCorrectness": "incorrect", "answerText": " Magneettojen kautta."},
+    {"answerCorrectness": "incorrect", "answerText": " Sytytyskytkimen kautta."}]},
+  
+    {"question": "Lentomoottorin kahdennetun sytytysjärjestelmän yhtenä etuna on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Tasaisempi lämmönjako."},
+    {"answerCorrectness": "incorrect", "answerText": " Sylinterinpään paineen tasaaminen."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin hyötysuhteen paraneminen, jolloin myös suorituskyky paranee."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaksi kertaa enemmän tehoa."}]},
+  
+    {"question": "Mikä on lopputulos, mikäli yksi magneetto hajoaa lennolla?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pakoputkesta tulee ulos mustaa savua."},
+    {"answerCorrectness": "incorrect", "answerText": " Hieman alhaisempi kierrosluku sekä hieman lisääntynyt polttoaineen kulutus."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin säätäminen vaikeutuu."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottori paukkuu huomattavasti."}]},
+  
+    {"question": "Voiko asematasolla olevan lentokoneen moottori käynnistyä, mikäli potkuriapyöritetään käsin?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kyllä, mikäli sytytyskytkin on viallinen tai se on päällä."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei missään olosuhteissa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei yleensä, mikäli moottori on kylmä ja sytytyskytkin on \"OFF\"-asennossa."},
+    {"answerCorrectness": "incorrect", "answerText": " Kyllä, aina."}]},
+  
+    {"question": "Kohotyyppisen kaasuttimen toiminta perustuu:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ilman automaattiseen mittaukseen venturissa lentokorkeuden kasvaessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilman nopeuden lisääntymiseen venturin kurkussa, mikä kasvattaa ilmanpainetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmapaineen eroon venturin kurkussa ja sisääntuloputkessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanpaineen lisääntymiseen venturin kurkussa, mikä kasvattaa ilman nopeutta."}]},
+  
+    {"question": "Kaasuttimen tehtävänä on syöttää:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaine-ilmaseos moottorin sylintereille."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmaa moottorin sylintereille."},
+    {"answerCorrectness": "incorrect", "answerText": " Ympäröivän ilmanpaineen omaavaa polttoainetta moottorin sylintereille."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoainetta moottorin sylintereille."}]},
+  
+    {"question": "Moottori, jossa ei ole kaasutinta ja jossa polttoaine ruiskutetaan paineella jaannosteltuna suoraan moottorin imusarjaan, sisältää:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ruiskutusjärjestelmän."},
+    {"answerCorrectness": "incorrect", "answerText": " Kohokaasuttimen."},
+    {"answerCorrectness": "incorrect", "answerText": " Mittaavan kaasuttimen."},
+    {"answerCorrectness": "incorrect", "answerText": " Turboahtimen."}]},
+  
+    {"question": "Seossuhteen säätämisen tarkoitus kasvavan korkeuden suhteen on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää polttoaineen virtausta ilman tiheyden kasvamisen kompensoimiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvattaa polttoaineenkulutusta."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää polttoaineen virtausta ilman tiheyden pienenemisen kompensoimiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisätä polttoaineen virtausta ilmanpaineen pienenemisen kompensoimiseksi."}]},
+  
+    {"question": "Mitä tapahtuu seossuhteelle, kun etulämmitystä käytetään?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Seoksesta tulee laihempi."},
+    {"answerCorrectness": "incorrect", "answerText": " Seoksesta tulee rikkaampi."},
+    {"answerCorrectness": "incorrect", "answerText": " Kierrosluku laskee laihentuneesta seoksesta johtuen."},
+    {"answerCorrectness": "incorrect", "answerText": " Seossuhde ei muutu."}]},
+  
+    {"question": "Lennät vaakalentoa 9500 jalan korkeudella seoksen ollessa säädetty oikeinkyseistä lentokorkeutta varten. Mitä tapahtuu, jos laskeudut 4000 jalankorkeuteen säätämättä seosta uudelleen?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Liian rikas seos aiheuttaa sylinterin pään korkeamman lämpötilan ja voi aiheuttaanakutusta."},
+    {"answerCorrectness": "incorrect", "answerText": " Sylinterissä on enemmän polttoainetta kuin normaali palotapahtuma tarvitsee, mikäjäähdyttää moottoria."},
+    {"answerCorrectness": "incorrect", "answerText": " Seoksesta tulee todella laiha ja voi näin ollen aiheuttaa liian aikaisen sytytyksen."},
+    {"answerCorrectness": "incorrect", "answerText": " Seoksesta voi tulla liian laiha."}]},
+  
+    {"question": "Mikäli lentokoneessa on kiintopotkuri ja kohokaasutin, ensimmäinen merkkikaasuttimen jäätymisestä on todennäköisesti:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin karkea käynti."},
+    {"answerCorrectness": "incorrect", "answerText": " Sylinterinpään lämpötilan nousu."},
+    {"answerCorrectness": "incorrect", "answerText": " Kierrosluvun pieneneminen."},
+    {"answerCorrectness": "incorrect", "answerText": " Sylinterinpään ja öljyn lämpötilojen lasku."}]},
+  
+    {"question": "Jäätä on syntynyt kaasuttimen kurkkuun ja lentokoneesi moottori on alkanutmenettää tehoa. Aiheuttaako etulämmityksen käyttö välittömän kierrosluvunnousun?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ei, sillä etulämmitys vain sulattaa jäätä, eikä vaikuta kierroslukuun."},
+    {"answerCorrectness": "incorrect", "answerText": " Kyllä, sillä kaasuttimen jää sulaa välittömästi."},
+    {"answerCorrectness": "incorrect", "answerText": " Kyllä, sillä etulämmitys vain sulattaa jäätä, eikä vaikuta kierroslukuun."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei, sillä kiintopotkurilla varustetun moottorin käynti muuttuu hetkellisesti karkeaksi jakierrosluku laskee vielä enemmän, kun moottori imee sulavaa vettä palotilaan. Tämänjälkeen kierrosluku nousee."}]},
+  
+    {"question": "Mikä tarkoitus on joihinkin yleisilmailukoneisiin asennetulla sähköiselläpolttoaineen lisäpumpulla?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lisäpolttoaineen toimittaminen kaasuttimelle käynnistyksen yhteydessä sekä mekaanisenpumpun rikkoutuessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaineen toimitus sylintereihin ennen sytytystä."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoainetankkien nopeaa tyhjennystä varten."},
+    {"answerCorrectness": "incorrect", "answerText": " Moottorin hyötysuhteen parantaminen."}]},
+  
+    {"question": "Miksi korkean puristussuhteen omaavat moottorit tarvitsevatkorkealaatuisempaa polttoainetta?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kaasuttimen jäätymisen välttämiseksi suurilla nopeuksilla."},
+    {"answerCorrectness": "incorrect", "answerText": " Suuremman tehon tuottamiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Jotta vältytään moottoria hajottavalta ennenaikaiselta syttymiseltä."},
+    {"answerCorrectness": "incorrect", "answerText": " Jotta vältytään moottoria hajottavalta nakutukselta."}]},
+  
+    {"question": "Mitä säädetään pakokaasun lämpötilan mittarilla (EGT) polttomoottorissa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Öljynpainetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Öljynkulutusta."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaine-ilmaseoksen laatua."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaasuttimen jäätymistä."}]},
+  
+    {"question": "Epätavallisen korkea öljyn lämpötila nelitahtimoottorissa voi olla merkki:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Liian suuresta öljyn määrästä."},
+    {"answerCorrectness": "incorrect", "answerText": " Liian rikkaasta seoksesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Liian korkeasta öljyn viskositeetista."},
+    {"answerCorrectness": "incorrect", "answerText": " Liian alhaisesta öljyn määrästä."}]},
+  
+    {"question": "Polttomoottorin sisäisen lämpötilan hallinta on yleensä varmistettulentomoottoreissa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Voiteluöljyn kierrolla."},
+    {"answerCorrectness": "incorrect", "answerText": " Oikein toimivalla termostaatilla."},
+    {"answerCorrectness": "incorrect", "answerText": " Nestejäähdytyksen virtaamisella pakosarjan päältä."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilman virtaamisella pakosarjan päältä."}]},
+  
+    {"question": "Mitä tapahtuu vakiokierrospotkurille kaasua lisättäessä?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kierrosluku kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Potkurin lavan kohtauskulma ei muutu."},
+    {"answerCorrectness": "incorrect", "answerText": " Potkurin lavan kohtauskulma kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Potkurin lavan kohtauskulma pienenee."}]},
+  
+    {"question": "Missä olosuhteissa potkurin kiertovaikutus on suurimmillaan yksimoottorisessalentokoneessa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Suurella ilmanopeudella, suurella teholla ja suurella kohtauskulmalla."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienellä ilmanopeudella, pienellä teholla ja pienellä kohtauskulmalla."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurella ilmanopeudella, pienellä teholla ja suurella kohtauskulmalla."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienellä ilmanopeudella, suurella teholla ja suurella kohtauskulmalla."}]},
+  
+    {"question": "Minkä, mahdollisesti vaarallisen, gyroskooppisen voiman lentäjä tunteelentoonlähdössä rotaation aikana?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lentokoneen kaartamisen."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokoneen halun nostaa nokan asentoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Asennonmuutoksen pystyakselin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokoneen nokan asennon muutoksen."}]},
+  
+    {"question": "Mikä on tärinänvaimentimen tehtävä laskutelineessä?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Vähentää jousimännän liikkumismatkaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Estää nokkapyörän värähtelyitä."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaimentaa pomppuja."},
+    {"answerCorrectness": "incorrect", "answerText": " Vähentää iskuja polkimissa."}]},
+  
+    {"question": "Mikä tai mitkä mittarit ovat kytkettynä kokonaispaineen lähteeseen?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Perinteinen pystynopeusmittari sekä korkeusmittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Vain ilmanopeusmittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Vain perinteinen pystynopeusmittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanopeusmittari, perinteinen pystynopeusmittari sekä korkeusmittari."}]},
+  
+    {"question": "Mitkä mittarit ovat kytketty staattisen paineen aukkoon korkeusmittarin lisäksi?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanopeusmittari, pystynopeusmittari sekä kaarto- ja kallistusmittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Ainoastaan ilmanopeusmittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanopeusmittari ja pystynopeusmittari."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanopeusmittari ja ulkoilman lämpötilan mittari."}]},
+  
+    {"question": "Mistä johtuu ero lentokoneen tosi-ilmanopeuden ja ilmanopeusmittarinnäyttämän välillä?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lämpötilan ja ilman tiheyden vaihteluista."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaartomomentin aiheuttamista kaartovirheistä matkalentokorkeuksilla."},
+    {"answerCorrectness": "incorrect", "answerText": " Vastatuulikomponentista."},
+    {"answerCorrectness": "incorrect", "answerText": " Pitot-järjestelmän virtausongelmista johtuvista virheistä."}]},
+  
+    {"question": "Mitä tärkeää nopeutta ei ole merkitty värikoodilla ilma-aluksenilmanopeusmittariin?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Liikehtimisnopeutta (VA)."},
+    {"answerCorrectness": "incorrect", "answerText": " Maksiminopeutta (VNE)."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurinta nopeutta laskusiivekkeet alhaalla (VFE)."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurinta rakenteellista matkalentonopeutta (VMO)."}]},
+  
+    {"question": "Suurin nopeus laskusiivekkeiden ulos ottamiselle on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Sama kuin liikehtimisnopeus."},
+    {"answerCorrectness": "incorrect", "answerText": " Sama kuin suurin rakenteellinen matkalentonopeus."},
+    {"answerCorrectness": "incorrect", "answerText": " Katsottava lentokäsikirjasta."},
+    {"answerCorrectness": "incorrect", "answerText": " Katsottava lentokelpoisuustodistuksesta."}]},
+  
+    {"question": "Mitä tarkoittaa ilmanopeusmittarin vihreä alue?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Normaalin operoinnin nopeusaluetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurinta sallittu nopeutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaarallista aluetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Laskutelineiden ja laskusiivekkeiden käyttönopeusaluetta."}]},
+  
+    {"question": "Mitä punaiset viivat ilma-alusten mittareissa yleensä tarkoittavat?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Laskutelineiden käyttönopeusaluetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaarallista aluetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Sallittuja maksimi- tai minimiarvoja."},
+    {"answerCorrectness": "incorrect", "answerText": " Normaalin operoinnin aluetta."}]},
+  
+    {"question": "Ilma-aluksen ilmanopeusmittarissa oleva punainen viiva on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nopeus, jota ei saa milloinkaan ylittää."},
+    {"answerCorrectness": "incorrect", "answerText": " Nopeus, jonka saa ylittää vain tasaisessa ilmassa."},
+    {"answerCorrectness": "incorrect", "answerText": " Nopeus, jonka saa ylittää vasta, kun laskusiivekkeet ja laskuteline ovat nostettu ylös."},
+    {"answerCorrectness": "incorrect", "answerText": " Maksiminopeus nopeille ohjainliikkeille."}]},
+  
+    {"question": "Mikä on korkeusmittarin ilmanpaineen näytön tarkoitus?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Sen mukaan korkeusmittari säädetään tarkasti vuotuisessa huollossa."},
+    {"answerCorrectness": "incorrect", "answerText": " Siitä näkee lentokorkeuden ilmanpaineen."},
+    {"answerCorrectness": "incorrect", "answerText": " Määrittää lentokentän ja merenpinnan ilmanpaineen välinen erotus."},
+    {"answerCorrectness": "incorrect", "answerText": " Siihen asetetaan sen vertailupinnan paine, josta korkeus halutaan mitata mittarin avulla."}]},
+  
+    {"question": "Mikäli korkeusmittariin asetetaan QNH, mitä mittari näyttää laskun jälkeen?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lentokentän painekorkeutta standardiarvon yläpuolella."},
+    {"answerCorrectness": "incorrect", "answerText": " Nollaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokentän korkeutta keskimääräisestä merenpinnasta."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokentän korkeutta 1013,2 hPa painetason yläpuolella."}]},
+  
+    {"question": "Mitä korkeutta näyttää korkeusmittari, mikäli siihen on asetettu paikallinen QNH?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Korkeutta maaston yläpuolella."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeutta merenpinnan yläpuolella."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentopintaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeutta lentokentän yläpuolella."}]},
+  
+    {"question": "Mitä korkeutta näyttää korkeusmittari, mikäli siihen on asetettu standardiilmakehänilmanpaine?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Suhteellista korkeutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Absoluuttista korkeutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentopintaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Todellista korkeutta maanpinnan yläpuolella."}]},
+  
+    {"question": "Mitä korkeusmittari näyttää, mikäli lentäjä unohtaa asettaa QNH:nkorkeusmittariin liu'un aikana lentopinnoilta, ja jatkaa lentoaanstandardiasetuksella?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin näyttö on käyttökelvoton."},
+    {"answerCorrectness": "incorrect", "answerText": " Nollaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokentän korkeutta painepinnan 1013,2 hPa suhteen."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokentän korkeutta."}]},
+  
+    {"question": "Mikäli korkeusmittariin asetetaan pienempi paine, korkeusmittarin näyttämä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Laskee."},
+    {"answerCorrectness": "incorrect", "answerText": " Muuttuu epäluotettavaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Nousee."},
+    {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."}]},
+  
+    {"question": "Kun asetat QFE:n, korkeusmittari näyttää:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lentopintaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeutta lentokentän yläpuolella."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeutta merenpinnan yläpuolella."},
+    {"answerCorrectness": "incorrect", "answerText": " Todellista korkeutta maanpinnan yläpuolella."}]},
+  
+    {"question": "Mikäli korkeusmittariin asetetaan QFE, näyttää korkeusmittari laskun jälkeen:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lentokentän korkeutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Nollaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokentän korkeutta painepinnan 1013,2 hPa suhteen."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokentän painekorkeutta standardiarvon yläpuolella."}]},
+  
+    {"question": "Mikäli lennät korkeapaineen alueelta matalapaineen alueelle muuttamattakorkeusmittarin asetusta, ilma-aluksen todellinen korkeus:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Pysyy muuttumattomana."},
+    {"answerCorrectness": "incorrect", "answerText": " On epäluotettava."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa."}]},
+  
+    {"question": "ISA-olosuhteissa merenpinnan tasolla:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ilmantiheys on 1,225g/m3 ja ilmanpaine 1013,25hPa"},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine on 1013mbar ja ilman lämpötila laskee 1,98°C/km"},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine on 1013bar ja ilman lämpötila laskee 6,5°C/km"},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmantiheys on 1225g/m3 ja ilman lämpötila laskee 6,5°C/km"}]},
+  
+    {"question": "Polttoaineen oktaaniluku tarkoittaa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaineen pakkaskestävyyttä."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaineen nakutuskestävyyttä."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaineen höyrystymislämpötilaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Polttoaineen leimahduspistettä."}]},
+  
+    {"question": "Cross checking eli ristiintarkistus tarkoittaa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Että mittareiden tarkistusjärjestys on jaettu päällikön ja perämiehen kesken ennenlennolle lähtöä"},
+    {"answerCorrectness": "incorrect", "answerText": " Kahden tai useamman mittarin näyttämien havaitsemista ja tulkitsemista koneen asennonpäättelemiseksi ja säilyttämiseksi"},
+    {"answerCorrectness": "incorrect", "answerText": " Check-listan eli tarkistuslistan käyttöä hätätilannetoimenpiteissä"},
+    {"answerCorrectness": "incorrect", "answerText": " Vuoroittaista tehon ja ilmanopeuden tarkkailua"}]},
+  
+    {"question": "Tiheyskorkeus on:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Arvo, jota käytetään moottorin suoritusarvojen mittaamiseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin näyttämä korkeus, kun siihen on asetettu QFE."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin näyttämä korkeus, kun siihen on asetettu QNH."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin näyttämä korkeus, kun siihen on asetettu QNE."}]},
+  
+    {"question": "Suuntahyrrä asetetaan nokkapyöräkoneissa oikeaan asentoonsa lentoa varten:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " ennen lentoonlähtöä maassa, koneen ollessa paikallaan"},
+    {"answerCorrectness": "incorrect", "answerText": " sen asettaa mekaanikko huollossa"},
+    {"answerCorrectness": "incorrect", "answerText": " alkunousun aikana"},
+    {"answerCorrectness": "incorrect", "answerText": " kun on kone asetettu ensin matkalennon vaakalentoon"}]},
+  
+    {"question": "Mitä painetta pitot-putki mittaa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Dynaamista painetta"},
+    {"answerCorrectness": "incorrect", "answerText": " Reynolds-painetta"},
+    {"answerCorrectness": "incorrect", "answerText": " Staattista painetta"},
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaispainetta"}]},
+  
+    {"question": "Polttoainenäytteessä vesi ilmenee:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Erivärisinä läikkinä näytteen pinnalla"},
+    {"answerCorrectness": "incorrect", "answerText": " Kuplina näytteen pinnalla"},
+    {"answerCorrectness": "incorrect", "answerText": " Kuplina näytteen pohjalla"},
+    {"answerCorrectness": "incorrect", "answerText": " Erivärisinä läikkinä näytteen pohjalla"}]},
+  
+    {"question": "Korkeusmittariasetuksessa 1 hPa vastaa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 27m"},
+    {"answerCorrectness": "incorrect", "answerText": " 27ft"},
+    {"answerCorrectness": "incorrect", "answerText": " 100ft"},
+    {"answerCorrectness": "incorrect", "answerText": " 270ft"}]},
+  
+    {"question": "Primäärirakenteen hajoaminen lennon aikana aiheuttaa:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Muutoksen luokkaa alempaan kuormituskestävyyteen"},
+    {"answerCorrectness": "incorrect", "answerText": " Ei vaikuta lentoturvallisuuteen"},
+    {"answerCorrectness": "incorrect", "answerText": " Välittömän onnettomuuden"},
+    {"answerCorrectness": "incorrect", "answerText": " Ei aiheuta välitöntä vaaraa"}]},
+  
+    {"question": "Mikä on siirtopinta (transition level)?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " FL 50"},
+    {"answerCorrectness": "incorrect", "answerText": " 5000ft"},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeus, jossa vaihdetaan QNE-asetukselle"},
+    {"answerCorrectness": "incorrect", "answerText": " Lentopinta, jossa vaihdetaan QNH-asetukselle"}]},
+  
+    {"question": "Rikastettaessa polttoaineseosta:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lisätään tehoa"},
+    {"answerCorrectness": "incorrect", "answerText": " Lisätään ilman määrää suhteessa polttoainemäärään"},
+    {"answerCorrectness": "incorrect", "answerText": " Lisätään polttoaineen määrää ilman määrään nähden"},
+    {"answerCorrectness": "incorrect", "answerText": " Ei kosketa kaasuvipuun"}]},
+  
+    {"question": "Valitse oikea nopeusmittarin värimerkintöjä koskeva väittämä:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Valkoinen = turbulenttisen sään suurin sallittu nopeus"},
+    {"answerCorrectness": "incorrect", "answerText": " Punainen viiva = sakkausnopeus sileänä"},
+    {"answerCorrectness": "incorrect", "answerText": " Vihreä = normaalin toiminnan nopeusalue"},
+    {"answerCorrectness": "incorrect", "answerText": " Keltainen = normaali käyttö"}]},
+  
+    {"question": "Lentokoneen ns. primäärirakenteisiin kuuluvat:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Siipisalot, siiven pintalevyt, siiven ja vakaajan kiinnityskorvakkeet."},
+    {"answerCorrectness": "incorrect", "answerText": " Purjehdus- ja laskeutumisvalot."},
+    {"answerCorrectness": "incorrect", "answerText": " Muotolevyt, peiteluukut ja virityslaipat."},
+    {"answerCorrectness": "incorrect", "answerText": " Nokkakartio, jättöreunapanelit, laskutelineiden luukut."}]},
+  
+    {"question": "Mitä tarkoittaa valkoinen kaari nopeusmittarissa?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ylinopeutta"},
+    {"answerCorrectness": "incorrect", "answerText": " Normaalia lentonopeusaluetta"},
+    {"answerCorrectness": "incorrect", "answerText": " Laskutelineen käyttöaluetta"},
+    {"answerCorrectness": "incorrect", "answerText": " Laskusiivekkeiden käyttöaluetta"}]},
+  
+    {"question": "Mäntämoottorin imuilman esilämmitys:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ei vaikuta polttoaineen kulutukseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Laihentaa polttoaineseosta."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisää oleellisesti polttoaineen kulutusta."},
+    {"answerCorrectness": "incorrect", "answerText": " Vähentää huomattavasti polttoaineen kulutusta."}]},
+  
+    {"question": "Vuositarkastus tehdään:", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 12 kk välein."},
+    {"answerCorrectness": "incorrect", "answerText": " Aina 100 h huollon yhteydessä."},
+    {"answerCorrectness": "incorrect", "answerText": " 24 kk välein."},
+    {"answerCorrectness": "incorrect", "answerText": " 6 kk välein."}]},
+  
+    {"question": "Mikä on huoltojaksoajan suurin sallittu ylitys?", "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 5%"},
+    {"answerCorrectness": "incorrect", "answerText": " 10%"},
+    {"answerCorrectness": "incorrect", "answerText": " 20%"},
+    {"answerCorrectness": "incorrect", "answerText": " 15%"}]}]

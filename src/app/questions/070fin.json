@@ -1,0 +1,573 @@
+[
+    {"question": " Ilma-aluksen päällikön tulee varmistua, että lentokone on asianmukaisilla laitteilla varustettu ennen lennon aloittamista. Epäselvissä tilanteissa lentäjä voi varmistaa asian:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vain lentokelpoisuustodistuksesta."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain koneen huoltotodistuksesta."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain lentokoneen käsikirjasta."},
+        {"answerCorrectness": "correct", "answerText": " Minimivarusteluettelosta (MEL), jos käytettävissä."}]},
+  
+    {"question": "Ennen lennon aloittamista päällikön tulee varmistua, että lentokone on rekisteröity, lentokelpoinen ja huollettu asianmukaisesti. Mikä seuraavista ei ole pakollinen tarkistettava asiakirja:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Minimivarusteluettelo (MEL)."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentokelpoisuustodistus."},
+        {"answerCorrectness": "correct", "answerText": " Lentokoneen tekninen päiväkirja."},
+        {"answerCorrectness": "incorrect", "answerText": " Vakuutustodistus."}]},
+  
+    {"question": "Mitä seuraavista valoista käytetään osoittamaan ilma-aluksen moottorien olevan käynnissä lentoaseman liikennealueella?",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Punaisia huomiovaloja."},
+        {"answerCorrectness": "incorrect", "answerText": " Laskuvalonheitintä."},
+        {"answerCorrectness": "incorrect", "answerText": " Perävaloa."},
+        {"answerCorrectness": "incorrect", "answerText": " Purjehdusvaloja."}]},
+  
+    {"question": "Yölentotoimintaa varten lentokoneiden ja liitimien tulee olla varustettu seuraavilla valoilla:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Oikea siipi: valkoinen, Vasen siipi: valkoinen, Pyrstö: oranssi."},
+        {"answerCorrectness": "correct", "answerText": " Oikea siipi: vihreä, Vasen siipi: punainen, Pyrstö: valkoinen."},
+        {"answerCorrectness": "incorrect", "answerText": " Oikea siipi: punainen, Vasen siipi: vihreä, Pyrstö: valkoinen."},
+        {"answerCorrectness": "incorrect", "answerText": " Oikea siipi: valkoinen, Vasen siipi: valkoinen, Pyrstö: punainen."}]},
+  
+    {"question": "Ilma-aluksen päällikkö huomaa punaisten huomiovalojen olevan epäkunnossa päivällä suoritettavan lennon aikana. Miten hänen tulee toimia?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee välittömästi laskeutua ensimmäiselle sopivalle lentopaikalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee palata lähtölentopaikalle ja merkitä kone lentokelvottomaksi odottamaan huoltoa."},
+        {"answerCorrectness": "correct", "answerText": " Lento voidaan suorittaa loppuun päivän vallitessa ja valo tulee huollattaa seuraavassa mahdollisessa huollossa."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee laskeutua ensimmäiselle sopivalle lentopaikalle."}]},
+  
+    {"question": "Milloin koneeseen asennettua punaista huomiovaloa tulee käyttää?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Valo tulee sytyttää hetki ennen lentoonlähtöä ja se tulee sammuttaa laskun jälkeenpoistuttaessa kiitotieltä."},
+        {"answerCorrectness": "correct", "answerText": " Valon tulee olla päällä aina moottorin käydessä."},
+        {"answerCorrectness": "incorrect", "answerText": " Valon tulee olla päällä aina kun kone on ilmassa."},
+        {"answerCorrectness": "incorrect", "answerText": " Valo tulee sytyttää moottorin käynnistyksen jälkeen ja se tulee sammuttaa juuri ennenmoottorin sammuttamista."}]},
+  
+    {"question": "Viralliset tiedot ilma-aluksen rajoituksista ja sallituista painorajoista löytyvät:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentokelpoisuus- ja rekisteröintitodistuksista."},
+        {"answerCorrectness": "incorrect", "answerText": " Huoltopäiväkirjasta."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilmailuviranomaisen virallisesta tietokannasta."},
+        {"answerCorrectness": "correct", "answerText": " Ilma-aluksen käsikirjasta."}]},
+  
+    {"question": "Mitä radiotaajuutta tulee kuunnella suoritettaessa lentoonlähtö Suomen ilmatilassa sijaitsevalta valvomattomalta lentopaikalta, ottaen huomioon hyvän lentotavan?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " EFHK APP."},
+        {"answerCorrectness": "correct", "answerText": " Aluelennonjohdon taajuutta (ACC)."},
+        {"answerCorrectness": "incorrect", "answerText": " 121.1 MHz."},
+        {"answerCorrectness": "incorrect", "answerText": " 117.8 MHz."}]},
+  
+    {"question": "Mitkä tuuliolosuhteet ovat kriittisimmät rullattaessa nokkapyörällä varustetulla ylätasokoneella?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tuuli vasemmalta etuviistosta"},
+        {"answerCorrectness": "incorrect", "answerText": " Tuuli etuviistosta"},
+        {"answerCorrectness": "incorrect", "answerText": " Suora sivutuuli"},
+        {"answerCorrectness": "correct", "answerText": " Tuuli takaviistosta"}]},
+  
+    {"question": "Kuinka ohjainten tulisi olla poikkeutettuna rullattaessa myötätuulessa kannuspyöräkoneella?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ylös."},
+        {"answerCorrectness": "correct", "answerText": " Alas."},
+        {"answerCorrectness": "incorrect", "answerText": " Täysin ylös."},
+        {"answerCorrectness": "incorrect", "answerText": " Neutraalit."}]},
+  
+    {"question": "Mikä seuraavista aiheuttaa todennäköisimmin koneen kaatumisen/keikahtamisen rullatessa voimakkaissa tuuliolosuhteissa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jarruttamalla äkisti ja voimakkaasti."},
+        {"answerCorrectness": "correct", "answerText": " Voimakas ja nopea kääntyminen, joka johtaa ylätuulen puoleisen siiven nousemiseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Rullaaminen nokkapyörä ilmassa."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiihdyttämällä nopeasti."}]},
+  
+    {"question": "Kuinka ohjainten tulisi olla poikkeutettuna rullattaessa tuulen puhaltaessa takavasemmalta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Oikea siiveke alhaalla, korkeusperäsin neutraali."},
+        {"answerCorrectness": "correct", "answerText": " Vasen siiveke alhaalla, korkeusperäsin alhaalla."},
+        {"answerCorrectness": "incorrect", "answerText": " Vasen siiveke ylhäällä, korkeusperäsin alhaalla."},
+        {"answerCorrectness": "incorrect", "answerText": " Vasen siiveke alhaalla, korkeusperäsin neutraali."}]},
+  
+    {"question": "Kuinka ohjainten tulisi olla poikkeutettuna rullattaessa kannuspyöräkoneella tuulen puhaltaessa takavasemmalta?",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Vasen siiveke alhaalla, korkeusperäsin alhaalla"},
+        {"answerCorrectness": "incorrect", "answerText": " Vasen siiveke alhaalla, korkeusperäsin neutraali"},
+        {"answerCorrectness": "incorrect", "answerText": " Vasen siiveke ylhäällä, korkeusperäsin ylhäällä"},
+        {"answerCorrectness": "incorrect", "answerText": " Vasen siiveke ylhäällä, korkeusperäsin neutraali"}]},
+  
+    {"question": "Miten ohjainten tulisi olla normaalisti asetettuna rullattaessa voimakkaassa vastatuulessa etuviistosta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ohjaussiivekkeet neutraalit."},
+        {"answerCorrectness": "correct", "answerText": " Siiveke ylhäällä tuulen puoleisessa siivessä."},
+        {"answerCorrectness": "incorrect", "answerText": " Siiveke alhaalla tuulen puoleisessa siivessä."},
+        {"answerCorrectness": "incorrect", "answerText": " Ohjaussiivekkeiden asennolla ei ole merkitystä."}]},
+  
+    {"question": "Miten ohjainten tulisi olla normaalisti asetettuna rullattaessa voimakkaassa vastatuulessa etuvasemmalta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vasen siiveke alhaalla, korkeusperäsin neutraali"},
+        {"answerCorrectness": "incorrect", "answerText": " Vasen siiveke alhaalla, korkeusperäsin ylhäällä"},
+        {"answerCorrectness": "incorrect", "answerText": " Vasen siiveke ylhäällä, korkeusperäsin alhaalla"},
+        {"answerCorrectness": "correct", "answerText": " Vasen siiveke ylhäällä, korkeusperäsin neutraali"}]},
+  
+    {"question": "Minimoidakseen laskutelineisiin kohdistuvat sivuttaissuuntaiset voimat kosketuksessa, lentäjän tulisi pitää:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Koneen lentorata samansuuntaisena kiitotien kanssa."},
+        {"answerCorrectness": "incorrect", "answerText": " Alatuulen puoleinen siipi alaspäin kallistettuna eliminoidakseen tuulen sortamisen sivuun kiitotieltä."},
+        {"answerCorrectness": "incorrect", "answerText": " Koneen pituusakseli yhdensuuntaisena koneen lentoradan kanssa."},
+        {"answerCorrectness": "correct", "answerText": " Ylätuulen puoleinen siipi alaspäin kallistettuna eliminoidakseen tuulen sortamisen sivuun kiitotieltä."}]},
+  
+    {"question": "Jättöpyörteitä syntyy vain kun ilma-alus:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Toimii suurilla nopeuksilla."},
+        {"answerCorrectness": "correct", "answerText": " Tuottaa nostovoimaa."},
+        {"answerCorrectness": "incorrect", "answerText": " On ottanut laskusiivekkeet ja laskutelineet ulos."},
+        {"answerCorrectness": "incorrect", "answerText": " On raskaasti kuormattu."}]},
+  
+    {"question": "Voivatko raskaan ilma-aluksen jättöpyörteiden synnyttämät laskevat ilmavirtaukset ylittää kevyen ilma-aluksen nousukyvyn?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Eivät."},
+        {"answerCorrectness": "correct", "answerText": " Kyllä, erityisesti suuren ja raskaan liikennekoneen takana."},
+        {"answerCorrectness": "incorrect", "answerText": " Eivät tavallisesti."},
+        {"answerCorrectness": "incorrect", "answerText": " Satunnaisesti, erityisesti ilmakuoppien läheisyydessä."}]},
+  
+    {"question": "Mikä on todennäköisin syy vaaralliselle turbulenssille raskaan ilma-aluksen takana?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Potkurivirtaus."},
+        {"answerCorrectness": "incorrect", "answerText": " Syöksyvirtaus."},
+        {"answerCorrectness": "correct", "answerText": " Jättöpyörteet."},
+        {"answerCorrectness": "incorrect", "answerText": " Moottorin suihkuvirtaus."}]},
+  
+    {"question": "Mitkä varotoimenpiteet ovat tarpeen pysähdyttäessä kevyellä ilma-aluksella liikennealueelle pysähtyneen suuren ilma-aluksen taakse?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kevyen ilma-aluksen tulee pysähtyä nokat vastakkain suuren ilma-aluksen kanssa."},
+        {"answerCorrectness": "incorrect", "answerText": " Kevyen ilma-aluksen tulee pysähtyä nokka poispäin suuresta ilma-aluksesta."},
+        {"answerCorrectness": "incorrect", "answerText": " Kevyen ilma-aluksen tulisi pysähtyä vähintään 125 metrin etäisyydelle suuremman ilma-aluksen taakse."},
+        {"answerCorrectness": "correct", "answerText": " Kevyt ilma-alus tulisi pysäyttää suuremman ilma-aluksen moottoreiden suihkuvirtauksen vaara-alueen ulkopuolelle."}]},
+  
+    {"question": "Tehtäessä lentoonlähtöä suuren suihkukoneen lentoonlähdön jälkeen lentäjä voi minimoida jättöpyörteeseen joutumista:",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Nousemalla ilmaan ennen suihkukoneen irtoamiskohtaa ja pysymällä sen lentoradan yläpuolella kunnes on turvallista kääntyä poispäin."},
+        {"answerCorrectness": "incorrect", "answerText": " Säilyttämällä suurempaa nopeutta lentoonlähdössä ja alkunousussa."},
+        {"answerCorrectness": "incorrect", "answerText": " Venyttämällä nousukiitoa ja nousemalla ilmaan reilusti suihkukoneen irtoamiskohdan jälkeen."},
+        {"answerCorrectness": "incorrect", "answerText": " Pyytämällä risteyslentoonlähtöä, mikäli suihkukone tekee lentoonlähdön kiitotien päästä."}]},
+  
+    {"question": "Laskeuduttaessa suuren ilma-aluksen jälkeen lentäjän tulisi välttää jättöpyörrettä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Pysyttelemällä suuren ilma-aluksen liukupolun yläpuolella ja laskeutumalla ennen sen kosketuskohtaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Pysyttelemällä suuren ilma-aluksen liukupolun alapuolella ja laskeutumalla ennen sen kosketuskohtaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Pysyttelemällä suuren ilma-aluksen liukupolun alapuolella ja laskeutumalla sen kosketuskohdan jälkeen."},
+        {"answerCorrectness": "correct", "answerText": " Pysyttelemällä suuren ilma-aluksen liukupolun yläpuolella ja laskeutumalla sen kosketuskohdan jälkeen."}]},
+  
+    {"question": "Miten voit välttää jättöpyörrettä, jos luokaltaan suuremman ilma-aluksen lentorata risteää omaasi vasemmalta oikealle mailin verran edessäsi samalla korkeudella?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Varmistamalla, että lennät hieman suihkukoneen lentoradan alapuolella ja kohtisuoraan sen lentorataan nähden."},
+        {"answerCorrectness": "incorrect", "answerText": " Hidastamalla ilmanopeutesi liikehdintänopeuteen (VA) ja säilyttämällä korkeuden ja lentosuunnan."},
+        {"answerCorrectness": "correct", "answerText": " Varmistamalla, että olet hieman suihkukoneen lentoradan yläpuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Pyörit ympyrää vähintään viisi minuuttia ja jatkat sen jälkeen lentoasi hieman alemmalla korkeudella."}]},
+  
+    {"question": "Kuinka kauan jättöpyörre säilyy suuren ilma-aluksen lennettyä ohi?",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Viisi minuuttia tai pidempään; lennonjohdon porrastus on kaksi tai kolme minuuttia."},
+        {"answerCorrectness": "incorrect", "answerText": " Alle neljä minuuttia."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaksi minuuttia."},
+        {"answerCorrectness": "incorrect", "answerText": " Kolme minuuttia."}]},
+  
+    {"question": "Minkä painekorkeuden jälkeen paineistamattomilla ilma-aluksilla on oltava käytössä lisähappea?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 8000 ft."},
+        {"answerCorrectness": "incorrect", "answerText": " 10 000 ft."},
+        {"answerCorrectness": "incorrect", "answerText": " 9900 ft."},
+        {"answerCorrectness": "correct", "answerText": " 13 000 ft."}]},
+  
+    {"question": "Kirjaimella A merkittyä kiitotien osaa voi käyttää (ks. LAPL/PPL 070-01):",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Laskeutumiseen."},
+        {"answerCorrectness": "correct", "answerText": " Rullaamiseen ja lentoonlähtöön."},
+        {"answerCorrectness": "incorrect", "answerText": " Rullaamiseen ja laskeutumiseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain rullaamiseen."}],
+      "image": "070-01.PNG"},
+  
+    {"question": "Mikä seuraavista väittämistä on tosi koskien kuvan lentokenttää (ks. LAPL/PPL070-01)?",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Kiitotiellä 12 lentoonlähdön voi aloittaa kohdasta A ja laskukelpoinen alue alkaa kohdasta B."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotie 30 on kohdassa E varustettu pysäytysvaijerilla, jota voidaan käyttää sotilasilmaalusten pysäyttämiseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotiellä 30 laskuun voi tulla alueelle E ja lentoonlähdön voi aloittaa kohdasta D."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotiellä 12 lentoonlähtöön ja laskuun käytettävä alue alkaa kohdasta B."}],
+        "image": "070-01.PNG"},
+  
+    {"question": "Mitä eroa on lentokentän alueilla A ja E? (ks. LAPL/PPL 070-01)",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Aluetta A voi käyttää ainoastaan rullaamiseen, aluetta E voi käyttää kaikkeen muuhun liikehtimiseen paitsi laskeutumiseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Aluetta A voi käyttää kaikkeen muuhun toimintaan paitsi raskaiden ilma-alusten laskeutumiseen, aluetta E voi käyttää ainoastaan maakiidon mennessä pitkäksi."},
+        {"answerCorrectness": "correct", "answerText": " Aluetta A voi käyttää rullaamiseen ja lentoonlähtöön, aluetta E voi käyttää ainoastaan maakiidon mennessä pitkäksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Alueilla ei ole toiminnallista eroa, alue A on tilapäinen ja alue E pysyvä."}],
+        "image": "070-01.PNG"},
+  
+    {"question": "Kuvan lentokentässä alue C on luokiteltu (ks. LAPL/PPL 070-01):",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Suljetuksi kiitotieksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Useiden helikopterien laskeutumispaikaksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alusten pysäköintialueeksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Vakautetuksi alueeksi."}],
+        "image": "070-01.PNG"},
+  
+    {"question": "Mitä etelä-pohjoissuuntaisen kiitotien päässä olevat nuolet tarkoittavat (ks. LAPL/PPL 070-02)?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Aluetta ei voi käyttää mihinkään ilma-aluksella suoritettavaan liikehtimiseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Voi käyttää vain rullaamiseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Käytettävissä rullaamiseen, lentoonlähtöön ja laskeutumiseen."},
+        {"answerCorrectness": "correct", "answerText": " Kyseistä aluetta ei voi käyttää laskeutumiseen, mutta lentoonlähtö ja rullaaminen ovat sallittuja."}],
+        "image": "070-02.PNG"},
+  
+    {"question": "Kiitotiellä olevat numerot 04 ja 22 tarkoittavat, että kiitotien suunta on noin (ks.LAPL/PPL 070-02):",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 040° ja 220° (tosisuunta)."},
+        {"answerCorrectness": "incorrect", "answerText": " 004° ja 022° (magneettinen suunta)."},
+        {"answerCorrectness": "incorrect", "answerText": " 004° ja 022° (tosisuunta)."},
+        {"answerCorrectness": "correct", "answerText": " 040° ja 220° (magneettinen suunta)."}],
+        "image": "070-02.PNG"},
+  
+    {"question": "Kuka tai mikä on vastuussa siitä, että ilma-alusta käytetään niiden lakien ja sääntöjen mukaan, mitkä ovat voimassa ilmatilassa, jossa sillä lennetään?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Se valtio, jossa ilma-alus on rekisteröity."},
+        {"answerCorrectness": "incorrect", "answerText": " Se valtio, joka on myöntänyt lentäjän lupakirjan."},
+        {"answerCorrectness": "incorrect", "answerText": " Se valtio, joka on myöntänyt ilma-aluksen voimassaolevan lentokelpoisuustodistuksen."},
+        {"answerCorrectness": "correct", "answerText": " Ilma-aluksen päällikkö."}]},
+  
+    {"question": "ICAO:n jättöpyörreluokat ovat:",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Super Raskas, Raskas, Keskiraskas, Kevyt"},
+        {"answerCorrectness": "incorrect", "answerText": " Super Raskas, Raskas, Keskiraskas, Pieni"},
+        {"answerCorrectness": "incorrect", "answerText": " Valtava, Raskas, Keskiraskas, Kevyt"},
+        {"answerCorrectness": "incorrect", "answerText": " Valtava, Raskas, Kevyt"}]},
+  
+    {"question": "Missä ilma-aluksen rekisteröintitodistusta tulee säilyttää, kun kone on matkalennolla?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtöpaikalla."},
+        {"answerCorrectness": "correct", "answerText": " Ilma-aluksessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Omistajan kotona."},
+        {"answerCorrectness": "incorrect", "answerText": " Rekisteröintivaltion viranomaisella."}]},
+  
+    {"question": "Kenen vastuulla on varmistaa kaikkien tarpeellisten ilma-aluksen asiakirjojen mukanaolo kansainvälisellä lennolla?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilmaliikenne palveluyksikön, jolle lentosuunnitelma lähetetään."},
+        {"answerCorrectness": "incorrect", "answerText": " Lähtökentällä olevan lennonvalvojan."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alusta vuokraavan organisaation."},
+        {"answerCorrectness": "correct", "answerText": " Ilma-aluksen päällikön."}]},
+  
+    {"question": "Minkälainen vastuu koneen päälliköllä on koskien turvavöiden käyttöä, jos ilmaaluksessa on matkustajia?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Päällikön täytyy ohjeistaa matkustajia pitämään turvavyöt kiinnitettyinä koko lennon ajan."},
+        {"answerCorrectness": "correct", "answerText": " Päällikön täytyy kertoa matkustajille turvavöiden sijainti ja käyttö."},
+        {"answerCorrectness": "incorrect", "answerText": " Päällikkö voi ohjeistaa turvavöiden sijainnin ja käytön jos hän haluaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Päälliköllä ei ole vastuuta matkustajien turvavöiden käytöstä."}]},
+  
+    {"question": "Mikä kuvastaa parhaiten vaatimusta lentäjien turvavöiden käytöstä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lanne- ja olkavyöt kytkettyinä lentoonlähdössä ja laskussa."},
+        {"answerCorrectness": "correct", "answerText": " Lannevyö päällä koko lennon ajan; myös olkavyöt päällä lentoonlähdössä ja laskussa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lannevyöt päällä lentoonlähdössä ja laskussa; olkavyö lentoonlähdössä."},
+        {"answerCorrectness": "incorrect", "answerText": " Olkavyöt päällä koko lennon ajan, lannevyöt lentoonlähdössä ja laskussa."}]},
+  
+    {"question": "Kenen vastuulla on tarkastaa ennen lentoa ilma-aluksen olevan sellaisessa kunnossa, että sillä voidaan suorittaa lento turvallisesti?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Matkustaja."},
+        {"answerCorrectness": "correct", "answerText": " Päällikkö."},
+        {"answerCorrectness": "incorrect", "answerText": " Sertifioitu lentokonemekaanikko."},
+        {"answerCorrectness": "incorrect", "answerText": " Omistaja."}]},
+  
+    {"question": "Henkilö, joka on suoraan vastuussa matkustajien turvallisuuden briiffauksestalennolle on:",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Päällikkö."},
+        {"answerCorrectness": "incorrect", "answerText": " Lennonjohto."},
+        {"answerCorrectness": "incorrect", "answerText": " Maahenkilökunta."},
+        {"answerCorrectness": "incorrect", "answerText": " Turvallisuusvirkailija."}]},
+  
+    {"question": "Minkälainen varustus minimissään on oltava ei-kaupalliselle lennolle yksimoottorisella maa ilma-aluksella, jos lennetään vesialueen päällä, jolloin liitomatka ei riitä saavuttamaan maata?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Riittävä määrä pelastuslauttoja kaikkia ilma-aluksessa olevia henkilöitä varten."},
+        {"answerCorrectness": "correct", "answerText": " Pelastusliivit tai vastaavat kelluntalaitteet jokaiselle ilma-aluksessa olevalle henkilölle."},
+        {"answerCorrectness": "incorrect", "answerText": " Pelastusliivit jokaiselle ilma-aluksessa olevalle henkilölle."},
+        {"answerCorrectness": "incorrect", "answerText": " Pelastuslauttoja riittävästi, jotta jokainen ilma-aluksessa oleva henkilö mahtuu lautalle,sekä pelastusliivit jokaiselle."}]},
+  
+    {"question": "Minkä tyyppisellä käsikäyttöisellä sammuttimella tulee sammuttaa sähköpalo ilma-aluksen ohjaamossa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vesi"},
+        {"answerCorrectness": "correct", "answerText": " Halon"},
+        {"answerCorrectness": "incorrect", "answerText": " Öljy"},
+        {"answerCorrectness": "incorrect", "answerText": " Pulveri"}]},
+  
+    {"question": "Kuinka monta käsisammutinta on oltava EASA-maahan rekisteröidyssä yleisimailun ilma-aluksessa, jossa ei ole erillistä matkustajaosastoa?",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " 1"},
+        {"answerCorrectness": "incorrect", "answerText": " 0"},
+        {"answerCorrectness": "incorrect", "answerText": " 2"},
+        {"answerCorrectness": "incorrect", "answerText": " 3"}]},
+  
+    {"question": "Yksimoottorisissa maalentokoneissa on oltava pelastusliivi tai henkilökohtainen kelluntaväline jokaista lentokoneessa olevaa henkilöä varten, kun:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lennetään liitoetäisyydellä maasta"},
+        {"answerCorrectness": "incorrect", "answerText": " Tehdään rullausharjoituksia"},
+        {"answerCorrectness": "correct", "answerText": " Lennetään veden yllä kauempana kuin liitoetäisyydellä maasta"},
+        {"answerCorrectness": "incorrect", "answerText": " Lennetään maan päällä"}]},
+  
+    {"question": "Mikä seuraavista väittämistä on mahdollisuuksien mukaan suositeltavin vaihtoehto laskeuduttaessa maastoon?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Laskusuunta aina suoraan vastatuuleen."},
+        {"answerCorrectness": "incorrect", "answerText": " Laskusuunta aina suoraan myötätuuleen."},
+        {"answerCorrectness": "incorrect", "answerText": " Lasku aina matalimman reunaesteen kohdalta."},
+        {"answerCorrectness": "correct", "answerText": " Laskusuunta mahdollisimman vastatuuleen esteet huomioiden."}]},
+  
+    {"question": "EASA ilma-aluksessa olevan ensiapupakkauksen on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Oltava merkattu oranssilla värillä havaitsemisen helpottamiseksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Oltava helposti saatavilla."},
+        {"answerCorrectness": "correct", "answerText": " Oltava helposti saatavilla sekä säännöllisesti tarkistettu ja täydennetty."},
+        {"answerCorrectness": "incorrect", "answerText": " Oltava merkattu sinisellä värillä havaitsemisen helpottamiseksi."}]},
+  
+    {"question": "Whiteout-ilmiössä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kaikki näyttää pimeältä ja tarvitaan lisävalaistusta."},
+        {"answerCorrectness": "incorrect", "answerText": " Joudutaan turvautumaan pimeännäkölaitteisiin."},
+        {"answerCorrectness": "correct", "answerText": " On varjokato-olosuhteet, jolloin lumisessa ympäristössä pilvisellä säällä ei synny näkyviä varjoja eikä ääriviivoja."},
+        {"answerCorrectness": "incorrect", "answerText": " On varjokato-olosuhteet, sillä taivas on pilvetön ja varjoja ei synny."}]},
+  
+    {"question": "ICAO Annex 6 käsittelee:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Pelastusvälineitä"},
+        {"answerCorrectness": "correct", "answerText": " Ilma-aluksen operointiin liittyviä asioita"},
+        {"answerCorrectness": "incorrect", "answerText": " Kansallisia lakeja"},
+        {"answerCorrectness": "incorrect", "answerText": " Droneja"}]},
+  
+    {"question": "Miten suoritat näkölähestymisen Turkuun (raskaan) MD11-koneen perässä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Pyrit lentämään edellä menevän liukupolun alapuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Pyrit lentämään edellä menevän liukupolun yläpuolella istuttaen ilma-aluksesimahdollisimman lähelle kynnystä."},
+        {"answerCorrectness": "incorrect", "answerText": " Ei vaikuta lähestymisen suunnitteluun."},
+        {"answerCorrectness": "correct", "answerText": " Pyrit lentämään edellä menevän liukupolun yläpuolella istuttaen ilma-aluksesi MD11:n kosketuskohdan jälkeen."}]},
+  
+    {"question": "Ilma-aluksen evakuoinnissa pakkolaskun jälkeen kannattaa huomioida tuuli. Ilma-aluksesta kannattaa välittömästi poistua:",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Tuulen yläpuolelle ja palata koneelle vasta kun riittävä aika onnettomuudesta on kulunut."},
+        {"answerCorrectness": "incorrect", "answerText": " Tuulen alapuolelle ja palata koneelle vasta kun riittävä aika onnettomuudesta on kulunut."},
+        {"answerCorrectness": "incorrect", "answerText": " Tuulen yläpuolelle ja palata heti koneelle tarkastamaan vauriot."},
+        {"answerCorrectness": "incorrect", "answerText": " Tuulen alapuolelle ja palata heti koneelle tarkastamaan vauriot."}]},
+  
+    {"question": "Windshearilla tarkoitetaan:",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Nopeaa tuulen suunnan ja/tai nopeuden muutosta."},
+        {"answerCorrectness": "incorrect", "answerText": " Mekaanista turbulenssia."},
+        {"answerCorrectness": "incorrect", "answerText": " Nopeaa tuulen nopeuden muutosta."},
+        {"answerCorrectness": "incorrect", "answerText": " Nopeaa tuulen suunnan muutosta."}]},
+  
+    {"question": "Mikä seuraavista ohjeista meluhaitan pienentämiseksi on oikein?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Käytä oikoreittiä lähestymisen aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " Lennä yli 100 KIAS:n nopeutta lähestymisen loppuvaiheessa."},
+        {"answerCorrectness": "correct", "answerText": " Lennä julkaistuja reittejä."},
+        {"answerCorrectness": "incorrect", "answerText": " Suorita voimakkaita liikkeitä lentäessäsi."}]},
+  
+    {"question": "Mitä ohjeita tulee sisältyä lentoa edeltäviin matkustajille annettaviin turvallisuusohjeisiin?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Sammuttimen sijanti"},
+        {"answerCorrectness": "incorrect", "answerText": " Lentokoneen ovien toiminta ja käyttö"},
+        {"answerCorrectness": "incorrect", "answerText": " Istuinvöiden toiminta ja käyttö"},
+        {"answerCorrectness": "correct", "answerText": " Kaikki vaihtoehdot oikein"}]},
+  
+    {"question": "Valitse oikea yhdistelmä. Suurimmat jättöpyörteet muodostuvat lentokoneesta,joka: 1. On massaltaan suuri 2. On massaltaan pieni 3. Lentää suurellanopeudella 4. Lentää pienellä nopeudella 5. Lentää suurella kohtauskulmalla 6.Lentää pienellä kohtauskulmalla",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 1+3+5"},
+        {"answerCorrectness": "correct", "answerText": " 1+4+5"},
+        {"answerCorrectness": "incorrect", "answerText": " 2+4+5"},
+        {"answerCorrectness": "incorrect", "answerText": " 1+4+6"}]},
+  
+    {"question": "Lennettäessä alueella, jossa pelastusliivien mukanaolo on pakollista, tulee matkustajille ohjeistaa ennen lentoa, että:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Matkustajia ei tarvitse ohjeistaa pelastusliiveistä tai niiden käytöstä."},
+        {"answerCorrectness": "incorrect", "answerText": " Pelastusliivejä ei saa pitää lennolla valmiiksi puettuina."},
+        {"answerCorrectness": "incorrect", "answerText": " Pelastusliivit tulee täyttää heti, kun tieto pakkolaskusta veteen on tehty."},
+        {"answerCorrectness": "correct", "answerText": " Pelastusliivit tulee täyttää vasta koneen ulkopuolella."}]},
+  
+    {"question": "Suurin häkämyrkytykseen (CO) liittyvä vaara lennolla on:",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Kyseessä on näkymätön, hajuton ja mauton kaasu, jonka havaitseminen aistien avulla onhyvin vaikeaa ja se saattaa aiheuttaa nopean ja huomaamattoman tajunnan menetyksen."},
+        {"answerCorrectness": "incorrect", "answerText": " CO todennäköisesti sytyttää tulipalon koneen polttoainejärjestelmässä."},
+        {"answerCorrectness": "incorrect", "answerText": " CO:ta ei voida havaita millään teknisillä laitteilla."},
+        {"answerCorrectness": "incorrect", "answerText": " Häkää on lähes mahdotonta tuulettaa koneesta pois."}]},
+  
+    {"question": "Vesiliirto märällä kiitotiellä tapahtuu yleensä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kuumalla ilmalla."},
+        {"answerCorrectness": "correct", "answerText": " Suurella nopeudella."},
+        {"answerCorrectness": "incorrect", "answerText": " Ainoastaan jäisillä, veden peittämillä kiitoteillä."},
+        {"answerCorrectness": "incorrect", "answerText": " Sivutuulessa."}]},
+  
+    {"question": "Edelläsi laskeutuvan matkustajakoneen jättöpyörteet:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hajoavat lähes välittömästi."},
+        {"answerCorrectness": "correct", "answerText": " Liikkuvat tuulen mukana."},
+        {"answerCorrectness": "incorrect", "answerText": " Nousevat ylöspäin."},
+        {"answerCorrectness": "incorrect", "answerText": " Liikkuvat suoraan kohti jäljessä tulevaa."}]},
+  
+    {"question": "Joudut tekemään pakkolaskun lennolla. Mikä seuraavista on mielestäsi tässä tilanteessa kaikista tärkein tehtäväsi?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lennonjohdon informoiminen."},
+        {"answerCorrectness": "incorrect", "answerText": " Matkustajien informoiminen."},
+        {"answerCorrectness": "correct", "answerText": " Ilma-aluksen ohjaaminen valitsemallesi pakkolaskupaikalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Hätälähettimen aktivointi."}]},
+  
+    {"question": "Kuka vastaa pakkolaskutilanteessa matkustajien evakuoinnista?",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Koneen päällikkö."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilmailuviranomainen."},
+        {"answerCorrectness": "incorrect", "answerText": " Matkustajat itse."},
+        {"answerCorrectness": "incorrect", "answerText": " Koneen omistaja."}]},
+  
+    {"question": "Matkustajia opastetaan turvavöiden ja ovien käytössä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön jälkeen."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain ansiolentotoiminnassa."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain poikkeustapauksissa."},
+        {"answerCorrectness": "correct", "answerText": " Ennen lentoa."}]},
+  
+    {"question": "Mikä seuraavista EI yleensä ole lentämiselle vaarallinen sääilmiö?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jäätäminen"},
+        {"answerCorrectness": "correct", "answerText": " Tuuli"},
+        {"answerCorrectness": "incorrect", "answerText": " Ukkonen"},
+        {"answerCorrectness": "incorrect", "answerText": " Voimakas turbulenssi"}]},
+  
+    {"question": "Mikä seuraavista EI ole matkustajille ennen lentoa selvitettävä asia?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alukseen meno ja siitä poistuminen."},
+        {"answerCorrectness": "incorrect", "answerText": " Ovien avaaminen ja sulkeminen."},
+        {"answerCorrectness": "correct", "answerText": " Ilmastointilaitteen käyttö."},
+        {"answerCorrectness": "incorrect", "answerText": " Turvavöiden toiminta."}]},
+  
+    {"question": "Lentäessäsi meluherkillä alueilla, kannattaa lentoonlähdöissä ja laskuissakäyttää:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Normaalia loivempia profiileja."},
+        {"answerCorrectness": "incorrect", "answerText": " Normaaleja suurempia nopeuksia."},
+        {"answerCorrectness": "correct", "answerText": " Normaalia jyrkempiä profiileja."},
+        {"answerCorrectness": "incorrect", "answerText": " Jyrkkiä kaartoja."}]},
+  
+    {"question": "Mikä seuraavista väittämistä on oikein?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentokorkeus ei juurikaan vaikuta meluhaittaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentäjän tulisi ensisijaisesti pohtia meluhaittaa lentoreittiä valitessaan."},
+        {"answerCorrectness": "correct", "answerText": " Lentäjä voi minimoida meluhaittaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Käytetyt laskeutumisprofiilit eivät juurikaan vaikuta meluhaittaan."}]},
+  
+    {"question": "Jos lentoasemalla on havaittu lintuesiintymiä, niistä ilmoitetaan:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " METAR:ssa"},
+        {"answerCorrectness": "incorrect", "answerText": " TAF:ssa"},
+        {"answerCorrectness": "correct", "answerText": " ATIS-lähetyksessä"},
+        {"answerCorrectness": "incorrect", "answerText": " SNOWTAM:ssa"}]},
+  
+    {"question": "Ilma-aluksissa käytettävän käsisammuttimen sammutusaineen on oltava:",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Tyypiltään ja määrältään soveltuva sellaisiin paloihin, joita todennäköisimmin syttyy siinä tilassa, jossa sammutinta on tarkoitus käyttää."},
+        {"answerCorrectness": "incorrect", "answerText": " Tyypiltään ja määrältään soveltuva kaikkiin paloihin."},
+        {"answerCorrectness": "incorrect", "answerText": " Halonia"},
+        {"answerCorrectness": "incorrect", "answerText": " Tyypiltään ja määrältään soveltuva sellaisiin paloihin, joita todennäköisimmin syttyy lentokoneen matkustajatilassa."}]},
+  
+    {"question": "Yleisin ilma-aluksissa käytetty käsisammutin sisältää sammutusaineena:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidia (CO2)"},
+        {"answerCorrectness": "incorrect", "answerText": " Sammutusjauhetta"},
+        {"answerCorrectness": "incorrect", "answerText": " Vettä"},
+        {"answerCorrectness": "correct", "answerText": " Halonia"}]},
+  
+    {"question": "Ohjaaja voi kohdata \"white out\" -ilmiön:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lennettäessä jäätävässä vesisateessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Tehtäessä laskua vesisateessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lennettäessä kovalla pakkasella."},
+        {"answerCorrectness": "correct", "answerText": " Tehtäessä laskua lumiselle järvenjäälle pilvisellä säällä."}]},
+  
+    {"question": "Jättöpyörteet ovat suurimmillaan, kun ilma-alus:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " On kevyt ja lentää nopeasti."},
+        {"answerCorrectness": "incorrect", "answerText": " On painava ja lentää nopeasti."},
+        {"answerCorrectness": "incorrect", "answerText": " On kevyt ja lentää hitaasti."},
+        {"answerCorrectness": "correct", "answerText": " On painava ja lentää hitaasti."}]},
+  
+    {"question": "Mikä seuraavista ohjeista meluhaitan pienentämiseksi on oikea?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Julkaistun reitin seuraaminen ei ole suositeltavaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Suorita laskut aina \"spot landinginä\"."},
+        {"answerCorrectness": "correct", "answerText": " Noudata julkaistuja reittejä."},
+        {"answerCorrectness": "incorrect", "answerText": " Suorita kaikki kaarrot jyrkkinä."}]},
+  
+    {"question": "Olet lähdössä lennolle Helsinki-Malmin lentoasemalta Lahti-vesivehmaan kentälle yksin. Mikä seuraavista EI ole pakollinen varuste?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Palosammutin"},
+        {"answerCorrectness": "correct", "answerText": " Pelastusliivi"},
+        {"answerCorrectness": "incorrect", "answerText": " Reittiä koskevat kartat"},
+        {"answerCorrectness": "incorrect", "answerText": " Ensiapulaukku"}]},
+  
+    {"question": "\"Preflight check\" tulee käydä läpi:",
+      "answers": [
+        {"answerCorrectness": "correct", "answerText": " Ennen jokaista lentoa."},
+        {"answerCorrectness": "incorrect", "answerText": " Rullauksen aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " Ennen päivän ensimmäistä lentoa."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain ennen tarkastuslentoa."}]},
+  
+    {"question": "Millä tavoin omalla toiminnalla on mahdollista estää vaaratilanne, joka aiheutuu aktiivisille kiitotielle rullaamisesta ilman selvitystä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Käyttämällä radioliikenteessä standardia fraseologiaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Pysähtymällä ennen kiitotielle rullaamista."},
+        {"answerCorrectness": "incorrect", "answerText": " Tarkastamalla silmämääräisesti kiitotien vapaus ennen ylittämistä."},
+        {"answerCorrectness": "correct", "answerText": " Kaikki vaihtoehdot ovat totta."}]},
+  
+    {"question": "Millä keinoin tulipalon riskiä on pyritty vähentämään tankatessa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Määrittelemällä alue, jolla ei saa tupakoida."},
+        {"answerCorrectness": "correct", "answerText": " Määrittelemällä tankkausalue, jolla kielletään avotulenteko ja tupakointi."},
+        {"answerCorrectness": "incorrect", "answerText": " Määrittelemällä alue, jolla ei saa tehdä avotulta."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen tankkaajan tulee määritellä tankkausalue."}]},
+  
+    {"question": "Ilma-aluksen päällikön on tehtävä selvitys lentoturvallisuutta vaarantaneesta tapauksesta tai lentotoiminnassa sattuneesta vauriosta lennon päätyttyä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 24 tunnin kuluessa."},
+        {"answerCorrectness": "correct", "answerText": " Mahdollisimman pian."},
+        {"answerCorrectness": "incorrect", "answerText": " 12 tunnin kuluessa."},
+        {"answerCorrectness": "incorrect", "answerText": " 48 tunnin kuluessa."}]},
+  
+    {"question": "Mitkä ovat toimenpiteesi, jos lennät VFR-näkölentosääntöjen mukaista lentoa ja ajaudut pilveen:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tiputat korkeutta niin kauan, että tulet ulos pilvestä."},
+        {"answerCorrectness": "incorrect", "answerText": " Jatkat lentoa muuttamatta suuntaa."},
+        {"answerCorrectness": "correct", "answerText": " Teet 180° kaarron ja luotat mittareihin kunnes ulkoiset referenssit ovat taas käytössä."},
+        {"answerCorrectness": "incorrect", "answerText": " Teet 180° kaarron ja luotat ulkoisiin referensseihin."}]},
+  
+    {"question": "Mikä seuraavista koskien melunvaimennusalueita on totta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kaikki tiheästi asutut alueet ovat automaattisesti melunvaimennusalueita."},
+        {"answerCorrectness": "incorrect", "answerText": " Melunvaimennusalueella lennettäessä saa käyttää enintään 50% maksimitehosta riippumatta korkeudesta."},
+        {"answerCorrectness": "incorrect", "answerText": " Melunvaimennusalueet ovat aina rajoitusalueita."},
+        {"answerCorrectness": "correct", "answerText": " Melunvaimennusalueet merkitään karttaan sille tarkoitetulla karttamerkillä."}]},
+  
+    {"question": "Mikä seuraavista tapauksista edellyttää vaaratilanneraportin tekemistä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Laskuvalonheittimen vikaantuminen lennolla"},
+        {"answerCorrectness": "incorrect", "answerText": " Reitin tai määränpään muuttaminen lennolla sään takia"},
+        {"answerCorrectness": "incorrect", "answerText": " Matkustajan pahoinvointi lennolla."},
+        {"answerCorrectness": "correct", "answerText": " Ohjainpinnan osittainen jumiutuminen lennolla"}]},
+  
+    {"question": "Mikä seuraavista meri- ja vesialueilla tapahtuvaa toimintaa koskevista väittämistä on oikein?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Merialueella on koneessa kaikilla ansiolennoilla oltava kellukkeet."},
+        {"answerCorrectness": "correct", "answerText": " Liivien lukumäärän pitää olla riittävä kaikille matkustajille ja miehistölle."},
+        {"answerCorrectness": "incorrect", "answerText": " Meripelastuspuvut on aina oltava päälle puettuna."},
+        {"answerCorrectness": "incorrect", "answerText": " Koneessa pitää aina olla pelastuslautta."}]},
+  
+    {"question": "Koneen ulkopuolinen tarkastus tehdään:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Päivän viimeisen lennon jälkeen."},
+        {"answerCorrectness": "correct", "answerText": " Ennen jokaista lentoa."},
+        {"answerCorrectness": "incorrect", "answerText": " Aamuisin."},
+        {"answerCorrectness": "incorrect", "answerText": " Mekaanikon toimesta."}]},
+  
+    {"question": "Mikä on paras tapa pysäköidä ja ankkuroida kone voimakkaissatuuliolosuhteissa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Pyrstö vastatuuleen."},
+        {"answerCorrectness": "incorrect", "answerText": " Pyrstö sivutuuleen."},
+        {"answerCorrectness": "incorrect", "answerText": " Nokka myötätuuleen."},
+        {"answerCorrectness": "correct", "answerText": " Nokka vastatuuleen."}]}]

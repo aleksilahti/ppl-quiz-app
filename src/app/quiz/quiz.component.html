@@ -1,0 +1,18 @@
+
+{{question}}<br/>
+<li *ngFor="let answer of answers" (click)="onSelect(answer)">
+  <button class="answerButton">{{answer.answerText}}</button>
+</li>
+<img src={{image}} width="1vw">
+
+<div>
+  <h2>{{resultTitle}}</h2>
+  <h1>{{resultText}}</h1>
+  <h1>{{resultPercentage}}</h1>
+</div>
+<ul *ngFor="let resultQuestion of resultQuestions">
+  {{resultQuestion.question}}<br/>
+  <li *ngFor="let resultAnswer of resultQuestion.answers">
+    <span class={{resultAnswer.answerCorrectness}} id={{resultAnswer.userAnswer}}>{{resultAnswer.answerText}}</span>
+  </li>
+</ul>

@@ -1,0 +1,22 @@
+.correct{
+    background-color: greenyellow;
+}
+#userAnswerWrong{
+    background-color: red;
+}
+#userAnswerCorrect{
+    background-color: green;
+}
+
+.answerButton{
+    min-width: 500px;
+    min-heigh: 100px;
+}
+img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 90%;
+    max-height: 90%;
+    margin: 20px auto;
+  }

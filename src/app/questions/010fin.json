@@ -1,0 +1,1264 @@
+[
+    {"question": " Mitä seuraavista dokumenteista ei ole vaatimuksena kuljettaa lennolla ilmaaluksessa ICAO:n jäsenvaltioissa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Rekisteröimistodistus"},
+        {"answerCorrectness": "incorrect", "answerText": " Miehistön syntymätodistus"},
+        {"answerCorrectness": "incorrect", "answerText": " Lentokelpoisuustodistus"},
+        {"answerCorrectness": "incorrect", "answerText": " Miehistön lupakirja"}]},
+  
+    {"question": "Mikä seuraavista lauseista koskien ilmailuviranomaisen järjestämiä teoriakokeitaEASA FCL -lupakirjan myöntämiseksi on oikein?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Uusintakertojen määrää ei ole rajoitettu."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikki kokeet on suoritettava 12 kuukauden aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikki teoriakokeet on suoritettava yhden jäsenvaltion alaisuudessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Kokelas läpäisee teoriakokeet, kun hän suorittaa hyväksytysti 75% osakokeista."}]},
+  
+    {"question": "Ilma-alus tai lentäjä, joilla on asianmukaiset luvat ja lupakirjat, ei saa suorittaakansainvälistä lentoa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ellei viranomainen siitä maasta, jossa ilma-alus on rekisteröity tai lentäjän lupakirja onmyönnetty, ole myöntänyt poikkeuslupaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Ellei mikä tahansa ICAO:n jäsenvaltio ole myöntänyt yleistä poikkeuslupaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilman sen valtion lupaa, jonka alueelle lennetään."},
+        {"answerCorrectness": "incorrect", "answerText": " Missään tapauksessa."}]},
+  
+    {"question": "Minkä oikeuden ICAO:n jäsenvaltioille myöntää kansainvälisen ilmailunyleissopimuksen artikla 16?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Oikeus suorittaa tarkastus, päällikön luvalla ja ilman kohtuutonta viivytystä, toistenjäsenvaltioiden ilma-aluksissa niiden saapuessa tai lähtiessä."},
+        {"answerCorrectness": "incorrect", "answerText": " Oikeus suorittaa tarkastus, ilman kohtuutonta viivytystä, toisten jäsenvaltioiden ilmaaluksissaniiden saapuessa tai lähtiessä, mikäli on syytä epäillä, että ilma-aluksessakuljetetaan laittomia esineitä tai etsintäkuulutettuja matkustajia."},
+        {"answerCorrectness": "incorrect", "answerText": " Oikeus suorittaa tarkastus, ilman kohtuutonta viivytystä, toisten jäsenvaltioiden ilmaaluksissaniiden saapuessa tai lähtiessä, mikäli tarkastukseen esitetään syy."},
+        {"answerCorrectness": "incorrect", "answerText": " Oikeus suorittaa tarkastus, ilman kohtuutonta viivytystä, toisten jäsenvaltioiden ilmaaluksissaniiden saapuessa tai lähtiessä."}]},
+  
+    {"question": "Mitä lentosääntöjä tulee noudattaa ilmatilassa, joka on eri maan hallinnoima kuinse, missä ilma-alus on rekisteröity?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " JAA:n jäsenvaltioiden hyväksymiä lentosääntöjä."},
+        {"answerCorrectness": "incorrect", "answerText": " ICAO:n julkaisemia lentosääntöjä, koska ne koskevat sellaisenaan kaikkia jäsenmaita."},
+        {"answerCorrectness": "incorrect", "answerText": " Sen maan, missä ilma-alus lentää."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen rekisteröintimaan."}]},
+  
+    {"question": "Minkä luokan lääketieteellinen kelpoisuustodistus täyttää PART-FCL PPLlupakirjanvaatimukset?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Luokka B tai C."},
+        {"answerCorrectness": "incorrect", "answerText": " Luokka 1 tai 2."},
+        {"answerCorrectness": "incorrect", "answerText": " Luokka A tai B."},
+        {"answerCorrectness": "incorrect", "answerText": " Luokka 2 tai 3."}]},
+  
+    {"question": "Mikä oli Chicagon yleiskokouksen lopputulos?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " ICAO ja EASA."}]},
+  
+    {"question": "Artiklaa Chicagon yleiskokoukseen.[C] Kansainvälisen siviili-ilmailun yleissopimus.[D] PICAO.8 LAPL/PPL-lupakirjan haltijalla ei ole oikeutta:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Pudottaa laskuvarjohyppääjiä."},
+        {"answerCorrectness": "incorrect", "answerText": " Hinata purjelentokoneita."},
+        {"answerCorrectness": "incorrect", "answerText": " Kuljettaa maksavia asiakkaita."},
+        {"answerCorrectness": "incorrect", "answerText": " Antaa lennonopetusta FI(A) kelpuutuksella."}]},
+  
+    {"question": "Ilma-aluksen päällikön tulee varmistua ennen lentämistä toisen jäsenvaltionilmatilaan laskeutumista varten, että:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee varmistua siitä, että ilma-aluksen lentokelpoisuustodistus on voimassa,hänellä on ilma-aluksen tyyppihyväksyntä ja hän on tehnyt kohdemaan järjestämänilmailulain teoriakokeen."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee varmistua ennen lentoa, että kohdemaan viranomaisella on hyväksytettyhänen lupakirjansa."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksessa on mukana kaikki tarvittavat asiakirjat, mm. lentokelpoisuustodistus, jaettä ilma-alus on lentokelpoinen ja hyväksytysti rekisteröity."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee varmistua siitä, että ilma-aluksessa on toimiva radio ja transponderi."}]},
+  
+    {"question": "Ilma-aluksen päällikön tulee varmistua ennen lentämistä toisen ICAO:njäsenvaltion ilmatilaan laskeutumista varten, että:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hänellä tulee olla ICAO:n jäsenvaltion myöntämä lupakirja."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänellä on sen valtion myöntämä tai hyväksymä lupakirja, jossa ilma-alus on rekisteröity."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänellä tulee olla jonkin JAA-jäsenvaltion myöntämä lupakirja."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänellä tulee olla mikä tahansa voimassaoleva lupakirja."}]},
+  
+    {"question": "Milloin purjehdusvalot tulee olla päällä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kun liikutaan lentokentän liikehtimisalueella."},
+        {"answerCorrectness": "incorrect", "answerText": " Yöllä tai kun viranomainen niin vaatii."},
+        {"answerCorrectness": "incorrect", "answerText": " Aina kun ilma-aluksen päällikkö haluaa kytkeä ne päälle."},
+        {"answerCorrectness": "incorrect", "answerText": " Auringon laskusta auringon nousuun tai kun viranomainen niin vaatii."}]},
+  
+    {"question": "Minkä lentosääntöjen mukaisesti lento tulee lentää?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lennonjohdon ohjeiden mukaisesti."},
+        {"answerCorrectness": "incorrect", "answerText": " IFR IMC:ssä ja VFR VMC:ssä."},
+        {"answerCorrectness": "incorrect", "answerText": " Joko IMC tai VMC."},
+        {"answerCorrectness": "incorrect", "answerText": " Joko IFR tai VFR."}]},
+  
+    {"question": "Milloin voit lentää tiheästi asutun alueen, kaupungin tai ulkosalle kokoontuneenväkijoukon yli korkeudella, josta ei pystyisi hätätapauksessa laskeutumaanturvallisesti?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vain pysyessä selvästi erossa pilvestä ja maan pinta näkyvissä."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain kun operaattori antaa luvan."},
+        {"answerCorrectness": "incorrect", "answerText": " Ei koskaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain lentoonlähdön tai laskun yhteydessä."}]},
+  
+    {"question": "Kahdella samalla lentokorkeudella lentävän ilma-aluksen lähestyessä toisiinleikkaavista lentosuunnista, on sen ilma-aluksen, jolla on kone oikeallapuolellaan, väistettävä tätä. Oikein vai väärin?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Oikein."},
+        {"answerCorrectness": "incorrect", "answerText": " Oikein vain, jos oikealla puolella oleva kone on nopeampi."},
+        {"answerCorrectness": "incorrect", "answerText": " Väärin, mikäli toinen ilma-alus ei hinaa mitään."},
+        {"answerCorrectness": "incorrect", "answerText": " Väärin. Se jolla on kone oikealla puolellaan, on etuoikeutettu."}]},
+  
+    {"question": "Mikä alla olevista vastausvaihtoehdoista täydentää parhaiten lauseen? Kun kaksi tai useampi ilma-alus ovat lähestymässä lentopaikkaa laskuavarten_____",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Alempana olevalla ilma-aluksella on etuoikeus, ellei lennonjohto (ATC) ole jo määritellytlaskulupaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksella, jolla lyhyin vaakaetäisyys kiitotien kynnykselle, on etuoikeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Alempana olevalla ilma-aluksella on aina etuoikeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Ylempänä olevalla ilma-aluksella on aina etuoikeus."}]},
+  
+    {"question": "Poislukien lentoonlähtö tai laskeutuminen, tai muut erikseen määritellyt tilanteet,VFR-lentoa ei saa suorittaa alempana kuin ____ maan tai veden pinnasta tai150m ilma-aluksesta ____ säteellä olevan korkeimman esteen yläpuolella.",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 500 ft / 500 ft."},
+        {"answerCorrectness": "incorrect", "answerText": " 1500 ft / 1000 ft."},
+        {"answerCorrectness": "incorrect", "answerText": " 800 ft / 1000 ft."},
+        {"answerCorrectness": "incorrect", "answerText": " 1000 ft / 500 ft."}]},
+  
+    {"question": "Kaksi ilma-alusta lentää näkölentosääntöjen mukaisesti ja lähestyvät toisiaan.Ilma-aluksen, jolla on etuoikeus, tulisi säilyttää:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ohjaussuunta ja nopeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeus merenpinnasta ja suunta."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeus maanpinnasta ja nopeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeus merenpinnasta ja nopeus."}]},
+  
+    {"question": "Lentäessäsi yöllä ilma-aluksen päällikkönä näet törmäyksen estevalon japunaisen jatkuvasti palavan valon samalla korkeudella ja suhteellisellasuuntimalla 050 astetta. Onko riski yhteentörmäykseen ja kenellä on etuoikeus?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ei. Toisella ilma-aluksella."},
+        {"answerCorrectness": "incorrect", "answerText": " Ei. Sinulla on."},
+        {"answerCorrectness": "incorrect", "answerText": " Kyllä. Sinulla on."},
+        {"answerCorrectness": "incorrect", "answerText": " Kyllä. Toisella ilma-aluksella."}]},
+  
+    {"question": "Jos LAPL/PPL-lupakirjan haltija, jolla ei ole muita kelpuutuksia, saalennonjohdolta tutkapalvelun yhteydessä ohjeita muuttaa ohjaussuuntaansa taikorkeuttaan niin, ettei ohjeita noudattamalla pysty säilyttämään näkölentoolosuhteita,täytyy hänen:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jatkaa sen hetkisellä ohjaussuunnalla ja korkeudella sekä ilmoittaa lennonjohtajalle,miksi ei pysty noudattamaan selvitystä."},
+        {"answerCorrectness": "incorrect", "answerText": " Noudattaa selvitystä joka tapauksessa, mutta siirtyä seuraamaan mittareita ajoissa."},
+        {"answerCorrectness": "incorrect", "answerText": " Noudattaa lennonjohtajan ohjeita niin tarkasti kuin mahdollista, mutta ei kuitenkaan lentäämittarilentosääolosuhteisiin."},
+        {"answerCorrectness": "incorrect", "answerText": " Jatkaa sen hetkisellä ohjaussuunnalla ja korkeudella, eikä sanoa mitään ja odottaalennonjohtajan seuraavia ohjeita."}]},
+  
+    {"question": "Yhtä tai useampaa vilkkaasti liikennöityä lentoasemaa palvelevaa ja niidenläheisyyteen perustettua valvottua ilmatilaa, johon ATS-reitit yhtyvät, kutsutaan:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lähestymisalueeksi (TMA)."},
+        {"answerCorrectness": "incorrect", "answerText": " Lähiliikennevyöhykkeeksi (ATZ)."},
+        {"answerCorrectness": "incorrect", "answerText": " Lähialueeksi (CTR)."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentoväyläksi (AWY)."}]},
+  
+    {"question": "Mikä on kansainvälinen ilmailun VHF hätätaajuus?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 123.45 MHz"},
+        {"answerCorrectness": "incorrect", "answerText": " 121.50 MHz"},
+        {"answerCorrectness": "incorrect", "answerText": " 406.00 MHz"},
+        {"answerCorrectness": "incorrect", "answerText": " 243.00 MHz"}]},
+  
+    {"question": "Kuinka usein AIC-päivitykset julkaistaan?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Neljännesvuosittain."},
+        {"answerCorrectness": "incorrect", "answerText": " Viikoittain."},
+        {"answerCorrectness": "incorrect", "answerText": " Vuosittain."},
+        {"answerCorrectness": "incorrect", "answerText": " Tarvittaessa."}]},
+  
+    {"question": "LAPL/PPL-lupakirjan haltija saa eritys-VFR-selvityksen lähialueelle saapumiseen.Ennen lähialueen rajan ylittämistä hän havaitsee, ettei enää voi vastaanottaa tailähettää radiolla. Tällöin hänen täytyy:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jatkaa lähialueelle noudattaen viimeistä saatua selvitystä ja lähettää samalla aikeensasokeasti."},
+        {"answerCorrectness": "incorrect", "answerText": " Jatkaa lähialueelle ja odottaa \"selvä laskuun\"-valomerkkiä."},
+        {"answerCorrectness": "incorrect", "answerText": " Pysyä poissa lähialueelta."},
+        {"answerCorrectness": "incorrect", "answerText": " Jatkaa määränpäähän hänelle määrätyn ilmoittautumispaikan kautta noudattaenviimeistä saatua selvitystä."}]},
+  
+    {"question": "Mikä koodi toisiotutkavastaimeen tulisi asettaa hätätilanteessa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 7000"},
+        {"answerCorrectness": "incorrect", "answerText": " 7700"},
+        {"answerCorrectness": "incorrect", "answerText": " 7777"},
+        {"answerCorrectness": "incorrect", "answerText": " 7600"}]},
+  
+    {"question": "Jos merkinantaja ojentaa oikean käsivartensa ja sauvansa sivulle 90 asteenkulmaan vartalosta ja ojentaa vasenta käsivartta sivulle, koukistaa sitäkyynärpäästä ja liikuttaa vasenta sauvaa ylösalas rinnan ja pään korkeudenvälillä (liite LAPL/PPL 010-01), se tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jatka suoraan eteenpäin."},
+        {"answerCorrectness": "incorrect", "answerText": " Käynnistä moottori."},
+        {"answerCorrectness": "incorrect", "answerText": " Käänny vasemmalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Käänny oikealle."}]},
+  
+    {"question": "Mitä tarkoittaa lähilennonjohdosta lennolla olevalle ilma-alukselle suunnattujatkuva vihreä valomerkki?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Laskeudu välittömästi."},
+        {"answerCorrectness": "incorrect", "answerText": " Laske tälle lentopaikalle ja rullaa asematasolle."},
+        {"answerCorrectness": "incorrect", "answerText": " Selvä laskuun."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alukselle on annettu etusija laskeutumiseen radiohäiriön johdosta."}]},
+  
+    {"question": "Minkä värisiä ovat rullaustien keskilinjamaalaukset?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vihreitä."},
+        {"answerCorrectness": "incorrect", "answerText": " Keltaisia."},
+        {"answerCorrectness": "incorrect", "answerText": " Punaisia."},
+        {"answerCorrectness": "incorrect", "answerText": " Valkoisia."}]},
+  
+    {"question": "Minkä värisiä ovat kiitotiemaalaukset?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Punaisia."},
+        {"answerCorrectness": "incorrect", "answerText": " Valkoisia."},
+        {"answerCorrectness": "incorrect", "answerText": " Vihreitä."},
+        {"answerCorrectness": "incorrect", "answerText": " Keltaisia."}]},
+  
+    {"question": "Olet loppuosalla lähestymässä kynnystä ja näet lennonjohdosta annetunjatkuvan punaisen valomerkin. Tämä tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Älä laske. Lentokenttä suljettu."},
+        {"answerCorrectness": "incorrect", "answerText": " Jatka lähestymistä ja odota vihreää valoa."},
+        {"answerCorrectness": "incorrect", "answerText": " Älä laske. Jatka lentoa varalentopaikalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Anna tietä toiselle ilma-alukselle ja jatka lentoa laskukierroksessa."}]},
+  
+    {"question": "Miksi sanotaan korkeusmittarin QNH-asetuksella näyttämää korkeutta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tosikorkeudeksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeus merenpinnasta."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentopinnaksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeudeksi maanpinnasta."}]},
+  
+    {"question": "Miten lentäjän pitäisi toimia radiohäiriötilanteessa lennettäessänäkölentosääntöjen mukaisesti näkölentosääolosuhteissa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jatkaa lentoa määräkentälle lähettäen sokeasti ja pyrkien välttämäänmittarilentosääolosuhteita."},
+        {"answerCorrectness": "incorrect", "answerText": " Noudattaa puolustusvoimien ohjetta radiohäiriötilanteissa toimimiseksi ja odottaaopastuskoneen saapumista."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentää lähimmälle lentopaikalle, tehdä ympyrää toisella puolella kuin normaalilaskukierroskuvio ja odottaa jatkuvaa vihreää valomerkkiä lennonjohdolta."},
+        {"answerCorrectness": "incorrect", "answerText": " Jatkaa lentoa näkölentosääolosuhteissa, laskeutua lähimmälle sopivalle lentopaikalle jailmoittaa saapumisesta asianomaiselle lennonjohtoelimelle."}]},
+  
+    {"question": "Kevyen luokan lentokone tekee lentoonlähdön raskaan tai keskiraskaan luokanlentokoneen takana. Monta minuuttia on lentokoneiden välinen porrastus?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 5 minuuttia."},
+        {"answerCorrectness": "incorrect", "answerText": " 4 minuuttia."},
+        {"answerCorrectness": "incorrect", "answerText": " 2 minuuttia."},
+        {"answerCorrectness": "incorrect", "answerText": " 6 minuuttia."}]},
+  
+    {"question": "Mikä on siirtopinnan määritelmä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Siirtokorkeus ilmaistuna kuten lentopinta."},
+        {"answerCorrectness": "incorrect", "answerText": " Alhaisin mahdollinen lentopinta siirtokorkeuden yläpuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentopinta sen kohdan tasalla tai yläpuolella, jolla lentokoneen pystysuuntainen paikkailmaistaan korkeutena."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentopinta sen kohdan alapuolella, jossa lentokoneen pystysuuntainen paikka ilmaistaankorkeutena."}]},
+  
+    {"question": "Mitä sanaa käytetään kuvaamaan lentokoneen pystysuuntaista paikkaa mitattunalentokentän peruspisteen yläpuolella, kun QFE on asetettu korkeusmittarinnäytölle?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Korkeus = Altitude."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeus = Elevation."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentopinta."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeus = Height."}]},
+  
+    {"question": "LAPL/PPL-lentäjä, joka lentää noudattaen erityis-VFR-sääntöjä, tulee noudattaaseuraavia minimejä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentonäkyvyys on 5 km. Selvästi erossa pilvestä ja maan tai veden pinta näkyvissä."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentonäkyvyys on 10 km, maan tai veden pinta näkyvissä."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentonäkyvyys on 1,5 km. Selvästi erossa pilvestä ja maan tai veden pinta näkyvissä."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentonäkyvyys on 3,0 km. Selvästi erossa pilvestä."}]},
+  
+    {"question": "Kuka on vastuussa lentokelpoisuustodistuksen myöntämisestä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " EASA."},
+        {"answerCorrectness": "incorrect", "answerText": " ICAO."},
+        {"answerCorrectness": "incorrect", "answerText": " Operaattori."},
+        {"answerCorrectness": "incorrect", "answerText": " Rekisteröintivaltion viranomainen."}]},
+  
+    {"question": "Mikä seuraavista normaalisti määrittää käytössä olevan kiitotien valvomattomallalentopaikalla?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Se osa liikennealuetta, joka on määritetty lentoonlähtöön ja laskuun."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotie vastatuuleen."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentopaikan määrätty osa lentoonlähtöön ja laskeutumiseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotie myötätuuleen."}]},
+  
+    {"question": "Kuka ei voi keskeyttää VFR-operointia lentokentällä turvallisuussyistä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Paikallinen aluelennonjohto (ACC)."},
+        {"answerCorrectness": "incorrect", "answerText": " Lähestymislennonjohtaja."},
+        {"answerCorrectness": "incorrect", "answerText": " Asianomainen ATS-viranomainen."},
+        {"answerCorrectness": "incorrect", "answerText": " Päivystävä lentokentän virkailija."}]},
+  
+    {"question": "EASA LAPL/PPL-lupakirjan haltijalla, joka haluaa kuljettaa matkustajia, tulee ollatehtynä määrätyt lentoonlähdöt ja laskut edeltävien:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 31 päivän aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " 29 päivän aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " 60 päivän aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " 90 päivän aikana."}]},
+  
+    {"question": "Jos lupakirjan haltija joutuu leikkaukseen, mitkä ovat hänen velvollisuutensainformoida ilmailulääkäriä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee ottaa yhteyttä ilmailulääkäriin ilman viivytystä ja pyytää neuvoja tilanteesta."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänen pitäisi informoida ilmailulääkäriä vain silloin, mikäli hänet nukutetaanleikkauksessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänellä ei ole velvollisuuksia kertoa kenellekään, koska leikkaus on yksityisasia."},
+        {"answerCorrectness": "incorrect", "answerText": " Ei ole velvollisuutta informoida ilmailulääkäriä, mikäli lentäjä ei lennä koneen päällikkönäkuin vasta leikkauksen jälkeen."}]},
+  
+    {"question": "Kuinka kauan EASA PPL-lupakirja on voimassa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 5 vuotta."},
+        {"answerCorrectness": "incorrect", "answerText": " 3 vuotta."},
+        {"answerCorrectness": "incorrect", "answerText": " Toistaiseksi."},
+        {"answerCorrectness": "incorrect", "answerText": " 8 vuotta."}]},
+  
+    {"question": "Lentokoe luokka- tai tyyppikelpuutusta varten on suoritettava _____ kuluessalentokoulutuksen aloittamisesta:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 3 kuukauden"},
+        {"answerCorrectness": "incorrect", "answerText": " 4 kuukauden"},
+        {"answerCorrectness": "incorrect", "answerText": " 1 vuoden"},
+        {"answerCorrectness": "incorrect", "answerText": " 6 kuukauden"}]},
+  
+    {"question": "Hakemus LAPL/PPL-lupakirjaa varten on jätettävä _____ kuluessa teoriakokeidensuorittamisen jälkeen.",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 12 kuukauden"},
+        {"answerCorrectness": "incorrect", "answerText": " 36 kuukauden"},
+        {"answerCorrectness": "incorrect", "answerText": " 24 kuukauden"},
+        {"answerCorrectness": "incorrect", "answerText": " 18 kuukauden"}]},
+  
+    {"question": "EASA-jäsenvaltioissa myönnetty lentolupakirja voidaan konvertoida minkätahansa muun EASA-jäsenvaltion (uusi jäsenvaltio) lupakirjaksi, mikäli:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Uudella jäsenvaltiolla ei ole merkittäviä perusteita kieltäytyä konvertoimasta lupakirjaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lupakirjan haltija aikoo aloittaa vähintään kolme kuukautta kestävän opiskelun uudessajäsenvaltiossa."},
+        {"answerCorrectness": "incorrect", "answerText": " Uusi jäsenvaltio on lupakirjan haltijan asuinvaltio tai haltija on aloittanut kokopäivätyönkyseissä valtiossa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lupakirjan haltija on asunut uudessa jäsenvaltiossa vähintään 31 päivää."}]},
+  
+    {"question": "EASA PPL(A)/PPL(H)-lupakirjan haltijan on täytettävä kolme ehtoa ennentoimimistaan ilma-aluksen päällikkönä tai perämiehenä. Mikä seuraavista ei olevaatimuksena näissä tehtävissä toimimiselle?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Mittarilentokelpuutus."},
+        {"answerCorrectness": "incorrect", "answerText": " Luokka- tai tyyppikelpuutus lennettävään ilma-alukseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Voimassa oleva lääketieteellinen kelpoisuustodistus."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentäminen ei tapahdu korvausta vastaan."}]},
+  
+    {"question": "LAPL/PPL-lupakirjan haltija merkitsee lähtö- ja saapumisajat lokikirjaansaseuraavasti:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kellonaika, jolloin ilma-alus omalla voimallaan lähtee liikkeelle ja aika, kun se lennonpäätyttyä pysähtyy."},
+        {"answerCorrectness": "incorrect", "answerText": " Ensimmäisen lentoonlähdön ja viimeisen laskeutumisen kellonajat."},
+        {"answerCorrectness": "incorrect", "answerText": " Kellonaika, jolloin moottori käynnistetään ja kellonaika, jolloin moottori sammutetaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Kellonaika, jolloin ilma-alus siirtyy käytössä olevalle kiitotielle ensimmäistä lentoonlähtöävarten ja kellonaika, jolloin se vapauttaa kiitotien viimeisen laskun jälkeen."}]},
+  
+    {"question": "Mittarilentokelpuutus on voimassa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Mittarilentokelpuutus on voimassa, kunhan säännölliset tarkastuslennot suoritetaanviranomaisen määräämien aikojen välein."},
+        {"answerCorrectness": "incorrect", "answerText": " 6 kuukautta."},
+        {"answerCorrectness": "incorrect", "answerText": " 12 kuukautta."},
+        {"answerCorrectness": "incorrect", "answerText": " 18 kuukautta."}]},
+  
+    {"question": "Jos EASA-FCL:n alaisen lääketieteellisen kelpoisuustodistuksen haltijaloukkaantuu tai kärsii lääketieteellisestä tilasta, joka vaikuttaa hänen kykyynsätoimia ohjaamomiehistön jäsenenä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lääketieteellinen kelpoisuustodistus pysyy voimassa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lääketieteellisen kelpoisuustodistus mitätöidään 25 päivää loukkaantumisen taisairastumisen jälkeen, ellei lentäjää ole jälleen todettu lentokelpoiseksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Lääketieteellinen kelpoisuustodistus lakkaa olemasta voimassa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lääketieteellinen kelpoisuustodistus mitätöidään, jos sairaus tai loukkaantuminen onraportoitu viranomaiselle."}]},
+  
+    {"question": "LAPL/PPL-lupakirjan hakijan on oltava vähintään:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 17-vuotias."},
+        {"answerCorrectness": "incorrect", "answerText": " 15-vuotias."},
+        {"answerCorrectness": "incorrect", "answerText": " 18-vuotias."},
+        {"answerCorrectness": "incorrect", "answerText": " 16-vuotias."}]},
+  
+    {"question": "Milloin lento-oppilaan tulee esittää lääketieteellinen kelpoisuustodistus?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ennen teoriatuntien alkamista."},
+        {"answerCorrectness": "incorrect", "answerText": " Ennen ensimmäistä yksinlentoaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Kokeen suorittamisen yhteydessä."},
+        {"answerCorrectness": "incorrect", "answerText": " Ennen käytännön harjoittelun aloittamista."}]},
+  
+    {"question": "Mikä lääketieteellinen kelpoisuustodistus vaaditaan yksityislentäjän lupakirjanhakijalta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Luokan 1 tai 2 lääketieteellinen kelpoisuustodistus."},
+        {"answerCorrectness": "incorrect", "answerText": " Luokan A tai B lääketieteellinen kelpoisuustodistus."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain luokan 1 lääketieteellinen kelpoisuustodistus kelpaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain luokan 2 lääketieteellinen kelpoisuustodistus kelpaa."}]},
+  
+    {"question": "Mikä lääketieteellinen kelpoisuustodistus vaaditaan lento-oppilaalta (PPL)?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Luokan A tai B lääketieteellinen kelpoisuustodistus."},
+        {"answerCorrectness": "incorrect", "answerText": " Luokan 1 tai 2 lääketieteellinen kelpoisuustodistus."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain luokan 1 lääketieteellinen kelpoisuustodistus kelpaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain luokan 2 lääketieteellinen kelpoisuustodistus kelpaa."}]},
+  
+    {"question": "Kuinka monta tuntia koululentoaikaa lentokoneella pitää oppilaalla vähintään ollaPPL-lupakirjaa varten?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 15 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 10 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 25 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 20 tuntia."}]},
+  
+    {"question": "Kuinka monta tuntia kokonaislentoajasta, joka vaaditaan ennen PPLlentokokeeseenosallistumista, voidaan suorittaa simulaatiokoulutuslaitteella?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 5 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 7 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 15 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 10 tuntia."}]},
+  
+    {"question": "Kuinka pitkä pitää yksinmatkalennon, joka suoritetaan ennen PPLlentokokeeseenosallistumista, vähintään olla ja kuinka monta laskuapysähtymiseen asti eri kentillä sen pitää sisältää?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 100 nm ja 2 laskua."},
+        {"answerCorrectness": "incorrect", "answerText": " 150 nm ja 2 laskua."},
+        {"answerCorrectness": "incorrect", "answerText": " 200 nm ja 4 laskua."},
+        {"answerCorrectness": "incorrect", "answerText": " 100 nm ja 4 laskua."}]},
+  
+    {"question": "Kuinka pitkä pitää yksinmatkalennon, joka suoritetaan ennen LAPLlentokokeeseenosallistumista, vähintään olla ja kuinka monta laskuapysähtymiseen asti eri kentillä sen pitää sisältää?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 80 nm ja 2 laskua."},
+        {"answerCorrectness": "incorrect", "answerText": " 80 nm ja 1 laskun."},
+        {"answerCorrectness": "incorrect", "answerText": " 100 nm ja 2 laskua."},
+        {"answerCorrectness": "incorrect", "answerText": " 150 nm ja 1 laskua."}]},
+  
+    {"question": "Kuinka monta tuntia lentokokemusta ilma-aluksen ohjaajana vähintään vaaditaanyksityislentäjän lupakirjan hakijalta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 40 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 45 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 50 tuntia."},
+        {"answerCorrectness": "incorrect", "answerText": " 35 tuntia."}]},
+  
+    {"question": "Mitä termi \"yksinlentoaika\" tarkoittaa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Koko lentoaikaa, kun lentäjä on yksin ilma-aluksessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentoaikaa ilma-aluksen päällikkönä."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentoaikaa, jona lento-oppilas on yksin ilma-aluksessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Koko lentoaikaa, kun lentäjä on yksin ilma-aluksessa ja 50% perämiehen lentoajasta."}]},
+  
+    {"question": "Matkustajia kuljettavan ilma-aluksen päällikön, jolla on LAPL/PPL-lupakirja, ontäytynyt suorittaa vähintään kolme lentoonlähtöä ja laskua saman luokanlentokoneella tai jos tyyppikelpuutus vaaditaan, samalla tyypillä, edellisen:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 3 kalenterikuukauden aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " 90 päivän aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " 24 kalenterikuukauden aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " 12 kalenterikuukauden aikana."}]},
+  
+    {"question": "Mikäli aiotaan kuljettaa matkustajia yöllä, tulee ilma-aluksen päälliköllä olla yksilentoonlähtö ja lasku suoritettuna edellisen 90:n päivän aikana seuraavallaaikavälillä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hämärän päättyessä illalla, kun auringon keskipiste on 6 astetta horisontin alapuolella -ennen hämärän alkamista aamulla, kun auringon keskipiste on 6 astetta horisontinalapuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Tunti auringon laskun jälkeen - Tunti ennen auringon nousua."},
+        {"answerCorrectness": "incorrect", "answerText": " Auringon nousu - auringon lasku."},
+        {"answerCorrectness": "incorrect", "answerText": " Auringon lasku - auringon nousu."}]},
+  
+    {"question": "Lentoaika on kokonaisaika, joka alkaa siitä hetkestä, kun:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alus ensimmäisen kerran lähtee liikkeelle lentoonlähtöä varten, ja päättyy, kun selennon päätyttyä lopullisesti pysähtyy."},
+        {"answerCorrectness": "incorrect", "answerText": " Moottori(t) käynnistetään lentoonlähtöä varten ja päättyy, kun moottori(t) sammutetaanlennon päätyttyä. Moottoroimattomien ilma-aluksien tapauksessa lentoaika alkaa siitä,kun ilma-alus lähteen ensimmäisen kerran liikkeelle ja loppuu, kun ilma-alus lennonpäätyttyä lopullisesti pysähtyy."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alus lopullisesti pysähtyy lennon päätyttyä."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alus on ensimmäisen kerran kokonaan ilmassa ja loppuu, kun ilma-alus onlaskeutunut."}]},
+  
+    {"question": "Lentoaikaa, jona oppilas toimii koululennolla ilma-aluksen päällikön tehtävissäsiten, että lennonopettaja ei vaikuta lennon suoritukseen tai ohjaa ilma-alusta,vaan ainoastaan tarkkailee oppilasta ilma-aluksessa, kutsutaan:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Yksinlentoajaksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentoajaksi ilma-aluksen päällikkönä (PIC)."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentoajaksi päällikköoppilaana (SPIC)."},
+        {"answerCorrectness": "incorrect", "answerText": " Valvotuksi yksinlennoksi."}]},
+  
+    {"question": "Minkälaista ilma-alusta ja millä ehdoilla voi PPL-lupakirjan haltija lentää(olettaen, että hänellä on kaikki tarvittavat kelpuutukset voimassa)?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kaikkia ilma-aluksia, joiden maksimi lentoonlähtöpaino ei ylitä 1500 kg, eikä lennostamakseta palkkaa eikä korvausta lentäjälle."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikkia ilma-aluksia, mikäli lentäjä ei saa palkkaa eikä korvausta."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikkia yksimoottorisia ilma-aluksia, mikäli lennosta ei makseta palkkaa eikä korvausta."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikkia ilma-aluksia, mikäli lennosta ei makseta palkkaa eikä korvausta."}]},
+  
+    {"question": "Millä ehdoilla voi uusia yksimoottorisen yhden ohjaajan luokkakelpuutuksenkoululennolla?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jos hakijalla on kelpuutuksen voimassaolon päättymispäivää edeltävien 12 kuukaudenaikana 5 tuntia lentoaikaa kyseisellä luokalla, mukaan lukien 5 ilma-aluksen päällikkönäja suorittanut 5 lentoonlähtöä ja laskua."},
+        {"answerCorrectness": "incorrect", "answerText": " Jos hakijalla on kelpuutuksen voimassaolon päättymispäivää edeltävien 12 kuukaudenaikana 12 tuntia lentoaikaa kyseisellä luokalla, mukaan lukien 5 ilma-aluksen päällikkönäja suorittanut 5 lentoonlähtöä ja laskua."},
+        {"answerCorrectness": "incorrect", "answerText": " Jos hakijalla on kelpuutuksen voimassaolon päättymispäivää edeltävien 12 kuukaudenaikana 10 tuntia lentoaikaa kyseisellä luokalla, mukaan lukien 5 ilma-aluksen päällikkönäja suorittanut 5 lentoonlähtöä ja laskua."},
+        {"answerCorrectness": "incorrect", "answerText": " Jos hakijalla on kelpuutuksen voimassaolon päättymispäivää edeltävien 12 kuukaudenaikana 12 tuntia lentoaikaa kyseisellä luokalla, mukaan lukien 6 ilma-aluksen päällikkönäja suorittanut 12 lentoonlähtöä ja laskua."}]},
+  
+    {"question": "Kuinka paljon ennen yksimoottorisen yhden ohjaajan luokkakelpuutuksenpäättymistä kelpuutuksen voi uusia tarkastuslennolla?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 3 kuukautta."},
+        {"answerCorrectness": "incorrect", "answerText": " 2 kuukautta."},
+        {"answerCorrectness": "incorrect", "answerText": " 1 kuukausi."},
+        {"answerCorrectness": "incorrect", "answerText": " 15 päivää."}]},
+  
+    {"question": "Jotta LAPL/PPL-lupakirjan haltija voi toimia ilma-aluksen päällikkönä ja kuljettaamatkustajia, hänen tulee olla lentoa edeltävien 90 päivän aikana suorittanutkolme laskeutumista:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Samalla tyypillä, mutta ei ole tarpeen samalla luokalla."},
+        {"answerCorrectness": "incorrect", "answerText": " Samalla luokalla, mutta ei ole tarpeen samalla tyypillä."},
+        {"answerCorrectness": "incorrect", "answerText": " Samalla koneella (valmistaja ja malli)."},
+        {"answerCorrectness": "incorrect", "answerText": " Samalla lentokonetyypillä tai -luokalla."}]},
+  
+    {"question": "Miten tulee toimia, jos lääketieteellisen kelpoisuustodistuksen haltija joutuusairaalaan yli 12 tunniksi, hänelle on tehty kirurginen tai invasiivinen toimenpide,aloittanut säännöllisen lääkityksen tai saa ensimmäisen kerran silmälasit?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tulee ilmoittaa kaikissa tapauksissa viranomaiselle 21 päivän kuluessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Voi lentää, kun itse arvioi kykenevänsä siihen."},
+        {"answerCorrectness": "incorrect", "answerText": " Tulee läpäistä tarkastus lääketieteellistä kelpoisuustodistusta varten."},
+        {"answerCorrectness": "incorrect", "answerText": " Tulee ottaa ilman tarpeetonta viivytystä yhteys ilmailulääkäriin."}]},
+  
+    {"question": "Missä tilanteessa lääketieteellinen kelpoisuustodistus voidaan mitätöidä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Mikäli kärsii sairaudesta tai on aiheutunut merkittävä vamma, joka vaikeuttaa kykyätoimia ohjaamomiehistön jäsenenä."},
+        {"answerCorrectness": "incorrect", "answerText": " Kirurgisen tai invasiivisen toimenpiteen vuoksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Kirurgisen tai invasiivisen toimenpiteen ja raskauden vuoksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikki vaihtoehdot ovat oikein."}]},
+  
+    {"question": "Kuinka kauan yhden ohjaajan yksimoottoristen lentokoneiden luokkakelpuutuson voimassa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 6 kuukautta."},
+        {"answerCorrectness": "incorrect", "answerText": " 1 vuoden."},
+        {"answerCorrectness": "incorrect", "answerText": " 2 vuotta."},
+        {"answerCorrectness": "incorrect", "answerText": " 3 vuotta."}]},
+  
+    {"question": "Kuinka kauan EASA LAPL/PPL-lupakirja on voimassa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 2 vuotta."},
+        {"answerCorrectness": "incorrect", "answerText": " 3 vuotta."},
+        {"answerCorrectness": "incorrect", "answerText": " 5 vuotta."},
+        {"answerCorrectness": "incorrect", "answerText": " Sitä ei ole rajoitettu."}]},
+  
+    {"question": "Millä ehdo(i)lla lupakirjan oikeuksia saa käyttää (PPL)?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Riittää, että lääketieteellinen kelpoisuustodistus on voimassa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lupakirja itsessään sisältää voimassaoloajan."},
+        {"answerCorrectness": "incorrect", "answerText": " Lupakirja on voimassa ikuisesti läpäistyn lentokokeen jälkeen."},
+        {"answerCorrectness": "incorrect", "answerText": " Siinä olevat kelpuutukset ja lääketieteellinen kelpoisuus ovat voimassa."}]},
+  
+    {"question": "Mikä seuraavista vaaditaan osana lennolle valmistautumista, kun poistutaanlentokentän läheisyydestä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vaihtoehtoisen toiminnan suunnittelu sen varalle, että lentoa ei voida suorittaasuunnitellusti."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikkien käytettävien kenttien saapumismenetelmiin tutustuminen."},
+        {"answerCorrectness": "incorrect", "answerText": " Varakentän määritys ja merkintä lentosuunnitelmaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikkien käytettävien kenttien lähtömenetelmiin tutustuminen."}]},
+  
+    {"question": "Osana muita lennon valmisteluun liittyviä seikkoja, ilmailumääräyksetvelvoittavat VFR-lennolle:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tarkastamaan radionavigointilaitteiden tarkkuus ja ELT:n (Emergency LocatorTransmitter) toiminta."},
+        {"answerCorrectness": "incorrect", "answerText": " Tarkastaa CVR:n (Cockpit Voice Recorder) toiminta."},
+        {"answerCorrectness": "incorrect", "answerText": " Varmistamaan, että käytettävät kiitotiet täyttävät ilma-aluksen käsikirjassa määritellytsuoritusarvot."},
+        {"answerCorrectness": "incorrect", "answerText": " Kertaamaan lennonjohdosta annettavat valomerkit."}]},
+  
+    {"question": "Ohjaajien tulee pitää turvavyöt kytkettyinä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön ja laskun aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " Aina vaakalennossa."},
+        {"answerCorrectness": "incorrect", "answerText": " Koko lennon ajan."},
+        {"answerCorrectness": "incorrect", "answerText": " Turbulenttisissa olosuhteissa."}]},
+  
+    {"question": "Mitä tarkoittaa AAL?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentopaikan korkeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Kohtauskulman rajoitus."},
+        {"answerCorrectness": "incorrect", "answerText": " Kuittaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentopaikan korkeustason yläpuolella."}]},
+  
+    {"question": "Mikä lentokoneen nopeus pitäisi merkitä matkalentonopeus sarakkeeseen ICAOlentosuunnitelmassa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tosi-ilmanopeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Indikoitu ilmanopeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Maanopeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Kalibroitu ilmanopeus."}]},
+  
+    {"question": "Mitä täytyy merkitä \"LEVEL\" sarakkeeseen ICAO VFR lentosuunnitelmassa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Sana \"VFR\" tai aiottu lentokorkeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Jätetään tyhjäksi VFR lennoilla."},
+        {"answerCorrectness": "incorrect", "answerText": " Ehdotetut lentokorkeudet."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilmaisu \"VFR: variable\"."}]},
+  
+    {"question": "Mitä tarkoittaa WIP?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Työ kesken."},
+        {"answerCorrectness": "incorrect", "answerText": " Luvan kanssa."},
+        {"answerCorrectness": "incorrect", "answerText": " Painon nostamismenetelmä."},
+        {"answerCorrectness": "incorrect", "answerText": " Voimassa alkaen."}]},
+  
+    {"question": "Lentokone on selvitetty \"säilytä 3000 jalkaa tai alle lähestymisalueella\". Vastuuoikean etäisyyden pitämiseen maastoon nähden on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lennonjohdolla ja päälliköllä."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain lennonjohdolla."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilmailuviranomaisella."},
+        {"answerCorrectness": "incorrect", "answerText": " Päälliköllä."}]},
+  
+    {"question": "Lennonjohto voi antaa erityis-VFR selvityksen:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vain lennoille, jotka lentävät laskukierrosta lähialueella."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikille lennoille rajoitusalueella."},
+        {"answerCorrectness": "incorrect", "answerText": " Lennoille, jotka lentävät lähestymisalueen yläpuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain lennoille, jotka liikennöivät lähialueella."}]},
+  
+    {"question": "Lähialueen pystysuuntaiset rajat ovat:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Maanpinnasta erikseen määritettyyn korkeuteen."},
+        {"answerCorrectness": "incorrect", "answerText": " Maanpinnasta määritettyyn lentopintaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Maanpinnasta lähestymisalueen alimpaan korkeuteen."},
+        {"answerCorrectness": "incorrect", "answerText": " Maanpinnasta 900 m MSL."}]},
+  
+    {"question": "Rajoiltaan määrätty ilmatilan osa, jossa ilma-alusten lentäminen on aina kielletty:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lähestymisalue."},
+        {"answerCorrectness": "incorrect", "answerText": " Rajoitusalue."},
+        {"answerCorrectness": "incorrect", "answerText": " Kieltoalue."},
+        {"answerCorrectness": "incorrect", "answerText": " Lähialue."}]},
+  
+    {"question": "Mikä on valvotun ilmatilan määritelmä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilmatila, jossa ei voi saada lennonjohtopalvelua."},
+        {"answerCorrectness": "incorrect", "answerText": " Enemmän kuin yhden kiitotien omaavan lentopaikan välittömästi yläpuolella olevailmatila."},
+        {"answerCorrectness": "incorrect", "answerText": " Tiettyjen ulottuvuuksien omaava ilmatila, jossa ilma-aluksia johdetaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentopaikan ympärillä oleva ilmatila."}]},
+  
+    {"question": "Valvottu ilmatila, joka ulottuu maan pinnasta tiettyyn korkeuteen, on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lähestymisalue."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentotiedotusalue."},
+        {"answerCorrectness": "incorrect", "answerText": " Lähialue."},
+        {"answerCorrectness": "incorrect", "answerText": " Lennonjohtoalue."}]},
+  
+    {"question": "Lähestyessään valvomatonta lentokenttää laskua varten G luokan ilmatilassalentäjän tulisi:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentää vasemmanpuoleista laskukierrosta 800 jalkaa AAL."},
+        {"answerCorrectness": "incorrect", "answerText": " Tehdä kaikki kaarrot oikealle, ellei toisin ole ilmoitettu."},
+        {"answerCorrectness": "incorrect", "answerText": " Liittyä laskukierrokseen 800 jalassa AAL."},
+        {"answerCorrectness": "incorrect", "answerText": " Tehdä kaikki kaarrot vasemmalle, ellei toisin ole ilmoitettu."}]},
+  
+    {"question": "Vähimmäisetäisyys vaakasuorasti pilveen VFR lennolla G-luokan ilmatilassakorkeudella, joka on yli 300 m maastosta tai 900 m MSL (sen mukaan kumpinäistä on korkeampi), on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 8000 m"},
+        {"answerCorrectness": "incorrect", "answerText": " 1500 m"},
+        {"answerCorrectness": "incorrect", "answerText": " Selvästi erossa pilvestä ja maan tai veden pinta näkyvissä."},
+        {"answerCorrectness": "incorrect", "answerText": " 300 m"}]},
+  
+    {"question": "Kukaan ei saa suorittaa lentoonlähtöä tai laskua D-luokan ilmatilassasijaitsevalla lentokentällä VFR-säännöillä (ei erityis-VFR), ellei:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Näkyvyys maassa vähintään 3 km."},
+        {"answerCorrectness": "incorrect", "answerText": " Näkyvyys maassa ole vähintään 1,5 m."},
+        {"answerCorrectness": "incorrect", "answerText": " Näkyvyys maassa ole vähintään 5 km."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentonäkyvyys vähintään 1,5 km."}]},
+  
+    {"question": "Valitse oikea vaihtoehto. VFR-lento EI saa ilman erityis-VFR-selvitystä lähteälähialueella lentopaikalta tai laskea sinne, kun kyseisellä lentopaikallaraportoidut sääolosuhteet ovat:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Pilvikorkeus 450 m ja 8 km näkyvyys maassa."},
+        {"answerCorrectness": "incorrect", "answerText": " Pilvikorkeus 500 m ja näkyvyys maassa 5,5 km."},
+        {"answerCorrectness": "incorrect", "answerText": " Pilvikorkeus 300 m ja näkyvyys maassa 4 km."},
+        {"answerCorrectness": "incorrect", "answerText": " Ei pilviä ja näkyvyys maassa 6 km."}]},
+  
+    {"question": "Mitkä ovat sääminimit, jotta lennonjohtaja voi antaa luvan erityis-VFR lennollelähialueella päiväsaikaan? Lentonäkyvyys tulee olla vähintään:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 5000 m."},
+        {"answerCorrectness": "incorrect", "answerText": " 1500 m."},
+        {"answerCorrectness": "incorrect", "answerText": " 800 m."},
+        {"answerCorrectness": "incorrect", "answerText": " 1200 m."}]},
+  
+    {"question": "VFR lennolla tulisi käyttää taulukonmukaisia matkalentokorkeuksia, kunlentokorkeus ylittää:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 2200 ft GND."},
+        {"answerCorrectness": "incorrect", "answerText": " 700 ft MSL."},
+        {"answerCorrectness": "incorrect", "answerText": " 3000 ft GND."},
+        {"answerCorrectness": "incorrect", "answerText": " 3000 ft MSL."}]},
+  
+    {"question": "Mikä lentopinta on oikea VFR lennolle, joka lentää yli 3000 ft MSL ja pitäätosisuunnan 170°, kun paikallinen eranto on 20°W?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " FL 55."},
+        {"answerCorrectness": "incorrect", "answerText": " FL 65."},
+        {"answerCorrectness": "incorrect", "answerText": " FL 30."},
+        {"answerCorrectness": "incorrect", "answerText": " FL 40."}]},
+  
+    {"question": "Millä listatuista ilma-aluksista on aina etuajo-oikeus muihin ilma-aluksiinnähden?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hädässä oleva ilma-alus."},
+        {"answerCorrectness": "incorrect", "answerText": " Kuumailmapallo."},
+        {"answerCorrectness": "incorrect", "answerText": " Loppulähestymistä tekevä ilma-alus."},
+        {"answerCorrectness": "incorrect", "answerText": " Helikopteri."}]},
+  
+    {"question": "Kun kaksi ilma-alusta lähestyy toisiaan vastakkaisista lentosuunnista ja onilmeistä, että yhteentörmäysvaara on olemassa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Raskaampi ilma-alus kaartaa vasemmalle ja kevyempi oikealle."},
+        {"answerCorrectness": "incorrect", "answerText": " Molempien tulee kaartaa oikealle."},
+        {"answerCorrectness": "incorrect", "answerText": " Raskaampi ilma-alus kaartaa oikealle ja kevyempi vasemmalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Molempien tulee kaartaa vasemmalle."}]},
+  
+    {"question": "Mitä toimenpiteitä tulee lentäjien tehdä, kun kaksi ilma-alusta ontörmäyskurssilla vastakkaisista lentosuunnista?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Molempien tulee kaartaa vasemmalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Molempien tulee kaartaa oikealle."},
+        {"answerCorrectness": "incorrect", "answerText": " Molempien tulee tehdä nousukaartoa vasemmalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Molempien tulee tehdä nousukaartoa oikealle."}]},
+  
+    {"question": "Kuinka tulee väistää tilanteessa, jossa kaksi ilma-alusta on törmäyskurssillavastakkaisista lentosuunnista?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kummankin ilma-aluksen tulee muuttaa ohjaussuuntaansa vasemmalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Kummankin ilma-aluksen tulee muuttaa ohjaussuuntaansa oikealle."},
+        {"answerCorrectness": "incorrect", "answerText": " Ei-moottoroidulla ilma-aluksella on etuoikeus, moottoroitu ilma-alus väistää vasemmalle."},
+        {"answerCorrectness": "incorrect", "answerText": " Moottoroidulla ilma-aluksella on etuoikeus, ei-moottoroitu ilma-alus väistää oikealle."}]},
+  
+    {"question": "Mitä toimenpiteitä tulee tehdä, kun lentokone tai helikopteri ja purjelentokoneovat törmäyskurssilla vastakkaisista lentosuunnista?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Purjelentokoneen ohjaaja suorittaa väistön, koska hänen ilma-aluksensa on helpomminohjattavissa."},
+        {"answerCorrectness": "incorrect", "answerText": " Molemmat väistävät oikealle."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentokoneen/helikopterin ohjaaja suorittaa väistön."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentokoneen/helikopterin ohjaaja suorittaa väistön, koska hänen ilma-aluksensa onhelpommin ohjattavissa."}]},
+  
+    {"question": "Mitä toimenpiteitä purjelentokoneen ohjaaja tekee, jos hän on törmäyskurssillavastakkain kaksimoottorisen Cessnan kanssa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee aukaista lentojarrut, koska lentokoneella on etuoikeus."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulisi muuttaa ohjaussuuntaansa vasemmalle antaen etuoikeuden lentokoneelle."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee väistää oikealle."},
+        {"answerCorrectness": "incorrect", "answerText": " Hänen tulee säilyttää ohjaussuuntansa ja nopeutensa, koska hänellä on etuoikeus.Lentokone tulee kuitenkin pitää näkyvissä."}]},
+  
+    {"question": "Ilma-alus A lentää lennonjohtoselvityksen alaisena VMC olosuhteissa valvotussailmatilassa. Ilma-alus B lentää samalla korkeudella risteävällä lentoradalla, muttailman lennonjohtoselvitystä. Kummalla ilma-aluksella on etuoikeus?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksella B, jos A on sen vasemmalla puolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksella A, jos B on sen oikealla puolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksella B huolimatta siitä, mistä suunnasta A lähestyy."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksella A huolimatta siitä, mistä suunnasta B lähestyy."}]},
+  
+    {"question": "Minkä ilma-aluksen tulee väistää, kun kaksi ilma-alusta lähestyy toisiaanleikkaavista suunnista samalla korkeudella?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Suuremman ilma-aluksen."},
+        {"answerCorrectness": "incorrect", "answerText": " Sen lentokoneen, jolla on toinen ilma-alus oikealla puolellaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Oikealla olevan ilma-aluksen."},
+        {"answerCorrectness": "incorrect", "answerText": " Ultrakevyen ilma-aluksen."}]},
+  
+    {"question": "Ilma-alus ja lentokone, joka hinaa purjelentokonetta, ovat leikkaavillalentoradoilla. Jos purjekonetta hinaava lentokone on toisen ilma-aluksenvasemmalla puolella, kummalla on etuoikeus?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hinauskoneella."},
+        {"answerCorrectness": "incorrect", "answerText": " Molemmilla ilma-aluksilla."},
+        {"answerCorrectness": "incorrect", "answerText": " Riippuu ilma-alusten magneettisesta ohjaussuunnasta."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksella, joka ei hinaa purjekonetta."}]},
+  
+    {"question": "Mikä seuraavista väittämistä on oikein koskien ilmaa raskaampien ilma-alustenetuoikeutta laskun aikana?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alus, joka suorittaa laskeutumista tai se, joka on ollut laskukierroksessaensimmäisenä, on etuoikeus muuhun liikenteeseen nähden."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeammalla olevalla ilma-aluksella on etuoikeus muuhun liikenteeseen, paitsipotkuriturbiinisiin ilma-aluksiin, joilla on aina etuoikeus muihin potkurikoneisiin nähden."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeammalla olevalla ilma-aluksella on etuoikeus muuhun liikenteeseen, paitsisuihkumoottorisiin ilma-aluksiin, joilla on aina etuoikeus potkurikoneisiin nähden."},
+        {"answerCorrectness": "incorrect", "answerText": " Korkeammalla lentävä ilma-alus antaa tietä matalammalla olevalle ilma-alukselle, muttamatalammalla lentävä ilma-alus ei saa lentää ylempänä olevan eteen tai ohittaa sitä, josylempänä oleva ilma-alus suorittaa laskua."}]},
+  
+    {"question": "Kun ohitat toisen ilma-aluksen ilmassa, sinun tulisi:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ohittaa ylä- tai alapuolelta."},
+        {"answerCorrectness": "incorrect", "answerText": " Ohittaa alapuolelta."},
+        {"answerCorrectness": "incorrect", "answerText": " Ohittaa vasemmalta."},
+        {"answerCorrectness": "incorrect", "answerText": " Ohittaa oikealta."}]},
+  
+    {"question": "Mikä seuraavista vaihtoehdoista on oikein, kun puhutaan yölennoistaSuomessa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Iltahämärän päättymisen ja aamuhämärän alkamisen välillä lennetty lento."},
+        {"answerCorrectness": "incorrect", "answerText": " Lento, joka on suoritettu aikavälillä: 30 minuuttia ennen auringon laskua ja 30 minuuttiaauringon nousun jälkeen."},
+        {"answerCorrectness": "incorrect", "answerText": " Lento, joka on suoritettu aikavälillä: 60 minuuttia ennen auringon laskua ja 60 minuuttiaauringon nousun jälkeen."},
+        {"answerCorrectness": "incorrect", "answerText": " Lento, joka on suoritettu aikavälillä: 30 minuuttia auringon laskun jälkeen ja 30 minuuttiaennen auringon nousua."}]},
+  
+    {"question": "Suomen maatunnus ilma-aluksissa on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Suomen lippu."},
+        {"answerCorrectness": "incorrect", "answerText": " Sattumanvaraisesti valitun neljän numeron sarja."},
+        {"answerCorrectness": "incorrect", "answerText": " Tunnus OH."},
+        {"answerCorrectness": "incorrect", "answerText": " Tunnus, joka koostuu viidestä eri merkistä."}]},
+  
+    {"question": "Lennonjohtoselvitys tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Riittävä porrastus muusta liikenteestä."},
+        {"answerCorrectness": "incorrect", "answerText": " Lupa lentää valvotussa ilmatilassa tietyin lennonjohtajan edellyttämien ohjeidenmukaisesti."},
+        {"answerCorrectness": "incorrect", "answerText": " Etuoikeutus muuhun liikenteeseen nähden."},
+        {"answerCorrectness": "incorrect", "answerText": " Riittävä porrastus VFR -liikenteestä"}]},
+  
+    {"question": "Mitkä ovat oikeat toimenpiteet, jos lentäjä saa lennonjohtoselvityksen, jokapoikkeaa lentosäännöistä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hyväksyä selvitys, koska lentäjä ei ole vastuussa rikkomuksesta."},
+        {"answerCorrectness": "incorrect", "answerText": " Kieltäytyä lennonjohtoselvityksestä ja pyytää sen muuttamista."},
+        {"answerCorrectness": "incorrect", "answerText": " Hyväksyä selvitys ja kertoa lennonjohdolle, että selvitys on sääntöjen vastainen."},
+        {"answerCorrectness": "incorrect", "answerText": " Hyväksyä selvitys ja kertoa lennonjohdolle kun rikkomus tapahtuu."}]},
+  
+    {"question": "Jos lentäjän on poikettava lennonjohtoselvityksestä ennakoimattomientilanteiden vuoksi, hänen täytyy:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tehdä ilmoitus lennonjohdolle tekemästään poikkeavasta toiminnasta."},
+        {"answerCorrectness": "incorrect", "answerText": " Tehdä ilmoitus asianomaiselle lennonjohtoelimelle välittömästi ja hankkia uusi, muutettuselvitys."},
+        {"answerCorrectness": "incorrect", "answerText": " Informoida kaikkia yhteydessä olevia lennonjohtoelimiä lähettämällä kaikkiin viesti."},
+        {"answerCorrectness": "incorrect", "answerText": " Tehdä ilmoitus AIS -palveluun."}]},
+  
+    {"question": "Sotilaskoneen tunnistaessa VFR lentoa, lentäjän tulee:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vaihtaa transponderiin koodi 7700."},
+        {"answerCorrectness": "incorrect", "answerText": " Osoittaa tunnistavalle koneelle, että on huomannut annetut visuaaliset merkit."},
+        {"answerCorrectness": "incorrect", "answerText": " Yrittää saada radioyhteys tunnistavaan koneeseen taajuudella 121.500 MHz ja totella senkäskyjä."},
+        {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."}]},
+  
+    {"question": "Kesken matkalennon huomaat, että sotilaskone lähestyy vasenta siivenkärkeäsikohti ja lentää vierelläsi; hetken päästä kone lähtee voimakkaaseenvasemmanpuoleiseen nousukaartoon. Mitä tämä tarkoittaa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Laskeudu lentopaikalle, joka on sen hetkisessä lentosuunnassa!"},
+        {"answerCorrectness": "incorrect", "answerText": " Saat jatkaa matkaasi!"},
+        {"answerCorrectness": "incorrect", "answerText": " Sinut on tunnistettu, seuraa konetta!"},
+        {"answerCorrectness": "incorrect", "answerText": " Lähde kielletyltä alueelta välittömästi!"}]},
+  
+    {"question": "Mitä tarkoittaa valkoinen kaksoisristi, joka on asetettu vaakasuoraanmerkinantopaikalle ? (Liite LAPL/PPL 010-02)",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " \"Laskeutuminen kielletty.\""},
+        {"answerCorrectness": "incorrect", "answerText": " \"Purjelentotoiminta käynnissä.\""},
+        {"answerCorrectness": "incorrect", "answerText": " \"Selvä laskuun.\""},
+        {"answerCorrectness": "incorrect", "answerText": " \"Suljetut kiito- ja rullaustiet.\""}]},
+  
+    {"question": "Mikä lääketieteellinen kelpoisuustodistus vaaditaan lento-oppilaalta (LAPL)?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vain luokan 1 lääketieteellinen kelpoisuustodistus kelpaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Luokan 1, 2 tai LAPL lääketieteellinen kelpoisuustodistus."},
+        {"answerCorrectness": "incorrect", "answerText": " Vain luokan LAPL lääketieteellinen kelpoisuustodistus kelpaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Luokan A tai B lääketieteellinen kelpoisuustodistus."}]},
+  
+    {"question": "Mikä seuraavista väittämistä on epätosi: Mikäli sinä aikana, joka alkaa kunensimmäinen henkilö astuu ilma-alukseen ja päättyy, kun kaikki henkilöt ovatpoistuneet ilma-aluksesta, tapahtuu jokin seuraavista tapahtumista, ononnettomuusilmoitus laadittava.",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Matkustaja menehtyy luonnollisen syyn seurauksena."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen paikka ei ole tiedossa tai se on varmuudella kadonnut."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alus vaurioituu tai kärsii rakenteellisista vaurioista."},
+        {"answerCorrectness": "incorrect", "answerText": " Mikäli joku menehtyy tai vakavasti loukkaantuu ollessaan ilma-aluksessa."}]},
+  
+    {"question": "Mikä seuraavista tapahtumista luokitellaan lento-onnettomuudeksi?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Rengasrikko nokka- tai päätelineessä lentoonlähdon tai laskun yhteydessä."},
+        {"answerCorrectness": "incorrect", "answerText": " Sivullinen henkilö saa vammoja ilma-aluksesta lennon aikana irronneesta osasta, joka eivaikuta ilma-aluksen lentokykyyn."},
+        {"answerCorrectness": "incorrect", "answerText": " Moottorihäiriö lennolla."},
+        {"answerCorrectness": "incorrect", "answerText": " Salama iskee ilma-alukseen lennon aikana."}]},
+  
+    {"question": "Mikä seuraavista ei ole etsintä- ja pelastuspalvelun vaihe?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hälytystilanne"},
+        {"answerCorrectness": "incorrect", "answerText": " Pakkotilanne"},
+        {"answerCorrectness": "incorrect", "answerText": " Hätätilanne"},
+        {"answerCorrectness": "incorrect", "answerText": " Epävarmuustilanne"}]},
+  
+    {"question": "Onnettomuudesta selvinnyt henkilö on tehnyt maahan suuren ristin, jonkasakarat ovat 90° kulmassa toisiinsa nähden. Mitä tämä merkki tarkoittaa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kaikki selvinneet onnettomuudesta vammoitta"},
+        {"answerCorrectness": "incorrect", "answerText": " Tarvitaan lääkinnällistä apua"},
+        {"answerCorrectness": "incorrect", "answerText": " Merkki osoittaa selviytyjän sijaintia"},
+        {"answerCorrectness": "incorrect", "answerText": " Tarvitaan apua"}]},
+  
+    {"question": "Suoritettaessa lentoonlähtö lentopaikalta, jonka ilmanpaineasetusta ei olesaatavilla virallisesta lähteestä, tulee lentäjän asettaa korkeusmittarinsanäyttämään:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentopaikan korkeutta merenpinnasta."},
+        {"answerCorrectness": "incorrect", "answerText": " Lähimmän valvotun lentopaikan painearvoa."},
+        {"answerCorrectness": "incorrect", "answerText": " 1013.2 hpa."},
+        {"answerCorrectness": "incorrect", "answerText": " Nollatasoa maanpinnasta."}]},
+  
+    {"question": "Milloin korkeusmittarin ilmanpainearvo tulisi asettaa oikeaksi?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vuosittain"},
+        {"answerCorrectness": "incorrect", "answerText": " Ennen jokaista lentoa sekä lennon aikana, mikäli tarpeellista."},
+        {"answerCorrectness": "incorrect", "answerText": " Joka aamu ennen ensimmäistä lentoa."},
+        {"answerCorrectness": "incorrect", "answerText": " Kuukausittain"}]},
+  
+    {"question": "Korkeusmittarin tarkkuus tarkistetaan:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Suorittamalla matalalähestyminen lennonjohtotornin ohi ennalta tiedetyllä korkeudella."},
+        {"answerCorrectness": "incorrect", "answerText": " Asettamalla oikea QNH arvo mittariin ja vertaamalla sitä lentopaikan korkeustasoonmerenpinnasta."},
+        {"answerCorrectness": "incorrect", "answerText": " Vertaamalla mittarinäyttämiä 1:500 000 VFR-ilmailukartan näyttämiin korkeuksiin."},
+        {"answerCorrectness": "incorrect", "answerText": " Vertaamalla korkeusmittarin ja radiokorkeusmittarin näyttämiä toisiinsa."}]},
+  
+    {"question": "Matkustamon painekorkeuden ollessa yli 10 000 jalkaa ja maksimissaan 13 000jalkaa MSL kaikkien miehistön jäsenten tulee käyttää lisähappea:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 30 minuuttia ylittävällä ajalla mainituilla korkeuksilla."},
+        {"answerCorrectness": "incorrect", "answerText": " Kymmenen minuuttia ylittävällä ajalla mainituilla korkeuksilla."},
+        {"answerCorrectness": "incorrect", "answerText": " Koko ajan mainituilla lentokorkeuksilla."},
+        {"answerCorrectness": "incorrect", "answerText": " Päällikön harkinnan mukaan."}]},
+  
+    {"question": "Lähestyttäessä odotuspaikkamerkintää yhtenäisten viivojen puolelta:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Merkintää ei tule ylittää ilman lennonjohdon selvitystä."},
+        {"answerCorrectness": "incorrect", "answerText": " Ennen viivoja ei tule pysähtyä ilman lennonjohdon selvitystä."},
+        {"answerCorrectness": "incorrect", "answerText": " Rullausta tulisi jatkaa, kunnes kaikki lentokoneen osat ovat ylittäneet merkinnän."},
+        {"answerCorrectness": "incorrect", "answerText": " Rullausta voi jatkaa."}]},
+  
+    {"question": "Mikä on kiitotie/kiitotie -odotuspaikkakyltin tarkoitus?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilmoittaa, mistä pääsee asematasolta kiitotielle"},
+        {"answerCorrectness": "incorrect", "answerText": " Ilmoittaa, mistä pääsee rullaustieltä kiitotielle."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilmaista lähestyvän tai lähtevän ilma-aluksen suoja-aluetta."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilmoittaa risteävistä kiitoteistä."}]},
+  
+    {"question": "Lentokentän rullaustien reunavalot ovat:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Suunnatut valkoiset valot."},
+        {"answerCorrectness": "incorrect", "answerText": " Ympärisäteilevät siniset valot."},
+        {"answerCorrectness": "incorrect", "answerText": " Suunnatut keltaiset valot."},
+        {"answerCorrectness": "incorrect", "answerText": " Vuorottelevat punaiset ja vihreät valot."}]},
+  
+    {"question": "Mikä seuraavista kuvaa kynnysvaloja?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Suunnattu punainen"},
+        {"answerCorrectness": "incorrect", "answerText": " Ympärisäteilevä punainen."},
+        {"answerCorrectness": "incorrect", "answerText": " Suunnattu vihreä"},
+        {"answerCorrectness": "incorrect", "answerText": " Ympärisäteilevä vihreä"}]},
+  
+    {"question": "Kiinteiden kohteiden matalatehoiset lentoestevalot ovat:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Vilkkuvat punaiset valot."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiinteät punaiset valot."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiinteät oranssit valot."},
+        {"answerCorrectness": "incorrect", "answerText": " Vilkkuvat keltaiset valot."}]},
+  
+    {"question": "VFR-lähestymiset laskua varten tulisi suorittaa yöllä:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Suuremmalla maanopeudella."},
+        {"answerCorrectness": "incorrect", "answerText": " Suuremmalla ilmanopeudella."},
+        {"answerCorrectness": "incorrect", "answerText": " Samalla tavalla kuin päivällä."},
+        {"answerCorrectness": "incorrect", "answerText": " Jyrkemmällä liu'ulla."}]},
+  
+    {"question": "Hyödyntäessään liukukulmavalojärjestelmää (PAPI) kiitotietä lähestyttäessälentäjän tulee:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Pitää 4 punaista valoa näkyvissä lähestymisen ajan."},
+        {"answerCorrectness": "incorrect", "answerText": " Pysyä liukupolulla tai sen yläpuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Pysyä liukupolun alapuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Pysyä korkealla kunnes kiitotielle pääsee tyhjäkäyntiliu'ulla."}]},
+  
+    {"question": "Hieman liukupolun yläpuolella oleminen näkyy liukukulmavalojärjestelmässä(PAPI):",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kolmena valkoisen ja yhtenä punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Neljänä valkoisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Neljänä punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kahtena valkoisena ja kahtena punaisena valona."}]},
+  
+    {"question": "Liukukulmavalojärjestelmässä (PAPI) liukupolun alapuolella oleminen näkyy:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Neljänä punaisena valona ja yhtenä valkoisena valona"},
+        {"answerCorrectness": "incorrect", "answerText": " Kahtena punaisena ja kahtena valkoisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Neljänä punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kolmena punaisena ja kahtena valkoisena valona."}]},
+  
+    {"question": "Liukukulmavalojärjestelmässä (PAPI) liukupolun yläpuolella oleminen näkyy:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Neljänä valkoisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kahtena valkoisena ja kahtena punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kolmena valkoisena ja kahtena punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Neljänä punaisena valona."}]},
+  
+    {"question": "Liukukulmavalojärjestelmässä (PAPI) liukupolun keskellä oleminen näkyy:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Neljänä valkoisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kahtena valkoisena ja kahtena punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kolmena valkoisena ja yhtena punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Neljänä punaisena valona."}]},
+  
+    {"question": "Lähestymiskulmajärjestelmässä (PAPI) hieman liukupolun alla oleminen näkyy:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kolmena valkoisena ja yhtenä punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kolmena punaisena ja yhtenä valkoisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kolmena punaisena valona."},
+        {"answerCorrectness": "incorrect", "answerText": " Kolmena valkoisena valona."}]},
+  
+    {"question": "Kuvan A lentokone on (katso LAPL/PPL 010-03):",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun yläpuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun alapuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Liu'un sivussa oikealla."},
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun keskellä."}]},
+  
+    {"question": "Kuvan C lentokone on (katso LAPL/PPL 010-03):",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun alapuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun keskellä."},
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun yläpuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Liu'un sivussa vasemmalla."}]},
+  
+    {"question": "Kuvan B lentokone on (katso LAPL/PPL 010-03):",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun keskellä."},
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun yläpuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Liukupolun alapuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Liu'un sivussa vasemmalla."}]},
+  
+    {"question": "Huomaat valvotulla lentopaikalla yhden oven yläpuolella keltaisenneliönmuotoisen laatan, jossa on musta C-kirjain (kuva C, LAPL/PPL 010-04).Mitä se tarkoittaa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Yksityisten ilma-alusten miehistön uloskäyntiä."},
+        {"answerCorrectness": "incorrect", "answerText": " Henkilökunnan uloskäyntiä."},
+        {"answerCorrectness": "incorrect", "answerText": " Tullitoimistoa."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilmaliikennepalvelutoimistoa."}]},
+  
+    {"question": "Punainen neliö, jossa on yksi keltainen vinojuova (kuva B, LAPL/PPL 010-04)lentopaikan merkiantoalueella tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Purjelentotoimintaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Älä laskeudu."},
+        {"answerCorrectness": "incorrect", "answerText": " Helikopteritoimintaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Noudata erityistä varovaisuutta laskussa liikennealueen huonon kunnon vuoksi."}]},
+  
+    {"question": "Mitä tarkoittaa, jos lentopaikan merkinantopaikalla on vaakasuoraan asetettupunainen neliö, jossa on keltainen vinoristi (kuva A, LAPL/PPL 010-04)?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Alue ei sovellu ilma-alusten liikkumiseen."},
+        {"answerCorrectness": "incorrect", "answerText": " Laskeutuminen kielletty."},
+        {"answerCorrectness": "incorrect", "answerText": " Erityistä varovaisuutta on noudatettava lähestyttäessä laskua varten tai laskeuduttaessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alusten tulee käyttää vain kiito- ja rullausteitä laskeutumiseen, lentoonlähtöön jarullaamiseen."}]},
+  
+    {"question": "Vaakasuoraan asetettu valkoinen risti (kuva G, PPL(A) 010-04) rullaustien alussatarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Rullaustietä ei voi käyttää."},
+        {"answerCorrectness": "incorrect", "answerText": " Varoitus, lähestyt kiitotien risteystä"},
+        {"answerCorrectness": "incorrect", "answerText": " Helikopterin laskeutumisaluetta."},
+        {"answerCorrectness": "incorrect", "answerText": " Varoitus, lähestyt rullausteiden risteystä."}]},
+  
+    {"question": "Valkoinen kaksoisristi (kuva H, LAPL/PPL 010-04) lentopaikanmerkinantopaikalla tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Noudata erityistä varovaisuutta lähestymisen ja laskun aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " Rullaaminen sallittu kiito- ja rullausteiden ulkopuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Laskeutuminen kielletty, lentopaikka vaarallinen."},
+        {"answerCorrectness": "incorrect", "answerText": " Purjelentotoimintaa."}]},
+  
+    {"question": "Valkoinen käsipunnuksen muotoinen merkki (kuva D, LAPL/PPL 010-04)lentopaikan merkinantopaikalla tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtö ja laskeutuminen sallittu ainoastaan kiitotiellä, rullaamisen ja muunliikehtimisen voi suorittaa kiito- ja rullausteiden ulkopuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Laskussa, lentoonlähdössä ja rullauksessa käytettävä vain kiito- ja rullausteitä"},
+        {"answerCorrectness": "incorrect", "answerText": " Laskeutuminen vain päällystetylle alueelle."},
+        {"answerCorrectness": "incorrect", "answerText": " Älä laskeudu."}]},
+  
+    {"question": "Lentopaikan merkinantopaikalla oleva valkoinen käsipunnuksen muotoinenmerkki, jonka kummassakin ympyränmuotoisessa osassa on musta juovakohtisuoraan vartta vasten (kuva E, LAPL/PPL 010-04) tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Laskuun ja lentoonlähtöön saa käyttää vain kiitoteitä, muun liikehtimisen saa suorittaamyös kiito- ja rullausteiden ulkopuolella."},
+        {"answerCorrectness": "incorrect", "answerText": " Pitkäaikainen laskeutumiskielto."},
+        {"answerCorrectness": "incorrect", "answerText": " Purjelentotoimintaa."},
+        {"answerCorrectness": "incorrect", "answerText": " Laskussa, lentoonlähdössä ja rullauksessa käytettävä vain kiito- ja rullausteitä."}]},
+  
+    {"question": "Millä merkinnällä voidaan päiväsaikaan kertoa, ettei jokin lentopaikanliikennealueen osa ole käytettävissä?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Suljettua osaa ympäröivillä valko-oransseilla kartioilla."},
+        {"answerCorrectness": "incorrect", "answerText": " Vaakasuoraan asetetuilla, selvästi alustastaan erottuvilla yksivärisillä (mielelläänvalkoisilla) risteillä."},
+        {"answerCorrectness": "incorrect", "answerText": " Vaakasuoraan asetetuilla suurilla punaisilla neliöillä, joissa on keltainen vinoristi."},
+        {"answerCorrectness": "incorrect", "answerText": " Suljettua osaa ympäröivillä oransseilla lipuilla."}]},
+  
+    {"question": "Kuvan I (LAPL/PPL 010-04) mukainen merkki lentopaikan merkinantoalueellatarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kaarrot ennen laskua ja lentoonlähdön jälkeen on suoritettava oikealle."},
+        {"answerCorrectness": "incorrect", "answerText": " Jatka seuraavalle lentopaikalle, kiitotie on suljettu."},
+        {"answerCorrectness": "incorrect", "answerText": " Laskun jälkeen vapauta kiitotie kääntymällä oikealle."},
+        {"answerCorrectness": "incorrect", "answerText": " Pysäköintipaikat oikealla."}]},
+  
+    {"question": "Valkoinen \"T\" (kuva F, LAPL/PPL 010-04) lentopaikan merkinantopaikallatarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Laskeutuminen sallittu vain päällystetylle alueelle."},
+        {"answerCorrectness": "incorrect", "answerText": " Älä laskeudu."},
+        {"answerCorrectness": "incorrect", "answerText": " Laskeutuminen ja rullaaminen sallittu vain päällystetyllä alueella."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtö- ja laskusuunta on T:n varren suuntainen kohti sen poikkiviivaa."}]},
+  
+    {"question": "Kuinka monta tuntia koululentoaikaa pitää oppilaalla vähintään olla LAPL(A)-lupakirjaa varten?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 25 tuntia"},
+        {"answerCorrectness": "incorrect", "answerText": " 20 tuntia"},
+        {"answerCorrectness": "incorrect", "answerText": " 10 tuntia"},
+        {"answerCorrectness": "incorrect", "answerText": " 15 tuntia"}]},
+  
+    {"question": "Kuinka monta tuntia koululentoaikaa pitää oppilaalla vähintään olla LAPL(H)-lupakirjaa varten?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 10 tuntia"},
+        {"answerCorrectness": "incorrect", "answerText": " 20 tuntia"},
+        {"answerCorrectness": "incorrect", "answerText": " 25 tuntia"},
+        {"answerCorrectness": "incorrect", "answerText": " 15 tuntia"}]},
+  
+    {"question": "Mitä seuraavista ovat oikeat vaatimukset yksinmatkalennolle, joka suoritetaanennen lentokokeeseen osallistumista?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Matkan pituus 100 nm ja 4 laskua pysähtymiseen asti eri kentillä."},
+        {"answerCorrectness": "incorrect", "answerText": " Matkan pituus 100 nm ja 2 laskua pysähtymiseen asti eri kentillä."},
+        {"answerCorrectness": "incorrect", "answerText": " Matkan pituus 200 nm ja 2 laskua pysähtymiseen asti eri kentillä."},
+        {"answerCorrectness": "incorrect", "answerText": " Matkan pituus 150 nm ja 4 laskua pysähtymiseen asti eri kentillä."}]},
+  
+    {"question": "Kuinka monta tuntia lentokokemusta ilma-aluksen ohjaajana vähintään vaaditaanLAPL(A)-lupakirjan hakijalta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 25"},
+        {"answerCorrectness": "incorrect", "answerText": " 35"},
+        {"answerCorrectness": "incorrect", "answerText": " 40"},
+        {"answerCorrectness": "incorrect", "answerText": " 30"}]},
+  
+    {"question": "Kuinka monta tuntia lentokokemusta ilma-aluksen ohjaajana vähintään vaaditaanLAPL(H)-lupakirjan hakijalta?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 40"},
+        {"answerCorrectness": "incorrect", "answerText": " 30"},
+        {"answerCorrectness": "incorrect", "answerText": " 35"},
+        {"answerCorrectness": "incorrect", "answerText": " 45"}]},
+  
+    {"question": "Arvioidulla saapumisajalla tarkoitetaan VFR-lennolla aikaa, jolloin:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen arvioidaan poistuvan määrälentopaikan kiitotieltä"},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen arvioidaan lopettavan rullaamisen määräpaikalla"},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen arvioidaan saapuvan määrälentopaikan yläpuolelle"},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen arvioidaan laskeutuvan määräpaikalle"}]},
+  
+    {"question": "Arvoidulla liikkeellelähtöajalla tarkoitetaan aikaa, jolloin ilma-alus:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lähtee rullaamaan lentoonlähtötarkoituksessa"},
+        {"answerCorrectness": "incorrect", "answerText": " Saa rullausselvityksen"},
+        {"answerCorrectness": "incorrect", "answerText": " Tekee lentoonlähdön"},
+        {"answerCorrectness": "incorrect", "answerText": " Saa lentoonlähtöselvityksen"}]},
+  
+    {"question": "Montako liitettä (Annexia) ICAO:n yleissopimukseen kuuluu?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 36"},
+        {"answerCorrectness": "incorrect", "answerText": " 3"},
+        {"answerCorrectness": "incorrect", "answerText": " 96"},
+        {"answerCorrectness": "incorrect", "answerText": " 18"}]},
+  
+    {"question": "Kenttäalue sisältää:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Asematason"},
+        {"answerCorrectness": "incorrect", "answerText": " Vakiolentoonlähtöreitit, vakiolähestymisreitit ja kiitotien"},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotien, rullaustien ja asematason"},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotien ja rullaustien"}]},
+  
+    {"question": "SEP-luokkakelpuutus (single engine piston) on voimassa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 2 vuotta"},
+        {"answerCorrectness": "incorrect", "answerText": " 3 vuotta"},
+        {"answerCorrectness": "incorrect", "answerText": " 5 vuotta"},
+        {"answerCorrectness": "incorrect", "answerText": " 1 vuoden"}]},
+  
+    {"question": "Kiitotien päätevalot ovat väriltään:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Punaiset"},
+        {"answerCorrectness": "incorrect", "answerText": " Vihreät"},
+        {"answerCorrectness": "incorrect", "answerText": " Valkoiset"},
+        {"answerCorrectness": "incorrect", "answerText": " Siniset"}]},
+  
+    {"question": "Huomaat heti lentoonlähdön jälkeen, että radiosi on mennyt rikki.Lennonjohdosta näytetään sinulle valkoista vilkkuvaa valoa. Mitä teet?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Laskeudun kyseiselle lentoasemalle ja rullaan asematasolle"},
+        {"answerCorrectness": "incorrect", "answerText": " Palaan takaisin"},
+        {"answerCorrectness": "incorrect", "answerText": " Annan tietä jollekin toiselle ilma-alukselle ja jatkan lentoa laskukierroksessa"},
+        {"answerCorrectness": "incorrect", "answerText": " En lauskeudu, koska se ei ole nyt turvallista"}]},
+  
+    {"question": "Lennonjohto näyttää maassa olevalle radiottomalle ilma-alukselle punaistavilkkuvaa valoa. Tämä tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Pysähdy"},
+        {"answerCorrectness": "incorrect", "answerText": " Lupa ylittää laskeutumisalue tai siirtyä rullaustielle"},
+        {"answerCorrectness": "incorrect", "answerText": " Rullaa pois käytössä olevalta laskualueelta"},
+        {"answerCorrectness": "incorrect", "answerText": " Vapauta alue"}]},
+  
+    {"question": "Punainen vilkkuva valomerkki ilmassa olevalle ilma-alukselle merkitsee:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jatka lentoa laskukierroksessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Lennä pois laskukierroksesta."},
+        {"answerCorrectness": "incorrect", "answerText": " Lentopaikka vaarallinen älä laske."},
+        {"answerCorrectness": "incorrect", "answerText": " Huolimatta aikaisemmista ohjeista älä laske."}]},
+  
+    {"question": "Siirtokorkeus Suomessa on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 5000 ft QFE"},
+        {"answerCorrectness": "incorrect", "answerText": " 500 m QNH"},
+        {"answerCorrectness": "incorrect", "answerText": " 5000 ft QNH"},
+        {"answerCorrectness": "incorrect", "answerText": " 5000 ft 1013 hPa"}]},
+  
+    {"question": "Liikennealue käsittää:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Kenttäalueen, mukaan lukien alueella olevat tiet."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotiet, rullaustiet ja asematasot."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotiet, rullaustiet ja seisontapaikat."},
+        {"answerCorrectness": "incorrect", "answerText": " Kiitotiet ja rullaustiet, pois lukien asematasot."}]},
+  
+    {"question": "Millä edellytyksellä ilma-alus voidaan rekisteröidä Suomessa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alus on Suomessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alus on muun maan rekisterissä."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksella on Suomessa annettu lentokelpoisuustodistus."},
+        {"answerCorrectness": "incorrect", "answerText": " Ilma-alus on FAA:n tyyppihyväksyntä."}]},
+  
+    {"question": "Vasemmalle puolellesi ilmestyy sotilasilma-alus, joka vaaputtaa ja kaartaa senjälkeen vasemmalle. Toimenpiteesi?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Valitset transponderiin 7500 ja jatkat lentoa."},
+        {"answerCorrectness": "incorrect", "answerText": " Vilkutat purjehdusvaloja epäsäännöllisin välein ja siirryt jaksolle 119,7 MHz."},
+        {"answerCorrectness": "incorrect", "answerText": " Vaaputat takaisin ja jatkat lentoa suunnitelman mukaan."},
+        {"answerCorrectness": "incorrect", "answerText": " Vaaputat takaisin ja kaarrat ilma-aluksen perään."}]},
+  
+    {"question": "Vihreä vilkkuvalo maassa olevalle ilma-alukselle tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Selvä lentoonlähtöön."},
+        {"answerCorrectness": "incorrect", "answerText": " Ota yhteyttä lennonjohtoon välittömästi."},
+        {"answerCorrectness": "incorrect", "answerText": " Palaa lähtökohtaasi."},
+        {"answerCorrectness": "incorrect", "answerText": " Selvä rullaamaan."}]},
+  
+    {"question": "Punainen valoammus lennolla olevalle lentokoneelle tarkoittaa?",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Varo, alueella käynnissä sotaharjoitus."},
+        {"answerCorrectness": "incorrect", "answerText": " Tee ympyrää oikealle, kunnes saat laskuluvan."},
+        {"answerCorrectness": "incorrect", "answerText": " Anna tietä toiselle ilma-alukselle ja jatka laskukierroksessa."},
+        {"answerCorrectness": "incorrect", "answerText": " Huolimatta aikaisemmasta ohjeista älä laske toistaiseksi."}]},
+  
+    {"question": "Minimilentokorkeus taajaman yläpuolella on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " 1000 ft MSL"},
+        {"answerCorrectness": "incorrect", "answerText": " 500 ft korkeimman 600 metrin säteellä olevan esteen yläpuolella"},
+        {"answerCorrectness": "incorrect", "answerText": " 1000 ft korkeimman 600 metrin säteellä olevan esteen yläpuolella"},
+        {"answerCorrectness": "incorrect", "answerText": " 500 ft MSL"}]},
+  
+    {"question": "Lähestymisalueen englanninkielinen lyhenne on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " CTS"},
+        {"answerCorrectness": "incorrect", "answerText": " TMA"},
+        {"answerCorrectness": "incorrect", "answerText": " FIR"},
+        {"answerCorrectness": "incorrect", "answerText": " CTA"}]},
+  
+    {"question": "Pakollisten kylttien (mandatory instruction), esimerkiksi odotuspaikkakylttien,väritys:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Valkoinen teksti punaisella pohjalla"},
+        {"answerCorrectness": "incorrect", "answerText": " Keltainen teksti mustalla pohjalla"},
+        {"answerCorrectness": "incorrect", "answerText": " Punainen teksti valkoisella pohjalla"},
+        {"answerCorrectness": "incorrect", "answerText": " Musta teksti keltaisella pohjalla"}]},
+  
+    {"question": "Lentosääntöjen mukaan maassa olevalle ilma-alukselle annettu valkoinenvilkkuvalo tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " \"Laske tälle lentopaikalle ja rullaa asematasolle\", laskulupa annetaan erikseen."},
+        {"answerCorrectness": "incorrect", "answerText": " \"Palaa lähtökohtaasi lentopaikalla\""},
+        {"answerCorrectness": "incorrect", "answerText": " \"Rullaa pois käytössä olevalta laskualueelta\""},
+        {"answerCorrectness": "incorrect", "answerText": " \"Selvä rullaamaan\", lähtölupa annetaan erikseen."}]},
+  
+    {"question": "Ilmailulupakirjoihin liittyvät määräykset löytyvät määräyskokoelman kohdasta:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " TRG"},
+        {"answerCorrectness": "incorrect", "answerText": " PEL"},
+        {"answerCorrectness": "incorrect", "answerText": " OPS"},
+        {"answerCorrectness": "incorrect", "answerText": " GEN"}]},
+  
+    {"question": "Vihreä vilkkuvalo ilmassa olevalle ilma-alukselle TWR:stä annettuna tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jatka lentämällä ympyrää"},
+        {"answerCorrectness": "incorrect", "answerText": " Palaa laskua varten"},
+        {"answerCorrectness": "incorrect", "answerText": " Selvä laskuun"},
+        {"answerCorrectness": "incorrect", "answerText": " Anna tietä toiselle ilma-alukselle ja jatka laskukierroksessa"}]},
+  
+    {"question": "Lähialueen englanninkielinen lyhenne on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " FIR"},
+        {"answerCorrectness": "incorrect", "answerText": " AFIS"},
+        {"answerCorrectness": "incorrect", "answerText": " CTR"},
+        {"answerCorrectness": "incorrect", "answerText": " TMA"}]},
+  
+    {"question": "Ellei erikseen ole muuta määrätty, on lentoonlähdön jälkeen:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tehtävä kaarrot oikealle"},
+        {"answerCorrectness": "incorrect", "answerText": " Tehtävä kaarrot vasemmalle"},
+        {"answerCorrectness": "incorrect", "answerText": " Lennettävä suoraan, kunnes on laskukierroskuvion ulkopuolella"},
+        {"answerCorrectness": "incorrect", "answerText": " Mahdollista kaartaa oikealle tai vasemmalle"}]},
+  
+    {"question": "Johdettu lento on:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Lento, josta on tehty lentosuunnitelma"},
+        {"answerCorrectness": "incorrect", "answerText": " Lento, joka lennetään mittarilentosääntöjen mukaisesti"},
+        {"answerCorrectness": "incorrect", "answerText": " Lennonjohtoselvityksen alainen lento"},
+        {"answerCorrectness": "incorrect", "answerText": " Muodostelmassa suoritettu lento"}]},
+  
+    {"question": "Lyhenne VMC tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Mittarisääolosuhteita"},
+        {"answerCorrectness": "incorrect", "answerText": " Näkösääolosuhteita"},
+        {"answerCorrectness": "incorrect", "answerText": " Mittarilentosääntöjä"},
+        {"answerCorrectness": "incorrect", "answerText": " Näkölentosääntöjä"}]},
+  
+    {"question": "Lentonäkyvyydellä tarkoitetaan:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Maksimietäisyyttä, jolta ilma-alus voidaan maasta havaita."},
+        {"answerCorrectness": "incorrect", "answerText": " Suurin etäisyys, jolta riittävän kokoinen lähellä maata oleva musta kohde voidaan nähdäja tunnistaa, kun havainto tehdään valoisaa taustaa vasten."},
+        {"answerCorrectness": "incorrect", "answerText": " Näkyvyyttä ilma-aluksen ohjaamosta eteenpäin lennon aikana."},
+        {"answerCorrectness": "incorrect", "answerText": " Valtuutetun havainnoijan määrittelemää näkyvyyttä lentopaikalla."}]},
+  
+    {"question": "ICAO:n mukaisen vaaratilanteiden luokituksessa, Hälytystilanteen:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Katsotaan vallitsevan, kun ilma-alus ei ole saapunut perille 30min kuluttua suunnitellunajan jälkeen ja kun siihen ei saada radioyhteyttä."},
+        {"answerCorrectness": "incorrect", "answerText": " Katsotaan vallitsevan kun ilma-aluksen tilasta ei ole täyttä varmuutta."},
+        {"answerCorrectness": "incorrect", "answerText": " Katsotaan vallitsevan kun ollaan varmoja vaarasta, ja siitä että ilma-alus tarvitseevälitöntä apua."},
+        {"answerCorrectness": "incorrect", "answerText": " Katsotaan vallitsevan kun ilma-aluksen toimintakyky on heikentynyt siinä määrin ettäpakkolasku on todennäköinen."}]},
+  
+    {"question": "Epävarmuustilanteella tarkoitetaan:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ei mikään vastausvaihtoehdoista."},
+        {"answerCorrectness": "incorrect", "answerText": " Tilannetta, jolloin ilma-alus ei ole lähettänyt pyydettyä sijaintitietoa."},
+        {"answerCorrectness": "incorrect", "answerText": " Tilannetta, jolloin vallitsee epävarmuus ilma-aluksen ja siinä olevien henkilöidenturvallisuudesta ilmaliikenteessä, taikka jolloin on muuten aihetta ryhtyä toimenpiteisiinmahdollisen avuntarpeen selvittämiseksi."},
+        {"answerCorrectness": "incorrect", "answerText": " Tilannetta, jolloin vallitsee varmuus ilma-aluksen ja siinä olevien henkilöidenturvallisuudesta ilmaliikenteessä, taikka jolloin on muuten aihetta ryhtyä toimenpiteisiinmahdollisen avuntarpeen selvittämiseksi."}]},
+  
+    {"question": "Onnettomuuspaikalle tehty V-maastohätämerkki tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Tarvitaan lääkintäapua."},
+        {"answerCorrectness": "incorrect", "answerText": " Jäämme tähän."},
+        {"answerCorrectness": "incorrect", "answerText": " Apua ei tarvita."},
+        {"answerCorrectness": "incorrect", "answerText": " Tarvitaan apua."}]},
+  
+    {"question": "Jos ilma-alus ei anna sovittua laskuilmoitusta 30 minuutin kuluessalentosuunnitelmassa mainitusta, syntyy:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Hätätilanne."},
+        {"answerCorrectness": "incorrect", "answerText": " Epävarmuustilanne."},
+        {"answerCorrectness": "incorrect", "answerText": " Hälytystilanne."},
+        {"answerCorrectness": "incorrect", "answerText": " Poikkeustilanne."}]},
+  
+    {"question": "Etsintä- ja pelastuspalvelun maastohätämerkeistä \"X\" tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Jäämme tähän."},
+        {"answerCorrectness": "incorrect", "answerText": " Apua ei tarvita."},
+        {"answerCorrectness": "incorrect", "answerText": " Tarvitaan lääkintäapua."},
+        {"answerCorrectness": "incorrect", "answerText": " Tarvitaan apua."}]},
+  
+    {"question": "Etsintä- ja pelastuspalvelun maastohätämerkeistä nuoli tarkoittaa:",
+      "answers": [
+        {"answerCorrectness": "incorrect", "answerText": " Ei kuulu maastohätämerkkeihin."},
+        {"answerCorrectness": "incorrect", "answerText": " Tarvitaan apua."},
+        {"answerCorrectness": "incorrect", "answerText": " Kulkusuunta."},
+        {"answerCorrectness": "incorrect", "answerText": " Tarvitaan lääkintäapua."}]}]
