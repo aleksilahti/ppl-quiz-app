@@ -83,18 +83,5 @@ export class QSetService {
     this.fetchJSONFile('../questions/070fin.json');
     return this.qset;
   }
-  fetchJSONFile(path) {
-    var httpRequest = new XMLHttpRequest();
-    httpRequest.onreadystatechange = function() {
-        if (httpRequest.readyState === 4) {
-            if (httpRequest.status === 200) {
-                var data = JSON.parse(httpRequest.responseText);
-                console.log(data);
-            }
-        }
-    };
-    httpRequest.open('GET', path);
-    httpRequest.send();
-}
   constructor() { }
 }
