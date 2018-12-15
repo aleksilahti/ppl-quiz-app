@@ -8,7 +8,7 @@ import { QSetService } from '../q-set.service';
 })
 export class QuizComponent implements OnInit {
   // displayed in the html
-  questions = this.service.getQuestionSet();
+  questions;
   language = this.service.getLanguage();
   resultTitle;
   resultText;
@@ -28,11 +28,14 @@ export class QuizComponent implements OnInit {
   results = [];
   correctAnswers = 0;
 
-  constructor(private service: QSetService ) { }
+  constructor(private service: QSetService ) {}
 
-  ngOnInit() {
+  ngOnInit() {}
+
+  getQuestionSet() {
+    let qSetResponse = this.service.getQuestionSet();
+        qSetResponse.subscribe((data: any) => this.setQuestionSet(data));
   }
-
   setQuestionSet(qset) {
     this.questions = qset;
     console.log(this.questions);

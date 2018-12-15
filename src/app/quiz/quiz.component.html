@@ -1,5 +1,7 @@
 
-{{question}}<br/>
+<button (click)="getQuestionSet()">start quiz</button>
+
+<div>{{question}}</div><br/>
 <li *ngFor="let answer of answers" (click)="onSelect(answer)">
   <button class="answerButton">{{answer.answerText}}</button>
 </li>

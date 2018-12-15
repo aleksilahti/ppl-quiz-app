@@ -1,23 +1,5 @@
 import { Injectable } from '@angular/core';
-import * as $ from 'jquery';
-// import * as Questions010fin from '../questions/010fin.json'; // these should be loaded from the server with jQuery...
-// import * as Questions020fin from '../questions/020fin.json';
-// import * as Questions030fin from '../questions/030fin.json';
-// import * as Questions040fin from '../questions/040fin.json';
-// import * as Questions050fin from '../questions/050fin.json';
-// import * as Questions060fin from '../questions/060fin.json';
-// import * as Questions070fin from '../questions/070fin.json';
-// import * as Questions080fin from '../questions/080fin.json';
-// import * as Questions090fin from '../questions/090fin.json';
-// import * as Questions010eng from '../questions/010eng.json';
-// import * as Questions020eng from '../questions/020eng.json';
-// import * as Questions030eng from '../questions/030eng.json';
-// import * as Questions040eng from '../questions/040eng.json';
-// import * as Questions050eng from '../questions/050eng.json';
-// import * as Questions060eng from '../questions/060eng.json';
-// import * as Questions070eng from '../questions/070eng.json';
-// import * as Questions080eng from '../questions/080eng.json';
-// import * as Questions090eng from '../questions/090eng.json';
+import { HttpClient } from '@angular/common/http';
 
 @Injectable({
   providedIn: 'root'
@@ -26,50 +8,72 @@ export class QSetService {
   activeQuestionSet: string;
   language: string;
   qset;
-  /*loadQuestionSet() {
+  questionSetUrl = 'assets/questions/';
+
+  changeQuestionSet() {
+    console.log('changing question set');
     switch (this.activeQuestionSet + this.language) {
       case 'infofin':
+        return this.questionSetUrl + '090fin.json';
         break;
-      // case 'infoeng':
-        // break;
+      case 'infoeng':
+      return this.questionSetUrl + '090fin.json';
+        break;
       case 'airLawfin':
-        return Questions010fin;
-      // case 'airLaweng':
-        // return Questions010eng;
+        console.log('new url: ' + this.questionSetUrl + '010fin');
+        return this.questionSetUrl + '010fin.json';
+      case 'airLaweng':
+        console.log('new url: ' + this.questionSetUrl + '010eng');
+        return this.questionSetUrl + '010eng.json';
       case 'aircraftGeneralKnowledgefin':
-        return Questions020fin;
-      // case 'aircraftGeneralKnowledgeeng':
-        // return Questions020eng;
+        console.log('new url: ' + this.questionSetUrl + '020fin');
+        return this.questionSetUrl + '020fin.json';
+      case 'aircraftGeneralKnowledgeeng':
+        console.log('new url: ' + this.questionSetUrl + '020eng');
+        return this.questionSetUrl + '020eng.json';
       case 'performanceAndFlightMonitoringfin':
-        return Questions030fin;
-      // case 'performanceAndFlightMonitoringeng':
-        // return Questions030eng;
+        console.log('new url: ' + this.questionSetUrl + '030fin');
+        return this.questionSetUrl + '030fin.json';
+      case 'performanceAndFlightMonitoringeng':
+        console.log('new url: ' + this.questionSetUrl + '030eng');
+        return this.questionSetUrl + '030eng.json';
       case 'humanPerformancefin':
-        return Questions040fin;
-      // case 'humanPerformanceeng':
-        // return Questions040eng;
+        console.log('new url: ' + this.questionSetUrl + '040fin');
+        return this.questionSetUrl + '040fin.json';
+      case 'humanPerformanceeng':
+        console.log('new url: ' + this.questionSetUrl + '040eng');
+        return this.questionSetUrl + '040eng.json';
       case 'meteorologyfin':
-        return Questions050fin;
-      // case 'meteorologyeng':
-        // return Questions050eng;
+        console.log('new url: ' + this.questionSetUrl + '050fin');
+        return this.questionSetUrl + '050fin.json';
+      case 'meteorologyeng':
+        console.log('new url: ' + this.questionSetUrl + '050eng');
+        return this.questionSetUrl + '050eng.json';
       case 'navigationfin':
-        return Questions060fin;
-      // case 'navigationeng':
-        // return Questions060eng;
+        console.log('new url: ' + this.questionSetUrl + '060fin');
+        return this.questionSetUrl + '060fin.json';
+      case 'navigationeng':
+        console.log('new url: ' + this.questionSetUrl + '060eng');
+        return this.questionSetUrl + '060eng.json';
       case 'operationalProceduresfin':
-        return Questions070fin;
-      // case 'operationalProcedureseng':
-        // return Questions070eng;
+        console.log('new url: ' + this.questionSetUrl + '070fin');
+        return this.questionSetUrl + '070fin.json';
+      case 'operationalProcedureseng':
+        console.log('new url: ' + this.questionSetUrl + '070eng');
+        return this.questionSetUrl + '070eng.json';
       case 'principlesOfFlightfin':
-        return Questions080fin;
-      // case 'principlesOfFlighteng':
-        // return Questions080eng;
+        console.log('new url: ' + this.questionSetUrl + '080fin');
+        return this.questionSetUrl + '080fin.json';
+      case 'principlesOfFlighteng':
+        console.log('new url: ' + this.questionSetUrl + '080eng');
+        return this.questionSetUrl + '080eng.json';
       case 'Communicationsfin':
-        return Questions090fin;
-      // case 'Communicationseng':
-        // return Questions090eng;
-  }
-  }*/
+        console.log('new url: ' + this.questionSetUrl + '090fin');
+        return this.questionSetUrl + '090fin.json';
+      case 'Communicationseng':
+        console.log('new url: ' + this.questionSetUrl + '090eng');
+        return this.questionSetUrl + '090eng.json';
+  }}
   setActiveQuestionSet(qSet, lang): void {
     this.activeQuestionSet = qSet;
     this.language = lang;
@@ -78,10 +82,11 @@ export class QSetService {
   getLanguage() {
     return this.language;
   }
+
   getQuestionSet() {
-    console.log('asking for question set');
-    this.fetchJSONFile('../questions/070fin.json');
-    return this.qset;
+    let Qfile: any = this.changeQuestionSet();
+    console.log(Qfile);
+    return this.http.get(Qfile);
   }
-  constructor() { }
+  constructor(private http: HttpClient) { }
 }
