@@ -1,0 +1,910 @@
+[
+    {"question": " Tiheys:",
+    "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Lämpötilalla ei ole vaikutusta."},
+      {"answerCorrectness": "correct", "answerText": " Pienenee korkeuden kasvaessa."},
+      {"answerCorrectness": "incorrect", "answerText": " Pienenee lämpötilan pienentyessä."},
+      {"answerCorrectness": "incorrect", "answerText": " Kasvaa"}]},
+    
+    {"question": "Paine, joka vaikuttaa kappaleen joka pinnalle yhtä voimakkaasti, on?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Totaalipaine."},
+    {"answerCorrectness": "correct", "answerText": " Staattinen paine."},
+    {"answerCorrectness": "incorrect", "answerText": " Dynaaminen paine."},
+    {"answerCorrectness": "incorrect", "answerText": " On suurempi korkealla kuin merenpinnalla."}]},
+    
+    {"question": "Vesihöyry ilmakehässä:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Pienentää ilmantiheyttä."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvattaa moottoritehoja."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurentaa ilmantiheyttä."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvattaa siiven tuottamaa nostovoimaa."}]},
+    
+    {"question": "Mikä seuraavista on oikein?",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Korkeuden kasvaessa pienentyvä paine aiheuttaa tiheyden laskun."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeuden kasvaessa kasvava lämpötila aiheuttaa tiheyden kasvun."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeuden kasvaessa laskeva lämpötila aiheuttaa tiheyden kasvun."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeuden kasvaessa kasvava paine aiheuttaa tiheyden laskun."}]},
+    
+    {"question": "Oletetaan että ilmanpaine merenpinnalla on ISA, mutta lämpötila on 10°Ckorkeampi. Ilmantiheys on tällöin:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ei vaikutusta."},
+    {"answerCorrectness": "correct", "answerText": " Pienempi kuin ISA."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurempi kuin ISA."},
+    {"answerCorrectness": "incorrect", "answerText": " ISA."}]},
+    
+    {"question": "Ilmanpaine:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Vaikuttaa kaikkiin suuntiin tasaisesti."},
+    {"answerCorrectness": "incorrect", "answerText": " Mitataan Pascaleina per neliö tuuma."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa korkeuden kasvaessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaikuttaa vain alaspäin."}]},
+    
+    {"question": "Suorassa vaakalennossa lentokoneeseen vaikuttavat voimat ovat:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Työntövoima, vastus, paino ja nostovoima."},
+    {"answerCorrectness": "incorrect", "answerText": " Työntövoima, nostovoima, paino."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima, vastus, paino."},
+    {"answerCorrectness": "incorrect", "answerText": " Työntövoima, nostovoima, vastus."}]},
+    
+    {"question": "Mikä on voiman yksikkö?",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Newton."},
+    {"answerCorrectness": "incorrect", "answerText": " Joule."},
+    {"answerCorrectness": "incorrect", "answerText": " Massa-kilogramma."},
+    {"answerCorrectness": "incorrect", "answerText": " Newtonmetri."}]},
+    
+    {"question": "Dynaaminen paine on yhtä suuri kuin:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Puolet nopeudesta x tiheys potenssiin kaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Puolet tiheydestä x mittarinopeus potenssiin kaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Tiheys x nopeus potenssiin kaksi."},
+    {"answerCorrectness": "correct", "answerText": " Puolet tiheydestä x nopeus potenssiin kaksi."}]},
+    
+    {"question": "Suhteellinen virtaus on ja lentokoneen liikkeeseen nähden.",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Rinnakkainen / vastasuuntainen"},
+    {"answerCorrectness": "correct", "answerText": " Samansuuntainen / vastasuuntainen"},
+    {"answerCorrectness": "incorrect", "answerText": " Kohtisuora / vastasuuntainen"},
+    {"answerCorrectness": "incorrect", "answerText": " Rinnakkainen / samansuuntainen"}]},
+    
+    {"question": "Dynaamisen paineen symboli on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " P."},
+    {"answerCorrectness": "incorrect", "answerText": " D."},
+    {"answerCorrectness": "incorrect", "answerText": " R."},
+    {"answerCorrectness": "correct", "answerText": " Q."}]},
+    
+    {"question": "Millainen ilmavirtaus on siiven yläpinnalla verrattuna siiven alapinnalla olevaanilmavirtaukseen, suorassa vaakalennossa?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienempi nopeus."},
+    {"answerCorrectness": "incorrect", "answerText": " Sama nopeus."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurempi paine."},
+    {"answerCorrectness": "correct", "answerText": " Suurempi nopeus."}]},
+    
+    {"question": "Mikä vastauksista täydentää seuraavan lauseen: \nKasvava nopeus kasvattaa myös nostovoimaa, koska:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Suhteellisen virtauksen kasvanut nopeus voittaa kasvaneen vastuksen."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima on suoraan verrannollinen nopeuteen."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvanut nopeus pienentää vastusta."},
+    {"answerCorrectness": "correct", "answerText": " Kasvanut nopeus aiheuttaa staattisen paineen laskun siiven yläpinnalla, joka aiheuttaasuuremman paine-eron ala- ja yläpinnan välillä."}]},
+    
+    {"question": "Mikä seuraavista väittämistä on oikein koskien lentokoneeseen vaikuttaviavoimia:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Siipien kehittämä nostovoima vaikuttaa aina vastakkaiseen suuntaan kuin koneen massa."},
+    {"answerCorrectness": "correct", "answerText": " Paino vaikuttaa aina suoraan alas kohti maan keskipistettä."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima vaikuttaa kohtisuoraan siiven jänteeseen nähden ja on aina suurempi kuinpaino."},
+    {"answerCorrectness": "incorrect", "answerText": " Työntövoima vaikuttaa samansuuntaisesti vastuksen kanssa ja on aina suurempi kuinvastus."}]},
+    
+    {"question": "Millainen on vapaan ilmavirtauksen paine verrattuna siiven alapinnanvirtaukseen suorassa vaakalennossa?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Suurempi."},
+    {"answerCorrectness": "correct", "answerText": " Pienempi."},
+    {"answerCorrectness": "incorrect", "answerText": " Sama."},
+    {"answerCorrectness": "incorrect", "answerText": " Sama paine, mutta suurempi nopeus."}]},
+    
+    {"question": "Jos ilmavirtauksen halkileikkauksen pinta-alaa pienennetään mekaanisesti:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Virtausnopeus säilyy samana, mutta massavirtaus kasvaa."},
+    {"answerCorrectness": "correct", "answerText": " Massavirtaus säilyy samansuuruisena, mutta virtausnopeus kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Massavirtaus pysyy samana, mutta staattinen paine kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Virtauksen nopeus kasvaa, mutta virtauksen kineettinen energia kasvaa."}]},
+    
+    {"question": "Dynaaminen paine on:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Se osuus kokonaispaineesta, jolla staattinen paine nousee pisteessä, jossa senilmavirtauksen nopeus laskee nollaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Paine, joka johtuu yläpuolella olevan ilmamassan painosta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaispaine kohdassa, jossa ilmavirran nopeus on nolla."},
+    {"answerCorrectness": "incorrect", "answerText": " Paineen muutos, joka aiheutuu lämmönnoususta, kun ilmavirta pysäytetään."}]},
+    
+    {"question": "Mikä tai mitkä seuraavista väittämistä on oikein?\n1. Ilmalla on massaa.\n2. Ilmaa ei voi tiivistää.\n3. Ilma voi muuttaa virtaustaan tai muotoaan, jos siihen kohdistuu pienikin paineero.\n4. Ilman viskositeetti on erittäin suuri.\n5. Liikkuvalla ilmalla on kineettistä energiaa.",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 2, 3 ja 4."},
+    {"answerCorrectness": "correct", "answerText": " 1, 3 ja 5."},
+    {"answerCorrectness": "incorrect", "answerText": " 1 ja 4."},
+    {"answerCorrectness": "incorrect", "answerText": " 1, 2, 3 ja 5."}]},
+    
+    {"question": "Minkä pisteen ympäri lentokone kääntyy?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Siipien."},
+    {"answerCorrectness": "correct", "answerText": " Massakeskiön."},
+    {"answerCorrectness": "incorrect", "answerText": " Laskutelineen."},
+    {"answerCorrectness": "incorrect", "answerText": " Sivuperäsimen."}]},
+    
+    {"question": "Dynaaminen paine on yhtä suuri kuin:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaispaine / staattinen paine."},
+    {"answerCorrectness": "correct", "answerText": " Kokonaispaine - staattinen paine."},
+    {"answerCorrectness": "incorrect", "answerText": " Staattinen paine - kokonaispaine."},
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaispaine + staattinen paine."}]},
+    
+    {"question": "Mitä tapahtuu jos ilmamassan nopeutta kasvatetaan?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kineettinen energia kasvaa, dynaaminen paine kasvaa, staattinen paine pienenee."},
+    {"answerCorrectness": "correct", "answerText": " Staattinen paine pysyy samana, kineettinen energia kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Massavirtaus pysyy yhtä suurena, dynaaminen paine pienenee, staattinen paine kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Dynaaminen paine pienenee, staattinen paine kasvaa."}]},
+    
+    {"question": "Rajakerroksessa on:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Laminaarinen ja turbulenttinen virtausalue."},
+    {"answerCorrectness": "incorrect", "answerText": " Turbulenttista virtausta vain matalilla nopeuksilla."},
+    {"answerCorrectness": "incorrect", "answerText": " Laminaarista virtausta."},
+    {"answerCorrectness": "incorrect", "answerText": " Turbulenttista virtausta."}]},
+    
+    {"question": "Millainen tulee koneeseen lennon aikana vaikuttavien voimien summan olla, jottakone pysyy kiihtymättömässä vaakalennossa?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoiman on oltava yhtä suuri kuin työntövoima ja massan on oltava yhtä suuri kuinvastuksen."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoiman on oltava yhtä suuri kuin työntövoima + vastus."},
+    {"answerCorrectness": "correct", "answerText": " Nostovoiman on oltava yhtä suuri kuin massan ja työntövoiman on oltava yhtä suuri kuinvastuksen."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoiman on oltava yhtä suuri kuin vastuksen ja työntövoiman on oltava yhtä suurikuin massan."}]},
+    
+    {"question": "Tasainen ilmavirtaus, jossa jokainen ilmamolekyyli seuraa edellistä, on:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Laminaarista virtausta."},
+    {"answerCorrectness": "incorrect", "answerText": " Vapaata virtausta."},
+    {"answerCorrectness": "incorrect", "answerText": " Turbulenttista virtausta."},
+    {"answerCorrectness": "incorrect", "answerText": " Tuulta."}]},
+    
+    {"question": "Kun alisooninen virtaus kulkee venturiputken läpi, massavirtaus ___, nopeus ___ja staattinen paine ___:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee ja sitten kasvaa / kasvaa ja sitten pienenee / kasvaa ja sitten pienenee."},
+    {"answerCorrectness": "correct", "answerText": " Pysyy samana / kasvaa ja sitten pienenee / pienenee ja sitten kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee ja sitten kasvaa / pysyy samana / kasvaa ja sitten pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Pysyy samana / kasvaa ja sitten pienenee / kasvaa ja sitten pienenee."}]},
+    
+    {"question": "Liikkuvalla ilmamassalla on kineettistä energiaa. Kappaleeseen, joka laitetaansellaiseen ilmavirtaukseen, kohdistuu?",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Staattista painetta ja dynaamista painetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Dynaamista painetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Staattista painetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Dynaaminen paine miinus staattinen paine."}]},
+    
+    {"question": "Dynaaminen paine voidaan ilmaista kaavalla?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Q = pV."},
+    {"answerCorrectness": "correct", "answerText": " Q = 1/2pV²."},
+    {"answerCorrectness": "incorrect", "answerText": " Q = 1/3pV²."},
+    {"answerCorrectness": "incorrect", "answerText": " Q = 2pV."}]},
+    
+    {"question": "Ilmanopeuden kasvaessa dynaaminen paine:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Riippuu koneen painosta."},
+    {"answerCorrectness": "correct", "answerText": " Kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei muutu."}]},
+    
+    {"question": "Mikäli ilmanopeutta pienennetään, mitä lentäjän on tehtävä, jotta korkeussäilyisi?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää kohtauskulmaa pienentääkseen vastusta."},
+    {"answerCorrectness": "correct", "answerText": " Kasvattaa kohtauskulmaa säilyttääkseen tarvittavan nostovoiman."},
+    {"answerCorrectness": "incorrect", "answerText": " Avata ilmajarrut kasvattaakseen vastusta."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää työntövoimaa."}]},
+    
+    {"question": "Sitä osuutta kokonaisvastuksesta, joka johtuu nostovoiman syntymisestä,kutsutaan:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Loisvastukseksi, joka on riippuvainen ilmanopeudesta."},
+    {"answerCorrectness": "correct", "answerText": " Indusoiduksi vastukseksi, joka on riippuvainen nostovoimakertoimesta jailmanopeudesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Loisvastukseksi, joka on riippuvainen ilmanopeudesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Indusoitua vastusta, joka on riippumaton ilmanopeudesta."}]},
+    
+    {"question": "Kun ilma-aluksen ilmanopeutta kasvatetaan 50 solmusta 100 solmuun, mitätapahtuu loisvastukselle?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Se on yksi neljäsosa."},
+    {"answerCorrectness": "incorrect", "answerText": " Se on kuusi kertaa suurempi."},
+    {"answerCorrectness": "correct", "answerText": " Se on neljä kertaa suurempi."},
+    {"answerCorrectness": "incorrect", "answerText": " Se on kaksi kertaa suurempi."}]},
+    
+    {"question": "Kuvitteellinen viiva, joka kulkee siiven johtoreunasta siiven jättöreunaan, onnimeltään:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Maksimipaksuus."},
+    {"answerCorrectness": "incorrect", "answerText": " Keskijänne."},
+    {"answerCorrectness": "correct", "answerText": " Jänne."},
+    {"answerCorrectness": "incorrect", "answerText": " Siiven paksuus."}]},
+    
+    {"question": "Epäsymmetrinen siipi alkaa tuottaa nostovoimaa jo noin ____ kohtauskulmalla.",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Neljästä kuuteen asteen."},
+    {"answerCorrectness": "correct", "answerText": " 0 asteen."},
+    {"answerCorrectness": "incorrect", "answerText": " 16 asteen."},
+    {"answerCorrectness": "incorrect", "answerText": " -4 asteen."}]},
+    
+    {"question": "Nostovoima vaikuttaa suorassa kulmassa ja vastus vaikuttaa samansuuntaisesti:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kantopinnan yläpinnan suhteen."},
+    {"answerCorrectness": "correct", "answerText": " Lentoradan suhteen."},
+    {"answerCorrectness": "incorrect", "answerText": " Pituusakselin suhteen."},
+    {"answerCorrectness": "incorrect", "answerText": " Jänneviivan suhteen."}]},
+    
+    {"question": "Kun ilmanopeus kasvaa, indusoitu vastus ____, loisvastus ____ jakokonaisvastus____.",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa / kasvaa / kasvaa"},
+    {"answerCorrectness": "correct", "answerText": " Pienenee / kasvaa / pienenee ja sitten kasvaa"},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa / pienenee kasvaa ja sitten pienenee"},
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee / pienenee / pienenee"}]},
+    
+    {"question": "Mitä tapahtuu, jos suorassa vaakalennossa ilmanopeus pienenee alle maksimiliitoluvun antavan nopeuden?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaisvastus pienenee pienentyneen loisvastuksen vuoksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaisvastus pienenee pienentyneen indusoidun vastuksen vuoksi."},
+    {"answerCorrectness": "correct", "answerText": " Kokonaisvastus kasvaa, kasvaneen indusoidun vastuksen vuoksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Kokonaisvastus kasvaa kasvaneen loisvastuksen vuoksi."}]},
+    
+    {"question": "Kohtauskulma on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Jänneviivan ja vaakatason välinen kulma."},
+    {"answerCorrectness": "incorrect", "answerText": " Jänneviivan ja koneen pituusakselin välinen kulma."},
+    {"answerCorrectness": "incorrect", "answerText": " Keskijänteen ja vapaan virtauksen välinen kulma."},
+    {"answerCorrectness": "correct", "answerText": " Jänneviivan ja vapaan virtauksen välinen kulma."}]},
+    
+    {"question": "Nostovoimakertoimen suurin arvo syntyy silloin, kun siiven kohtauskulma onnoin:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 0 astetta."},
+    {"answerCorrectness": "correct", "answerText": " 16 astetta."},
+    {"answerCorrectness": "incorrect", "answerText": " Neljästä kuuteen astetta."},
+    {"answerCorrectness": "incorrect", "answerText": " -4 astetta."}]},
+    
+    {"question": "Mitä tapahtuu, mikäli kohtauskulma on vakio ja ilmanopeus pienenee?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima ja vastus pienenevät."},
+    {"answerCorrectness": "incorrect", "answerText": " Vastus kasvaa ja nostovoima pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima kasvaa ja vastus pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Molemmat voivat kasvaa tai pienentyä riippuen nopeudesta."}]},
+    
+    {"question": "Mikäli kohtauskulma ja muut seikat pysyvät vakiona, mitä tapahtuunostovoimalle, kun nopeus tuplataan?",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Se nelinkertaistuu."},
+    {"answerCorrectness": "incorrect", "answerText": " Se pienenee neljännekseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Se ei muutu."},
+    {"answerCorrectness": "incorrect", "answerText": " Se tuplaantuu."}]},
+    
+    {"question": "Nostovoiman määritelmä on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Aerodynaaminen voima, joka vaikuttaa kohtisuoraan siiven jänteeseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Aerodynaaminen voima, joka vaikuttaa kohtisuoraan siiven yläpintaan."},
+    {"answerCorrectness": "correct", "answerText": " Aerodynaaminen voima, joka vaikuttaa suorassa kulmassa suhteelliseen virtaukseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Aerodynaaminen voima, joka johtuu siiven ylä- ja alapinnan paine-eroista."}]},
+    
+    {"question": "Siiven tuottama nostovoima on suoraan verrannollinen:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Ilmantiheyteen."},
+    {"answerCorrectness": "incorrect", "answerText": " Suhteellisen ilmavirtauksen nopeuden neliöjuureen."},
+    {"answerCorrectness": "incorrect", "answerText": " Dynaamiseen paineeseen - staattiseen paineeseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Ilmanlämpöön."}]},
+    
+    {"question": "Suurin nostovoimakertoimen arvo saavutetaan:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Negatiivisella kohtauskulmalla."},
+    {"answerCorrectness": "incorrect", "answerText": " Jyrkkien kaartojen aikana."},
+    {"answerCorrectness": "correct", "answerText": " Sakkauskohtauskulmalla."},
+    {"answerCorrectness": "incorrect", "answerText": " Silloin, kun nostovoima on yhtä iso vastus."}]},
+    
+    {"question": "Mikäli indikoitu ilmanopeus pysyy vakiona, mitä vaikutusta ilmantiheydenkasvulla on ilma-alukseesi?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima kasvaa mutta vastus pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima ja vastus pysyvät samana."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima ja vastus pienenevät."},
+    {"answerCorrectness": "correct", "answerText": " Nostovoima ja vastus kasvavat."}]},
+    
+    {"question": "Laskusiivekkeet tulisi valita kokonaan alas:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ylösvedossa."},
+    {"answerCorrectness": "incorrect", "answerText": " Kun aloittaa loppulähestymisen."},
+    {"answerCorrectness": "correct", "answerText": " Kun laskeutumispäätös on tehty."},
+    {"answerCorrectness": "incorrect", "answerText": " Kovaan vastatuuleen laskeutuessa."}]},
+    
+    {"question": "Mikäli siiven tyvi on korkeammalla kuin kärki, siivessä sanotaan olevan:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Trapetsisuutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Aerodynaamista kiertoa."},
+    {"answerCorrectness": "correct", "answerText": " Anhedraalia."},
+    {"answerCorrectness": "incorrect", "answerText": " Nuolikulmaa."}]},
+    
+    {"question": "Mitä tapahtuu, kun massakeskiö on lähellä eturajaansa?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Tarvittavat ohjainvoimat ovat hyvin pienet."},
+    {"answerCorrectness": "correct", "answerText": " Tarvittavat ohjainvoimat ovat suuret ja lentokone on hyvin vakaa lentää."},
+    {"answerCorrectness": "incorrect", "answerText": " Tarvittavat ohjainvoimat eivät muutu."},
+    {"answerCorrectness": "incorrect", "answerText": " Pitkittäisstabiliteetti heikkenee."}]},
+    
+    {"question": "Ilma-alus, joka on luonnostaan stabiili:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Palaa luonnostaan takaisin alkuperäiseen lentotilaan."},
+    {"answerCorrectness": "incorrect", "answerText": " On vaikea ajaa sakkaukseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei voi joutua syöksykierteeseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaatii vain pieniä ohjainvoimia."}]},
+    
+    {"question": "Lentokonetta, joka kohtaa häiriön lentoradassaan ja jää sen jälkeenheilahtelemaan kasvavalla amplitudilla, kutsutaan:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Sekä staattisesti sekä dynaamisesti epävakaaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Sekä staattisesti sekä dynaamisesti vakaaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Staattisesti epävakaaksi, mutta dynaamisesti vakaaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Staattisesti vakaaksi, mutta dynaamisesti epävakaaksi."}]},
+    
+    {"question": "Kone on suunniteltu niin, että massakeskiö on nostovoimakeskiön edessä jakone on pituusvakaa. Mikäli koneen lentorataan tulee esim. turbulenssin vuoksihäiriö, joka kääntää koneen nokkaa alas:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Korkeusvakaimesta ei synny tasapainottavaa voimaa, koska kone on jo tasapainossa."},
+    {"answerCorrectness": "correct", "answerText": " Koneen korkeusvakaimessa syntyy enemmän alaspäin vaikuttavaa voimaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Kone jää lentämään nokka-alas asentoon."},
+    {"answerCorrectness": "incorrect", "answerText": " Koneen korkeusvakaimessa syntyy enemmän ylöspäin vaikuttavaa voimaa."}]},
+    
+    {"question": "Kun koneen lentorata häiriintyy esimerkiksi turbulenssin vuoksi, sen sanotaanolevan stabiili, mikäli:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Se palaa entiselle lentoradalleen ilman ohjaajan toimenpiteitä."},
+    {"answerCorrectness": "incorrect", "answerText": " Jatkaa häiriön kasvattamista."},
+    {"answerCorrectness": "incorrect", "answerText": " Jatkaa häiriön kasvattamista, kunnes ohjaaja pysäyttää sen ohjaimillaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Säilyttää uuden lentoratansa."}]},
+    
+    {"question": "Mitä voi tapahtua, jos kone kuormataan niin, että painopiste on sallitun rajantakana?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Korkeusperäsin aiheuttaa liian suuren nostovoiman ja koneen nokka tippuu."},
+    {"answerCorrectness": "incorrect", "answerText": " Koneen maksimi kuormituskerroin ylitetään kaarroissa."},
+    {"answerCorrectness": "correct", "answerText": " Pituusvakavuuden heikkeneminen ja mahdollinen hallinnan menettäminen pienillänopeuksilla."},
+    {"answerCorrectness": "incorrect", "answerText": " Ohjainvoimat kasvavat liiallisiksi."}]},
+    
+    {"question": "Mikä seuraavista väittämistä on totta koskien lentoonlähtöä lentokoneenvalmistajan suosittelemalla laskusiivekeasetuksella?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Helpompi nousta reunaesteiden yli."},
+    {"answerCorrectness": "correct", "answerText": " Tällöin lentoonlähtömatka on lyhyempi verrattuna lentoonlähtöön ilman laskusiivekkeitä."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurempi nousukulma."},
+    {"answerCorrectness": "incorrect", "answerText": " Tällöin lentoonlähtömatka on pidempi verrattuna laipattomaan lentoonlähtöön."}]},
+    
+    {"question": "Mitä tapahtuu sakkausnopeudelle, jos laskusiivekkeitä otetaan alas?",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Sakkausnopeus laskee."},
+    {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
+    {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus kasvaa ja sakkaus tapahtuu suuremmalla kohtauskulmalla."}]},
+    
+    {"question": "Lentokone on stabiliteetiltaan neutraali ja sen lentotilaan tulee häiriö, mitenlentokone jatkaa lentoaan?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Palaa alkuperäiselle lentoradalle välittömästi."},
+    {"answerCorrectness": "correct", "answerText": " Säilyttää uuden asennon."},
+    {"answerCorrectness": "incorrect", "answerText": " Heilahtelee hieman, mutta palaa alkuperäiselle lentoradalleen."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvattaa häiriöitä, ellei lentäjä korjaa lentorataa."}]},
+    
+    {"question": "Mikäli koneen massakeskiö on sallittujen rajojen sisällä lentoonlähdössä:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Massakeskiö ei siirry lennon aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Se on varmasti rajojen sisällä myös laskeutuessa."},
+    {"answerCorrectness": "correct", "answerText": " Tulee varmistaa myös, että se on rajojen sisällä koneen laskeutuessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Miehistö pystyy siirtämään massakeskiötä lennon aikana ja siirtämään sen kohdalleenlaskua varten."}]},
+    
+    {"question": "Edessä oleva massakeskiö aiheuttaa:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Lyhyempää lentoonlähtö matkaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentynyttä pitkittäisstabiliteettia."},
+    {"answerCorrectness": "correct", "answerText": " Heikentynyttä korkeusperäsimen tehokkuutta loppuvedon aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Kevyempiä ohjainvoimia."}]},
+    
+    {"question": "Pituusvakavuutta synnyttää:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Siivekkeet."},
+    {"answerCorrectness": "correct", "answerText": " Korkeusvakaaja."},
+    {"answerCorrectness": "incorrect", "answerText": " V-kulma."},
+    {"answerCorrectness": "incorrect", "answerText": " Evä."}]},
+    
+    {"question": "Takana oleva massakeskiö aiheuttaa?",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Lisääntynyttä korkeusperäsimen tehokkuutta loppuvedon aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisääntynyttä pitkittäisstabiliteettia."},
+    {"answerCorrectness": "incorrect", "answerText": " Pidentynyttä lentoonlähtömatkaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Ohjaimien muuttumista jäykemmiksi."}]},
+    
+    {"question": "Mikäli koneen lentorataan tulee häiriö, sen tendenssiä palata alkuperäiseenlentotilaan kutsutaan:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Liikehtimiskyvyksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Instabiliteetiksi."},
+    {"answerCorrectness": "correct", "answerText": " Stabiliteetiksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Ohjattavuudeksi."}]},
+    
+    {"question": "Koneen stabiliteettia pystyakselin suhteen lisää:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pituus V-kulma."},
+    {"answerCorrectness": "incorrect", "answerText": " V-kulman lisäys."},
+    {"answerCorrectness": "correct", "answerText": " Jos vakauttavaa sivupinta-alaa lisätään massakeskiön takana."},
+    {"answerCorrectness": "incorrect", "answerText": " Nuolikulman pienentäminen."}]},
+    
+    {"question": "Pisin liitomatka, jonka lentokone saavuttaa sileänä 6.000 jalan korkeudestaliitosuhteella 8:1 on noin 8 merimailia. Jos laskusiivekkeitä avataan:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Pisin saavutettava liitomatka lyhenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Liitosuhde ei muutu, mutta se saavutetaan pienemmällä ilmanopeudella."},
+    {"answerCorrectness": "incorrect", "answerText": " Pisin saavutettava liitomatka ei muutu."},
+    {"answerCorrectness": "incorrect", "answerText": " Pisin saavutettava liitomatka kasvaa."}]},
+    
+    {"question": "Lentäjä avaa laskusiivekkeitä ja pitää ilmanopeuden samalla muuttumattomana.\nSäilyttääkseen vaakalennon kohtauskulmaa on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kasvatettava."},
+    {"answerCorrectness": "incorrect", "answerText": " Pidettävä muuttumattomana, jolloin tehoa ei tarvitse muuttaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Pidettävä muuttumattomana, mutta samalla on lisättävä tehoa."},
+    {"answerCorrectness": "correct", "answerText": " Pienennettävä."}]},
+    
+    {"question": "Lentokoneen siipiin suunnitellaan positiivinen V -kulma, jotta:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Parannetaan suuntavakavuutta pystyakselin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Parannetaan pituuskallistusvakavuutta poikittaisakselin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Parannetaan poikittaiskallistusvakavuutta pystyakselin ympäri."},
+    {"answerCorrectness": "correct", "answerText": " Parannetaan poikittaiskallistusvakavuutta pituusakselin ympäri."}]},
+    
+    {"question": "Tuulenpuuska heilauttaa lentokonetta. Stabiliteetti on neutraali, mikäli lentokoneilman ohjaajan vaikutusta:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Palautuu alkuperäiseen asentoonsa ja suuntaansa ilman ylimääräisiä heilahduksia."},
+    {"answerCorrectness": "incorrect", "answerText": " Jatkaa ajautumista poispäin alkuperäiseltä lentoradalta ja alkuperäisestä lentoasennosta."},
+    {"answerCorrectness": "correct", "answerText": " Säilyttää uuden lentoradan."},
+    {"answerCorrectness": "incorrect", "answerText": " Palautuu alkuperäiseen asentoonsa ja suuntaansa ylimääräisten heilahdusten jälkeen."}]},
+    
+    {"question": "Laskusiivekettä avattaessa siiven sakkauskohtauskulma:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee, mutta CL MAX ei muutu."},
+    {"answerCorrectness": "incorrect", "answerText": " Pysyy samana, mutta CL MAX kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa ja CL MAX kasvaa."},
+    {"answerCorrectness": "correct", "answerText": " Pienenee, mutta CL MAX kasvaa."}]},
+    
+    {"question": "Ylätaso ilman V -kulmaa verrattuna alatasoon ilman V -kulmaa:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Antaa suuremman poikittaiskallistusvakavuuden."},
+    {"answerCorrectness": "incorrect", "answerText": " Antaa vähemmän poikittaiskallistusvakavuutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Aiheuttaa saman pituuskallistusvakavuuden, kuin mikä tahansa siiven sijainti, koska Vkulmaparantaa pituusvakavuutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Antaa suuremman pituuskallistusvakavuuden."}]},
+    
+    {"question": "Mikäli puuska heilauttaa lentokoneen pois alkuperäiseltä lentoradaltaan, muttalentokone palautuu siihen itsestään ilman ohjaajan toimenpiteitä, sen sanotaanolevan:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Negatiivisen dynaamisen stabiliteetin omaava."},
+    {"answerCorrectness": "incorrect", "answerText": " Neutraalin dynaamisen stabiliteetin omaava."},
+    {"answerCorrectness": "correct", "answerText": " Positiivisen dynaamisen stabiliteetin omaava."},
+    {"answerCorrectness": "incorrect", "answerText": " Epästabiili."}]},
+    
+    {"question": "Nostovoimaa kasvattavat laitteet siiven johtoreunassa, kuten solakot,suunniteltiin mahdollistamaan lento suuremmilla kohtauskulmilla, siten että:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Se tuo lisäenergiaa siiven yläpinnalla olevaan virtaukseen ja siirtää virtauksen irtoamistasuuremmalle kohtauskulmalle."},
+    {"answerCorrectness": "incorrect", "answerText": " Muutetaan siipiprofiilin muotoa ja siten vaikutetaan siiven nostovoiman ominaisuuksiin."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienennetään nostovoimaa ja siten vaikutetaan indisoituun vastukseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Lisää nostovoimaa tuottavaa pinta-alaa ja siten lisää nostovoimaa."}]},
+    
+    {"question": "Osa, josta lentokoneen suuntavakavuus riippuu eniten, on nimeltään:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Sivuvakaaja."},
+    {"answerCorrectness": "incorrect", "answerText": " Sivuperäsimen trimmilaippa."},
+    {"answerCorrectness": "incorrect", "answerText": " Sivuperäsin."},
+    {"answerCorrectness": "incorrect", "answerText": " Korkeusvakaaja ja -peräsin."}]},
+    
+    {"question": "Laskeuduttaessa ilman laskusiivekettä, istumisnopeutta:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ei muuteta."},
+    {"answerCorrectness": "incorrect", "answerText": " On pienennettävä."},
+    {"answerCorrectness": "correct", "answerText": " On kasvatettava."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei muuteta, mutta lentorata pidetään jyrkempänä."}]},
+    
+    {"question": "Suurimmasta ilmanopeudesta, jolla voidaan lentää laskusiiveke avattuna,käytetään lyhennettä:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " VNO."},
+    {"answerCorrectness": "correct", "answerText": " VFE."},
+    {"answerCorrectness": "incorrect", "answerText": " VYSE."},
+    {"answerCorrectness": "incorrect", "answerText": " VNE."}]},
+    
+    {"question": "Suuntaliike (viippaus) on lentokoneen liikettä ____ akselin suhteen:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Pysty-"},
+    {"answerCorrectness": "incorrect", "answerText": " Poikittais-"},
+    {"answerCorrectness": "incorrect", "answerText": " Vaaka-"},
+    {"answerCorrectness": "incorrect", "answerText": " Pituus"}]},
+    
+    {"question": "Poikittaisakseliksi kutsutaan linjaa, joka:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kulkee painekeskiön kautta, kohtisuorassa ilmavirtaan nähden."},
+    {"answerCorrectness": "incorrect", "answerText": " Kulkee siivenkärkien kautta."},
+    {"answerCorrectness": "correct", "answerText": " On samansuuntainen linjan kanssa, joka kulkee painopisteen ja siipien kärkien kautta."},
+    {"answerCorrectness": "incorrect", "answerText": " Kulkee neljäsosa jänteen kautta siiven tyvessä ja on kohtisuorassa pituusakseliinnähden."}]},
+    
+    {"question": "Laskusiivekkeen avaaminen lähestymisen aikana:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Eliminoi maavaikutuksen synnyttämää pintakantoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Loiventaa liukukulmaa ilman, että tehoa on lisättävä."},
+    {"answerCorrectness": "correct", "answerText": " Jyrkentää liukukulmaa ilman, että ilmanopeus kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Mahdollistaa lähestymiset suuremmalla indikoidulla ilmanopeudella."}]},
+    
+    {"question": "Siivekkeitä poikkeutetaan ja ne palautetaan neutraaliin asentoon, kun lentokoneon hieman kallistunut. Jos lentokone oikaisee kallistuksen itsestään ilmanohjainliikkeitä, sitä sanotaan:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Neutraalisti vakaaksi."},
+    {"answerCorrectness": "correct", "answerText": " Staattisesti ja dynaamisesti vakaaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Staattisesti vakaaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Staattisesti vakaaksi, mutta dynaamiselta vakavuudeltaan neutraaliksi."}]},
+    
+    {"question": "Ohjainvoimia kasvattavan levyn (Anti-Balance Tab) tehtävänä on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Trimmata, eli poistaa ohjainvoimat lentokoneesta."},
+    {"answerCorrectness": "correct", "answerText": " Varmistaa, että tarvittava ohjainvoima kasvaa ohjainpinnan poikkeutuksen kasvaessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää tarvittavaa ohjainvoimaa vain suurilla nopeuksilla."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää ohjanvoimia kaikilla nopeuksilla."}]},
+    
+    {"question": "Ilmiönä aeromekaanista värähtelyä eli flutteria voidaan kuvailla:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nopea värähtelyliike, joka syntyy moottorin aiheuttamasta värinästä."},
+    {"answerCorrectness": "incorrect", "answerText": " Nopea värähtelyliike, joka sisältää vain ohjainpintojen liikettä, ja joka johtuu tiivistysaallonsyntymisestä ohjanpinnan ympärille."},
+    {"answerCorrectness": "correct", "answerText": " Lentokoneen osan tai osien värähtelyä suhteessa muuhun rakenteeseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaartosiivekkeiden käänteinen vaikutus, joka aiheutuu siiven huonostakiertojäykkyydestä."}]},
+    
+    {"question": "Kaartosiivekkeiden aerodynaaminen kevitys voidaan tehdä:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Asettamalla ohjainpinnan saranalinja ohjainpinnan johtoreunaa taaemmaksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Asettamalla ylöspäin liikkuvan kaartosiivekkeen kääntymiskulma suuremmaksi, kuinalaspäin kääntyvän kaartosiivekkeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Asettamalla paino ohjainpinnan saranalinjan etupuolelle."},
+    {"answerCorrectness": "incorrect", "answerText": " Asettamalla jousia ohjainjärjestelmään kevittämään liikettä."}]},
+    
+    {"question": "Kun ohjainta työnnetään eteenpäin, korkeusperäsimen kevitinlaippa:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Kääntyy ylöspäin verrattuna korkeusperäsimen pintaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Liikkuu neutraaliasentoon."},
+    {"answerCorrectness": "incorrect", "answerText": " Liikkuu alaspäin verrattuna korkeusperäsimen pintaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Liikkuu vain kun trimmipyörää käytetään."}]},
+    
+    {"question": "Liikkuvaan ohjainpintaan kiinnitetty yksinkertainen trimmilevy pysyy paikallaansuhteessa:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Ohjainpintaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Suhteelliseen ilmavirtaukseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokoneen horisonttitasoon."},
+    {"answerCorrectness": "incorrect", "answerText": " Rajakerroksen ilmavirtaukseen."}]},
+    
+    {"question": "Mikä ohjainpinta (-pinnat) vaikuttavat lentokoneen normaaliakselin (pystyakselin)ympäri?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Korkeusperäsin."},
+    {"answerCorrectness": "incorrect", "answerText": " Laskusiivekkeet."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaartosiivekkeet."},
+    {"answerCorrectness": "correct", "answerText": " Sivuperäsin."}]},
+    
+    {"question": "Primäärinen ja sekundäärinen vaikutus painamalla ainoastaan vasenta poljintaon:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Suuntaliike vasemmalle ja kallistuminen oikealle."},
+    {"answerCorrectness": "incorrect", "answerText": " Suuntaliike oikealle ja kallistuminen oikealle."},
+    {"answerCorrectness": "incorrect", "answerText": " Suuntaliike oikealle ja kallistuminen vasemmalle."},
+    {"answerCorrectness": "correct", "answerText": " Suuntaliike vasemmalle ja kallistuminen vasemmalle."}]},
+    
+    {"question": "Poikkeuttamalla kaartosiivekkeitä neutraaliasennosta:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ylöspäin kääntyvä kaartosiiveke lisää indusoitua vastusta (nostovoimasta aiheutuvaavastusta)."},
+    {"answerCorrectness": "incorrect", "answerText": " Molemmat kasvattavat indusoitua vastusta."},
+    {"answerCorrectness": "incorrect", "answerText": " Indisoitu (nostovoimasta riippuva) vastus pysyy samana. Ylöspäin kääntyvä kaartosiivekeaiheuttaa pienemmän profiilivastuksen, kuin alaspäin kääntyvä kaartosiiveke."},
+    {"answerCorrectness": "correct", "answerText": " Alaspäin kääntyvä kaartosiiveke lisää indisoitua vastusta (nostovoimasta aiheutuvaavastusta)."}]},
+    
+    {"question": "Lentokoneen sivuperäsimeen on asennettu kevityslevy. Oikeanpuoleisenpolkimen painaminen aiheuttaa suuntaliikkeen oikealle, jolloin kevityslevykääntyy:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Oikealle ja sivuperäsin kääntyy oikealle."},
+    {"answerCorrectness": "incorrect", "answerText": " Vasemmalle ja sivuperäsin kääntyy vasemmalle."},
+    {"answerCorrectness": "incorrect", "answerText": " Oikealle ja sivuperäsin kääntyy vasemmalle."},
+    {"answerCorrectness": "correct", "answerText": " Vasemmalle ja sivuperäsin kääntyy oikealle."}]},
+    
+    {"question": "Lentokoneella on taipumus lentää oikea siipi alhaalla, kun ohjaimiin ei kosketa.Vasemman kaartosiivekkeen trimmilevyä pitää:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Liikuttaa alas, jotta vasen kaartosiiveke liikkuu ylös ja oikea kaartosiiveke pysyyneutraalissa."},
+    {"answerCorrectness": "correct", "answerText": " Liikuttaa alas, jotta vasen kaartosiiveke nousee ylös ja oikea kaartosiiveke liikkuu alas."},
+    {"answerCorrectness": "incorrect", "answerText": " Liikutetaan ylös aiheuttaen vasemman siiven liikkeen alas, kaartosiivekkeet pysyyneutraalissa."},
+    {"answerCorrectness": "incorrect", "answerText": " Liikuttaa ylös, jotta vasen kaartosiiveke liikkuu ylös ja oikea kaartosiiveke alas."}]},
+    
+    {"question": "Kaartosiivekkeet aiheuttavat:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pituuskallistuksen poikittaisakselin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Poikittaiskallistuksen poikittaisakselin ympäri."},
+    {"answerCorrectness": "correct", "answerText": " Poikittaiskallistuksen pituusakselin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Suuntaohjauksen normaaliakselin ympäri (pystyakseli)."}]},
+    
+    {"question": "Vaakalentoon trimmatun lentokoneen, jonka painopiste on lähellä sallittuaetureunaa ja jonka korkeusperäsin on varustettu tavallisella trimmilevyllä:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Nokkaylös -vaikutus on heikentynyt."},
+    {"answerCorrectness": "incorrect", "answerText": " Pituus stabiliteetti heikentyy."},
+    {"answerCorrectness": "incorrect", "answerText": " Peräsimen alaspäin vaikuttava voima pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Nokka-alas -vaikutus on heikentynyt."}]},
+    
+    {"question": "Ohjainpinnat ovat massatasapainotettuja, koska:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Sillä siirretään ohjainpintojen aeromekaanisen värähtelyn (flutteri) syntyminensuuremmalle ilmanopeudelle."},
+    {"answerCorrectness": "incorrect", "answerText": " Sillä mahdollistetaan samansuuruisilta tuntuvat ohjainvoimat kaikkiin kolmeen ohjaimeen."},
+    {"answerCorrectness": "incorrect", "answerText": " Tarkoituksena on palauttaa ohjainpinnan neutraaliasentoon, kun ohjain vapautetaan."},
+    {"answerCorrectness": "incorrect", "answerText": " Sillä autetaan aerodynaamisesti lentäjää liikuttamaan ohjainpintoja."}]},
+    
+    {"question": "Jousikevitteisen trimmilevyn tehtävänä on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kompensoida lämpötilan muutoksista aiheutuvaa vaijereiden kireyden muutosta."},
+    {"answerCorrectness": "incorrect", "answerText": " Ylläpitää vakio jännitystä trimmilaippajärjestelmässä."},
+    {"answerCorrectness": "incorrect", "answerText": " Poistaa lentäjän tarvitsema ohjainvoima ohjaimen liikuttamisen jälkeen."},
+    {"answerCorrectness": "correct", "answerText": " Lisätä ohjaintuntumaa ohjainjärjestelmässä."}]},
+    
+    {"question": "Ohjainpinnalla voi olla massatasapaino siitä syystä, että:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Sillä autetaan ehkäisemään aeromekaanisen värähtelyn (flutteri) syntyä."},
+    {"answerCorrectness": "incorrect", "answerText": " Se parantaa ohjaintuntumaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Se pitää ohjainpinnan vaakatasossa."},
+    {"answerCorrectness": "incorrect", "answerText": " Sillä kevennetään ohjainpinnan liikuttamiseen tarvittavia voimia."}]},
+    
+    {"question": "Ohjainpinta voidaan massatasapainottaa:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Asettamalla painoa saranalinjan takapuolelle."},
+    {"answerCorrectness": "correct", "answerText": " Asettamalla painoa saranalinjan etupuolelle."},
+    {"answerCorrectness": "incorrect", "answerText": " Asentamalla ohjainvoimia lisäävä levy."},
+    {"answerCorrectness": "incorrect", "answerText": " Asentamalla kevityslevy."}]},
+    
+    {"question": "Kaartosiivekkeiden kiinteät trimmilevyt:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Säädetään maassa testilentojen jälkeen vaakalennon helpottamiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Ovat säädettävissä lennon aikana."},
+    {"answerCorrectness": "incorrect", "answerText": " Säädetään maassa testilentojen jälkeen kaartamisen helpottamiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Niitä ei tulisi koskaan säätää."}]},
+    
+    {"question": "Mitkä ohjainpinnat mahdollistavat pituuskallistuksen muuttamisen?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Sivuperäsimet."},
+    {"answerCorrectness": "correct", "answerText": " Korkeusperäsimet."},
+    {"answerCorrectness": "incorrect", "answerText": " Laskusiivekkeet."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaartosiivekkeet."}]},
+    
+    {"question": "Trimmilevyn tarkoitus on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Parantaa ohjaintuntumaa suurilla nopeuksilla."},
+    {"answerCorrectness": "incorrect", "answerText": " Parantaa ohjainten tehokkuutta."},
+    {"answerCorrectness": "incorrect", "answerText": " Auttaa lentäjää ohjainpintojen liikuttamisessa."},
+    {"answerCorrectness": "correct", "answerText": " Poistaa ohjainvoimat, joita tarvitaan lentokoneen asennon säilyttämiseksi."}]},
+    
+    {"question": "Jos ohjaussauvaa liikutetaan eteen ja vasemmalle, niin:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Vasen kaartosiiveke liikkuu alas ja oikea ylös sekä korkeusperäsin liikkuu ylös."},
+    {"answerCorrectness": "incorrect", "answerText": " Vasen kaartosiiveke liikkuu ylös ja oikea alas sekä korkeusperäsin liikkuu ylös."},
+    {"answerCorrectness": "incorrect", "answerText": " Vasen kaartosiiveke liikkuu alas ja oikea ylös sekä korkeusperäsin liikkuu alas."},
+    {"answerCorrectness": "correct", "answerText": " Vasen kaartosiiveke liikkuu ylös ja oikea alas sekä korkeusperäsin liikkuu alas."}]},
+    
+    {"question": "Jos ohjainta liikutetaan oikealle, vasemman kaartosiivekkeen ohjaimen kevitinlevy:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Liikkuu alas suhteessa kaartosiivekkeeseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Ei liiku ennen kuin kaartosiivekkeen trimmipyörää on pyöritetty."},
+    {"answerCorrectness": "correct", "answerText": " Liikkuu ylös suhteessa kaartosiivekkeeseen."},
+    {"answerCorrectness": "incorrect", "answerText": " Liikkuu neutraali asentoon."}]},
+    
+    {"question": "Epäsymmetrisesti kääntyvät (differential) kaartosiivekkeet on suunniteltukumoamaan:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Kaarron vastakkainen suuntaheilahdus."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokoneen positiivisen stabiliteetin."},
+    {"answerCorrectness": "incorrect", "answerText": " Stabiliteetin pituusakselin ympäri."},
+    {"answerCorrectness": "incorrect", "answerText": " Vastakkaissuuntainen kallistus."}]},
+    
+    {"question": "Jos kohtauskulmaa on kasvatettu suuremmaksi, kuin sakkauskohtauskulma:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima ja vastus pienenevät."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima kasvaa ja vastus kasvaa."},
+    {"answerCorrectness": "incorrect", "answerText": " Nostovoima ja vastus pienenee."},
+    {"answerCorrectness": "correct", "answerText": " Nostovoima pienenee ja vastus kasvaa."}]},
+    
+    {"question": "Jos kohtauskulmaa kasvatetaan yli kriittisen kohtauskulman, jonka jälkeen siipisakkaa:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Ellei ilmanopeus ole suurempi kuin normaali sakkausnopeus."},
+    {"answerCorrectness": "correct", "answerText": " Ilmanopeudesta ja pituuskallistuksesta huolimatta."},
+    {"answerCorrectness": "incorrect", "answerText": " Ellei pituuskallistus ole horisontissa tai sen alapuolella."},
+    {"answerCorrectness": "incorrect", "answerText": " Missä tapauksessa ohjain olisi vedettävä välittömästi taakse."}]},
+    
+    {"question": "Lentokoneen siipi sakkaa, kun:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Laminaarinen ilmavirtaus muuttuu turbulenttiseksi."},
+    {"answerCorrectness": "incorrect", "answerText": " Siihen kohdistuu poikkeuksellisen suuria G-voimia."},
+    {"answerCorrectness": "incorrect", "answerText": " Indikoitu ilmanopeus on liian pieni."},
+    {"answerCorrectness": "correct", "answerText": " Kriittinen kohtauskulma ylitetään."}]},
+    
+    {"question": "Jos sakkausnopeus suorassa vaakalennossa on 60 solmua, IAS. Mikä se on 60asteen kallistuksella suoritetussa vaakakaarrossa?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 60 kt."},
+    {"answerCorrectness": "incorrect", "answerText": " 43 kt."},
+    {"answerCorrectness": "correct", "answerText": " 85 kt."},
+    {"answerCorrectness": "incorrect", "answerText": " 120 kt."}]},
+    
+    {"question": "Kun lentokone nousee vakio ilmanopeudella, aerodynaaminen nostovoima on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienempi kuin lentokoneen paino."},
+    {"answerCorrectness": "correct", "answerText": " Suurempi kuin lentokoneen paino."},
+    {"answerCorrectness": "incorrect", "answerText": " Yhtä suuri kuin lentokoneen paino."},
+    {"answerCorrectness": "incorrect", "answerText": " Tasapainotettu vain lentokoneen painoon."}]},
+    
+    {"question": "Tyypillinen lentokoneen siiven sakkauskohtauskulma on:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " 16°."},
+    {"answerCorrectness": "incorrect", "answerText": " 4°."},
+    {"answerCorrectness": "incorrect", "answerText": " 45°."},
+    {"answerCorrectness": "incorrect", "answerText": " 30°."}]},
+    
+    {"question": "Lentokoneen jyrkimmän nousukulman määrittelee:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Nopeusylijäämä."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokoneen paino."},
+    {"answerCorrectness": "incorrect", "answerText": " Tuulen nopeus."},
+    {"answerCorrectness": "correct", "answerText": " Moottorin työntövoiman ylijäämä."}]},
+    
+    {"question": "Kohtauskulma, jolla lentokone sakkaa:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " On riippuvainen nopeudesta ja tiheyskorkeudesta."},
+    {"answerCorrectness": "incorrect", "answerText": " On riippuvainen ilmanvirtauksen nopeudesta siiven ympärillä."},
+    {"answerCorrectness": "correct", "answerText": " On vakio ja painosta riippumaton."},
+    {"answerCorrectness": "incorrect", "answerText": " On pienempi, kun lennetään myötätuuleen kuin lennettäessä vastatuuleen."}]},
+    
+    {"question": "Kun lentokone on syöksykierteessä, syöksykierteen suunta voidaanluotettavimmin päätellä:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Luisumittarista."},
+    {"answerCorrectness": "correct", "answerText": " Kaartomittarin neulasta (viisarista)."},
+    {"answerCorrectness": "incorrect", "answerText": " Keinohorisontista."},
+    {"answerCorrectness": "incorrect", "answerText": " Suuntahyrrästä."}]},
+    
+    {"question": "Siiven kierron tarkoituksena on:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Aiheuttaa sakkaus ensin siiven tyvessä."},
+    {"answerCorrectness": "incorrect", "answerText": " Parantaa laskusiivekkeiden tehoa."},
+    {"answerCorrectness": "incorrect", "answerText": " Aiheuttaa sakkaus ensin siiven kärjessä."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienentää kaartosiivekkeiden tehokkuutta."}]},
+    
+    {"question": "Suurin sallittu nopeus laskusiivekkeet ulkona (VFE) on yleensä pienempi, kuinmatkalentonopeus, koska:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Suuremmat nopeudet kuin VFE ylikuormittavat laskusiivekkeitä ja siiven rakenteita."},
+    {"answerCorrectness": "incorrect", "answerText": " Laskusiivekkeet sakkaavat, jos ne otetaan ulos liian suurella nopeudella."},
+    {"answerCorrectness": "incorrect", "answerText": " Vastusta on kertynyt liian paljon."},
+    {"answerCorrectness": "incorrect", "answerText": " Laskusiivekkeet on tarkoitettu käytettäväsi vain kun valmistaudutaan laskeutumaan."}]},
+    
+    {"question": "Lentokäsikirjan mukainen sakkausnopeus on 80 solmua. 45 asteen kallistuksellavaakakaarrossa sakkausnopeus on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 33 solmua."},
+    {"answerCorrectness": "incorrect", "answerText": " 86 solmua."},
+    {"answerCorrectness": "correct", "answerText": " 95 solmua."},
+    {"answerCorrectness": "incorrect", "answerText": " 113 solmua."}]},
+    
+    {"question": "Sakkauksessa painekeskiö (CP) liikkuu taaksepäin ja aiheuttaa nokan ____ japienentynyt nostovoima aiheuttaa lentokoneen ____.",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Suunnan muutoksen (nokan heilahduksen) / nopeuden pienenemisen."},
+    {"answerCorrectness": "correct", "answerText": " Putoamisen / korkeuden menetyksen."},
+    {"answerCorrectness": "incorrect", "answerText": " Putoamisen / nopeuden pienenemisen."},
+    {"answerCorrectness": "incorrect", "answerText": " Nousun / vajoamisen."}]},
+    
+    {"question": "VNE on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Suurin ilmanopeus, jota ei saa ylittää syöksyä lukuun ottamatta."},
+    {"answerCorrectness": "correct", "answerText": " Suurin ilmanopeus, jolla lentokonetta saa lentää."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurin nopeus, jolla laskusiivekkeet voi vielä avata."},
+    {"answerCorrectness": "incorrect", "answerText": " Suurin ilmanopeus, jolla voidaan liikehtiä joutumatta sakkaukseen."}]},
+    
+    {"question": "Vakiintuneessa nousussa vakionopeudella, työntövoima on:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Yhtä suuri kuin painon lentoradan suuntainen komponentti."},
+    {"answerCorrectness": "incorrect", "answerText": " Yhtä suuri kuin aerodynaaminen vastus."},
+    {"answerCorrectness": "incorrect", "answerText": " Pienempi kuin aerodynaaminen vastus."},
+    {"answerCorrectness": "correct", "answerText": " Suurempi kuin aerodynaaminen vastus."}]},
+    
+    {"question": "Mikä merkitys on VNO nopeudella?",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Se on normaalioperoinnin nopeusalueen maksiminopeus."},
+    {"answerCorrectness": "incorrect", "answerText": " On nopeus, jota ei saa koskaan ylittää."},
+    {"answerCorrectness": "incorrect", "answerText": " Sen nopeuden yläpuolella syntyy rakenteellisia vaurioita ilma-aluksen rakenteisiin."},
+    {"answerCorrectness": "incorrect", "answerText": " Se on maksiminopeus, joka mahdollistaa ohjainten äkillisen täyden poikkeutuksen jakone sakkaa ennen kuin sallittu positiivinen kuormituskerroin ylittyy."}]},
+    
+    {"question": "Oletetaan, että lentokoneen massa on vakio, jolloin sakkausnopeus onriippuvainen:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Kuormituskertoimen neliöjuuresta."},
+    {"answerCorrectness": "incorrect", "answerText": " Indikoidusta ilmanopeudesta."},
+    {"answerCorrectness": "incorrect", "answerText": " Painon neliöjuuresta."},
+    {"answerCorrectness": "incorrect", "answerText": " Käänteisesti kuormituskertoimesta."}]},
+    
+    {"question": "Nousukulma on riippuvainen:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Painon ylittävästä nostovoima ylijäämästä."},
+    {"answerCorrectness": "correct", "answerText": " Vastuksen ylittävästä työntövoimasta."},
+    {"answerCorrectness": "incorrect", "answerText": " Painon ylittävästä työntövoimaylijäämästä."},
+    {"answerCorrectness": "incorrect", "answerText": " Siiven kohtauskulmasta."}]},
+    
+    {"question": "Jos lentokone lentää suunniteltua liikehtimisnopeutta VA:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Niin ilmanopeutta on heti vähennettävä kohdattaessa turbulenssia."},
+    {"answerCorrectness": "correct", "answerText": " Niin maksimi kuormitusta ei ole mahdollista ylittää positiivista kuormitusta vaativillaliikkeillä."},
+    {"answerCorrectness": "incorrect", "answerText": " On mahdollista aikaan saada sallittua suurempi kuormitus suurien kuormitusmonikertojenliikkeissä."},
+    {"answerCorrectness": "incorrect", "answerText": " Ainoa mahdollisuus aikaan saada sallittua suurempi kuormitus, on lisätä äkillisesti siivenkohtauskulmaa, esimerkiksi käyttämällä paljon voimaa ohjaussauvasta vetämiseensyöksystä oikaistaessa."}]},
+    
+    {"question": "Jos lentokoneen massaa kasvatetaan painopisteen sijaintia muuttamatta,sakkauskohtauskulma:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
+    {"answerCorrectness": "incorrect", "answerText": " Pysyy samana. Painopisteen asema ei vaikuta sakkausnopeuteen."},
+    {"answerCorrectness": "incorrect", "answerText": " Kasvaa."},
+    {"answerCorrectness": "correct", "answerText": " Ei muutu."}]},
+    
+    {"question": "Kriittinen kohtauskulma on merkitty siiven polaarikuvaajaan numerolla (katsoLAPL/PPL 080-02):",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 4."},
+    {"answerCorrectness": "incorrect", "answerText": " 5."},
+    {"answerCorrectness": "correct", "answerText": " 6."},
+    {"answerCorrectness": "incorrect", "answerText": " 1."}]},
+    
+    {"question": "Minimivastuksen kohtauskulma on merkitty polaarikuvaajaan numerolla (katsoLAPL/PPL 080-02):",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 5."},
+    {"answerCorrectness": "incorrect", "answerText": " 4."},
+    {"answerCorrectness": "incorrect", "answerText": " 7."},
+    {"answerCorrectness": "correct", "answerText": " 3."}]},
+    
+    {"question": "Millä siipimuodolla on suurin indusoitu vastus?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " Kaksoistrapetsisella."},
+    {"answerCorrectness": "incorrect", "answerText": " Elliptisellä."},
+    {"answerCorrectness": "incorrect", "answerText": " Trapetsisella."},
+    {"answerCorrectness": "correct", "answerText": " Suorakulmaisella."}]},
+    
+    {"question": "Jos ilmavirtauksen nopeus kaksinkertaistuu, niin vastuskerroin:",
+    "answers": [
+    {"answerCorrectness": "correct", "answerText": " Nelinkertaistuu."},
+    {"answerCorrectness": "incorrect", "answerText": " Kaksinkertaistuu."},
+    {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
+    {"answerCorrectness": "incorrect", "answerText": " Kuusinkertaistuu."}]},
+    
+    {"question": "Kuinka monta prosenttia sakkausnopeus suunnilleen kasvaa, jos siipikuormituskasvaa 15%?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 0%."},
+    {"answerCorrectness": "correct", "answerText": " 7%."},
+    {"answerCorrectness": "incorrect", "answerText": " 20%."},
+    {"answerCorrectness": "incorrect", "answerText": " 15%."}]},
+    
+    {"question": "Kuinka paljon suunnilleen kasvaa miniminopeus (sakkausnopeus), jos massalisääntyy 20%?",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 120%."},
+    {"answerCorrectness": "incorrect", "answerText": " 0%."},
+    {"answerCorrectness": "incorrect", "answerText": " 20%."},
+    {"answerCorrectness": "correct", "answerText": " 10%."}]},
+    
+    {"question": "Jos lentokoneen massa on 3000 naulaa, niin kuinka paljon rakenteiden pitääkantaa kuormaa, jos kallistuskulma vaakalennossa on 20 astetta? (KatsoLAPL/PPL 080-01)",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 4.000 lbs."},
+    {"answerCorrectness": "incorrect", "answerText": " 3.000 lbs."},
+    {"answerCorrectness": "incorrect", "answerText": " 3.350 lbs."},
+    {"answerCorrectness": "correct", "answerText": " 3.180 lbs."}]},
+    
+    {"question": "Jos lentokoneen massa on 4.600 naulaa, niin kuinka paljon rakenteiden pitääkantaa kuormaa, jos kallistuskulma on 50 astetta? (Katso LAPL/PPL 080-01)",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 9.200 lbs."},
+    {"answerCorrectness": "incorrect", "answerText": " 8.180 lbs."},
+    {"answerCorrectness": "correct", "answerText": " 7.160 lbs."},
+    {"answerCorrectness": "incorrect", "answerText": " 5.400 lbs."}]},
+    
+    {"question": "Mikä on suurin sallittu kallistuskulma vaakalennossa, jos lentokoneenmaksimikuormituskerroin on 2.5G? (Katso LAPL/PPL 080-01)",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 60°."},
+    {"answerCorrectness": "incorrect", "answerText": " 50°."},
+    {"answerCorrectness": "correct", "answerText": " 66°."},
+    {"answerCorrectness": "incorrect", "answerText": " 55°."}]},
+    
+    {"question": "Mikä on suurin sallittu kallistuskulma, jos rajoittava kuormitusmonikerta on +3,8G? (Katso LAPL/PPL 080-01)",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 70°."},
+    {"answerCorrectness": "incorrect", "answerText": " 53°."},
+    {"answerCorrectness": "incorrect", "answerText": " 67°."},
+    {"answerCorrectness": "correct", "answerText": " 75°."}]},
+    
+    {"question": "Mikä on kuormitusmonikerta vaakakaarrossa 60° kallistuksella? (KatsoLAPL/PPL 080-01)",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " 1.5 G."},
+    {"answerCorrectness": "incorrect", "answerText": " 1 G."},
+    {"answerCorrectness": "incorrect", "answerText": " 0.5 G."},
+    {"answerCorrectness": "correct", "answerText": " 2.0 G."}]},
+    
+    {"question": "Suurimmasta ilmanopeudesta, jolla lentäjä voi hetkellisesti vetää ohjaussauvantäysin taakse vaurioittamatta lentokoneen rakenteita, käytetään lyhennettä:",
+    "answers": [
+    {"answerCorrectness": "incorrect", "answerText": " VFE."},
+    {"answerCorrectness": "incorrect", "answerText": " VB."},
+    {"answerCorrectness": "correct", "answerText": " VA."},
+    {"answerCorrectness": "incorrect", "answerText": " VS.131 Nousuvipu muuttaa työntövoimavektorin:"}]}]

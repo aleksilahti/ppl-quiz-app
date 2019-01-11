@@ -9,10 +9,10 @@ import { QSetService } from '../q-set.service';
 })
 export class BannerComponent implements OnInit {
   constructor(private service: QSetService) { }
-  pageHeader = 'Info';
+  pageHeader = '010 Ilmailulaki';
   language = 'fin';
   langButtonText = 'English';
-  qSet;
+  qSet = 'airLaw';
   changeLanguage() {
     if (this.language === 'fin') {
       this.language = 'eng';
@@ -132,6 +132,7 @@ export class BannerComponent implements OnInit {
   }
 
   ngOnInit() {
+    this.service.setActiveQuestionSet(this.qSet, this.language);
   }
 
 }

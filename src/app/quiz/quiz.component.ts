@@ -8,19 +8,21 @@ import { QSetService } from '../q-set.service';
 })
 export class QuizComponent implements OnInit {
   // displayed in the html
-  questions;
+  quizStarted = false;
+  quizOver = false;
+  questions: any;
   language = this.service.getLanguage();
   resultTitle;
   resultText;
   resultPercentage;
   resultQuestions;
-  question = 'Choose how many questions you want to answer';
+  question = 'Valitse moneenko kysymykseen haluat vastata';
   answers =  [{'answerText': '1', 'qAmount': 1},
               {'answerText': '5', 'qAmount': 5},
               {'answerText': '10', 'qAmount': 10},
               {'answerText': '25', 'qAmount': 25},
               {'answerText': '50', 'qAmount': 50},
-              {'answerText': 'all', 'qAmount': 'all'}];
+              {'answerText': 'kaikki', 'qAmount': 'all'}];
   image: string;
   // used in the code
   questionIndex;
@@ -32,8 +34,30 @@ export class QuizComponent implements OnInit {
 
   ngOnInit() {}
 
+  reset() {
+    this.quizStarted = false;
+    this.quizOver = false;
+    this.questions;
+    this.resultTitle;
+    this.resultText;
+    this.resultPercentage;
+    this.resultQuestions;
+    this.question = 'Valitse moneenko kysymykseen haluat vastata';
+    this.answers =  [{'answerText': '1', 'qAmount': 1},
+                {'answerText': '5', 'qAmount': 5},
+                {'answerText': '10', 'qAmount': 10},
+                {'answerText': '25', 'qAmount': 25},
+                {'answerText': '50', 'qAmount': 50},
+                {'answerText': 'all', 'qAmount': 'all'}];
+    this.questionIndex;
+    this.maxIndex;
+    this.results = [];
+    this.correctAnswers = 0;
+  }
+
   getQuestionSet() {
-    let qSetResponse = this.service.getQuestionSet();
+    this.quizStarted = true;
+    const qSetResponse = this.service.getQuestionSet();
         qSetResponse.subscribe((data: any) => this.setQuestionSet(data));
   }
   setQuestionSet(qset) {
@@ -55,8 +79,8 @@ export class QuizComponent implements OnInit {
     this.answers = this.getAnswers(this.questionIndex);
     this.image = this.getImage(this.questionIndex);
     } else {
-      alert('end of quiz');
       this.showResults();
+      this.quizOver = true;
     }
   }
   setMaxQuestions(numberOfQuestions) {
@@ -101,19 +125,19 @@ export class QuizComponent implements OnInit {
     this.resultPercentage = this.getResultPercentage();
     this.resultQuestions = this.results;
   }
-  getResultTitle(){
+  getResultTitle() {
     let resultTitle;
     let accPercentage;
     accPercentage = (this.correctAnswers / this.maxIndex) * 100;
     if (accPercentage >= 75) {
-      resultTitle = 'Test passed!';
+      resultTitle = 'Testi läpäisty!';
     } else {
-      resultTitle = 'Test failed! (75% needed to pass)';
+      resultTitle = 'Et läpäissyt testiä! (tarvitset 75% läpipääsyyn)';
     }
     return resultTitle;
   }
   getResultText() {
-    return this.correctAnswers + '/' + this.maxIndex + ' Correct';
+    return this.correctAnswers + '/' + this.maxIndex + ' Oikein';
   }
   getResultPercentage() {
     let percentage;

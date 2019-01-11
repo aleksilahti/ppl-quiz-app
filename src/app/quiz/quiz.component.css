@@ -1,17 +1,52 @@
 .correct{
     background-color: greenyellow;
+    color: black;
 }
+li {
+    list-style-type: none;
+    }
 #userAnswerWrong{
     background-color: red;
 }
 #userAnswerCorrect{
     background-color: green;
 }
-
-.answerButton{
+.wrapper{
+    color: white;
+}
+.question{
+    min-width: 500px;
+    min-heigh: 100px;
+    color: white;
+    font-weight: bold;
+}
+.answer{
     min-width: 500px;
     min-heigh: 100px;
 }
+
+.answer button{
+    width: 95%;
+    background-color: transparent;
+    border: 2px solid grey;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    transition-duration: 0.4s;
+    -webkit-transition-duration: 0.4s;
+    border-radius: 1px;
+    margin: 5px;
+    }
+.answer button:hover{
+    transition-duration: 0.4s;
+    background-color: grey;
+    border: 2px solid grey;
+    color: black;
+    }
+
 img {
     display: block;
     width: auto;

@@ -1,20 +1,27 @@
 
-<button (click)="getQuestionSet()">start quiz</button>
+<div class="wrapper">
+<button *ngIf="!quizStarted" (click)="getQuestionSet()">Aloita visa</button>
 
-<div>{{question}}</div><br/>
-<li *ngFor="let answer of answers" (click)="onSelect(answer)">
-  <button class="answerButton">{{answer.answerText}}</button>
-</li>
-<img src={{image}} width="1vw">
+<div *ngIf="quizStarted">
+<div class="question">{{question}}</div><br/>
+<div class="answer" *ngFor="let answer of answers" (click)="onSelect(answer)">
+  <button>{{answer.answerText}} </button>
+</div>
+<img src={{image}} width="1vw" *ngIf="!quizOver">
+</div>
 
+<div *ngIf="quizOver">
 <div>
   <h2>{{resultTitle}}</h2>
   <h1>{{resultText}}</h1>
   <h1>{{resultPercentage}}</h1>
+  <button (click)="reset()">Tee uusi testi</button>
 </div>
 <ul *ngFor="let resultQuestion of resultQuestions">
-  {{resultQuestion.question}}<br/>
+  <div class="question">{{resultQuestion.question}}<br/></div>
   <li *ngFor="let resultAnswer of resultQuestion.answers">
-    <span class={{resultAnswer.answerCorrectness}} id={{resultAnswer.userAnswer}}>{{resultAnswer.answerText}}</span>
+    <span class={{resultAnswer.answerCorrectness}} id={{resultAnswer.userAnswer}}>•{{resultAnswer.answerText}}</span>
   </li>
 </ul>
+</div>
+</div>

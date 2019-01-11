@@ -1,0 +1,1017 @@
+[
+    {"question": " Mikä on maapallon akselin ja sen kiertoradan tason välinen kulma?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 33,5°"},
+      {"answerCorrectness": "incorrect", "answerText": " 23,5°"},
+      {"answerCorrectness": "incorrect", "answerText": " 66,5°"},
+      {"answerCorrectness": "incorrect", "answerText": " 90°"}]},
+  
+    {"question": "Meridiaani, joka kulkee Greenwichin kautta, tunnetaan nimellä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Suurmeridiaani"},
+      {"answerCorrectness": "incorrect", "answerText": " Päämeridiaani"},
+      {"answerCorrectness": "incorrect", "answerText": " Päiväntasaaja"},
+      {"answerCorrectness": "incorrect", "answerText": " Nollameridiaani"}]},
+  
+    {"question": "Mikä on kompassiviiva eli loksodromi? (Rhumb line)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Säännöllisesti kaareva viiva maan pinnalla, joka leikkaa kaikki meridiaanit samallakulmalla."},
+      {"answerCorrectness": "incorrect", "answerText": " Linja maan pinnalla, jolla on sama keskus ja säde kuin maapallolla."},
+      {"answerCorrectness": "incorrect", "answerText": " Säännöllisesti kaareva viiva maan pinnalla, joka leikkaa kaikki yhdensuuntaisetleveyspiirit samalla kulmalla."},
+      {"answerCorrectness": "incorrect", "answerText": " Linja, joka osoittaa tosipohjoiseen."}]},
+  
+    {"question": "Eranto on kahden seuraavan välinen kulma:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tosi pohjoisen ja lähimmän leveyspiirin."},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettisen pohjoisen ja lentokoneen magneettisen suunnan."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosipohjoisen ja magneettisen pohjoisen."},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettisen pohjoisen ja lentokoneen tosisuunnan."}]},
+  
+    {"question": "Erantokäyrä on linja, joka yhdistää:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Yhtäsuuret magneettiset eksymät."},
+      {"answerCorrectness": "incorrect", "answerText": " Magnettisen nolla-erannon."},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettisen nolla-eksymän."},
+      {"answerCorrectness": "incorrect", "answerText": " Yhtäsuuret magneettiset erannot."}]},
+  
+    {"question": "Mitkä pisteet maapallon pinnalla määrittävät sen akselin?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Magneettinen pohjois- ja etelänapa."},
+      {"answerCorrectness": "incorrect", "answerText": " Päiväntasaaja."},
+      {"answerCorrectness": "incorrect", "answerText": " Maantieteellinen pohjoisnapa ja magneettinen pohjoisnapa."},
+      {"answerCorrectness": "incorrect", "answerText": " Maantieteellinen pohjois- ja etelänapa."}]},
+  
+    {"question": "Maapallon ympärysmitta päiväntasaajaa pitkin mitattuna on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 40 075 km."},
+      {"answerCorrectness": "incorrect", "answerText": " 24 000 km."},
+      {"answerCorrectness": "incorrect", "answerText": " 21 600 NM."},
+      {"answerCorrectness": "incorrect", "answerText": " 30 000 NM."}]},
+  
+    {"question": "Maapallon läpimitta päiväntasaajan tasossa on ____ pyörimisakselin pituuteenverrattuna.", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 43 km pidempi."},
+      {"answerCorrectness": "incorrect", "answerText": " 42 km lyhyempi."},
+      {"answerCorrectness": "incorrect", "answerText": " Yhtä pitkä."},
+      {"answerCorrectness": "incorrect", "answerText": " Kaksi kertaa pidempi."}]},
+  
+    {"question": "Mikä seuraavista maan kiertoliikkeeseen auringon ympäri liittyvistä väittämistäon tosi?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Maa kiertää auringon kerran päivässä."},
+      {"answerCorrectness": "incorrect", "answerText": " Maa ei kierrä aurinkoa vaan pysyy paikallaan ja aurinko kiertää maan ympäri."},
+      {"answerCorrectness": "incorrect", "answerText": " Maa kiertää auringon kerran kesän ja talven aikana."},
+      {"answerCorrectness": "incorrect", "answerText": " Maa kiertää auringon kerran vuodessa."}]},
+  
+    {"question": "Maapallo pyörii itsensä ympäri:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Akselinsa ympäri lännestä itään."},
+      {"answerCorrectness": "incorrect", "answerText": " Idästä länteen maapallon ja auringon yhteisen painopisteen ympäri."},
+      {"answerCorrectness": "incorrect", "answerText": " Akselinsa ympäri idästä länteen."},
+      {"answerCorrectness": "incorrect", "answerText": " Niin sanotun auringon kääntöpiirin ympäri."}]},
+  
+    {"question": "Maapallon kiertorata on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ympyrä."},
+      {"answerCorrectness": "incorrect", "answerText": " Ellipsi."},
+      {"answerCorrectness": "incorrect", "answerText": " Parabolinen."},
+      {"answerCorrectness": "incorrect", "answerText": " Hyperbolinen."}]},
+  
+    {"question": "Mikä aiheuttaa vuodenajat?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Avaruuden vaihtuva lämpötila maapallon kiertoradalla."},
+      {"answerCorrectness": "incorrect", "answerText": " Maan epäsäännöllinen liike auringon ympäri."},
+      {"answerCorrectness": "incorrect", "answerText": " Maapallon kiertoradan muoto."},
+      {"answerCorrectness": "incorrect", "answerText": " Maapallon akselin kallistuskulma."}]},
+  
+    {"question": "Millä nimellä tunnetaan lyhin etäisyys maapallon pinnalla kahden pisteen välillä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Pikkuympyräviiva."},
+      {"answerCorrectness": "incorrect", "answerText": " Kompassiviiva."},
+      {"answerCorrectness": "incorrect", "answerText": " Isoympyräviiva."},
+      {"answerCorrectness": "incorrect", "answerText": " Lambodromi."}]},
+  
+    {"question": "Päiväntasaaja on isoympyrä, jonka taso:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Jakaa maapallon itä- ja länsipuoliskoon."},
+      {"answerCorrectness": "incorrect", "answerText": " On yhdensuuntainen maapallon akseliin nähden."},
+      {"answerCorrectness": "incorrect", "answerText": " Jakaa maapallon pohjoiseen ja eteläiseen pallonpuoliskoon."},
+      {"answerCorrectness": "incorrect", "answerText": " Jakaa maapallon itäiseen ja läntiseen pallonpuoliskoon."}]},
+  
+    {"question": "Kuinka monta isoympyrää voidaan määritellä maapallon pinnalle?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Äärettömästi"},
+      {"answerCorrectness": "incorrect", "answerText": " 90"},
+      {"answerCorrectness": "incorrect", "answerText": " 180"},
+      {"answerCorrectness": "incorrect", "answerText": " 360"}]},
+  
+    {"question": "Isoympyrä maapallolla on poikkileikkaus maapallon pinnasta ja tasosta, jokakulkee:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Maapallon keskikohdan läpi, ja on aina kallellaan maapallon akseliin nähden."},
+      {"answerCorrectness": "incorrect", "answerText": " Kahden minkä tahansa maan pinnalla olevan pisteen läpi. Poikkileikkaus maan pinnankanssa on lyhin etäisyys näiden kahden pisteen välillä."},
+      {"answerCorrectness": "incorrect", "answerText": " Maapallon keskikohdan läpi, ja on aina suorassa kulmassa maapallon akseliin nähden."},
+      {"answerCorrectness": "incorrect", "answerText": " Maapallon keskikohdan läpi, ja voi olla missä tahansa kulmassa maapallon akseliinnähden."}]},
+  
+    {"question": "Millä seuraavista ympyröistä ei ole keskipisteenä maan keskipistettä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Pikkuympyrä."},
+      {"answerCorrectness": "incorrect", "answerText": " Päiväntasaaja."},
+      {"answerCorrectness": "incorrect", "answerText": " Isoympyrä."},
+      {"answerCorrectness": "incorrect", "answerText": " Ortodromi."}]},
+  
+    {"question": "Mikä seuraavista on kompassiviivan ominaisuus?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Se on lyhin etäisyys kahden maapallolla olevan pisteen välillä."},
+      {"answerCorrectness": "incorrect", "answerText": " Se leikkaa meridiaanit vakiokulmalla."},
+      {"answerCorrectness": "incorrect", "answerText": " Se on isoympyrä."},
+      {"answerCorrectness": "incorrect", "answerText": " Se leikkaa meridiaanit vaihtuvalla kulmalla."}]},
+  
+    {"question": "Mitkä maapallon koordinaatistoviivat määrittelevät ympyrät ovat sekäkompassiviivoja että isoympyröitä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Vain meridiaanit."},
+      {"answerCorrectness": "incorrect", "answerText": " Vain päiväntasaaja."},
+      {"answerCorrectness": "incorrect", "answerText": " Vain leveyspiirit."},
+      {"answerCorrectness": "incorrect", "answerText": " Meridiaanit ja päiväntasaaja."}]},
+  
+    {"question": "Aurinko kulkee taivaalla viiden asteen kaaren:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 20 minuutissa."},
+      {"answerCorrectness": "incorrect", "answerText": " 30 minuutissa."},
+      {"answerCorrectness": "incorrect", "answerText": " 4 minuutissa."},
+      {"answerCorrectness": "incorrect", "answerText": " 60 minuutissa."}]},
+  
+    {"question": "Kuinka paljon aikaa kuluu siihen, että aurinko kulkee taivaalla 27 asteen kaaren?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 30 minuuttia"},
+      {"answerCorrectness": "incorrect", "answerText": " 153 minuuttia"},
+      {"answerCorrectness": "incorrect", "answerText": " 90 minuuttia"},
+      {"answerCorrectness": "incorrect", "answerText": " 108 minuuttia"}]},
+  
+    {"question": "Koordinoitu yleisaika (UTC) tarkoittaa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Aikaa pituuspiirillä 0°."},
+      {"answerCorrectness": "incorrect", "answerText": " Keski-Euroopan aikaa."},
+      {"answerCorrectness": "incorrect", "answerText": " Vyöhykeaikaa."},
+      {"answerCorrectness": "incorrect", "answerText": " Paikallista aikaa."}]},
+  
+    {"question": "Kesäaika klo 13:00 Suomessa tarkoittaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 12:00 UTC"},
+      {"answerCorrectness": "incorrect", "answerText": " 16:00 UTC"},
+      {"answerCorrectness": "incorrect", "answerText": " 10:00 UTC"},
+      {"answerCorrectness": "incorrect", "answerText": " 11:00 UTC"}]},
+  
+    {"question": "Ilma-aluksen suunta Helsingin yllä on kohti etelää. Kello on 1200 UTC. Mikä onauringon suhteellinen suuntima?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen nokasta oikealle."},
+      {"answerCorrectness": "incorrect", "answerText": " Voi olla ilma-aluksen nokasta oikealle tai vasemmalle riippuen vuodenajasta."},
+      {"answerCorrectness": "incorrect", "answerText": " Suoraan eteenpäin."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen nokasta vasemmalle."}]},
+  
+    {"question": "Maantieteellinen leveysaste on maan pinnalla olevan pisteen etäisyys:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Päiväntasaajalta kaariasteina."},
+      {"answerCorrectness": "incorrect", "answerText": " Nollameridiaanilta maantieteellisinä maileina."},
+      {"answerCorrectness": "incorrect", "answerText": " Päiväntasaajalta maileina."},
+      {"answerCorrectness": "incorrect", "answerText": " Nollameridiaanilta kaariasteina."}]},
+  
+    {"question": "Mikä on päiväntasaajalla sijaitsevan pisteen leveysaste?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 90°S"},
+      {"answerCorrectness": "incorrect", "answerText": " 90°N"},
+      {"answerCorrectness": "incorrect", "answerText": " 180°S"},
+      {"answerCorrectness": "incorrect", "answerText": " 0°"}]},
+  
+    {"question": "Mikä on leveysero (D. lat) samalla pituuspiirillä sijaitsevien, annettujen pisteidenA ja B välillä?A: 15° 54' 30\" NB: 10° 33' 30\" S", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 05° 28' 00\""},
+      {"answerCorrectness": "incorrect", "answerText": " 25° 27' 00\""},
+      {"answerCorrectness": "incorrect", "answerText": " 05° 21' 00\""},
+      {"answerCorrectness": "incorrect", "answerText": " 26° 28' 00\""}]},
+  
+    {"question": "Määritä pisteen B leveyspiiri, joka sijaitsee 240 nm pohjoiseen pisteestä A (62°33' 00\" N).", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 86° 33' 00\" N"},
+      {"answerCorrectness": "incorrect", "answerText": " 66° 33' 00\" N"},
+      {"answerCorrectness": "incorrect", "answerText": " 64° 33' 00\" N"},
+      {"answerCorrectness": "incorrect", "answerText": " 58° 33' 00\" N"}]},
+  
+    {"question": "Mikä on leveyspiirien 10°N ja 11°N välinen etäisyys mitattuna pituuspiiriä pitkin?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 111 km"},
+      {"answerCorrectness": "incorrect", "answerText": " 60 km"},
+      {"answerCorrectness": "incorrect", "answerText": " 60 sm"},
+      {"answerCorrectness": "incorrect", "answerText": " 111 nm"}]},
+  
+    {"question": "Käytä tässä kysymyksessä liitettä LAPL/PPL 060-01-2015. Mitkä ovatilmoittautumispaikka \"MINNE\" maantieteelliset koordinaatit?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " N 62° 56' 48\" ja W 021° 32' 43\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " N 62° 56' 48\" ja E 021° 32' 43\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " N 60° 56' 48\" ja E 021° 32' 43\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " N 62° 46' 48\" ja E 021° 32' 43\" ."}]},
+  
+    {"question": "Käytä tässä kysymyksessä liitettä LAPL/PPL 060-01-2015. Mitkä ovatilmoittautumispaikka \"TERVA\" maantieteelliset koordinaatit?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " N 62° 59' 33\" ja E 021° 05' 11\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " N 63° 59' 33\" ja E 022° 05' 11\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " S 62° 59' 33\" ja E 022° 05' 11\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " N 62° 59' 33\" ja E 022° 05' 11\" ."}]},
+  
+    {"question": "Käytä tässä kysymyksessä liitettä LAPL/PPL 060-01-2015. Mitkä ovatilmoittautumispaikka \"VASSO\" maantieteelliset koordinaatit?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " N 62° 09' 28\" ja E 021° 58' 40\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " N 63° 09' 28\" ja E 021° 58' 40\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " E 63° 09' 28\" ja N 021° 58' 39\" ."},
+      {"answerCorrectness": "incorrect", "answerText": " N 63° 09' 28\" ja E 022° 58' 40\" ."}]},
+  
+    {"question": "Käytä liitettä LAPL/PPL 060-01-2015.Mitä pakollista ilmoittautumispaikkaa on sopivinta käyttää kun lähestyt EFVA radiaalilla 220?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " VASSO"},
+      {"answerCorrectness": "incorrect", "answerText": " KOSSU"},
+      {"answerCorrectness": "incorrect", "answerText": " TERVA"},
+      {"answerCorrectness": "incorrect", "answerText": " MINNE"}]},
+  
+    {"question": "Tähän kysymykseen käytä liitettä LAPL/PPL 060-01-2015. Mitä pakollistailmoittautumispistettä on sopivinta käyttää kun lähestyt EFVA radiaalilla 100?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " KOSSU"},
+      {"answerCorrectness": "incorrect", "answerText": " MINNE"},
+      {"answerCorrectness": "incorrect", "answerText": " VASSO"},
+      {"answerCorrectness": "incorrect", "answerText": " TERVA"}]},
+  
+    {"question": "Tähän kysymykseen käytä liitettä LAPL/PPL 060-01-2015. Mitä pakollistailmoittautumispistettä on sopivinta käyttää kun lähestyt EFVA radiaalilla 030?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " VASSO"},
+      {"answerCorrectness": "incorrect", "answerText": " TERVA"},
+      {"answerCorrectness": "incorrect", "answerText": " MINNE"},
+      {"answerCorrectness": "incorrect", "answerText": " KOSSU"}]},
+  
+    {"question": "1 NM etäisyys vastaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tasan 1/40000 maan ympärysmitasta."},
+      {"answerCorrectness": "incorrect", "answerText": " Napapiirin ympärysmittaa."},
+      {"answerCorrectness": "incorrect", "answerText": " Yhden kaariminuutin etäisyyttä meridiaanilla."},
+      {"answerCorrectness": "incorrect", "answerText": " Meridiaanin ja navan etäisyyttä."}]},
+  
+    {"question": "1 NM etäisyys vastaa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1,852 km"},
+      {"answerCorrectness": "incorrect", "answerText": " 1,609 km"},
+      {"answerCorrectness": "incorrect", "answerText": " 1,432 km"},
+      {"answerCorrectness": "incorrect", "answerText": " 1,111 km"}]},
+  
+    {"question": "Kaava, jolla saadaan muutettua kilometrit merimaileiksi, on?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " (km : 2) - 10%."},
+      {"answerCorrectness": "incorrect", "answerText": " (km x 2) - 10%."},
+      {"answerCorrectness": "incorrect", "answerText": " (km x 2) + 22%."},
+      {"answerCorrectness": "incorrect", "answerText": " (km : 2) + 10%."}]},
+  
+    {"question": "Arviolta kuinka monta kilometriä on 70 merimailia?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 130 km"}]},
+  
+    {"question": "km[C] 145 km[D] 135 km40 Yhden maamailin pituus on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1,111 km"},
+      {"answerCorrectness": "incorrect", "answerText": " 1,852 km"},
+      {"answerCorrectness": "incorrect", "answerText": " 1,432 km"},
+      {"answerCorrectness": "incorrect", "answerText": " 1,609 km"}]},
+  
+    {"question": "Kuinka monta kilometriä on 50 SM (maamailia)?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Noin 80 km"},
+      {"answerCorrectness": "incorrect", "answerText": " Tasan 100 km"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin 92 km"},
+      {"answerCorrectness": "incorrect", "answerText": " Hieman vajaa 75 km"}]},
+  
+    {"question": "Jos kartalla 6 cm kuvaa 15 kilometrin matkaa luonnossa, mikä on kartanmittakaava?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1 : 500 000"},
+      {"answerCorrectness": "incorrect", "answerText": " 1: 300 000"},
+      {"answerCorrectness": "incorrect", "answerText": " 1 : 250 000"},
+      {"answerCorrectness": "incorrect", "answerText": " 1 : 400 000"}]},
+  
+    {"question": "Kartan mittakaava on 1 : 500 000. Kuinka monta senttimetriä 105 km matkaluonnossa on kartalla?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 10,5 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 84,0 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 42,0 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 21,0 cm"}]},
+  
+    {"question": "Käytä tässä kysymyksessä liitettä LAPL/PPL 060-01-2015. Mikä on kartanmittakaava?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1 : 500 000"},
+      {"answerCorrectness": "incorrect", "answerText": " 1 : 300 000"},
+      {"answerCorrectness": "incorrect", "answerText": " 1 : 200 000"},
+      {"answerCorrectness": "incorrect", "answerText": " 1 : 1 500 000"}]},
+  
+    {"question": "Kartan mittakaava on 1:300 000. Montako senttimetriä edustaa etäisyyttä 54 km?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 18 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 7 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 36 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 1,8 cm"}]},
+  
+    {"question": "Kartan mittakaava on 1:300 000. Montako senttimetriä edustaa etäisyyttä 210km?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 7 cm."},
+      {"answerCorrectness": "incorrect", "answerText": " 6,3 cm."},
+      {"answerCorrectness": "incorrect", "answerText": " 63 cm."},
+      {"answerCorrectness": "incorrect", "answerText": " 70 cm."}]},
+  
+    {"question": "Kartan mittakaava on 1:500 000. Montako senttimetriä edustaa etäisyyttä 100NM?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 37 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 41 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 31 cm"},
+      {"answerCorrectness": "incorrect", "answerText": " 39 cm"}]},
+  
+    {"question": "Etäisyys pisteiden ALFA ja BRAVO välillä on 107 NM. Jos ilma-alus lentääensimmäiset 16 NM 10 minuutissa, niin kuinka kauan sillä kestää kulkea reittiALFA-BRAVO samalla maanopeudella?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1 tuntia 6 minuuttia"},
+      {"answerCorrectness": "incorrect", "answerText": " 59 minuuttia"},
+      {"answerCorrectness": "incorrect", "answerText": " 1 tunti 3 minuuttia"},
+      {"answerCorrectness": "incorrect", "answerText": " 1 tunti 1 minuuttia"}]},
+  
+    {"question": "Kuinka kauas ilma-alus pystyy lentämään, kun käytettävissä oleva polttoaine on32 gal ja polttoaineen kulutus on 7,1 gal/h sekä maanopeus 108 kts? (Jätä 1tunnin varapolttoaine)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 379 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " 487 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " 420 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " 384 NM"}]},
+  
+    {"question": "Kuinka kauas ilma-alus pystyy lentämään, kun käytettävissä oleva polttoaine on27 gal ja polttoaineen kulutus on 6,8 gal/h sekä maanopeus 93 kts? (Jätä 6 galvarapolttoaine)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 292 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " 287 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " 308 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " 301 NM"}]},
+  
+    {"question": "Kuinka monta gallonaa polttoainetta tulee tankata, kun halutaan lentää 300 NMmatka maanopeudella 120kt ja keskimääräinen polttoaineenkulutus on 7,3 gal/H?(Jätä 1 tunnin varapolttoaine)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 25,6 gal"},
+      {"answerCorrectness": "incorrect", "answerText": " 21,4 gal"},
+      {"answerCorrectness": "incorrect", "answerText": " 15,0 gal"},
+      {"answerCorrectness": "incorrect", "answerText": " 18,3 gal"}]},
+  
+    {"question": "Kun haluat muuttaa metrit jaloiksi, käytät seuraavanlaista kaavaa oikeantuloksen saavuttamiseksi:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " (m : 10) x 3"},
+      {"answerCorrectness": "incorrect", "answerText": " m x 0,3"},
+      {"answerCorrectness": "incorrect", "answerText": " (m x 3) : 10"},
+      {"answerCorrectness": "incorrect", "answerText": " (m x 3) + 10%"}]},
+  
+    {"question": "1500 metrin korkeus on noin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 4900 ft"},
+      {"answerCorrectness": "incorrect", "answerText": " 4500 ft"},
+      {"answerCorrectness": "incorrect", "answerText": " 3600 ft"},
+      {"answerCorrectness": "incorrect", "answerText": " 4000 ft"}]},
+  
+    {"question": "Lentoesteen korkeus merenpinnasta kartalla on 275 metriä ja säädösten mukaansinun tulee säilyttää 1000 jalan estevara. Mikä on matalin korkeus, jolla voitylittää esteen?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 2230 ft"},
+      {"answerCorrectness": "incorrect", "answerText": " 1230 ft"},
+      {"answerCorrectness": "incorrect", "answerText": " 1900 ft"},
+      {"answerCorrectness": "incorrect", "answerText": " 2130 ft"}]},
+  
+    {"question": "6000 jalan korkeus on noin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1200 m"},
+      {"answerCorrectness": "incorrect", "answerText": " 3000 m"},
+      {"answerCorrectness": "incorrect", "answerText": " 1800 m"},
+      {"answerCorrectness": "incorrect", "answerText": " 12000 m"}]},
+  
+    {"question": "Mikä QNH paine vastaa suurin piirtein QFE painetta 1000 hPa lentokentällä, jonkakorkeus merenpinnasta on 200 metriä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 990 hPa"},
+      {"answerCorrectness": "incorrect", "answerText": " 1035 hPa"},
+      {"answerCorrectness": "incorrect", "answerText": " 1025 hPa"},
+      {"answerCorrectness": "incorrect", "answerText": " 985 hPa"}]},
+  
+    {"question": "Mitä ilmailussa käytetty yksikkö solmu on?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " NM/h"},
+      {"answerCorrectness": "incorrect", "answerText": " KM/h"},
+      {"answerCorrectness": "incorrect", "answerText": " MP/h"},
+      {"answerCorrectness": "incorrect", "answerText": " m/h"}]},
+  
+    {"question": "Tuulen nopeus 10 m/s vastaa noin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 5 kts"},
+      {"answerCorrectness": "incorrect", "answerText": " 20 kts"},
+      {"answerCorrectness": "incorrect", "answerText": " 2,5 kts"},
+      {"answerCorrectness": "incorrect", "answerText": " 40 kts"}]},
+  
+    {"question": "Tuulen nopeus 5 solmua on noin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 10 km/h"},
+      {"answerCorrectness": "incorrect", "answerText": " 5 mph"},
+      {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
+      {"answerCorrectness": "incorrect", "answerText": " 20 m/s"}]},
+  
+    {"question": "120 km/h nopeus on solmuissa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 65 kts"},
+      {"answerCorrectness": "incorrect", "answerText": " 60 kts"},
+      {"answerCorrectness": "incorrect", "answerText": " 50 kts"},
+      {"answerCorrectness": "incorrect", "answerText": " 58 kts"}]},
+  
+    {"question": "Jos hinauskoneen pystynopeusmittari näyttää 500 ft/min ylöspäin, kuinka montametriä sekunnissa kone kohoaa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1,5 m/s"},
+      {"answerCorrectness": "incorrect", "answerText": " 5 m/s"},
+      {"answerCorrectness": "incorrect", "answerText": " 2,5 m/s"},
+      {"answerCorrectness": "incorrect", "answerText": " 3,5 m/s"}]},
+  
+    {"question": "Mikä on ilma-aluksen maanopeus, kun kone on matkannut 40 minuutissamatkan, joka vastaa 10,8 cm 1:500 000 kartalla?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 100 mph"},
+      {"answerCorrectness": "incorrect", "answerText": " 81 km/h"},
+      {"answerCorrectness": "incorrect", "answerText": " 81 kts"},
+      {"answerCorrectness": "incorrect", "answerText": " 100 km/h"}]},
+  
+    {"question": "Ilma-alus lentäisi tyynessä ilmassa 120 km matkan 2 tunnissa ja 40 minuutissa,mutta todellisuudessa matkaan kului 3 tuntia ja 5 minuuttia. Mikä oli lentoradansuuntainen tuulikomponentti?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 16 km/h vastatuuli"},
+      {"answerCorrectness": "incorrect", "answerText": " 6 km/h vastatuuli"},
+      {"answerCorrectness": "incorrect", "answerText": " 6 kts myötätuuli"},
+      {"answerCorrectness": "incorrect", "answerText": " 16 kts myötätuuli"}]},
+  
+    {"question": "Matka lähtökentältä X määräkentälle Y, reittipisteen Z kautta, on 84 km. Mikäliilma-aluksen matka X: ja Z:n välillä (35 km) kestää 50 minuuttia, kuinka pitkä aikakuluu koko reitin X - Y lentämiseen?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 2 tuntia"},
+      {"answerCorrectness": "incorrect", "answerText": " 50 minuuttia"},
+      {"answerCorrectness": "incorrect", "answerText": " 1 tunti 10 minuuttia"},
+      {"answerCorrectness": "incorrect", "answerText": " 45 minuuttia"}]},
+  
+    {"question": "Kuinka pitkän matkan ilma-alus lentää 2 minuutissa ja 30 sekunnissa, kun senmaanopeus on 98 solmua?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 4,08 NM."},
+      {"answerCorrectness": "incorrect", "answerText": " 2,45 NM."},
+      {"answerCorrectness": "incorrect", "answerText": " 3,35 NM."},
+      {"answerCorrectness": "incorrect", "answerText": " 2,55 NM."}]},
+  
+    {"question": "Kuinka monta naulaa (lbs) on 100 kg?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 200 lbs"},
+      {"answerCorrectness": "incorrect", "answerText": " 180 lbs"},
+      {"answerCorrectness": "incorrect", "answerText": " 250 lbs"},
+      {"answerCorrectness": "incorrect", "answerText": " 220 lbs"}]},
+  
+    {"question": "Kuinka monta kilogrammaa on 90 naulaa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 37 kg"},
+      {"answerCorrectness": "incorrect", "answerText": " 41 kg"},
+      {"answerCorrectness": "incorrect", "answerText": " 45 kg"},
+      {"answerCorrectness": "incorrect", "answerText": " 52 kg"}]},
+  
+    {"question": "Kuinka monta litraa on 25 US gallonaa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 105 l"},
+      {"answerCorrectness": "incorrect", "answerText": " 100 l"},
+      {"answerCorrectness": "incorrect", "answerText": " 98 l"},
+      {"answerCorrectness": "incorrect", "answerText": " 95 l"}]},
+  
+    {"question": "Mitä lentosuunnistuksessa käytettävä termi sortokulma (drift angle) tarkoittaa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen pituusakselin ja toteutuneen lentoradan välinen kulma."},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettisen lentosuunnan ja tuulen suunnan välinen kulma."},
+      {"answerCorrectness": "incorrect", "answerText": " Tuulikorjatun tosi-ilmanopeusvektorin ja ilma-aluksen pituusakselin välinen kulma."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen tosi-ilmanopeuden suunnan ja halutun etenemissuunnan (desired track)välinen kulma."}]},
+  
+    {"question": "Tuulikorjauskulma on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Magneettisen ohjaussuunnan ja kompassiohjaussuunnan välinen kulma tyynissäolosuhteissa."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosiohjaussuunnan ja magneettisen ohjaussuunnan välinen kulma."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosiohjaussuunnan ja halutun tosilentosuunnan välinen kulma."},
+      {"answerCorrectness": "incorrect", "answerText": " Halutun tosilentosuunnan ja halutun magneettisen lentosuunnan välinen kulma."}]},
+  
+    {"question": "Mikä suunta vastaa ilmansuuntaa länsiluode?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 202.5°."},
+      {"answerCorrectness": "incorrect", "answerText": " 337.5°."},
+      {"answerCorrectness": "incorrect", "answerText": " 292.5°."},
+      {"answerCorrectness": "incorrect", "answerText": " 247.5°."}]},
+  
+    {"question": "Mikä muuttuja liittyy magneettisen lentosuunnan selvittämiseen?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tuulikorjauskulma."},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettinen eranto."},
+      {"answerCorrectness": "incorrect", "answerText": " Kompassin eksymä."},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettinen inklinaatio."}]},
+  
+    {"question": "Maantieteellisen ja magneettisen pohjoissuunnan välistä kulmaa kutsutaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Inklinaatioksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Erannoksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Kompassin eksymäksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Pituuspiirien konvergenssiksi."}]},
+  
+    {"question": "Maapallon pinnalla olevan pisteen magneettinen eranto voidaan selvittää:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Laskemalla kyseisen pisteen pituuspiirin ja Greenwichin pituuspiirin välinen kulmaero."},
+      {"answerCorrectness": "incorrect", "answerText": " Laskemalla magneettisen ohjaussuunnan ja kompassiohjaussuunnan välinen kulma."},
+      {"answerCorrectness": "incorrect", "answerText": " Ohjaamossa olevasta erantotaulukosta."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilmailukarttaan piirrettyjen isogonien avulla."}]},
+  
+    {"question": "Kartassa olevia saman erannon omaavia pisteitä yhdistäviä käyriä kutsutaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Isobaareiksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Agoniseksi viivaksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Isogoneiksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Isokliineiksi."}]},
+  
+    {"question": "Millä nimellä kutsutaan kartassa olevaa käyrää, joka yhdistää pisteet, joideneranto on nolla?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Isogoniksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Agoniseksi viivaksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Akliiniseksi viivaksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Isokliiniksi."}]},
+  
+    {"question": "Laskettaessa magneettista suuntaa annetusta tosisuunnasta läntinen eranto:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Vähennetään."},
+      {"answerCorrectness": "incorrect", "answerText": " Jaetaan."},
+      {"answerCorrectness": "incorrect", "answerText": " Lisätään."},
+      {"answerCorrectness": "incorrect", "answerText": " Kerrotaan."}]},
+  
+    {"question": "Mitä laskentakaavaa käytetään magneettisen lentosuunnan laskemiseen?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Magneettinen ohjaussuunta plus/miinus kompassin eksymä."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosilentosuunta plus/miinus magneettinen eranto."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosiohjaussuunta plus/miinus magneettinen eranto."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosilentosuunta plus/miinus kompassin eksymä."}]},
+  
+    {"question": "Magneettinen ohjaussuunta on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tosiohjaussuunta plus/miinus eranto."},
+      {"answerCorrectness": "incorrect", "answerText": " Magneettinen lentosuunta plus/miinus eksymä."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosilentosuunta plus/miinus eranto."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosilentosuunta plus/miinus eksymä."}]},
+  
+    {"question": "Onko mahdollista, että tosilentosuunnalla, tosiohjaussuunnalla ja todellisellalentoradalla on sama arvo?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kyllä, näillä on aina sama arvo."},
+      {"answerCorrectness": "incorrect", "answerText": " Ei missään tapauksessa."},
+      {"answerCorrectness": "incorrect", "answerText": " Kyllä."},
+      {"answerCorrectness": "incorrect", "answerText": " Tämä on mahdollista ainoastaan lennettäessä suoraan pohjoiseen tai etelään."}]},
+  
+    {"question": "Mikä varustus ilma-aluksessa on oltava, jotta voidaan käyttää VHF/DF-laitettailma-aluksen paikantamiseen?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " VHF-lähetin ja -vastaanotin."},
+      {"answerCorrectness": "incorrect", "answerText": " ILS-lähetin."},
+      {"answerCorrectness": "incorrect", "answerText": " Transponderi, jossa on 4096 koodia."},
+      {"answerCorrectness": "incorrect", "answerText": " VOR-vastaanotin ja DME."}]},
+  
+    {"question": "Millä taajuusalueella NDB normaalisti lähettää?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 190 - 535 KHz."},
+      {"answerCorrectness": "incorrect", "answerText": " 400 - 1020 Hz."},
+      {"answerCorrectness": "incorrect", "answerText": " 200 - 415 Hz."},
+      {"answerCorrectness": "incorrect", "answerText": " 962 - 1213 MHz."}]},
+  
+    {"question": "ADF A:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-05):", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 060°."},
+      {"answerCorrectness": "incorrect", "answerText": " 210°."},
+      {"answerCorrectness": "incorrect", "answerText": " 240°."},
+      {"answerCorrectness": "incorrect", "answerText": " 030°."}]},
+  
+    {"question": "ADF B:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-05):", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 055°."},
+      {"answerCorrectness": "incorrect", "answerText": " 190°."},
+      {"answerCorrectness": "incorrect", "answerText": " 235°."},
+      {"answerCorrectness": "incorrect", "answerText": " 315°."}]},
+  
+    {"question": "ADF L:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-06):", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 020°."},
+      {"answerCorrectness": "incorrect", "answerText": " 160°."},
+      {"answerCorrectness": "incorrect", "answerText": " 060°."},
+      {"answerCorrectness": "incorrect", "answerText": " 135°."}]},
+  
+    {"question": "ADF E:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-06):", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 315°."},
+      {"answerCorrectness": "incorrect", "answerText": " 180°."},
+      {"answerCorrectness": "incorrect", "answerText": " 135°."},
+      {"answerCorrectness": "incorrect", "answerText": " 045°."}]},
+  
+    {"question": "ADF F:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-06):", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 090°."},
+      {"answerCorrectness": "incorrect", "answerText": " 270°."},
+      {"answerCorrectness": "incorrect", "answerText": " 360°."},
+      {"answerCorrectness": "incorrect", "answerText": " 180°."}]},
+  
+    {"question": "ADF G:n suhteellinen suuntima majakalle on: (Katso LAPL/PPL 060-06):", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 180°."},
+      {"answerCorrectness": "incorrect", "answerText": " 270°."},
+      {"answerCorrectness": "incorrect", "answerText": " 360°."},
+      {"answerCorrectness": "incorrect", "answerText": " 090°."}]},
+  
+    {"question": "ADF A:n magneettinen suuntima majakalle on: (Katso LAPL/PPL 060-05)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 030°."},
+      {"answerCorrectness": "incorrect", "answerText": " 180°."},
+      {"answerCorrectness": "incorrect", "answerText": " 090°."},
+      {"answerCorrectness": "incorrect", "answerText": " 210°."}]},
+  
+    {"question": "Mihin magneettisen ohjaussuuntaan ilma-aluksen tulisi kääntyävastaanottaessaan ADF näyttämän B, lentääkseen suoraan NDB-majakalle?(Katso LAPL/PPL 060-05)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 010°."},
+      {"answerCorrectness": "incorrect", "answerText": " 190°."},
+      {"answerCorrectness": "incorrect", "answerText": " 145°."},
+      {"answerCorrectness": "incorrect", "answerText": " 315°."}]},
+  
+    {"question": "Mihin likimääräiseen magneettisen ohjaussuuntaan ilma-aluksen tulisi kääntyävastaanottaessaan ADF näyttämän B, saavuttaakseen suuntiman 180° NDBmajakalle?(Katso LAPL/PPL 060-05)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 010°."},
+      {"answerCorrectness": "incorrect", "answerText": " 160°."},
+      {"answerCorrectness": "incorrect", "answerText": " 040°."},
+      {"answerCorrectness": "incorrect", "answerText": " 220°."}]},
+  
+    {"question": "Jos ohjaamossa oleva ADF-vastaanotin näyttää kuvan C osoittamalla tavalla,magneettinen suuntima majakalta on: (Katso LAPL/PPL 060-05)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 115°."},
+      {"answerCorrectness": "incorrect", "answerText": " 295°."},
+      {"answerCorrectness": "incorrect", "answerText": " 025°."},
+      {"answerCorrectness": "incorrect", "answerText": " 270°."}]},
+  
+    {"question": "Mikä kuvista esittää oikeassa sivutuulessa majakalle päin lentävän ilma-aluksenADF-näyttöä? (Katso LAPL/PPL 060-05)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " D."},
+      {"answerCorrectness": "incorrect", "answerText": " B."},
+      {"answerCorrectness": "incorrect", "answerText": " A."},
+      {"answerCorrectness": "incorrect", "answerText": " C."}]},
+  
+    {"question": "Mikä on ilma-aluksen, jonka ADF näyttää kuvan A osoittamalla tavalla,magneettinen suuntima majakalta? (Katso LAPL/PPL 060-05)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 150°."},
+      {"answerCorrectness": "incorrect", "answerText": " 180°."},
+      {"answerCorrectness": "incorrect", "answerText": " 210°."},
+      {"answerCorrectness": "incorrect", "answerText": " 030°."}]},
+  
+    {"question": "Mikä on magneettinen suuntima majakalle, jos magneettinen ohjaussuunta on320° ja ADF näyttää kuvan H osoittamalla tavalla? (Katso LAPL/PPL 060-06)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 225°."},
+      {"answerCorrectness": "incorrect", "answerText": " 035°."},
+      {"answerCorrectness": "incorrect", "answerText": " 005°."},
+      {"answerCorrectness": "incorrect", "answerText": " 185°."}]},
+  
+    {"question": "Mikä on magneettinen suuntima majakalle, jos magneettinen ohjaussuunta on035° ja ADF näyttää kuvan I osoittamalla tavalla? (Katso LAPL/PPL 060-06)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 215°."},
+      {"answerCorrectness": "incorrect", "answerText": " 035°."},
+      {"answerCorrectness": "incorrect", "answerText": " 090°."},
+      {"answerCorrectness": "incorrect", "answerText": " 180°."}]},
+  
+    {"question": "Mikä on magneettinen suuntima majakalle, jos magneettinen ohjaussuuntaon120° ja ADF näyttää kuvan J osoittamalla tavalla? (Katso LAPL/PPL 060-06)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 120°."},
+      {"answerCorrectness": "incorrect", "answerText": " 270°."},
+      {"answerCorrectness": "incorrect", "answerText": " 045°."},
+      {"answerCorrectness": "incorrect", "answerText": " 165°."}]},
+  
+    {"question": "Mikä on magneettinen ohjaussuunta, jos magneettinen suuntima majakalle on240° ja ADF näyttää kuvan J osoittamalla tavalla? (Katso LAPL/PPL 060-06)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 045°."},
+      {"answerCorrectness": "incorrect", "answerText": " 195°."},
+      {"answerCorrectness": "incorrect", "answerText": " 015°."},
+      {"answerCorrectness": "incorrect", "answerText": " 105°."}]},
+  
+    {"question": "Mikä on magneettinen ohjaussuunta, jos magneettinen suuntima majakalle on030° ja ADF näyttää kuvan K osoittamalla tavalla? (Katso LAPL/PPL 060-06)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 270°."},
+      {"answerCorrectness": "incorrect", "answerText": " 060°."},
+      {"answerCorrectness": "incorrect", "answerText": " 090°."},
+      {"answerCorrectness": "incorrect", "answerText": " 120°."}]},
+  
+    {"question": "Mikä on magneettinen ohjaussuunta, jos magneettinen suuntima majakalle on135° ja ADF näyttää kuvan L osoittamalla tavalla? (Katso LAPL/PPL 060-06)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 360°."},
+      {"answerCorrectness": "incorrect", "answerText": " 270°."},
+      {"answerCorrectness": "incorrect", "answerText": " 135°."},
+      {"answerCorrectness": "incorrect", "answerText": " 315°."}]},
+  
+    {"question": "VOR radiaalit ovat:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Magneettisia suuntia."},
+      {"answerCorrectness": "incorrect", "answerText": " Suhteellisia suuntimia."},
+      {"answerCorrectness": "incorrect", "answerText": " Kompassisuuntia."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosisuuntia."}]},
+  
+    {"question": "Suunnistettaessa VOR-laitteella, voidaan todeta majakan olevan ylitetty:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kun TO/FROM-osoitin tekee ensimmäisen täyskäännöksen."},
+      {"answerCorrectness": "incorrect", "answerText": " Kun TO/FROM-osoitin alkaa heilua."},
+      {"answerCorrectness": "incorrect", "answerText": " Kun CDI heilahtaa ensimmäisen kerran puolelta toiselle."},
+      {"answerCorrectness": "incorrect", "answerText": " Kun OFF-lipun ilmestyy."}]},
+  
+    {"question": "Mikä tilanne johtaa VOR-vastaanottimen osoittavaan näyttöön?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " OBS-valitsimen asettaminen suuntimaan, joka on 90° kulmassa suuntimasta, jolla ilmaalussijaitsee."},
+      {"answerCorrectness": "incorrect", "answerText": " OBS-valitsimen unohtaminen sisäänlentolinja-asentoon uloslentolinjaan majakanylittämisen jälkeen."},
+      {"answerCorrectness": "incorrect", "answerText": " ILS-taajuuden asettaminen VOR-vastaanottimeen."},
+      {"answerCorrectness": "incorrect", "answerText": " Lennettäessä OBS-nupista valittua suuntimaa päinvastaiseen ohjaussuuntaa."}]},
+  
+    {"question": "Mikä on suositeltu menetelmä OBS-valitsimen asettamiselle, kun aiotaan lentääulos radiaalia 180 pitkin?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Aseta OBS 180 asteeseen ja korjaa ohjaussuuntaa CDI-neulasta poispäin."},
+      {"answerCorrectness": "incorrect", "answerText": " Aseta OBS 180 asteeseen ja korjaa ohjaussuuntaa CDI-neulaa kohti."},
+      {"answerCorrectness": "incorrect", "answerText": " Aseta OBS 360 asteeseen ja korjaa ohjaussuuntaa CDI-neulaa kohti."},
+      {"answerCorrectness": "incorrect", "answerText": " Aseta OBS 360 asteeseen ja korjaa ohjaussuuntaa CDI-neulasta poispäin."}]},
+  
+    {"question": "Mikä on suositeltu menetelmä OBS-valitsimen asettamiselle, kun aiotaan lentääsisään radiaalia 215 pitkin?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Aseta OBS 215 asteeseen ja korjaa ohjaussuuntaa CDI-neulaa kohti."},
+      {"answerCorrectness": "incorrect", "answerText": " Aseta OBS 035 asteeseen ja korjaa ohjaussuuntaa CDI-neulaa kohti."},
+      {"answerCorrectness": "incorrect", "answerText": " Aseta OBS 035 asteeseen ja korjaa ohjaussuuntaa CDI-neulasta poispäin."},
+      {"answerCorrectness": "incorrect", "answerText": " Aseta OBS 215 asteeseen ja korjaa ohjaussuuntaa CDI-neulasta poispäin."}]},
+  
+    {"question": "Kuinka montaa astetta CDI-neulan täysi poikkeama vastaa, kun VHF/VORvastaanottimeenon asetettu VOR-majakan taajuus?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 10°."},
+      {"answerCorrectness": "incorrect", "answerText": " 20°."},
+      {"answerCorrectness": "incorrect", "answerText": " 15°."},
+      {"answerCorrectness": "incorrect", "answerText": " 5°."}]},
+  
+    {"question": "Ilma-alus sijaitsee 60 mailin päässä VOR-majakalta ja sen CDI-neula onviidenneksen sivussa. Kuinka paljon ilma-alus on sivussa keskilinjasta?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 3 mailia."},
+      {"answerCorrectness": "incorrect", "answerText": " 6 mailia."},
+      {"answerCorrectness": "incorrect", "answerText": " 2 mailia."},
+      {"answerCorrectness": "incorrect", "answerText": " 1 maili."}]},
+  
+    {"question": "Mikä tai mitkä ilma-alukset vastaavat VOR näyttämään V? (Katso LAPL/PPL 060-07)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-alukset 1 ja 3."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-alukset 5 ja 8."},
+      {"answerCorrectness": "incorrect", "answerText": " Ainoastaan ilma-alus 6."},
+      {"answerCorrectness": "incorrect", "answerText": " Ainoastaan ilma-alus 2."}]},
+  
+    {"question": "Mikä tai mitkä lentokoneet vastaavat VOR näyttämään X? (Katso LAPL/PPL 060-07)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Lentokoneet 3 ja 7."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentokoneet 1 ja 3."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentokoneet 1 ja 2."},
+      {"answerCorrectness": "incorrect", "answerText": " Ainoastaan lentokone 7."}]},
+  
+    {"question": "Mikä tai mitkä lentokoneet vastaavat VOR näyttämään U? (Katso LAPL/PPL 060-07)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ainoastaan lentokone 2."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentokoneet 1 ja 2."},
+      {"answerCorrectness": "incorrect", "answerText": " Ainoastaan lentokone 6."},
+      {"answerCorrectness": "incorrect", "answerText": " Ainoastaan lentokone 5."}]},
+  
+    {"question": "Mikä VOR näyttämä kuvaa lentokoneen 8 tilannetta? (Katso LAPL/PPL 060-07)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " U."},
+      {"answerCorrectness": "incorrect", "answerText": " T."},
+      {"answerCorrectness": "incorrect", "answerText": " W."},
+      {"answerCorrectness": "incorrect", "answerText": " V."}]},
+  
+    {"question": "Mitkä VOR näyttämät kuvaavat lentokoneiden 5 ja 7 tilannetta? (Katso LAPL/PPL060-07)", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " U and Z."},
+      {"answerCorrectness": "incorrect", "answerText": " T and X."},
+      {"answerCorrectness": "incorrect", "answerText": " W and Z."},
+      {"answerCorrectness": "incorrect", "answerText": " V and X."}]},
+  
+    {"question": "Mikä väittämä koskien DME käyttöä on tosi?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Jos ohjaamossa sijaitseva DME-valitsin asetetaan HOLD-asentoon, kaikki näyttämätnollautuvat."},
+      {"answerCorrectness": "incorrect", "answerText": " Vastaanotin valitsee DME-taajuuden automaattisesti, kun siihen asetetaan VOR tai ILStaajuus."},
+      {"answerCorrectness": "incorrect", "answerText": " DME voi näyttää etäisyyttä ainoastaan vastaanottimessa aktiivisena olevalle majakalle."},
+      {"answerCorrectness": "incorrect", "answerText": " Lennettäessä suoraan DME-majakan yläpuolella antaa DME-näyttö ohjaamossaetäisyydeksi nolla."}]},
+  
+    {"question": "Mitä etäisyyttä DME näyttää?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Viistoetäisyyttä statute maileina."},
+      {"answerCorrectness": "incorrect", "answerText": " Etäisyyttä ilma-aluksesta samalla korkeudella suoraan DME-maalaitteen yläpuolellaolevaan pisteeseen."},
+      {"answerCorrectness": "incorrect", "answerText": " Viistoetäisyyttä merimaileina."},
+      {"answerCorrectness": "incorrect", "answerText": " Vaakaetäisyyttä ilma-alukselta DME-majakalle maata pitkin."}]},
+  
+    {"question": "Mitä DME näyttää ilma-aluksen ollessa suoraan majakan yläpuolella 6,000 ftkorkeudessa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1,3."},
+      {"answerCorrectness": "incorrect", "answerText": " 0,5."},
+      {"answerCorrectness": "incorrect", "answerText": " 0."},
+      {"answerCorrectness": "incorrect", "answerText": " 1."}]},
+  
+    {"question": "DME viistoetäisyysvirhe on suurin:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Korkealla suoraan majakan yläpuolella."},
+      {"answerCorrectness": "incorrect", "answerText": " Matalalla suoraan majakan yläpuolella."},
+      {"answerCorrectness": "incorrect", "answerText": " Matalalla kaukana majakasta."},
+      {"answerCorrectness": "incorrect", "answerText": " Korkealla kaukana majakasta."}]},
+  
+    {"question": "Katso liite LAPL/PPL 060-02-2015. Korkeudet merenpinnasta on ilmoitettu:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Jalkoina."},
+      {"answerCorrectness": "incorrect", "answerText": " Metreinä."},
+      {"answerCorrectness": "incorrect", "answerText": " Lentopintoina."},
+      {"answerCorrectness": "incorrect", "answerText": " Kilometreinä."}]},
+  
+    {"question": "GPS-laitteen reittipistetietokantaa (pois lukien käyttäjän omat reittipisteet) voipäivittää:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ohjaaja, mutta ainoastaan lennolla."},
+      {"answerCorrectness": "incorrect", "answerText": " Ohjaaja, mutta ainoastaan maassa laitteen ollessa paikallaan."},
+      {"answerCorrectness": "incorrect", "answerText": " Ainoastaan Part-145 hyväksytty huoltokorjaamo."},
+      {"answerCorrectness": "incorrect", "answerText": " Ainoastaan ohjelmiston valmistaja."}]},
+  
+    {"question": "CDI-neula GPS-laitteen elektronisessa näytössä ohjaamossa näyttää poikkeamaahalutusta lentolinjasta:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kaariasteina tai etäisyytenä ohjaajan valinnan mukaan."},
+      {"answerCorrectness": "incorrect", "answerText": " Kaariasteina."},
+      {"answerCorrectness": "incorrect", "answerText": " Minuutteina."},
+      {"answerCorrectness": "incorrect", "answerText": " Etäisyytenä."}]},
+  
+    {"question": "Mitä on tärkeää tietää GPS:n käyttöön liittyen?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Laitteeseen on käsin kirjattava ilma-aluksen pysähtymispaikan koordinaatit ennen lähtöä."},
+      {"answerCorrectness": "incorrect", "answerText": " Laitteeseen on käsin kirjattava ilma-aluksen lähtöpaikan koordinaatit."},
+      {"answerCorrectness": "incorrect", "answerText": " Laite on ainoastaan suuntaa antava, eikä sitä tule käyttää ensisijaisenasuunnistusvälineenä."},
+      {"answerCorrectness": "incorrect", "answerText": " Laite pystyy määrittämään suunnistustietoa ainoastaan pisteille, jotka ovat teoreettisennäköyhteyden päässä."}]},
+  
+    {"question": "Mitä nopeutta käytännössä jokainen GPS-laite mittaa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tuulen nopeutta."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosi-ilmanopeutta."},
+      {"answerCorrectness": "incorrect", "answerText": " Pystynopeutta."},
+      {"answerCorrectness": "incorrect", "answerText": " Maanopeutta."}]},
+  
+    {"question": "Maan koordinaatiston pituuspiirit:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Muodostavat leveyspiirien kanssa neliöitä."},
+      {"answerCorrectness": "incorrect", "answerText": " Ovat pohjoisia tai eteläisiä."},
+      {"answerCorrectness": "incorrect", "answerText": " Ovat keskenään yhdensuuntaisia."},
+      {"answerCorrectness": "incorrect", "answerText": " Ovat leveyspiirien kanssa suorassa kulmassa."}]},
+  
+    {"question": "Kartan mittakaava on 1:500 000. Kuinka monta senttimetriä 5 km matkaluonnossa on kartalla?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 1,0 mm."},
+      {"answerCorrectness": "incorrect", "answerText": " 0,5 cm."},
+      {"answerCorrectness": "incorrect", "answerText": " 2,5 cm."},
+      {"answerCorrectness": "incorrect", "answerText": " 1,0 cm."}]},
+  
+    {"question": "Helsinki-Malmilla (EFHF) on käytössä kiitotie 18. Pintatuuli on 210° / 20kts.Mikä on sivutuulikomponentti?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 10 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 15 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 20 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 5 kts."}]},
+  
+    {"question": "Kello on 01.51 jouluaattona Suomessa, mikä on koordinoitu maailmanaika(UTC)?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 23.51."},
+      {"answerCorrectness": "incorrect", "answerText": " 00.51."},
+      {"answerCorrectness": "incorrect", "answerText": " 03.51."},
+      {"answerCorrectness": "incorrect", "answerText": " 01.51."}]},
+  
+    {"question": "Tosilentosuunta on 55°, tuuli reittikorkeudessa 310° / 25 kts, eranto alueella 6 °Wja ilma-alus lentää tosi-ilmanopeudella 113 kts.Mikä on magneettinen ohjaussuunta?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 054°."},
+      {"answerCorrectness": "incorrect", "answerText": " 041°."},
+      {"answerCorrectness": "incorrect", "answerText": " 037°."},
+      {"answerCorrectness": "incorrect", "answerText": " 049°."}]},
+  
+    {"question": "Tosilentosuunta on 040°, tuuli reittikorkeudessa 310° / 25 kt, eranto alueella 6 °Wja kone lentää tosi-ilmannopeudella 113 kt.Ilma-aluksen maanopeus on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 120 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 110 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 106 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 118 kts."}]},
+  
+    {"question": "Mikä seuraavista ei kuulu maapallon koordinaattijärjestelmään?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 23°46'S 123°53'W."},
+      {"answerCorrectness": "incorrect", "answerText": " 49°21'N 072°63'E."},
+      {"answerCorrectness": "incorrect", "answerText": " 70°23'N 034°28'E."},
+      {"answerCorrectness": "incorrect", "answerText": " 35°48'S 154°25'W."}]},
+  
+    {"question": "Tosilentosuunta on 125°, tuuli 010° / 25 kts, tosi-ilmanopeus 95 kts ja eranto 5 °E.Mitkä ovat magneettinen ohjaussuunta ja maanopeus?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 096° ja 103 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 113° ja 83 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 106° ja 103 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 096° ja 83 kts."}]},
+  
+    {"question": "37 km/h nopeus on solmuissa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 20 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 6,7 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 54 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 32,5 kts."}]},
+  
+    {"question": "Kun maanopeus on 106 kts ja matkan pituus on 216 NM, lentoaika on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 29min."},
+      {"answerCorrectness": "incorrect", "answerText": " 2h 56min."},
+      {"answerCorrectness": "incorrect", "answerText": " 2h 02min."},
+      {"answerCorrectness": "incorrect", "answerText": " 3h 24min."}]},
+  
+    {"question": "Kello on 02.30 kesällä Suomessa, mikä on koordinoitu maailmanaika (UTC)?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 00.30."},
+      {"answerCorrectness": "incorrect", "answerText": " 05.30."},
+      {"answerCorrectness": "incorrect", "answerText": " 23.30."},
+      {"answerCorrectness": "incorrect", "answerText": " 04.30."}]},
+  
+    {"question": "Ilmansuunnista puhuttaessa kaakko on asteina:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 315°."},
+      {"answerCorrectness": "incorrect", "answerText": " 225°."},
+      {"answerCorrectness": "incorrect", "answerText": " 135°."},
+      {"answerCorrectness": "incorrect", "answerText": " 145°."}]},
+  
+    {"question": "Mikä seuraavista vaihtoehdoista on väärä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 235° = Lounas."},
+      {"answerCorrectness": "incorrect", "answerText": " 360° = Pohjoinen."},
+      {"answerCorrectness": "incorrect", "answerText": " 315° = Luode."},
+      {"answerCorrectness": "incorrect", "answerText": " 000° = Pohjoinen."}]},
+  
+    {"question": "Suomen alue sijoittuu:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 60. ja 70. itäisen pituuspiirin väliin."},
+      {"answerCorrectness": "incorrect", "answerText": " 50. ja 60. itäisen pituuspiirin väliin."},
+      {"answerCorrectness": "incorrect", "answerText": " 50. ja 60. pohjoisen leveyspiirin väliin."},
+      {"answerCorrectness": "incorrect", "answerText": " 60. ja 70. pohjoisen leveyspiirin väliin."}]},
+  
+    {"question": "Maapallo pyörähtää vuorokaudessa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 30°."},
+      {"answerCorrectness": "incorrect", "answerText": " 360°."},
+      {"answerCorrectness": "incorrect", "answerText": " 35°."},
+      {"answerCorrectness": "incorrect", "answerText": " 180°."}]},
+  
+    {"question": "100 mph on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 185 km/h."},
+      {"answerCorrectness": "incorrect", "answerText": " 120 km/h."},
+      {"answerCorrectness": "incorrect", "answerText": " 160 km/h."},
+      {"answerCorrectness": "incorrect", "answerText": " 80 km/h."}]},
+  
+    {"question": "Peltoaukeat on merkitty ilmailukarttaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Vihreällä värillä."},
+      {"answerCorrectness": "incorrect", "answerText": " Oranssilla värillä."},
+      {"answerCorrectness": "incorrect", "answerText": " Ruskealla värillä."},
+      {"answerCorrectness": "incorrect", "answerText": " Valkoisella värillä."}]},
+  
+    {"question": "Magneettinen ohjaussuunta on suunta, johon on huomioitu:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tuulikorjauskulma ja eksymä."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosilentosuunta, tuulikorjauskulma ja eranto."},
+      {"answerCorrectness": "incorrect", "answerText": " Tuulikorjauskulma ja eranto."},
+      {"answerCorrectness": "incorrect", "answerText": " Tosilentosuunta ja eranto."}]},
+  
+    {"question": "P-alue tarkoittaa ilmailukartalla:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kieltoaluetta."},
+      {"answerCorrectness": "incorrect", "answerText": " Parkkialuetta."},
+      {"answerCorrectness": "incorrect", "answerText": " Vaara-aluetta."},
+      {"answerCorrectness": "incorrect", "answerText": " Matalalentoaluetta."}]},
+  
+    {"question": "TAS on 80 kts, tuulikorjauskulma +19° ja vastatuulikomponentti 20 kts. Mikä onilma-aluksen maanopeus?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 56 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 50 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 82 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 62 kts."}]},
+  
+    {"question": "TC 180°, TAS 80 kts, tuuli 090° / 15 kts, eranto 8°E.Mikä on tuulikorjauskulma?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 11°."},
+      {"answerCorrectness": "incorrect", "answerText": " -15°."},
+      {"answerCorrectness": "incorrect", "answerText": " -11°."},
+      {"answerCorrectness": "incorrect", "answerText": " 15°."}]},
+  
+    {"question": "TC 260°, TAS 90 kts, tuuli 360° / 25 kts, eranto 8°E.Mikä on ilma-aluksen maanopeus?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 95 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 81 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 101 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 91 kts."}]},
+  
+    {"question": "TC 120°, TAS 75 kts, tuuli 140° / 10 kts, eranto 8°E.Mikä on ilma-aluksen magneettinen lentosuunta?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ei mikään vaihtoehdoista."},
+      {"answerCorrectness": "incorrect", "answerText": " 108°."},
+      {"answerCorrectness": "incorrect", "answerText": " 112°."},
+      {"answerCorrectness": "incorrect", "answerText": " 128°."}]},
+  
+    {"question": "Ilma-aluksen metallisten rakenteiden synnyttämä virhe kompassin lukemassa onnimeltään:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Suuntavoima"},
+      {"answerCorrectness": "incorrect", "answerText": " Inklinaatio"},
+      {"answerCorrectness": "incorrect", "answerText": " Eksymä"},
+      {"answerCorrectness": "incorrect", "answerText": " Eranto"}]},
+  
+    {"question": "Itäisen erannon alkuperäinen etumerkki on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " +"},
+      {"answerCorrectness": "incorrect", "answerText": " Itäisellä pallonpuoliskolla -"},
+      {"answerCorrectness": "incorrect", "answerText": " -"},
+      {"answerCorrectness": "incorrect", "answerText": " Läntisellä pallonpuoliskolla -"}]},
+  
+    {"question": "Itäisen eksymän alkuperäinen etumerkki on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " -"},
+      {"answerCorrectness": "incorrect", "answerText": " +"},
+      {"answerCorrectness": "incorrect", "answerText": " Läntisellä pallonpuoliskolla -"},
+      {"answerCorrectness": "incorrect", "answerText": " Itäisellä pallonpuoliskolla -"}]},
+  
+    {"question": "Läntisen erannon alkuperäinen etumerkki on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " +"},
+      {"answerCorrectness": "incorrect", "answerText": " -"},
+      {"answerCorrectness": "incorrect", "answerText": " Läntisellä pallonpuoliskolla +"},
+      {"answerCorrectness": "incorrect", "answerText": " Itäisellä pallonpuoliskolla +"}]},
+  
+    {"question": "Asetat metallikehyksiset aurinkolasisi Cessnan mittaritaulun päällevarakompassin viereen. Mitä havaitset?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Puheradioon valittu taajuus muuttuu"},
+      {"answerCorrectness": "incorrect", "answerText": " Kompassin lukema voi muuttua useilla asteilla"},
+      {"answerCorrectness": "incorrect", "answerText": " Radiopuhelimessa kuuluu voimakasta kohinaa"},
+      {"answerCorrectness": "incorrect", "answerText": " Keinohorisontti ei pysy vakaana"}]},
+  
+    {"question": "Inklinaatiolla tarkoitetaan:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Tosiohjaussuunnan ja kompassiohjaussuunnan völistä kulmaa"},
+      {"answerCorrectness": "incorrect", "answerText": " Maapallon magneettikentän pystysuoraa komponenttia"},
+      {"answerCorrectness": "incorrect", "answerText": " Maapallon magneettikentän ja paikallisen vaakatason välistä kulmaa"},
+      {"answerCorrectness": "incorrect", "answerText": " Tosilentosuunnan ja magneettisen lentosuunnan välistä kulmaa"}]},
+  
+    {"question": "Lennät Kuopiosta suoraa viivaa pitkin Tampereelle eräänä kesäkuun päivänä jakello on 12:00. Missä suuntimassa Aurinko näkyy?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Suoraan edessä"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin 90° nokan vasemmalla puolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin 30° nokan oikealla puolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin 45° nokan vasemmalla puolella"}]},
+  
+    {"question": "On kesäkuu ja olet lennolla suoraa reittiviivaa pitkin Porista Lappeenrantaan.Milloin Aurinko paistaa suoraan takaasi?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Noin kello 12"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin kello 21"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin kello 09"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin kello 18"}]},
+  
+    {"question": "Tarkasteltaessa Maapalloa sen Pohjoisnavan yläpuolelta nähtynä, Maapallonäyttää pyörivän:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Täyden kierroksen vastapäivään noin 24 tunnissa"},
+      {"answerCorrectness": "incorrect", "answerText": " Täyden kierroksen myötäpäivään noin 24 tunnissa"},
+      {"answerCorrectness": "incorrect", "answerText": " Täyden kierroksen vastapäivään noin 12 tunnissa"},
+      {"answerCorrectness": "incorrect", "answerText": " Täyden kierroksen myötäpäivään noin 12 tunnissa"}]},
+  
+    {"question": "Lentosäännöissä tarkoitettu yö alkaa, kun:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Auringon keskipiste on kuusi astetta näennäisen horisontin alapuolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Auringon yläreuna on 12° näkyvän horisontin alapuolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Auringon yläreuna juuri katoaa havaitsijan näkyvistä"},
+      {"answerCorrectness": "incorrect", "answerText": " Valaisematonta estettä ei voida tunnistaa kahdeksan kilometrin etäisyydeltä katsoen"}]},
+  
+    {"question": "Milloin Porvarillinen iltahämärä päättyy?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kun Auringon yläreuna on 12 astetta näennäisen horisontin alapuolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Kun Auringon yläreuna on 18 astetta näkyvän horisontin alapuolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Kun Auringon keskipiste on kuusi astetta näennäisen horisontin alapuolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Kun Auringon keskipiste on kuusi astetta näkyvän horisontin alapuolella"}]},
+  
+    {"question": "Porvarillinen aamuhämärä päättyy, kun:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Auringon yläreuna on 6° näennäisen horisontin alapuolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Auringon keskipiste on 12° näennäisen horisontin alapuolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Aurinko nousee"},
+      {"answerCorrectness": "incorrect", "answerText": " Auringon keskipiste on 6° näennäisen horisontin alapuolella"}]},
+  
+    {"question": "Leveyspiirin (latitudi) suurin arvo voi olla:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 180°"},
+      {"answerCorrectness": "incorrect", "answerText": " 90°"},
+      {"answerCorrectness": "incorrect", "answerText": " 360°"},
+      {"answerCorrectness": "incorrect", "answerText": " 60°"}]},
+  
+    {"question": "Suurin pituuspiirin arvo voi olla:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 180°"},
+      {"answerCorrectness": "incorrect", "answerText": " 360°"},
+      {"answerCorrectness": "incorrect", "answerText": " 90°"},
+      {"answerCorrectness": "incorrect", "answerText": " 45°"}]},
+  
+    {"question": "Jokainen aste (kaarimitta, 1°) muodostuu:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " 100 kaariminuutista"},
+      {"answerCorrectness": "incorrect", "answerText": " 60 kaarisekunnista"},
+      {"answerCorrectness": "incorrect", "answerText": " 60 kaariminuutista"},
+      {"answerCorrectness": "incorrect", "answerText": " 120 kaarisekunnista"}]},
+  
+    {"question": "Kesäpäivän seisauksen aikaan Aurinko on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kauriin kääntöpiirillä"},
+      {"answerCorrectness": "incorrect", "answerText": " Päiväntasaajalla"},
+      {"answerCorrectness": "incorrect", "answerText": " Ravun kääntöpiirillä"},
+      {"answerCorrectness": "incorrect", "answerText": " Ekvaattorilla"}]},
+  
+    {"question": "Talvipäivän seisauksen aikaan Aurinko on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kauriin kääntöpiirillä"},
+      {"answerCorrectness": "incorrect", "answerText": " Ekvaattorilla"},
+      {"answerCorrectness": "incorrect", "answerText": " Ravun kääntöpiirillä"},
+      {"answerCorrectness": "incorrect", "answerText": " Päiväntasaajalla"}]},
+  
+    {"question": "Syyspäivän tasauksen aikaan Aurinko on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ravun kääntöpiirillä"},
+      {"answerCorrectness": "incorrect", "answerText": " Zeniitissä"},
+      {"answerCorrectness": "incorrect", "answerText": " Kauriin kääntöpiirillä"},
+      {"answerCorrectness": "incorrect", "answerText": " Ekvaattorilla"}]},
+  
+    {"question": "Millä nimellä tunnetaan pisin mahdollinen suora viiva, joka voidaan piirtääMaapallon pinnalle?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Lambodromi"},
+      {"answerCorrectness": "incorrect", "answerText": " Loksodromi"},
+      {"answerCorrectness": "incorrect", "answerText": " Saman atsimuutin käyrä"},
+      {"answerCorrectness": "incorrect", "answerText": " Isoympyrä"}]},
+  
+    {"question": "Mitä nimitystä käytetään viivasta, joka leikkaa kaikki pituuspiirit samassakulmassa?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Korkeusparalleeli"},
+      {"answerCorrectness": "incorrect", "answerText": " Loksodromi eli kompassiviiva"},
+      {"answerCorrectness": "incorrect", "answerText": " Isoympyrä"},
+      {"answerCorrectness": "incorrect", "answerText": " Pikkuympyrä"}]},
+  
+    {"question": "Leveyspiiri 65° 0'N on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Pikkuympyrä"},
+      {"answerCorrectness": "incorrect", "answerText": " Saman atsimuutin käyrä"},
+      {"answerCorrectness": "incorrect", "answerText": " Longitudi"},
+      {"answerCorrectness": "incorrect", "answerText": " Isoympyrä"}]},
+  
+    {"question": "Kuinka pitkän matkan joudut kulkemaan, jos lennät pitkin pituuspiiriäPohjoisnavalta Etelänavalle?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Noin 10 800 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin 5400 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin 40 000 NM"},
+      {"answerCorrectness": "incorrect", "answerText": " Noin 20 000 NM"}]},
+  
+    {"question": "Talvipäivänseisauksen aikaan Aurinko on:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Kauimpana Maapallosta"},
+      {"answerCorrectness": "incorrect", "answerText": " Lähimpänä Maapalloa"},
+      {"answerCorrectness": "incorrect", "answerText": " Pohjoisen napapiirin yläpuolella"},
+      {"answerCorrectness": "incorrect", "answerText": " Suoraan Päivätasaajan yläpuolella"}]},
+  
+    {"question": "Navigoinnin kannalta helpoin reittiviiva seuraa:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Isoympyrää"},
+      {"answerCorrectness": "incorrect", "answerText": " Saman atsimuutin käyrää"},
+      {"answerCorrectness": "incorrect", "answerText": " Loksodromia"},
+      {"answerCorrectness": "incorrect", "answerText": " Ensimmäistä vertikaalia"}]},
+  
+    {"question": "Lentokoneen magneetisen kompassin neula osoittaa kohti:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Napapohjoista"},
+      {"answerCorrectness": "incorrect", "answerText": " Magneetista pohjoista kompassin paikalla"},
+      {"answerCorrectness": "incorrect", "answerText": " Tosipohjoista"},
+      {"answerCorrectness": "incorrect", "answerText": " Maantieteellistä pohjoista"}]},
+  
+    {"question": "Magneettisen ohjaussuunnan ja kompassiohjaussuunnan välinen kulmaerotunnetaan nimellä:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Konvergenssiksi"},
+      {"answerCorrectness": "incorrect", "answerText": " Eksymä"},
+      {"answerCorrectness": "incorrect", "answerText": " Eranto"},
+      {"answerCorrectness": "incorrect", "answerText": " Graiviatioksi"}]}]

@@ -1,7 +1,6 @@
 
-<header><h1 id="page">{{pageHeader}}</h1><button id="language" (click)="changeLanguage()">{{langButtonText}}</button></header>
 <nav>
-    <button id="info" class="none" (click)="changeQuestionSet('info')">Info</button>
+    <!--<button id="info" class="none" (click)="changeQuestionSet('info')">Info</button>-->
     <button id="airLaw" (click)="changeQuestionSet('airLaw')">010</button>
     <button id="aircrafGeneralKnowledge" (click)="changeQuestionSet('aircraftGeneralKnowledge')">020</button>
     <button id="performanceAndFlightMonitoring" (click)="changeQuestionSet('performanceAndFlightMonitoring')">030</button>
@@ -12,4 +11,5 @@
     <button id="principlesOfFlight" (click)="changeQuestionSet('principlesOfFlight')">080</button>
     <button id="Communications" (click)="changeQuestionSet('Communications')">090</button>
 </nav>
+<header><h1 id="page">{{pageHeader}}</h1><!--<button id="language" (click)="changeLanguage()">{{langButtonText}}</button>--></header>
 <app-quiz></app-quiz>
