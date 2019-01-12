@@ -156,7 +156,7 @@ export class QuizComponent implements OnInit {
   getImage(index) {
     let image;
     if (this.questions[index]['image']) {
-      image = '/assets/appendix_images/' + this.questions[index]['image'];
+      image = '/assets/images/' + this.questions[index]['image'];
       console.log('showing image from ' + image);
       return image;
     }
