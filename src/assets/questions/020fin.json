@@ -340,9 +340,9 @@
   
     {"question": "Mikä vaikutus on ilma-aluksen lentokelpoisuudelle sillä, että sitä ei huolleta lentokelpoisuustodistuksen mukaisen huoltoaikataulun mukaisesti?", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen omistajan tulee hakea viranomaiselta poikkeuslupaa huoltoaikatauluun."},
-    {"answerCorrectness": "correct", "answerText": " Lentokelpoisuustodistus tulee uusia ennen kuin ilma-aluksella voi lentää."},
+    {"answerCorrectness": "incorrect", "answerText": " Lentokelpoisuustodistus tulee uusia ennen kuin ilma-aluksella voi lentää."},
     {"answerCorrectness": "incorrect", "answerText": " Sillä ei ole vaikutusta lentokelpoisuustodistukseen."},
-    {"answerCorrectness": "incorrect", "answerText": " Lentokelpoisuustodistus on pätemätön niin kauan, kunnes tarvittavat huoltotoimenpiteetovat suoritettu."}]},
+    {"answerCorrectness": "correct", "answerText": " Lentokelpoisuustodistus on pätemätön niin kauan, kunnes tarvittavat huoltotoimenpiteetovat suoritettu."}]},
   
     {"question": "Työtahdin aikana nelitahtisen moottorin palokaasujen lämpötila sylinterissä:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
@@ -424,9 +424,9 @@
   
     {"question": "Jos vallitseva ilmankosteus ei ole tiedossa, kaasuttimen jäätäminen onmahdollista:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Lämpötilavälillä -20°C...+10°C."},
-    {"answerCorrectness": "incorrect", "answerText": " Millä tahansa lämpötilalla."},
+    {"answerCorrectness": "correct", "answerText": " Millä tahansa lämpötilalla."},
     {"answerCorrectness": "incorrect", "answerText": " Lämpötilavälillä -30°C...+10°C."},
-    {"answerCorrectness": "correct", "answerText": " Lämpötilassa 0°C ja sen alapuolella."}]},
+    {"answerCorrectness": "incorrect", "answerText": " Lämpötilassa 0°C ja sen alapuolella."}]},
   
     {"question": "Mikäli sulake palaa lennon aikana:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Se voidaan vaihtaa niin usein, kuin on tarve."},
@@ -513,10 +513,10 @@
     {"answerCorrectness": "incorrect", "answerText": " Mekaanisen polttoainepumpun ja kaasuttimen välissä."}]},
   
     {"question": "Magneettinen suunta:", "answers": [
-    {"answerCorrectness": "correct", "answerText": " On kompassisuunnan, eksymän ja erannon summa."},
+    {"answerCorrectness": "incorrect", "answerText": " On kompassisuunnan, eksymän ja erannon summa."},
     {"answerCorrectness": "incorrect", "answerText": " Kaartovirheet eivät vaikuta siihen."},
     {"answerCorrectness": "incorrect", "answerText": " Viittaa aina tosipohjoiseen."},
-    {"answerCorrectness": "incorrect", "answerText": " On kompassisuunnan ja eksymän summa."}]},
+    {"answerCorrectness": "correct", "answerText": " On kompassisuunnan ja eksymän summa."}]},
   
     {"question": "Liian suuri öljynpaine estetään ilma-aluksen moottorissa:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Moottorin suodattimen ohitusventtiilillä."},
@@ -538,7 +538,7 @@
   
     {"question": "Toimiakseen parhaimmalla hyötysuhteella, moottorin:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " On oltava matalimmassa mahdollisessa lämpötilassa, minkä turvallinen käyttö sallii."},
-    {"answerCorrectness": "incorrect", "answerText": " On oltava korkeimmassa mahdollisessa lämpötilassa, minkä turvallinen käyttö sallii."},
+    {"answerCorrectness": "correct", "answerText": " On oltava korkeimmassa mahdollisessa lämpötilassa, minkä turvallinen käyttö sallii."},
     {"answerCorrectness": "incorrect", "answerText": " Öljyjärjestelmän on saatava jatkuvasti kuumaa öljyä."},
     {"answerCorrectness": "incorrect", "answerText": " On oltava käytössä korkealla, jotta voidaan hyödyntää kylmän ilman jäähdytysvaikutus."}]},
   
@@ -586,9 +586,9 @@
   
     {"question": "Lentomoottori tuottaa eniten tehoa:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön aikana."},
-    {"answerCorrectness": "correct", "answerText": " Vaakalennossa merenpinnan tasolla."},
+    {"answerCorrectness": "incorrect", "answerText": " Vaakalennossa merenpinnan tasolla."},
     {"answerCorrectness": "incorrect", "answerText": " Korkealla."},
-    {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön aikana täydellä kierrosluvulla."}]},
+    {"answerCorrectness": "correct", "answerText": " Lentoonlähdön aikana täydellä kierrosluvulla."}]},
   
     {"question": "Polttomoottorin öljyjärjestelmän tehtävänä on:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Toimia polttoaineen lisäaineena sopivalle seossuhteelle palaen sylinterissä."},
@@ -699,7 +699,7 @@
     {"answerCorrectness": "correct", "answerText": " Ei, sillä kiintopotkurilla varustetun moottorin käynti muuttuu hetkellisesti karkeaksi ja kierrosluku laskee vielä enemmän, kun moottori imee sulavaa vettä palotilaan. Tämän jälkeen kierrosluku nousee."}]},
   
     {"question": "Mikä tarkoitus on joihinkin yleisilmailukoneisiin asennetulla sähköisellä polttoaineen lisäpumpulla?", "answers": [
-    {"answerCorrectness": "correct", "answerText": " Lisäpolttoaineen toimittaminen kaasuttimelle käynnistyksen yhteydessä sekä mekaanisenpumpun rikkoutuessa."},
+    {"answerCorrectness": "correct", "answerText": " Lisäpolttoaineen toimittaminen kaasuttimelle käynnistyksen yhteydessä sekä mekaanisen pumpun rikkoutuessa."},
     {"answerCorrectness": "incorrect", "answerText": " Polttoaineen toimitus sylintereihin ennen sytytystä."},
     {"answerCorrectness": "incorrect", "answerText": " Polttoainetankkien nopeaa tyhjennystä varten."},
     {"answerCorrectness": "incorrect", "answerText": " Moottorin hyötysuhteen parantaminen."}]},
