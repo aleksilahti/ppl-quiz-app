@@ -3,6 +3,7 @@
 <button *ngIf="!quizStarted" (click)="getQuestionSet()">Aloita visa</button>
 
 <div *ngIf="quizStarted">
+<div class="question" *ngIf="questionIndex || questionIndex === 0">{{questionIndex + 1}}/{{maxIndex}}</div>
 <div class="question">{{question}}</div><br/>
 <div class="answer" *ngFor="let answer of answers" (click)="onSelect(answer)">
   <button>{{answer.answerText}} </button>

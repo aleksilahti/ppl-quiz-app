@@ -25,7 +25,7 @@ export class QuizComponent implements OnInit {
               {'answerText': 'kaikki', 'qAmount': 'all'}];
   image: string;
   // used in the code
-  questionIndex;
+  questionIndex: any = false;
   maxIndex;
   results = [];
   correctAnswers = 0;
@@ -81,6 +81,7 @@ export class QuizComponent implements OnInit {
     } else {
       this.showResults();
       this.quizOver = true;
+      this.questionIndex = false;
     }
   }
   setMaxQuestions(numberOfQuestions) {
