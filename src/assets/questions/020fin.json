@@ -152,8 +152,8 @@
   
     {"question": "Jotkut kaasuttimet ovat varustettu diffuusorilla, joka:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Estää seoksen muuttumisen liian rikkaaksi kierrosluvun pienentyessä."},
-    {"answerCorrectness": "incorrect", "answerText": " Estää seoksen muuttumisen liian rikkaaksi kierrosluvun kasvaessa."},
-    {"answerCorrectness": "correct", "answerText": " Estää seoksen muuttumisen liian laihaksi kierrosluvun kasvaessa."},
+    {"answerCorrectness": "correct", "answerText": " Estää seoksen muuttumisen liian rikkaaksi kierrosluvun kasvaessa."},
+    {"answerCorrectness": "incorrect", "answerText": " Estää seoksen muuttumisen liian laihaksi kierrosluvun kasvaessa."},
     {"answerCorrectness": "incorrect", "answerText": " Estää seoksen muuttumisen liian laihaksi kierrosluvun pienentyessä."}]},
   
     {"question": "Mihin kohtaan moottoria on asennettu öljyn lämpötila-anturi, joka on kytketty ohjaamossa sijaitsevaan öljynlämpömittariin?", "answers": [
@@ -291,9 +291,9 @@
     {"answerCorrectness": "incorrect", "answerText": " Rajoittaa ohjaussauvan sen suunnittelurajoihin asti, jotta koneen runko ei vahingoitu normaalioperoinnin aikana."}]},
   
     {"question": "Jos renkaaseen tai sen kiinnityksiin syttyy tulipalo ja palo on välittömästi sammutettava, turvallisin sammutusaine on:", "answers": [
-    {"answerCorrectness": "correct", "answerText": " Bromotrifluorimetaani (BTF)."},
+    {"answerCorrectness": "incorrect", "answerText": " Bromotrifluorimetaani (BTF)."},
     {"answerCorrectness": "incorrect", "answerText": " Vesihappo."},
-    {"answerCorrectness": "incorrect", "answerText": " Jauhe."},
+    {"answerCorrectness": "correct", "answerText": " Jauhe."},
     {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidi."}]},
   
     {"question": "Magneettikompassia käytettäessä lentäjän on muistettava, että:", "answers": [
@@ -424,9 +424,9 @@
   
     {"question": "Jos vallitseva ilmankosteus ei ole tiedossa, kaasuttimen jäätäminen onmahdollista:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Lämpötilavälillä -20°C...+10°C."},
-    {"answerCorrectness": "correct", "answerText": " Millä tahansa lämpötilalla."},
+    {"answerCorrectness": "incorrect", "answerText": " Millä tahansa lämpötilalla."},
     {"answerCorrectness": "incorrect", "answerText": " Lämpötilavälillä -30°C...+10°C."},
-    {"answerCorrectness": "incorrect", "answerText": " Lämpötilassa 0°C ja sen alapuolella."}]},
+    {"answerCorrectness": "correct", "answerText": " Lämpötilassa 0°C ja sen alapuolella."}]},
   
     {"question": "Mikäli sulake palaa lennon aikana:", "answers": [
     {"answerCorrectness": "incorrect", "answerText": " Se voidaan vaihtaa niin usein, kuin on tarve."},
@@ -951,7 +951,7 @@
     {"answerCorrectness": "incorrect", "answerText": " 6 kk välein."}]},
   
     {"question": "Mikä on huoltojaksoajan suurin sallittu ylitys?", "answers": [
-    {"answerCorrectness": "correct", "answerText": " 5%"},
-    {"answerCorrectness": "incorrect", "answerText": " 10%"},
+    {"answerCorrectness": "incorrect", "answerText": " 5%"},
+    {"answerCorrectness": "correct", "answerText": " 10%"},
     {"answerCorrectness": "incorrect", "answerText": " 20%"},
     {"answerCorrectness": "incorrect", "answerText": " 15%"}]}]
