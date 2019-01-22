@@ -419,7 +419,7 @@
       {"answerCorrectness": "incorrect", "answerText": " When the throttle is closed and the mixture becomes temporarily too rich."},
       {"answerCorrectness": "incorrect", "answerText": " When the throttle is opened quickly and the demand for fuel cannot be met immediately."}]},
   
-    {"question": "It is possible to get carburettor icing when the relative humidity is unknownwithin a temperature range of:", "answers": [
+    {"question": "It is possible to get carburettor icing when the relative humidity is unknown within a temperature range of:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " -30°C to +10°C."},
       {"answerCorrectness": "incorrect", "answerText": " At any temperature."},
       {"answerCorrectness": "incorrect", "answerText": " -20°C to +10°C."},

@@ -42,7 +42,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'airLaw';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '010 Ilmailulaki';
+            this.pageHeader = '010 Ilmailulaki(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '010 Air Law';
@@ -62,7 +62,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'performanceAndFlightMonitoring';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '030 Suoritusarvot ja lennonsuunnittelu';
+            this.pageHeader = '030 Suoritusarvot ja lennonsuunnittelu(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '030 Performance and Flight Monitoring';
@@ -72,7 +72,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'humanPerformance';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '040 Ihmisen suorituskyky';
+            this.pageHeader = '040 Ihmisen suorituskyky(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '040 Human Performance';
@@ -82,7 +82,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'meteorology';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '050 Sääoppi';
+            this.pageHeader = '050 Sääoppi(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '050 Meteorology';
@@ -92,7 +92,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'navigation';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '060 Lentosuunnistus';
+            this.pageHeader = '060 Lentosuunnistus(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '060 Navigation';
