@@ -9,7 +9,7 @@ import { QSetService } from '../q-set.service';
 })
 export class BannerComponent implements OnInit {
   constructor(private service: QSetService) { }
-  pageHeader = '010 Ilmailulaki';
+  pageHeader = '010 Ilmailulaki(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
   language = 'fin';
   langButtonText = 'English';
   qSet = 'airLaw';
