@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { ConditionalExpr } from '@angular/compiler';
 import { QSetService } from '../q-set.service';
 
 @Component({
@@ -92,7 +91,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'navigation';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '060 Lentosuunnistus(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
+            this.pageHeader = '060 Lentosuunnistus';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '060 Navigation';
