@@ -61,7 +61,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'performanceAndFlightMonitoring';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '030 Suoritusarvot ja lennonsuunnittelu(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
+            this.pageHeader = '030 Suoritusarvot ja lennonsuunnittelu';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '030 Performance and Flight Monitoring';

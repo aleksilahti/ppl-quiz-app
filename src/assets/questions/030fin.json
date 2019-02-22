@@ -2,222 +2,225 @@
     {"question": " Suurin sallittu laskeutumismassa (Maximum Landing Mass, MLM) tarkoittaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa lähestymisen aikana."},
       {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa pysäköintipaikalle rullauksen aikana."},
-      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa laskeutumisen aikana normaalitoimintaolosuhteissa."},
+      {"answerCorrectness": "correct", "answerText": " Suurin sallittu kokonaismassa laskeutumisen aikana normaalitoimintaolosuhteissa."},
       {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa laskeutumisen jälkeen."}]},
   
-    {"question": "Mitä V-nopeutta ei tule ylittää, mikäli aiotaan käyttää äkillisiä korkeusperäsimenasentokulmaa kasvattavia täysiä ohjausliikkeitä ja miksi?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Va, äkilliset ohjausliikkeet voivat aiheuttaa rakenteellisia vaurioita."},
+    {"question": "Mitä V-nopeutta ei tule ylittää, mikäli aiotaan käyttää äkillisiä korkeusperäsimen asentokulmaa kasvattavia täysiä ohjausliikkeitä ja miksi?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Va, äkilliset ohjausliikkeet voivat aiheuttaa rakenteellisia vaurioita."},
       {"answerCorrectness": "incorrect", "answerText": " Vne, äkilliset ohjausliikkeet voivat aiheuttaa rakenteellisia vaurioita."},
       {"answerCorrectness": "incorrect", "answerText": " Vfb, äkilliset ohjausliikkeet voivat aiheuttaa hallitun lentotilan menetyksen."},
       {"answerCorrectness": "incorrect", "answerText": " Vd, äkilliset ohjausliikkeet voivat aiheuttaa hallitun lentotilan menetyksen."}]},
   
-    {"question": "Minkä värinen on ilmanopeusmittarin varoitusnopeusalue ja mitä lentäjän pitäähuomioida lentäessään tällä nopeusalueella?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Keltainen - Tällä nopeusalueella ei tulisi lentää, jollei ilma ole tyyni. Kaikki ohjausliikkeetpitäisi tehdä käyttäen pieniä ja varovaisia ohjauskomentoja."},
+    {"question": "Minkä värinen on ilmanopeusmittarin varoitusnopeusalue ja mitä lentäjän pitää huomioida lentäessään tällä nopeusalueella?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Keltainen - Tällä nopeusalueella ei tulisi lentää, jollei ilma ole tyyni. Kaikki ohjausliikkeet pitäisi tehdä käyttäen pieniä ja varovaisia ohjauskomentoja."},
       {"answerCorrectness": "incorrect", "answerText": " Vihreä - Ohjainten värähtelyä voi ilmetä, jos kohdataan turbulenssia."},
-      {"answerCorrectness": "incorrect", "answerText": " Vihreä - Sakkauksia, rungon muodonmuutoksia ja/tai rakenteellisia vaurioita saattaaaiheutua tällä nopeusalueella, mikäli lentäjä tekee äkkinäisiä ja täysiäohjainpoikkeutuksia."},
-      {"answerCorrectness": "incorrect", "answerText": " Keltainen - Rungon muodonmuutoksia ja/tai rakenteellisia vaurioita aiheuttaviasakkauksia saattaa tapahtua tällä alueella, mikäli lentäjä tekee äkkinäisiä ja täysiäohjainpoikkeutuksia."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Vihreä - Sakkauksia, rungon muodonmuutoksia ja/tai rakenteellisia vaurioita saattaa aiheutua tällä nopeusalueella, mikäli lentäjä tekee äkkinäisiä ja täysiä ohjainpoikkeutuksia."},
+      {"answerCorrectness": "incorrect", "answerText": " Keltainen - Rungon muodonmuutoksia ja/tai rakenteellisia vaurioita aiheuttavia sakkauksia saattaa tapahtua tällä alueella, mikäli lentäjä tekee äkkinäisiä ja täysiä ohjainpoikkeutuksia."}]},
   
     {"question": "Mikä nimi on annettu kuormitukselle, jolla ilma-aluksen rakenteet pettävät:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Turvakerroinkuorma."},
-      {"answerCorrectness": "incorrect", "answerText": " Murtokuorma."},
+      {"answerCorrectness": "correct", "answerText": " Murtokuorma."},
       {"answerCorrectness": "incorrect", "answerText": " Rajakuorma."},
       {"answerCorrectness": "incorrect", "answerText": " Maksimikuormitus."}]},
   
-    {"question": "Ilma-alus, joka on selvästi ylikuormattu:1. Vaatii pidemmän nousu- ja laskumatkan.2. Omaa suuremman sakkausnopeuden.3. Omaa pienemmän maksimilentonopeuden.4. Omaa suuremman toimintasäteen ja -ajan.5. Omaa pienemmän nousunopeuden ja toimintakorkeuden.Mitkä yllä olevista väittämistä ovat oikein?", "answers": [
+    {"question": "Ilma-alus, joka on selvästi ylikuormattu: 1. Vaatii pidemmän nousu- ja laskumatkan. 2. Omaa suuremman sakkausnopeuden. 3. Omaa pienemmän maksimilentonopeuden. 4. Omaa suuremman toimintasäteen ja -ajan. 5. Omaa pienemmän nousunopeuden ja toimintakorkeuden. Mitkä yllä olevista väittämistä ovat oikein?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1, 2, 3 & 4"},
       {"answerCorrectness": "incorrect", "answerText": " 2, 4 & 5"},
       {"answerCorrectness": "incorrect", "answerText": " 1, 2, 4 & 5"},
-      {"answerCorrectness": "incorrect", "answerText": " 1, 2, 3 & 5"}]},
+      {"answerCorrectness": "correct", "answerText": " 1, 2, 3 & 5"}]},
   
     {"question": "Suurin sallittu massa ilman polttoainetta (MZFM) tarkoittaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen suurin sallittu massa ilman matkustajia tai matkatavaroita."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen suurin sallittu massa ilman matkustajia tai polttoainetta."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen suurin sallittu massa ilman miehistöä tai polttoainetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen suurin sallittu massa ilman käytettävissä olevaa polttoainetta."}]},
+      {"answerCorrectness": "correct", "answerText": " Ilma-aluksen suurin sallittu massa ilman käytettävissä olevaa polttoainetta."}]},
   
     {"question": "Suurin sallittu lentoonlähtömassa (MTOM) tarkoittaa:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa lähtökiidon alussa."},
+      {"answerCorrectness": "correct", "answerText": " Suurin sallittu kokonaismassa lähtökiidon alussa."},
       {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa rotaation aikana."},
       {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa ennen rullausta."},
       {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa ennen lentoonlähtöä."}]},
   
-    {"question": "Suurin sallittu nopeus (VNE) merkitään punaisella viivalla nopeusmittarissa jasillä tarkoitetaan nopeutta:", "answers": [
+    {"question": "Suurin sallittu nopeus (VNE) merkitään punaisella viivalla nopeusmittarissa ja sillä tarkoitetaan nopeutta:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Jolla pitkäaikainen lentäminen on vaarallista."},
       {"answerCorrectness": "incorrect", "answerText": " Jolla syntyy rakenteellisia vaurioita."},
-      {"answerCorrectness": "incorrect", "answerText": " Jonka ylittäminen on kielletty."},
+      {"answerCorrectness": "correct", "answerText": " Jonka ylittäminen on kielletty."},
       {"answerCorrectness": "incorrect", "answerText": " Jolla lentäminen on sallittua ainoastaan tyynissä olosuhteissa."}]},
   
-    {"question": "Mikä on suurin nopeus, jota tulisi käyttää ilma-aluksen rungon ylikuormituksenvälttämiseksi lennettäessä hyvin puuskaisessa ilmassa?", "answers": [
+    {"question": "Mikä on suurin nopeus, jota tulisi käyttää ilma-aluksen rungon ylikuormituksen välttämiseksi lennettäessä hyvin puuskaisessa ilmassa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vno tai Vfe."},
       {"answerCorrectness": "incorrect", "answerText": " Vd tai Va."},
       {"answerCorrectness": "incorrect", "answerText": " Vd tai Vno."},
-      {"answerCorrectness": "incorrect", "answerText": " Vra tai Va."}]},
+      {"answerCorrectness": "correct", "answerText": " Vra tai Va."}]},
   
-    {"question": "Ilma-aluksesi öljysäiliön tilavuus on 3 imp/gal. Säiliö on sijoitettu 20 tuumaaperustason takapuolelle. Mikä on öljysäiliön momentti, kun öljy painaa 9,1lbs/gal?", "answers": [
+    {"question": "Ilma-aluksesi öljysäiliön tilavuus on 3 imp/gal. Säiliö on sijoitettu 20 tuumaa perustason takapuolelle. Mikä on öljysäiliön momentti, kun öljy painaa 9,1lbs/gal?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 60 lb in."},
-      {"answerCorrectness": "incorrect", "answerText": " 546 lb in."},
+      {"answerCorrectness": "correct", "answerText": " 546 lb in."},
       {"answerCorrectness": "incorrect", "answerText": " 182 lb in."},
       {"answerCorrectness": "incorrect", "answerText": " 27.3 lb in."}]},
   
-    {"question": "Olettaen, että ilma-alus on pysähdyksissä maassa, mikä termi kuvaa parhaitenkuvaa \"D\"? (Katso LAPL/PPL 030-01)", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa."},
+    {"question": "Olettaen, että ilma-alus on pysähdyksissä maassa, mikä termi kuvaa parhaiten kuvaa \"D\"? (Katso LAPL/PPL 030-01)", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Suurin sallittu kokonaismassa."},
       {"answerCorrectness": "incorrect", "answerText": " Tyhjämassa."},
       {"answerCorrectness": "incorrect", "answerText": " Hyötykuorma."},
-      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu massa ilman polttoainetta."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu massa ilman polttoainetta."}],
+      "image": "030-01.PNG"},
   
-    {"question": "Ilma-alus on kuormattu siten, että massakeskipiste sijaitsee takarajalla:I Sakkausnopeus pieneneeII Toimintamatka ja -aika kasvavatIII Sakkausnopeus kasvaaIV Ohjainvoimat kasvavat", "answers": [
+    {"question": "Ilma-alus on kuormattu siten, että massakeskipiste sijaitsee takarajalla : I Sakkausnopeus pienenee. II Toimintamatka ja -aika kasvavat. III Sakkausnopeus kasvaa. IV Ohjainvoimat kasvavat", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " I, II ja IV ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Vain II ja IV ovat oikein."},
-      {"answerCorrectness": "incorrect", "answerText": " Vain I ja II ovat oikein."},
+      {"answerCorrectness": "correct", "answerText": " Vain I ja II ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Vain III ja IV ovat oikein."}]},
   
     {"question": "Tyyppihyväksymisvaatimusten mukaan kevyen ilma-aluksen kuormauksessa:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu lentoonlähtömassa ei saa ylittyä, ja massakeskipisteen on pysyttävävähintään 5% annettujen rajojen sisäpuolella."},
-      {"answerCorrectness": "incorrect", "answerText": " Kaikki istuimet, matkatavaratilat ja polttoainesäiliöt sijaitsevat massakeskipisteelleannettujen rajojen sisäpuolella siten, että ilma-alusta on mahdotonta kuormata rajojenulkopuolelle."},
-      {"answerCorrectness": "incorrect", "answerText": " Massakeskipisteen tulisi pysyä annetuissa rajoissa ja suurin sallittu lentoonlähtömassa eisaa ylittyä."},
-      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu lentoonlähtömassa ei voi ylittyä täydellä hyötykuormalla japolttoainemäärällä."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu lentoonlähtömassa ei saa ylittyä, ja massakeskipisteen on pysyttävä vähintään 5% annettujen rajojen sisäpuolella."},
+      {"answerCorrectness": "incorrect", "answerText": " Kaikki istuimet, matkatavaratilat ja polttoainesäiliöt sijaitsevat massakeskipisteelle annettujen rajojen sisäpuolella siten, että ilma-alusta on mahdotonta kuormata rajojen ulkopuolelle."},
+      {"answerCorrectness": "correct", "answerText": " Massakeskipisteen tulisi pysyä annetuissa rajoissa ja suurin sallittu lentoonlähtömassa ei saa ylittyä."},
+      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu lentoonlähtömassa ei voi ylittyä täydellä hyötykuormalla ja polttoainemäärällä."}]},
   
     {"question": "Mikä voi rajoittaa ilma-aluksen suurinta sallittua lentoonlähtömassaa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Rakenteelliset rajakuormat ja/tai lentopaikan korkeus ja vallitseva lämpötila."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen lentokelpoisuus."},
       {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen suoritusarvoluokka, ts. rajoitettu taitolento / normaali / taitolento."}]},
+      {"answerCorrectness": "correct", "answerText": " Ilma-aluksen suoritusarvoluokka, ts. rajoitettu taitolento / normaali / taitolento."}]},
   
-    {"question": "Ilma-aluksella, joka on kuormattu vaarallisesti siten, että sen massakeskipistesijaitsee eturajan etupuolella:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " On sekä suurempi pituussuuntainen vakavuus että sakkausnopeus."},
+    {"question": "Ilma-aluksella, joka on kuormattu vaarallisesti siten, että sen massakeskipiste sijaitsee eturajan etupuolella:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " On sekä suurempi pituussuuntainen vakavuus että sakkausnopeus."},
       {"answerCorrectness": "incorrect", "answerText": " On sekä suurempi toimintamatka, että aika."},
       {"answerCorrectness": "incorrect", "answerText": " On kevyempi suorittaa loppuloivennus laskussa."},
       {"answerCorrectness": "incorrect", "answerText": " On kevyempi suorittaa rotaatio lentoonlähdössä."}]},
   
-    {"question": "Ilma-aluksen, jonka massakeskipiste sijaitsee eturajalla, lento-ominaisuudet ovatseuraavat:", "answers": [
+    {"question": "Ilma-aluksen, jonka massakeskipiste sijaitsee eturajalla, lento-ominaisuudet ovat seuraavat:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Sillä on raskaampi pituuskallistusohjaus ja pienempi pituusvakavuus."},
-      {"answerCorrectness": "incorrect", "answerText": " Sillä on raskaampi pituuskallistusohjaus ja suurempi pituusvakavuus."},
+      {"answerCorrectness": "correct", "answerText": " Sillä on raskaampi pituuskallistusohjaus ja suurempi pituusvakavuus."},
       {"answerCorrectness": "incorrect", "answerText": " Sillä on kevyempi pituuskallistusohjaus ja pienempi pituusvakavuus."},
       {"answerCorrectness": "incorrect", "answerText": " Sillä on kevyempi pituuskallistusohjaus ja suurempi pituusvakavuus."}]},
   
-    {"question": "2000 lbs painavaan ilma-alukseen, jonka kokonaismomentti on +169400 lb in,tankataan 440 lbs polttoainetta. Jos polttoaineen varsi on 88.5 tuumaaperustasosta taaksepäin, mitkä ovat ilma-aluksen uusi massa ja momentti?", "answers": [
+    {"question": "2000 lbs painavaan ilma-alukseen, jonka kokonaismomentti on +169400 lb in, tankataan 440 lbs polttoainetta. Jos polttoaineen varsi on 88.5 tuumaa perustasosta taaksepäin, mitkä ovat ilma-aluksen uusi massa ja momentti?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1560 lbs +208340 lb in."},
       {"answerCorrectness": "incorrect", "answerText": " 1560 lbs +169488.5 lb in."},
-      {"answerCorrectness": "incorrect", "answerText": " 2440 lbs +208340 lb in."},
+      {"answerCorrectness": "correct", "answerText": " 2440 lbs +208340 lb in."},
       {"answerCorrectness": "incorrect", "answerText": " 2440 lbs +169488.5 lb in."}]},
   
-    {"question": "Aiot kuljettaa ilma-aluksella sen suurimman sallitun hyötykuorman.Lennonsuunnittelussa on ensisijaisesti huomioitava, että:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Polttoaineen määrää on mahdollisesti rajoitettava suurimman sallitun kokonaismassanylittymisen välttämiseksi."},
+    {"question": "Aiot kuljettaa ilma-aluksella sen suurimman sallitun hyötykuorman. Lennonsuunnittelussa on ensisijaisesti huomioitava, että:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Polttoaineen määrää on mahdollisesti rajoitettava suurimman sallitun kokonaismassan ylittymisen välttämiseksi."},
       {"answerCorrectness": "incorrect", "answerText": " Täysi polttoainetankkaus on pakollinen aina kuljetettaessa matkustajia."},
       {"answerCorrectness": "incorrect", "answerText": " Polttoaine sisältyy hyötykuormaan."},
-      {"answerCorrectness": "incorrect", "answerText": " Hyötykuormaa on mahdollisesti pienennettävä täyden polttoainekuormanmahduttamiseksi."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Hyötykuormaa on mahdollisesti pienennettävä täyden polttoainekuorman mahduttamiseksi."}]},
   
     {"question": "Hyötykuorma:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " On matkustajien, matkatavaroiden, rahdin ja polttoaineen kokonaismassa."},
       {"answerCorrectness": "incorrect", "answerText": " Sisältää perusmassan."},
       {"answerCorrectness": "incorrect", "answerText": " Sisältää juomakelpoisen veden ja WC-kemikaalit."},
-      {"answerCorrectness": "incorrect", "answerText": " On matkustajien, matkatavaroiden ja rahdin kokonaismassa."}]},
+      {"answerCorrectness": "correct", "answerText": " On matkustajien, matkatavaroiden ja rahdin kokonaismassa."}]},
   
-    {"question": "Käytettäessä ilma-alusta, jonka massakeskipiste on takarajan takapuolella,seuraukset olisivat:I Maassa ilma-alus olisi takapainoinen ja matkustajien, miehistön liikkuminen taipolttoaineen käyttö saattaisi kipata pyrstön maahan.II Ohjaimet olisivat liian kevyet, kasvattaen pyrstöosuman riskiä rotaatiossa.III Taipumus sakkaukseen kasvaisi ja voisi olla mahdotonta saada konetrimmattua siten, että kädet voisi laskea irti ohjaimista.IV Syöksykierteestä oikaisu olisi paljon vaikeampaa.", "answers": [
+    {"question": "Käytettäessä ilma-alusta, jonka massakeskipiste on takarajan takapuolella, seuraukset olisivat: I Maassa ilma-alus olisi takapainoinen ja matkustajien, miehistön liikkuminen tai polttoaineen käyttö saattaisi kipata pyrstön maahan. II Ohjaimet olisivat liian kevyet, kasvattaen pyrstöosuman riskiä rotaatiossa. III Taipumus sakkaukseen kasvaisi ja voisi olla mahdotonta saada kone trimmattua siten, että kädet voisi laskea irti ohjaimista. IV Syöksykierteestä oikaisu olisi paljon vaikeampaa.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ainoastaan vaihtoehdot I ja IV ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Ainoastaan vaihtoehdot II ja III ovat oikein."},
-      {"answerCorrectness": "incorrect", "answerText": " Kaikki vaihtoehdot ovat oikein."},
+      {"answerCorrectness": "correct", "answerText": " Kaikki vaihtoehdot ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Ainoastaan vaihtoehto I on oikein."}]},
   
-    {"question": "Mikä termi kuvaa parhaiten kuvaa \"A\", kun oletetaan koneen olevanpysähdyksissä maassa? (Katso LAPL/PPL 030-01)", "answers": [
+    {"question": "Mikä termi kuvaa parhaiten kuvaa \"A\", kun oletetaan koneen olevan pysähdyksissä maassa? (Katso LAPL/PPL 030-01)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Tyhjämassa."},
       {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtömassa."},
-      {"answerCorrectness": "incorrect", "answerText": " Massa ilman polttoainetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa."}]},
+      {"answerCorrectness": "correct", "answerText": " Massa ilman polttoainetta."},
+      {"answerCorrectness": "incorrect", "answerText": " Suurin sallittu kokonaismassa."}],
+      "image": "030-01.PNG"},
   
-    {"question": "Käyttäisitkö liitteessä esitetyn massa/tasopainoalueen edustamaa ilma-alustarajoitetussa taitolentoluokassa vai normaaliluokassa, kun sen massa on 2100 lbsja momentti 90,000 lb in? (Katso LAPL/PPL 030-02)", "answers": [
+    {"question": "Käyttäisitkö liitteessä esitetyn massa/tasopainoalueen edustamaa ilma-alusta rajoitetussa taitolentoluokassa vai normaaliluokassa, kun sen massa on 2100 lbs ja momentti 90,000 lb in? (Katso LAPL/PPL 030-02)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Rajoitetussa taitolentoluokassa."},
       {"answerCorrectness": "incorrect", "answerText": " Kuormittavan toiminnan luokassa."},
-      {"answerCorrectness": "incorrect", "answerText": " Normaaliluokassa."},
-      {"answerCorrectness": "incorrect", "answerText": " Normaaliluokassa ja rajoitetussa taitolentoluokassa."}]},
+      {"answerCorrectness": "correct", "answerText": " Normaaliluokassa."},
+      {"answerCorrectness": "incorrect", "answerText": " Normaaliluokassa ja rajoitetussa taitolentoluokassa."}],
+      "image": "030-02.PNG"},
   
-    {"question": "Ilma-aluksen massakeskipisteen rajat ilmaistaan etäisyytenä tietystävertailupisteestä. Mikä tämä piste on ja miltä akselilta se löytyy?Akseli / Vertailupiste", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pituusakseli / Perustaso."},
+    {"question": "Ilma-aluksen massakeskipisteen rajat ilmaistaan etäisyytenä tietystä vertailupisteestä. Mikä tämä piste on ja miltä akselilta se löytyy? Akseli / Vertailupiste", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Pituusakseli / Perustaso."},
       {"answerCorrectness": "incorrect", "answerText": " Normaaliakseli / Spinneri."},
       {"answerCorrectness": "incorrect", "answerText": " Pystyakseli / Renkaat."},
       {"answerCorrectness": "incorrect", "answerText": " Poikittaisakseli / Pyrstö."}]},
   
     {"question": "Valmistajan asettamat massakeskipisterajat:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Ovat pakollisia."},
+      {"answerCorrectness": "correct", "answerText": " Ovat pakollisia."},
       {"answerCorrectness": "incorrect", "answerText": " Sisältävät ainoastaan takarajan."},
       {"answerCorrectness": "incorrect", "answerText": " Ovat ohjeellisia."},
       {"answerCorrectness": "incorrect", "answerText": " Sisältävät ainoastaan eturajan."}]},
   
-    {"question": "Ilma-aluksesi:Lentoonlähtömassa = 2353 lbs.Laskettu massakeskipiste lähtöä varten = 89.75 tuumaa perustason takapuolella.Arvioitu polttoaineen kulutus = 200 lbs massakeskipisteen sijainnilla 85.00tuumaa perustason takapuolella.Missä massakeskipiste sijaitsee laskussa?", "answers": [
+    {"question": "Ilma-aluksesi:Lentoonlähtömassa = 2353 lbs. Laskettu massakeskipiste lähtöä varten = 89.75 tuumaa perustason takapuolella. Arvioitu polttoaineen kulutus = 200 lbs massakeskipisteen sijainnilla 85.00tuumaa perustason takapuolella. Missä massakeskipiste sijaitsee laskussa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 105.98 tuumaa perustason takapuolella."},
       {"answerCorrectness": "incorrect", "answerText": " 82.52 tuumaa perustason takapuolella."},
-      {"answerCorrectness": "incorrect", "answerText": " 90.19 tuumaa perustason takapuolella."},
+      {"answerCorrectness": "correct", "answerText": " 90.19 tuumaa perustason takapuolella."},
       {"answerCorrectness": "incorrect", "answerText": " 96.97 tuumaa perustason takapuolella."}]},
   
-    {"question": "Useimmissa lentokoneissa massakeskipisteen sallittu alue kapenee massankasvaessa. Mistä tämä johtuu?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Eturaja siirtyy taaksepäin vakavuuden vähentämiseksi."},
-      {"answerCorrectness": "incorrect", "answerText": " Takaraja siirtyy taaksepäin massakeskipisteen turvaetäisyyden kasvattamiseksineutraaliasemasta."},
+    {"question": "Useimmissa lentokoneissa massakeskipisteen sallittu alue kapenee massan kasvaessa. Mistä tämä johtuu?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Eturaja siirtyy taaksepäin vakavuuden vähentämiseksi."},
+      {"answerCorrectness": "incorrect", "answerText": " Takaraja siirtyy taaksepäin massakeskipisteen turvaetäisyyden kasvattamiseksi neutraaliasemasta."},
       {"answerCorrectness": "incorrect", "answerText": " Takarajaa siirtyy eteenpäin vakavuuden lisäämiseksi."},
-      {"answerCorrectness": "incorrect", "answerText": " Massakeskipisteen turvaetäisyys neutraaliasemasta siirtyy eteenpäin ohjattavuudenheikentämiseksi."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Massakeskipisteen turvaetäisyys neutraaliasemasta siirtyy eteenpäin ohjattavuuden heikentämiseksi."}]},
   
     {"question": "Suurimpaan sallittuun massaan ilman polttoainetta (MZFM, Maximum Zero FuelMass) sisältyy:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Miehistö, matkustajat, matkatavarat ja tarjoilu."},
+      {"answerCorrectness": "correct", "answerText": " Miehistö, matkustajat, matkatavarat ja tarjoilu."},
       {"answerCorrectness": "incorrect", "answerText": " Miehistö, matkustajat, matkatavarat."},
       {"answerCorrectness": "incorrect", "answerText": " Miehistö, matkustajat, matkatavarat, tarjoilu ja polttoaine."},
       {"answerCorrectness": "incorrect", "answerText": " Juomakelpoinen vesi ja WC-kemikaalit."}]},
   
-    {"question": "Miten suurempi massa vaikuttaa ilma-aluksen rotaationopeuteen (Vr) jasakkausnopeuteen (Vs)?", "answers": [
+    {"question": "Miten suurempi massa vaikuttaa ilma-aluksen rotaationopeuteen (Vr) ja sakkausnopeuteen (Vs)?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Rotaationopeus pienenee ja sakkausnopeus kasvaa."},
-      {"answerCorrectness": "incorrect", "answerText": " Molemmat nopeudet kasvavat."},
+      {"answerCorrectness": "correct", "answerText": " Molemmat nopeudet kasvavat."},
       {"answerCorrectness": "incorrect", "answerText": " Molemmat nopeudet pienenevät."},
       {"answerCorrectness": "incorrect", "answerText": " Rotaationopeus kasvaa ja sakkausnopeus pienenee."}]},
   
     {"question": "Mikä vaikutus kiitotien kaltevuudella on lentoonlähdössä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Alamäki kasvattaa lentoonlähtömatkaa."},
-      {"answerCorrectness": "incorrect", "answerText": " Ylämäki kasvattaa lentoonlähtömatkaa."},
+      {"answerCorrectness": "correct", "answerText": " Ylämäki kasvattaa lentoonlähtömatkaa."},
       {"answerCorrectness": "incorrect", "answerText": " Alamäki heikentää suorituskykyä lentoonlähdössä."},
       {"answerCorrectness": "incorrect", "answerText": " Ylämäki parantaa suorituskykyä lentoonlähdössä."}]},
   
     {"question": "Kiitotien osa, jota käytetään normaalitoiminnassa lentoonlähtöä varten, poislukien nousutie ja pysäytystie, tunnetaan nimellä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Käytettävissä oleva lentoonlähtömatka (TODA)."},
       {"answerCorrectness": "incorrect", "answerText": " Käytettävissä oleva laskumatka (LDA)."},
-      {"answerCorrectness": "incorrect", "answerText": " Lähtökiitoon käytettävissä oleva matka (TORA)."},
+      {"answerCorrectness": "correct", "answerText": " Lähtökiitoon käytettävissä oleva matka (TORA)."},
       {"answerCorrectness": "incorrect", "answerText": " Käytettävissä olevaa hätämatkaa (EMDA)."}]},
   
     {"question": "Jos ilman tiheys pienenee, lentoonlähtömatka:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pysyy muuttumattomana."},
-      {"answerCorrectness": "incorrect", "answerText": " Pitenee."},
+      {"answerCorrectness": "correct", "answerText": " Pitenee."},
       {"answerCorrectness": "incorrect", "answerText": " Lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Määräytyy tuulen mukaan."}]},
   
     {"question": "Jos ilman tiheys kasvaa suuremmaksi, kuin ISA-olosuhteissa, vaikutus on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtömatkaa pidentävä."},
       {"answerCorrectness": "incorrect", "answerText": " Ainoastaan lähtökiitoa lyhentävä."},
-      {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön suorituskykyä parantava."},
+      {"answerCorrectness": "correct", "answerText": " Lentoonlähdön suorituskykyä parantava."},
       {"answerCorrectness": "incorrect", "answerText": " Lentoonlähdön suorituskykyä heikentävä."}]},
   
     {"question": "Kun ilman tiheys on suhteellisen pieni, sillä on heikentävä vaikutus:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vastukseen, mikä sallii suurempien laskusiivekeasetusten käyttämisen."},
-      {"answerCorrectness": "incorrect", "answerText": " Sekä nostovoimaan että moottorin tuottamaan tehoon, mikä aiheuttaa tarvittavanlentoonlähtömatkan pidentymisen."},
-      {"answerCorrectness": "incorrect", "answerText": " Vastukseen, mikä kompensoi moottoritehon menetyksen aikaansaaden paremmankiihdytyksen."},
-      {"answerCorrectness": "incorrect", "answerText": " Työntövoimaan ja vastukseen, mutta ei vaikutusta tarvittavan lentoonlähtömatkanpituuteen."}]},
+      {"answerCorrectness": "correct", "answerText": " Sekä nostovoimaan että moottorin tuottamaan tehoon, mikä aiheuttaa tarvittavan lentoonlähtömatkan pidentymisen."},
+      {"answerCorrectness": "incorrect", "answerText": " Vastukseen, mikä kompensoi moottoritehon menetyksen aikaansaaden paremman kiihdytyksen."},
+      {"answerCorrectness": "incorrect", "answerText": " Työntövoimaan ja vastukseen, mutta ei vaikutusta tarvittavan lentoonlähtömatkan pituuteen."}]},
   
     {"question": "Miksi lentoonlähtö tulisi ensisijaisesti suorittaa vastatuuleen?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtömatkan pidentämiseksi."},
       {"answerCorrectness": "incorrect", "answerText": " Käytettävissä olevan lentoonlähtömatkan (TODA) lyhentämiseksi."},
-      {"answerCorrectness": "incorrect", "answerText": " Maanopeuden pienentämiseksi ilma-aluksen irtoamisvaiheessa."},
+      {"answerCorrectness": "correct", "answerText": " Maanopeuden pienentämiseksi ilma-aluksen irtoamisvaiheessa."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen maanopeuden kasvattamiseksi."}]},
   
     {"question": "Miten lentokoneen kokonaispainon kasvattaminen vaikuttaa lentoonlähtöön?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus kasvaa ja lähtökiitoon tarvittava matka lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus pienenee ja lähtökiitoon tarvittava matka pitenee."},
-      {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus kasvaa ja lähtökiitoon tarvittava matka pitenee."},
+      {"answerCorrectness": "correct", "answerText": " Sakkausnopeus kasvaa ja lähtökiitoon tarvittava matka pitenee."},
       {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus pienenee ja lähtökiitoon tarvittava matka lyhenee."}]},
   
     {"question": "Miksi pitkäkestoinen nousu suoritetaan suuremmalla nopeudella?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Moottoria jäähdyttävän ilmavirtauksen lisäämiseksi."},
+      {"answerCorrectness": "correct", "answerText": " Moottoria jäähdyttävän ilmavirtauksen lisäämiseksi."},
       {"answerCorrectness": "incorrect", "answerText": " Parhaan nousukulman nopeuden ylläpitämiseksi."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksesta kantautuvan melun vähentämiseksi meluherkillä alueilla."},
       {"answerCorrectness": "incorrect", "answerText": " Parhaan kohoamisnopeuden antavan nopeuden ylläpitämiseksi."}]},
   
     {"question": "Noustessa Vy-nopeudella saavutetaan:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Jyrkin nousukulma."},
-      {"answerCorrectness": "incorrect", "answerText": " Suurin korkeuden lisääntyminen käytettyyn aikaan nähden."},
+      {"answerCorrectness": "correct", "answerText": " Suurin korkeuden lisääntyminen käytettyyn aikaan nähden."},
       {"answerCorrectness": "incorrect", "answerText": " Suurin korkeuden lisääntyminen kuljettuun matkaan nähden."},
       {"answerCorrectness": "incorrect", "answerText": " Paras suorituskyky esteiden selvittämiseksi."}]},
   
@@ -225,94 +228,96 @@
       {"answerCorrectness": "incorrect", "answerText": " Suurimman toiminta-ajan nopeus."},
       {"answerCorrectness": "incorrect", "answerText": " 60 kt."},
       {"answerCorrectness": "incorrect", "answerText": " Jyrkimmän nousukulman nopeus (Vx)."},
-      {"answerCorrectness": "incorrect", "answerText": " Parhaan kohoamisnopeuden antava nopeus (Vy)."}]},
+      {"answerCorrectness": "correct", "answerText": " Parhaan kohoamisnopeuden antava nopeus (Vy)."}]},
   
     {"question": "Ilma-aluksen massaa (ja näin ollen painovoimaa) lisättäessä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kohoamisnopeus kasvaa ja nousukulma pienenee."},
-      {"answerCorrectness": "incorrect", "answerText": " Kohoamisnopeus ja nousukulma pienenevät."},
+      {"answerCorrectness": "correct", "answerText": " Kohoamisnopeus ja nousukulma pienenevät."},
       {"answerCorrectness": "incorrect", "answerText": " Kohoamisnopeus ja nousukulma kasvavat."},
       {"answerCorrectness": "incorrect", "answerText": " Kohoamisnopeus pienenee ja nousukulma kasvaa."}]},
   
     {"question": "Paras kohoamisnopeus saavutetaan:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lennettäessä suurimman tehoylijäämän nopeudella."},
+      {"answerCorrectness": "correct", "answerText": " Lennettäessä suurimman tehoylijäämän nopeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Lennettäessä suurimman työntövoimaylijäämän nopeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Lennettäessä Vx-nopeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Noustessa vastatuuleen."}]},
   
-    {"question": "Nousun aikana matkalentokorkeuteen parhaan kohoamisnopeuden antavallaindikoidulla ilmanopeudella on taipumus:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pienentyä, koska moottorin teho pienenee."},
+    {"question": "Nousun aikana matkalentokorkeuteen parhaan kohoamisnopeuden antavalla indikoidulla ilmanopeudella on taipumus:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Pienentyä, koska moottorin teho pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Pysyä muuttumattomana."},
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa."},
       {"answerCorrectness": "incorrect", "answerText": " Ensin pienentyä ja sitten kasvaa."}]},
   
-    {"question": "Vakioilmanopeudella nousua lentävän ilma-aluksen siiven tuottama nostovoimaon:", "answers": [
+    {"question": "Vakioilmanopeudella nousua lentävän ilma-aluksen siiven tuottama nostovoima on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Painovoimaa pienempi."},
       {"answerCorrectness": "incorrect", "answerText": " Painovoiman suuruinen."},
       {"answerCorrectness": "incorrect", "answerText": " Painovoimasta riippumaton."},
-      {"answerCorrectness": "incorrect", "answerText": " Painovoimaa suurempi."}]},
+      {"answerCorrectness": "correct", "answerText": " Painovoimaa suurempi."}]},
   
-    {"question": "2000 jalan korkeudessa lentävä ilma-alus saa selvityksen nousta 8000 jalkaan.Laske nousuun kuluva aika minuutteina, käytetty polttoaine gallonissa, sekälennetty matka merimaileina. Lämpötila on standardin mukainen ja tuuli tyyntä.(Katso LAPL/PPL 030-04)Aika (min) / Polttoaine (gal) / Matka (nm)", "answers": [
+    {"question": "2000 jalan korkeudessa lentävä ilma-alus saa selvityksen nousta 8000 jalkaan. Laske nousuun kuluva aika minuutteina, käytetty polttoaine gallonissa, sekä lennetty matka merimaileina. Lämpötila on standardin mukainen ja tuuli tyyntä. (Katso LAPL/PPL 030-04) Aika (min) / Polttoaine (gal) / Matka (nm)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 15 / 3,0 / 21"},
       {"answerCorrectness": "incorrect", "answerText": " 18 / 3,7 / 25"},
       {"answerCorrectness": "incorrect", "answerText": " 3 / 0,7 / 4"},
-      {"answerCorrectness": "incorrect", "answerText": " 12 / 2,3 / 17"}]},
+      {"answerCorrectness": "correct", "answerText": " 12 / 2,3 / 17"}],
+      "image": "030-04.PNG"},
   
     {"question": "Noustessa Vx-nopeudella saavutetaan:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Jyrkin nousukulma."},
+      {"answerCorrectness": "correct", "answerText": " Jyrkin nousukulma."},
       {"answerCorrectness": "incorrect", "answerText": " Suurin vaakaetäisyys pystyetäisyyteen nähden."},
       {"answerCorrectness": "incorrect", "answerText": " Suurin korkeuden lisääntyminen käytettyyn aikaan nähden."},
       {"answerCorrectness": "incorrect", "answerText": " Nopein nousu korkealle."}]},
   
     {"question": "Mikä vaikutus on massakeskipisteen siirtämisellä taaksepäin?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Nostovoiman ja painovoiman tuottama momentti voimistuu, mikä edellyttää suurempaakorkeusvakainvoimaa."},
+      {"answerCorrectness": "incorrect", "answerText": " Nostovoiman ja painovoiman tuottama momentti voimistuu, mikä edellyttää suurempaa korkeusvakainvoimaa."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeusvakainvoima kasvaa."},
-      {"answerCorrectness": "incorrect", "answerText": " Toimintamatka ja -aika suurenevat."},
+      {"answerCorrectness": "correct", "answerText": " Toimintamatka ja -aika suurenevat."},
       {"answerCorrectness": "incorrect", "answerText": " Toimintamatka ja -aika pienenevät."}]},
   
     {"question": "Mikä on pisimmän toimintamatkan nopeus? (Katso LAPL/PPL 030-05)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " B."},
       {"answerCorrectness": "incorrect", "answerText": " C."},
-      {"answerCorrectness": "incorrect", "answerText": " A."},
-      {"answerCorrectness": "incorrect", "answerText": " D."}]},
+      {"answerCorrectness": "correct", "answerText": " A."},
+      {"answerCorrectness": "incorrect", "answerText": " D."}],
+      "image": "030-05.PNG"},
   
-    {"question": "Mikä on mäntämoottorikäyttöisen ilma-aluksen suurimman toimintamatkannopeus?", "answers": [
+    {"question": "Mikä on mäntämoottorikäyttöisen ilma-aluksen suurimman toimintamatkan nopeus?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " VMD-nopeutta pienempi nopeus alimmalla turvallisella korkeudella."},
-      {"answerCorrectness": "incorrect", "answerText": " VMD"},
+      {"answerCorrectness": "correct", "answerText": " VMD"},
       {"answerCorrectness": "incorrect", "answerText": " VMP"},
       {"answerCorrectness": "incorrect", "answerText": " VNO-nopeutta suurempi nopeus alimmalla turvallisella korkeudella."}]},
   
     {"question": "Pisimmän liitomatkan aikaansaamiseksi ilma-alusta tulisi lentää:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pienillä kohtauskulmilla VMD-nopeudella."},
+      {"answerCorrectness": "correct", "answerText": " Pienillä kohtauskulmilla VMD-nopeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Pienillä kohtauskulmilla VMP-nopeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Negatiivisella kohtauskulmalla VMD-nopeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Isoilla kohtauskulmilla VMD-nopeudella."}]},
   
     {"question": "Mikä vaikutus vastatuulella on liukukulmaan ja liitomatkaan.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Sekä liukukulma että liitomatka pysyvät muuttumattomina."},
-      {"answerCorrectness": "incorrect", "answerText": " Liukukulma kasvaa ja liitomatka lyhenee."},
+      {"answerCorrectness": "correct", "answerText": " Liukukulma kasvaa ja liitomatka lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Liukukulma loivenee ja liitomatka lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Liukukulma kasvaa ja liitomatka pitenee."}]},
   
     {"question": "Mitä nopeutta on lennettävä suurimman toiminta-ajan saavuttamiseksi?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " VMP."},
+      {"answerCorrectness": "correct", "answerText": " VMP."},
       {"answerCorrectness": "incorrect", "answerText": " Suurinta nopeutta."},
       {"answerCorrectness": "incorrect", "answerText": " VY."},
       {"answerCorrectness": "incorrect", "answerText": " VMD."}]},
   
     {"question": "Pisin liitomatka saavutetaan:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lentämällä suhteellisen pienellä kohtauskulmalla."},
+      {"answerCorrectness": "correct", "answerText": " Lentämällä suhteellisen pienellä kohtauskulmalla."},
       {"answerCorrectness": "incorrect", "answerText": " Lentämällä suhteellisen isolla kohtauskulmalla."},
       {"answerCorrectness": "incorrect", "answerText": " Lentämällä jyrkällä liukukulmalla."},
       {"answerCorrectness": "incorrect", "answerText": " Lentämällä negatiivisella kohtauskulmalla."}]},
   
     {"question": "Jos massaa lisätään, ilma-aluksen toimintamatka:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lyhenee."},
+      {"answerCorrectness": "correct", "answerText": " Lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Pitenee."},
       {"answerCorrectness": "incorrect", "answerText": " Pysyy muuttumattomana."},
       {"answerCorrectness": "incorrect", "answerText": " Lyhenee tai pitenee riippuen lentonopeudesta."}]},
   
     {"question": "Pisintä liitomatkaa tavoiteltaessa, painavammalla ilma-aluksella on:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Suurempi vajoamisnopeus lyhyempi liitomatka."},
+      {"answerCorrectness": "correct", "answerText": " Suurempi vajoamisnopeus lyhyempi liitomatka."},
       {"answerCorrectness": "incorrect", "answerText": " On loivempi liukukulma."},
       {"answerCorrectness": "incorrect", "answerText": " Lyhyempi liukumatka."},
       {"answerCorrectness": "incorrect", "answerText": " Suurempi vajoamisnopeus, mutta sama liukukulma."}]},
@@ -321,58 +326,59 @@
       {"answerCorrectness": "incorrect", "answerText": " VX."},
       {"answerCorrectness": "incorrect", "answerText": " VMP."},
       {"answerCorrectness": "incorrect", "answerText": " Suurinta nopeutta."},
-      {"answerCorrectness": "incorrect", "answerText": " VMD."}]},
+      {"answerCorrectness": "correct", "answerText": " VMD."}]},
   
-    {"question": "Mikä vaikutus lämpötilan nousulla on ilman tiheyteen ja ilma-aluksensuorituskykyyn?", "answers": [
+    {"question": "Mikä vaikutus lämpötilan nousulla on ilman tiheyteen ja ilma-aluksen suorituskykyyn?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ilman tiheys kasvaa ja ilma-aluksen suorituskyky heikkenee."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilman tiheys pienenee ja ilma-aluksen suorituskyky heikkenee."},
+      {"answerCorrectness": "correct", "answerText": " Ilman tiheys pienenee ja ilma-aluksen suorituskyky heikkenee."},
       {"answerCorrectness": "incorrect", "answerText": " Ilman tiheys pienenee ja ilma-aluksen suorituskyky paranee."},
       {"answerCorrectness": "incorrect", "answerText": " Ilman tiheys kasvaa ja ilma-aluksen suorituskyky paranee."}]},
   
     {"question": "Mikä vaikutus myötätuulella on liitämiseen tyyneen ilmaan verrattuna?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Liukukulma ja vajoamisnopeus pienenevät."},
-      {"answerCorrectness": "incorrect", "answerText": " Liitomatka pitenee, mutta liitoaika ei muutu."},
+      {"answerCorrectness": "correct", "answerText": " Liitomatka pitenee, mutta liitoaika ei muutu."},
       {"answerCorrectness": "incorrect", "answerText": " Myötätuulella ei ole vaikutusta liitomatkaan tai vajoamisnopeuteen."},
       {"answerCorrectness": "incorrect", "answerText": " Liukukulma jyrkistyy ja liitomatka pitenee."}]},
   
-    {"question": "Mitä nopeuksista A, B, C tai D tulisi lentää suurimman toiminta-ajansaavuttamiseksi? (Katso LAPL/PPL 030-05)", "answers": [
+    {"question": "Mitä nopeuksista A, B, C tai D tulisi lentää suurimman toiminta-ajan saavuttamiseksi? (Katso LAPL/PPL 030-05)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " C."},
       {"answerCorrectness": "incorrect", "answerText": " D."},
-      {"answerCorrectness": "incorrect", "answerText": " A."},
-      {"answerCorrectness": "incorrect", "answerText": " B."}]},
+      {"answerCorrectness": "correct", "answerText": " A."},
+      {"answerCorrectness": "incorrect", "answerText": " B."}],
+      "image": "030-05.PNG"},
   
-    {"question": "Mikä vaikutus massan lisäämisellä on sakkausnopeuteen ja tarvittavaanlaskeutumismatkaan?", "answers": [
+    {"question": "Mikä vaikutus massan lisäämisellä on sakkausnopeuteen ja tarvittavaan laskeutumismatkaan?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus pienenee ja laskeutumismatka pitenee."},
       {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus pienenee ja laskeutumismatka lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus kasvaa ja laskeutumismatka lyhenee."},
-      {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus kasvaa ja laskeutumismatka pitenee."}]},
+      {"answerCorrectness": "correct", "answerText": " Sakkausnopeus kasvaa ja laskeutumismatka pitenee."}]},
   
-    {"question": "Jos ilma-aluksen tosi-ilmanopeus on laskeutumisen aikana selvästi maanopeuttapienempi, kiitotiellä vallitsee:", "answers": [
+    {"question": "Jos ilma-aluksen tosi-ilmanopeus on laskeutumisen aikana selvästi maanopeutta pienempi, kiitotiellä vallitsee:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vastatuuli."},
-      {"answerCorrectness": "incorrect", "answerText": " Myötätuuli."},
+      {"answerCorrectness": "correct", "answerText": " Myötätuuli."},
       {"answerCorrectness": "incorrect", "answerText": " Sivutuuli."},
       {"answerCorrectness": "incorrect", "answerText": " Pienentynyt ilman tiheys."}]},
   
-    {"question": "Jos lähestymis- ja laskeutumisnopeudet ovat ilma-aluksen käsikirjansuosittelemia nopeuksia suuremmat:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Laskeutumismatka pitenee."},
+    {"question": "Jos lähestymis- ja laskeutumisnopeudet ovat ilma-aluksen käsikirjan suosittelemia nopeuksia suuremmat:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Laskeutumismatka pitenee."},
       {"answerCorrectness": "incorrect", "answerText": " Laskeutumismatka lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Suorituskyky laskeutumisessa paranee."},
       {"answerCorrectness": "incorrect", "answerText": " Sillä ei ole vaikutusta laskeutumismatkaan."}]},
   
     {"question": "Miten 1% alamäki (slope) vaikuttaa tarvittavaan laskeutumismatkaan?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Matka lyhenee 10%."},
-      {"answerCorrectness": "incorrect", "answerText": " Matka pitenee 5%."},
+      {"answerCorrectness": "correct", "answerText": " Matka pitenee 5%."},
       {"answerCorrectness": "incorrect", "answerText": " Matka lyhenee 5%."},
       {"answerCorrectness": "incorrect", "answerText": " Matka pitenee 10%."}]},
   
-    {"question": "Miten laskeutuminen alaspäin kaltevalle kiitotielle eroaa vaakasuorastakiitotiestä?", "answers": [
+    {"question": "Miten laskeutuminen alaspäin kaltevalle kiitotielle eroaa vaakasuorasta kiitotiestä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Sillä ei ole vaikutusta laskeutumismatkaan."},
       {"answerCorrectness": "incorrect", "answerText": " Suorituskyky laskeutumisessa on parempi."},
       {"answerCorrectness": "incorrect", "answerText": " Laskeutumismatka lyhyempi."},
-      {"answerCorrectness": "incorrect", "answerText": " Laskeutumismatka on pidempi."}]},
+      {"answerCorrectness": "correct", "answerText": " Laskeutumismatka on pidempi."}]},
   
     {"question": "Jos sakkausnopeus laskuasussa on 55 solmua, VREF on suunnilleen:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 71kt."},
+      {"answerCorrectness": "correct", "answerText": " 71kt."},
       {"answerCorrectness": "incorrect", "answerText": " 65kt."},
       {"answerCorrectness": "incorrect", "answerText": " 75kt."},
       {"answerCorrectness": "incorrect", "answerText": " 69kt."}]},
@@ -380,11 +386,11 @@
     {"question": "VREF-nopeus, jota tulisi lentää 50 jalan korkeudessa laskeutumisen aikana, on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 33% sakkausnopeudesta."},
       {"answerCorrectness": "incorrect", "answerText": " 1.43 kertaa sakkausnopeus laskuasussa."},
-      {"answerCorrectness": "incorrect", "answerText": " 1.3 kertaa sakkausnopeus laskuasussa."},
+      {"answerCorrectness": "correct", "answerText": " 1.3 kertaa sakkausnopeus laskuasussa."},
       {"answerCorrectness": "incorrect", "answerText": " 1.15 kertaa sakkausnopeus lentoonlähtöasussa."}]},
   
-    {"question": "Jos ilma-aluksen massaa lisätään 15%, tarvittava laskeutumismatka piteneearviolta:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 20% tai kertoimella 1.2."},
+    {"question": "Jos ilma-aluksen massaa lisätään 15%, tarvittava laskeutumismatka pitenee arviolta:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 20% tai kertoimella 1.2."},
       {"answerCorrectness": "incorrect", "answerText": " 15% tai kertoimella 1.15."},
       {"answerCorrectness": "incorrect", "answerText": " 33% tai kertoimella 1.33."},
       {"answerCorrectness": "incorrect", "answerText": " 10% tai kertoimella 1.1."}]},
@@ -393,41 +399,45 @@
       {"answerCorrectness": "incorrect", "answerText": " Maanopeus pienenee ja käytettävissä oleva laskeutumismatka lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Maanopeus kasvaa ja tarvittava laskeutumismatka lyhenee."},
       {"answerCorrectness": "incorrect", "answerText": " Ohjaaja pystyy silloin hallitsemaan ilma-alusta paremmin pienillä nopeuksilla."},
-      {"answerCorrectness": "incorrect", "answerText": " Maanopeus pienenee ja tarvittava laskeutumismatka lyhenee."}]},
+      {"answerCorrectness": "correct", "answerText": " Maanopeus pienenee ja tarvittava laskeutumismatka lyhenee."}]},
   
-    {"question": "Selvitä onko ilma-aluksen massa rajojen sisällä (normaaliluokka). (KatsoLAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin)Tyhjämassa 1,350 51,5Ohjaaja ja matkustaja edessä 360Matkustajat takana 280Polttoaine 30 US gal.Öljy 8 qt -0,2", "answers": [
+    {"question": "Selvitä onko ilma-aluksen massa rajojen sisällä (normaaliluokka). (KatsoLAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin). Tyhjämassa 1,350 51,5. Ohjaaja ja matkustaja edessä 360. Matkustajat takana 280. Polttoaine 30 US gal.Öljy 8 qt -0,2", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Eturajan etupuolella."},
       {"answerCorrectness": "incorrect", "answerText": " Takarajan takapuolella."},
-      {"answerCorrectness": "incorrect", "answerText": " Rajojen sisällä."},
-      {"answerCorrectness": "incorrect", "answerText": " Rajojen sisällä lähellä eturajaa."}]},
+      {"answerCorrectness": "correct", "answerText": " Rajojen sisällä."},
+      {"answerCorrectness": "incorrect", "answerText": " Rajojen sisällä lähellä eturajaa."}],
+      "image": "030-10.PNG"},
   
-    {"question": "Mikä on suurin sallittu määrä polttoainetta lentoonlähdössä, jos lentokone onkuormattu seuraavasti? (Katso LAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin)Tyhjämassa 1,350 51,5Ohjaaja ja matkustaja edessä 340Matkustajat takana 310Matkatavarat 45Öljy 8 qt -0,2", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 40 USA gal."},
+    {"question": "Mikä on suurin sallittu määrä polttoainetta lentoonlähdössä, jos lentokone on kuormattu seuraavasti? (Katso LAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin). Tyhjämassa 1,350 51,5. Ohjaaja ja matkustaja edessä 340. Matkustajat takana 310. Matkatavarat 45. Öljy 8 qt -0,2", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 40 USA gal."},
       {"answerCorrectness": "incorrect", "answerText": " 34 USA gal."},
       {"answerCorrectness": "incorrect", "answerText": " 46 USA gal."},
-      {"answerCorrectness": "incorrect", "answerText": " 24 USA gal."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 24 USA gal."}],
+      "image": "030-10.PNG"},
   
-    {"question": "Millä etäisyydellä perustasosta sen takapuolella massakeskipiste sijaitsee allaolevien arvojen vallitessa? massa (lb) varsi (in) momentti (lbxin)Tyhjämassa 1,495.0 101.4 151,593.0Ohjaaja ja matkustaja 380.0 64.0Polttoaine (100LL 0,72 kg/l) 30 US gal 96.0", "answers": [
+    {"question": "Millä etäisyydellä perustasosta sen takapuolella massakeskipiste sijaitsee alla olevien arvojen vallitessa? massa (lb) varsi (in) momentti (lbxin). Tyhjämassa 1,495.0 101.4 151,593.0. Ohjaaja ja matkustaja 380.0 64.0. Polttoaine (100LL 0,72 kg/l) 30 US gal 96.0", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 119.80 in."},
       {"answerCorrectness": "incorrect", "answerText": " 92.44 in."},
-      {"answerCorrectness": "incorrect", "answerText": " 94.01 in."},
+      {"answerCorrectness": "correct", "answerText": " 94.01 in."},
       {"answerCorrectness": "incorrect", "answerText": " 135.00 in."}]},
   
-    {"question": "Määritä momentti alla olevien tietojen perusteella: (Katso LAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin)Tyhjämassa 1,350 51.5Ohjaaja ja matkustaja edessä 340Polttoaine (täydet standardisäiliöt)Öljy 8 qt -0.2", "answers": [
+    {"question": "Määritä momentti alla olevien tietojen perusteella: (Katso LAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin). Tyhjämassa 1,350 51.5. Ohjaaja ja matkustaja edessä 340. Polttoaine (täydet standardisäiliöt). Öljy 8 qt -0.2", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 38.7 lbxin."},
       {"answerCorrectness": "incorrect", "answerText": " 69.9 lbxin."},
-      {"answerCorrectness": "incorrect", "answerText": " 74.9 lbxin."},
-      {"answerCorrectness": "incorrect", "answerText": " 77.0 lbxin."}]},
+      {"answerCorrectness": "correct", "answerText": " 74.9 lbxin."},
+      {"answerCorrectness": "incorrect", "answerText": " 77.0 lbxin."}],
+      "image": "030-10.PNG"},
   
-    {"question": "Kuinka paljon matkatavaraa voidaan kuormata normaaliluokan lentokoneeseensiten, että massakeskipiste pysyy sallittujen rajojen sisäpuolella? (KatsoLAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin)Tyhjämassa 1,350 51.5Ohjaaja ja matkustaja edessä 250Matkustajat takana 400Polttoaine 30 US gal.MatkatavaratÖljy 8 qt -0.2", "answers": [
+    {"question": "Kuinka paljon matkatavaraa voidaan kuormata normaaliluokan lentokoneeseen siten, että massakeskipiste pysyy sallittujen rajojen sisäpuolella? (KatsoLAPL/PPL 030-10) massa (lb) momentti/1000 (lbxin). Tyhjämassa 1,350 51.5. Ohjaaja ja matkustaja edessä 250. Matkustajat takana 400. Polttoaine 30 US gal. Matkatavarat. Öljy 8 qt -0.2", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 90 lbs."},
-      {"answerCorrectness": "incorrect", "answerText": " 105 lbs."},
+      {"answerCorrectness": "correct", "answerText": " 105 lbs."},
       {"answerCorrectness": "incorrect", "answerText": " 75 lbs."},
-      {"answerCorrectness": "incorrect", "answerText": " 120 lbs."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 120 lbs."}],
+      "image": "030-10.PNG"},
   
     {"question": "Helpoin tapa määrittää painekorkeus on asettaa korkeusmittariin:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lentopaikan korkeus (elevation) ja katsoa mittarista korkeus (altitude)."},
-      {"answerCorrectness": "incorrect", "answerText": " 1013.2 hPa ja katsoa mittarista korkeus."},
+      {"answerCorrectness": "correct", "answerText": " 1013.2 hPa ja katsoa mittarista korkeus."},
       {"answerCorrectness": "incorrect", "answerText": " Nolla ja katsoa lukema Kollsmanin ikkunasta."},
       {"answerCorrectness": "incorrect", "answerText": " Lentopaikan korkeus ja katsoa lukema Kollsmanin ikkunasta."}]},
   
@@ -435,106 +445,100 @@
       {"answerCorrectness": "incorrect", "answerText": " Turvallinen lentokorkeus vuoristossa."},
       {"answerCorrectness": "incorrect", "answerText": " Painekorkeus."},
       {"answerCorrectness": "incorrect", "answerText": " Siirtokorkeuden yläpuolella olevat lentopinnat."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen suorituskyky."}]},
+      {"answerCorrectness": "correct", "answerText": " Ilma-aluksen suorituskyky."}]},
   
     {"question": "Mikä on painekorkeus?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin osoittama korkeus, kun sen paineasteikkoon on asetettu QFE."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin osoittama korkeus korjattuna paikka- ja asennusvirheiltä."},
-      {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin osoittama korkeus korjattuna epästandardinmukaiselta lämpötilalta japaineelta."},
-      {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin osoittama korkeus, kun sen paineasteikkoon on asetettu 1013.2 hPa."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin osoittama korkeus korjattuna epästandardinmukaiselta lämpötilalta ja paineelta."},
+      {"answerCorrectness": "correct", "answerText": " Korkeusmittarin osoittama korkeus, kun sen paineasteikkoon on asetettu 1013.2 hPa."}]},
   
     {"question": "Missä olosuhteissa painekorkeus vastaa tosikorkeutta?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kun ilmapaine on 1013.2 hPa."},
       {"answerCorrectness": "incorrect", "answerText": " Mikäli korkeusmittarissa ei ole mekaanisia virheitä."},
       {"answerCorrectness": "incorrect", "answerText": " Kun korkeusmittarin osoittama korkeus on sama kuin painekorkeus."},
-      {"answerCorrectness": "incorrect", "answerText": " Standardi-ilmakehän olosuhteiden vallitessa."}]},
+      {"answerCorrectness": "correct", "answerText": " Standardi-ilmakehän olosuhteiden vallitessa."}]},
   
     {"question": "Mikä seuraavista kasvattaa lentopaikan tiheyskorkeutta?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaineen nousu."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmankosteuden lasku."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötilan lasku."},
-      {"answerCorrectness": "incorrect", "answerText": " Lämpötilan nousu."}]},
-  
-    {"question": "Jos ulkoilman lämpötila (OAT) on tietyllä korkeudella standardia matalampi,tiheyskorkeus on:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pienempi kuin painekorkeus ja suunnilleen sama kuin tosikorkeus."},
-      {"answerCorrectness": "incorrect", "answerText": " Suurempi kuin painekorkeus."},
-      {"answerCorrectness": "incorrect", "answerText": " Pienempi kuin tosikorkeus."},
-      {"answerCorrectness": "incorrect", "answerText": " Suurempi kuin tosikorkeus ja pienempi kuin painekorkeus."}]},
+      {"answerCorrectness": "correct", "answerText": " Lämpötilan nousu."}]},
   
     {"question": "Mitä on tiheyskorkeus?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin osoittama korkeus, kun sen paineasteikkoon on asetettu 1013.2 hPa."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeus luettuna suoraan korkeusmittarista."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeus standardivertailupinnasta."},
-      {"answerCorrectness": "incorrect", "answerText": " Painekorkeus korjattuna standardista poikkeavalla lämpötilalla."}]},
+      {"answerCorrectness": "correct", "answerText": " Painekorkeus korjattuna standardista poikkeavalla lämpötilalla."}]},
   
-    {"question": "Määrittele tiheyskorkeus lentopaikalla, jossa lämpötila on standardi jakorkeusmittari asetuksella 1011 hPa osoittaa 1,300 jalkaa.", "answers": [
+    {"question": "Määrittele tiheyskorkeus lentopaikalla, jossa lämpötila on standardi ja korkeusmittari asetuksella 1011 hPa osoittaa 1,300 jalkaa.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1,400 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1,300 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,240 ft."},
+      {"answerCorrectness": "correct", "answerText": " 1,240 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1,360 ft."}]},
   
-    {"question": "Kuinka paljon tiheyskorkeus kasvaa, jos lämpötila nousee nollasta kymmeneenasteeseen Celsiusta ja lentopaikan painekorkeus on pysyy 3000 jalassa?", "answers": [
+    {"question": "Kuinka paljon tiheyskorkeus kasvaa, jos lämpötila nousee nollasta kymmeneen asteeseen Celsiusta ja lentopaikan painekorkeus on pysyy 3000 jalassa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 3,000 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 2,000 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,200 ft."},
+      {"answerCorrectness": "correct", "answerText": " 1,200 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 2,200 ft."}]},
   
     {"question": "Kuinka paljon 12°C lämpötilan nousu vaikuttaa tiheyskorkeuteen?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Tiheyskorkeus kasvaa 1,440 jalkaa."},
+      {"answerCorrectness": "correct", "answerText": " Tiheyskorkeus kasvaa 1,440 jalkaa."},
       {"answerCorrectness": "incorrect", "answerText": " Tiheyskorkeus kasvaa 1,650 jalkaa."},
       {"answerCorrectness": "incorrect", "answerText": " Tiheyskorkeus laskee 1,650 jalkaa."},
       {"answerCorrectness": "incorrect", "answerText": " Tiheyskorkeus laskee 1,340 jalkaa."}]},
   
-    {"question": "Määritä lentopaikan tiheyskorkeus näissä olosuhteissa:QNH 1025 hPaLämpötila -4°CLentopaikan korkeus 3,850 ft", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 2,050 ft."},
+    {"question": "Määritä lentopaikan tiheyskorkeus näissä olosuhteissa: QNH 1025 hPa. Lämpötila -4°C. Lentopaikan korkeus 3,850 ft", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 2,050 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 3,800 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 2,900 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 3,500 ft."}]},
   
-    {"question": "Määritä lentopaikan tiheyskorkeus näissä olosuhteissa:QNH 1010 hPaLämpötila 27°CLentopaikan korkeus 5,250 ft", "answers": [
+    {"question": "Määritä lentopaikan tiheyskorkeus näissä olosuhteissa:QNH 1010 hPa. Lämpötila 27°C. Lentopaikan korkeus 5,250 ft", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 8,800 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 5,875 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 4,600 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 7,890 ft."}]},
+      {"answerCorrectness": "correct", "answerText": " 7,890 ft."}]},
   
-    {"question": "Tiheyskorkeus voidaan likimalkaisesti laskea painekorkeudesta käyttämättäilmailulaskinta:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lisäämällä korkeuteen / vähentämällä korkeudesta merenpinnasta standardiilmanpaineenja todellisen ilmanpaineen erotus muunnettuna korkeudeksi."},
+    {"question": "Tiheyskorkeus voidaan likimalkaisesti laskea painekorkeudesta käyttämättä ilmailulaskinta:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Lisäämällä korkeuteen / vähentämällä korkeudesta merenpinnasta standardiilmanpaineen ja todellisen ilmanpaineen erotus muunnettuna korkeudeksi."},
       {"answerCorrectness": "incorrect", "answerText": " Lisäämällä painekorkeuteen 4% kutakin 10°C poikkeamaa kohti standardilämpötilasta."},
       {"answerCorrectness": "incorrect", "answerText": " Vähentämällä painekorkeudesta 4% kutakin 5°C poikkeamaa kohti standardilämpötilasta."},
-      {"answerCorrectness": "incorrect", "answerText": " Lisäämällä painekorkeuteen / vähentämällä painekorkeudesta 120 ft kutakin °Cpoikkeamaa kohti standardilämpötilan yläpuolella / alapuolella."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Lisäämällä painekorkeuteen / vähentämällä painekorkeudesta 120 ft kutakin °C poikkeamaa kohti standardilämpötilan yläpuolella / alapuolella."}]},
   
-    {"question": "Mikä alla olevista väittämistä koskien moottoroidun ilma-aluksen suorituskykyälentoonlähdössä on oikein?Suuremmalla tiheyskorkeudella:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen on lennettävä tavallista suuremmalla indikoidulla ilmanopeudella riittävännostovoiman tuottamiseksi."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilma-alus kiihtyy hitaammin heikentyneestä moottorin ja potkurin tehokkuudesta johtuen."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen on lennettävä tavallista pienemmällä indikoidulla ilmanopeudella liiansuuren nostovoiman ehkäisemiseksi."},
+    {"question": "Mikä alla olevista väittämistä koskien moottoroidun ilma-aluksen suorituskykyä lentoonlähdössä on oikein? Suuremmalla tiheyskorkeudella:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen on lennettävä tavallista suuremmalla indikoidulla ilmanopeudella riittävän nostovoiman tuottamiseksi."},
+      {"answerCorrectness": "correct", "answerText": " Ilma-alus kiihtyy hitaammin heikentyneestä moottorin ja potkurin tehokkuudesta johtuen."},
+      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen on lennettävä tavallista pienemmällä indikoidulla ilmanopeudella liian suuren nostovoiman ehkäisemiseksi."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-alus kiihtyy nopeammin vastuksen vähenemisestä harvemmassa ilmassa johtuen."}]},
   
-    {"question": "Miten korkeampi ilmankosteus vaikuttaa ilma-aluksen suorituskykyynlentoonlähdössä?Matkat ovat:", "answers": [
+    {"question": "Miten korkeampi ilmankosteus vaikuttaa ilma-aluksen suorituskykyyn lentoonlähdössä? Matkat ovat:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lyhyempiä tiheästä ilmasta johtuen."},
       {"answerCorrectness": "incorrect", "answerText": " Pidempiä tiheämmästä ilmasta johtuen."},
-      {"answerCorrectness": "incorrect", "answerText": " Pidempiä harvemmasta ilmasta johtuen."},
+      {"answerCorrectness": "correct", "answerText": " Pidempiä harvemmasta ilmasta johtuen."},
       {"answerCorrectness": "incorrect", "answerText": " Lyhyempiä harvemmasta ilmasta johtuen."}]},
   
-    {"question": "Mikä yhdistelmä ilmakehän olosuhteita heikentää ilma-aluksen suorituskykyälentoonlähdössä ja nousussa?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Korkea lämpötila, korkea suhteellinen ilmakosteus ja suuri tiheyskorkeus."},
+    {"question": "Mikä yhdistelmä ilmakehän olosuhteita heikentää ilma-aluksen suorituskykyä lentoonlähdössä ja nousussa?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Korkea lämpötila, korkea suhteellinen ilmakosteus ja suuri tiheyskorkeus."},
       {"answerCorrectness": "incorrect", "answerText": " Matala lämpötila, matala suhteellinen ilmankosteus ja pieni tiheyskorkeus."},
       {"answerCorrectness": "incorrect", "answerText": " Matala lämpötila, korkea suhteellinen ilmankosteus ja suuri tiheyskorkeus."},
       {"answerCorrectness": "incorrect", "answerText": " Korkea lämpötila, matala suhteellinen ilmakosteus ja pieni tiheyskorkeus."}]},
   
-    {"question": "Miten massan lisääminen vaikuttaa moottoroidun ilma-aluksen suorituskykyynlentoonlähdössä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Annetulla tehoasetuksella ilma-alus kiihdyttää paremmin, mutta irtoamiseen tarvittavannostovoiman aikaansaamiseksi vaadittava ilmanopeus säilyy muuttumattomana."},
-      {"answerCorrectness": "incorrect", "answerText": " Jokainen ilma-alus kiihdyttää massasta riippumatta yhtä nopeasti annetullatehoasetuksella, mutta irtoamiseen tarvittava nostovoima saavutetaan suuremmallailmanopeudella."},
-      {"answerCorrectness": "incorrect", "answerText": " Jokainen ilma-alus kiihdyttää massasta riippumatta yhtä nopeasti annetullatehoasetuksella ja irtoamiseen tarvittavan nostovoiman aikaansaamiseksi vaadittavailmanopeus säilyy muuttumattomana."},
-      {"answerCorrectness": "incorrect", "answerText": " Annetulla tehoasetuksella ilma-alus kiihdyttää hitaammin ja irtoamiseen tarvittavanostovoima saavutetaan suuremmalla ilmanopeudella."}]},
+    {"question": "Miten massan lisääminen vaikuttaa moottoroidun ilma-aluksen suorituskykyyn lentoonlähdössä?", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Annetulla tehoasetuksella ilma-alus kiihdyttää paremmin, mutta irtoamiseen tarvittavan nostovoiman aikaansaamiseksi vaadittava ilmanopeus säilyy muuttumattomana."},
+      {"answerCorrectness": "incorrect", "answerText": " Jokainen ilma-alus kiihdyttää massasta riippumatta yhtä nopeasti annetulla tehoasetuksella, mutta irtoamiseen tarvittava nostovoima saavutetaan suuremmalla ilmanopeudella."},
+      {"answerCorrectness": "incorrect", "answerText": " Jokainen ilma-alus kiihdyttää massasta riippumatta yhtä nopeasti annetulla tehoasetuksella ja irtoamiseen tarvittavan nostovoiman aikaansaamiseksi vaadittava ilmanopeus säilyy muuttumattomana."},
+      {"answerCorrectness": "correct", "answerText": " Annetulla tehoasetuksella ilma-alus kiihdyttää hitaammin ja irtoamiseen tarvittava nostovoima saavutetaan suuremmalla ilmanopeudella."}]},
   
     {"question": "Miten ylämäkeen viettävä kiitotie vaikuttaa suorituskykyyn lentoonlähdössä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtömatka pitenee."},
+      {"answerCorrectness": "correct", "answerText": " Lentoonlähtömatka pitenee."},
       {"answerCorrectness": "incorrect", "answerText": " Irtoamisnopeus kasvaa."},
       {"answerCorrectness": "incorrect", "answerText": " Irtoamisnopeus pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtömatka lyhenee."}]},
   
     {"question": "Mikä vaikutus suurella tiheyskorkeudella on ilma-aluksen suorituskykyyn?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Suorituskyky nousussa heikkenee."},
+      {"answerCorrectness": "correct", "answerText": " Suorituskyky nousussa heikkenee."},
       {"answerCorrectness": "incorrect", "answerText": " Suorituskyky nousussa paranee."},
       {"answerCorrectness": "incorrect", "answerText": " Suorituskyky lentoonlähdössä paranee."},
       {"answerCorrectness": "incorrect", "answerText": " Moottorin suorituskyky paranee."}]},
@@ -543,22 +547,22 @@
       {"answerCorrectness": "incorrect", "answerText": " Kun pyritään pääsemään nopeasti korkealle."},
       {"answerCorrectness": "incorrect", "answerText": " Kun yritetään nousta uhraamatta matkalentonopeutta."},
       {"answerCorrectness": "incorrect", "answerText": " Liikkuvan esteen ylittämiseen."},
-      {"answerCorrectness": "incorrect", "answerText": " Esteen ylittämiseen."}]},
+      {"answerCorrectness": "correct", "answerText": " Esteen ylittämiseen."}]},
   
-    {"question": "Millä nopeudella aikaansaadaan suurin korkeuden lisääntymisen kuljettuunmatkaan nähden alkunousussa lentoonlähdön jälkeen?", "answers": [
+    {"question": "Millä nopeudella aikaansaadaan suurin korkeuden lisääntymisen kuljettuun matkaan nähden alkunousussa lentoonlähdön jälkeen?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Parhaan kohoamisnopeuden antava nopeus (Vy)."},
       {"answerCorrectness": "incorrect", "answerText": " Liikehtimisnopeus (Va)."},
       {"answerCorrectness": "incorrect", "answerText": " Pienin mahdollinen nopeus (Vs)."},
-      {"answerCorrectness": "incorrect", "answerText": " Parhaan nousukulman nopeus (Vx)."}]},
+      {"answerCorrectness": "correct", "answerText": " Parhaan nousukulman nopeus (Vx)."}]},
   
     {"question": "Ilma-aluksen kohoamisnopeus vakioituneessa nousussa riippuu:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Tehoylijäämästä."},
       {"answerCorrectness": "incorrect", "answerText": " Käytettävissä olevasta työntövoimasta."},
-      {"answerCorrectness": "incorrect", "answerText": " Työntövoimaylijäämästä."},
+      {"answerCorrectness": "correct", "answerText": " Työntövoimaylijäämästä."},
       {"answerCorrectness": "incorrect", "answerText": " Tehoalijäämästä."}]},
   
-    {"question": "Mitä nopeutta ohjaajan tulisi käyttää lentoonlähdön jälkeen saavuttaakseensuurimman korkeuden lyhimmässä ajassa?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Parhaan kohoamisnopeuden antavaa nopeutta (Vy)."},
+    {"question": "Mitä nopeutta ohjaajan tulisi käyttää lentoonlähdön jälkeen saavuttaakseen suurimman korkeuden lyhimmässä ajassa?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Parhaan kohoamisnopeuden antavaa nopeutta (Vy)."},
       {"answerCorrectness": "incorrect", "answerText": " Pienintä mahdollista nopeutta (Vs)."},
       {"answerCorrectness": "incorrect", "answerText": " Parhaan nousukulman nopeutta (Vx)."},
       {"answerCorrectness": "incorrect", "answerText": " Liikehtimisnopeutta (Va)."}]},
@@ -566,179 +570,187 @@
     {"question": "Milloin käytetään parhaan kohoamisnopeuden antavaa nopeutta (Vy)?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Esteen ylittämiseen."},
       {"answerCorrectness": "incorrect", "answerText": " Kun yritetään välttää liian korkeaa nokan asentoa nousun aikana."},
-      {"answerCorrectness": "incorrect", "answerText": " Kun pyritään pääsemään nopeasti matkalentokorkeuteen."},
+      {"answerCorrectness": "correct", "answerText": " Kun pyritään pääsemään nopeasti matkalentokorkeuteen."},
       {"answerCorrectness": "incorrect", "answerText": " Kun lähestytään korkeita vuoria."}]},
   
     {"question": "Miten tuuli vaikuttaa lentokoneen kohoamisnopeuteen?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vastatuuli kasvattaa kohoamisnopeutta."},
       {"answerCorrectness": "incorrect", "answerText": " Myötätuuli kasvattaa kohoamisnopeutta."},
-      {"answerCorrectness": "incorrect", "answerText": " Ei mitenkään."},
+      {"answerCorrectness": "correct", "answerText": " Ei mitenkään."},
       {"answerCorrectness": "incorrect", "answerText": " Myötätuuli pienentää kohoamisnopeutta."}]},
   
     {"question": "Miten tuuli vaikuttaa lentokoneen nousukulmaan?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vastatuuli loiventaa nousukulmaa."},
       {"answerCorrectness": "incorrect", "answerText": " Vastatuuli jyrkentää nousukulmaa."},
-      {"answerCorrectness": "incorrect", "answerText": " Ei mitenkään."},
+      {"answerCorrectness": "correct", "answerText": " Ei mitenkään."},
       {"answerCorrectness": "incorrect", "answerText": " Myötätuuli jyrkentää nousukulmaa."}]},
   
     {"question": "Lentokoneen nousukulma vakioituneessa nousussa riippuu:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Käytettävissä olevasta tehosta."},
       {"answerCorrectness": "incorrect", "answerText": " Tehoylijäämästä."},
-      {"answerCorrectness": "incorrect", "answerText": " Työntövoimaylijäämästä."},
+      {"answerCorrectness": "correct", "answerText": " Työntövoimaylijäämästä."},
       {"answerCorrectness": "incorrect", "answerText": " Tarvittavasta työntövoimasta."}]},
   
-    {"question": "Mitä ilmanopeutta tulisi käyttää esteen ylittämiseen, kun lentokoneella taimoottoroidulla riippuliitimellä suoritetaan lentoonlähtö lyhyeltä lentokentältä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Parhaan nousukulman nopeutta (Vx)."},
+    {"question": "Mitä ilmanopeutta tulisi käyttää esteen ylittämiseen, kun lentokoneella tai moottoroidulla riippuliitimellä suoritetaan lentoonlähtö lyhyeltä lentokentältä?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Parhaan nousukulman nopeutta (Vx)."},
       {"answerCorrectness": "incorrect", "answerText": " Liikehtimisnopeutta (Va)."},
       {"answerCorrectness": "incorrect", "answerText": " Parhaan kohoamisnopeuden antavaa nopeutta (Vy)."},
       {"answerCorrectness": "incorrect", "answerText": " Pienintä mahdollista nopeutta (Vs)."}]},
   
-    {"question": "Laskeuduttaessa korkealla merenpinnasta sijaitsevalle lentokentälle lentokoneentosi-ilmanopeus (TAS) on normaalia suurempi. Mitä indikoitua ilmanopeutta (IAS)tulisi tällöin lentää?", "answers": [
+    {"question": "Laskeuduttaessa korkealla merenpinnasta sijaitsevalle lentokentälle lentokoneen tosi-ilmanopeus (TAS) on normaalia suurempi. Mitä indikoitua ilmanopeutta (IAS)tulisi tällöin lentää?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Suurempaa kuin normaalisti."},
       {"answerCorrectness": "incorrect", "answerText": " Jokaista 1000 jalkaa merenpinnasta kohden tulee nopeuteen lisätä 5 solmua."},
       {"answerCorrectness": "incorrect", "answerText": " Pienempää kuin normaalisti."},
-      {"answerCorrectness": "incorrect", "answerText": " Normaalia nopeutta, IAS."}]},
+      {"answerCorrectness": "correct", "answerText": " Normaalia nopeutta, IAS."}]},
   
-    {"question": "Käytätkö normaalia lähestymisnopeutta lähestyttäessä laskua vartenpuuskaisissa olosuhteissa?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " En. Lisään puolet puuskan nopeudesta laskettuun lähestymisnopeuteen."},
+    {"question": "Käytätkö normaalia lähestymisnopeutta lähestyttäessä laskua varten puuskaisissa olosuhteissa?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " En. Lisään puolet puuskan nopeudesta laskettuun lähestymisnopeuteen."},
       {"answerCorrectness": "incorrect", "answerText": " Kyllä (ilma-aluksen käsikirjan mukaisesti)."},
       {"answerCorrectness": "incorrect", "answerText": " En. Käytän nopeutta, joka vastaa 1.2 kertaista sakkausnopeutta."},
       {"answerCorrectness": "incorrect", "answerText": " En. Käytän nopeutta, joka vastaa 0.8 kertaista sakkausnopeutta."}]},
   
-    {"question": "Suurin rakenteellinen matkalentonopeus on suurin nopeus, jolla ilma-alusta voilentää:", "answers": [
+    {"question": "Suurin rakenteellinen matkalentonopeus on suurin nopeus, jolla ilma-alusta voi lentää:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Laskusiivekkeet ulkona."},
-      {"answerCorrectness": "incorrect", "answerText": " Normaalitoiminnassa."},
+      {"answerCorrectness": "correct", "answerText": " Normaalitoiminnassa."},
       {"answerCorrectness": "incorrect", "answerText": " Voimakkaan liikehtimisen aikana."},
       {"answerCorrectness": "incorrect", "answerText": " Tyynessä ilmassa."}]},
   
     {"question": "Miksi lentämistä Vne-nopeuden yläpuolella on kielletty?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Nostovoima muuttuu käänteiseksi ja ilma-alus sakkaa."},
-      {"answerCorrectness": "incorrect", "answerText": " Liian suuri indusoitu vastus voi aiheuttaa rakennevaurion."},
+      {"answerCorrectness": "correct", "answerText": " Liian suuri indusoitu vastus voi aiheuttaa rakennevaurion."},
       {"answerCorrectness": "incorrect", "answerText": " Ohjainten tehokkuus heikentyy niin paljon, että ilma-alus muuttuu ohjauskyvyttömäksi."},
       {"answerCorrectness": "incorrect", "answerText": " Suunnittelun rajakerroin saattaa ylittyä puuskassa."}]},
   
     {"question": "Mikä V-nopeus vastaa liikehtimisnopeutta?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Va."},
+      {"answerCorrectness": "correct", "answerText": " Va."},
       {"answerCorrectness": "incorrect", "answerText": " Vne."},
       {"answerCorrectness": "incorrect", "answerText": " Vx."},
       {"answerCorrectness": "incorrect", "answerText": " Vlo."}]},
   
-    {"question": "Liikehtimisnopeus (Va) on suurin nopeus, jolla korkeusperäsimen täysiohjainpoikkeutus ei ylitä:", "answers": [
+    {"question": "Liikehtimisnopeus (Va) on suurin nopeus, jolla korkeusperäsimen täysi ohjainpoikkeutus ei ylitä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kuormitusmoninkerrointa 1 g."},
       {"answerCorrectness": "incorrect", "answerText": " Suurinta sallittua nopeutta (Vne)."},
       {"answerCorrectness": "incorrect", "answerText": " Negatiivista kuormitusmoninkertoimen raja-arvoa."},
-      {"answerCorrectness": "incorrect", "answerText": " Positiivista kuormitusmoninkertoimen raja-arvoa."}]},
+      {"answerCorrectness": "correct", "answerText": " Positiivista kuormitusmoninkertoimen raja-arvoa."}]},
   
     {"question": "Mitä potkurikoneen \"parhaan toiminta-ajan nopeus\" tarkoittaa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pisin mahdollinen matka kahden pysähdyksen välissä."},
-      {"answerCorrectness": "incorrect", "answerText": " Pisin kuljettu matka käytettyyn polttoainemäärään nähden (lentäminen pienimmällämahdollisella vastuksella)."},
+      {"answerCorrectness": "incorrect", "answerText": " Pisin kuljettu matka käytettyyn polttoainemäärään nähden (lentäminen pienimmällä mahdollisella vastuksella)."},
       {"answerCorrectness": "incorrect", "answerText": " Pisin mahdollinen aika kahden pysähdyksen välissä."},
-      {"answerCorrectness": "incorrect", "answerText": " Pisin ilmassa vietetty aika käytettyyn polttoainemäärään nähden (lentäminen pienimmällämahdollisella teholla)."}]},
+      {"answerCorrectness": "correct", "answerText": " Pisin ilmassa vietetty aika käytettyyn polttoainemäärään nähden (lentäminen pienimmällä mahdollisella teholla)."}]},
   
-    {"question": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissaolosuhteissa: Katso liite LAPL/PPL 030-08Painekorkeus 0 ftLämpötila standardiMassa 1900 lbTuuli tyyntäPinta kuiva ruoho", "answers": [
+    {"question": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissa olosuhteissa: Katso liite LAPL/PPL 030-08. Painekorkeus 0 ft. Lämpötila standardi. Massa 1900 lb. Tuuli tyyntä. Pinta kuiva ruoho", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1,180 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 920 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,030 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 950 ft."}]},
+      {"answerCorrectness": "correct", "answerText": " 1,030 ft."},
+      {"answerCorrectness": "incorrect", "answerText": " 950 ft."}],
+      "image": "030-08.PNG"},
   
-    {"question": "Määritä lähtökiitoon tarvittava matka:(Katso LAPL/PPL 030-08)Painekorkeus 2,000 ftLämpötila 40°CMassa 2100 lbMyötätuuli 4 ktPinta öljysora", "answers": [
+    {"question": "Määritä lähtökiitoon tarvittava matka:(Katso LAPL/PPL 030-08)Painekorkeus 2,000 ft. Lämpötila 40°C. Massa 2100 lb. Myötätuuli 4 kt. Pinta öljysora", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 565 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 935 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,120 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 850 ft."}]},
+      {"answerCorrectness": "correct", "answerText": " 1,120 ft."},
+      {"answerCorrectness": "incorrect", "answerText": " 850 ft."}],
+      "image": "030-08.PNG"},
   
-    {"question": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissaolosuhteissa: (Katso LAPL/PPL 030-08)Painekorkeus 4,000 ftLämpötila 15°CMassa 2300 lbTuuli tyyntäPinta asfaltti", "answers": [
+    {"question": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissa olosuhteissa: (Katso LAPL/PPL 030-08). Painekorkeus 4,000 ft. Lämpötila 15°C. Massa 2300 lb. Tuuli tyyntä. Pinta asfaltti", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1,210 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 2,100 ft."},
+      {"answerCorrectness": "correct", "answerText": " 2,100 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1,125 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,970 ft."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 1,970 ft."}],
+      "image": "030-08.PNG"},
   
-    {"question": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissaolosuhteissa: (Katso LAPL/PPL 030-08)Painekorkeus 2,000 ftLämpötila 30°CMassa 2100 lbVastatuuli 18 ktPinta kuiva ruoho", "answers": [
+    {"question": "Määritä lentoonlähtömatka 50 jalkaa korkean esteen yli seuraavissa olosuhteissa: (Katso LAPL/PPL 030-08)Painekorkeus 2,000 ftLämpötila 30°CMassa 2100 lbVastatuuli 18 ktPinta kuiva ruoho", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1,555 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,350 ft."},
+      {"answerCorrectness": "correct", "answerText": " 1,350 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 2,945 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,565 ft."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 1,565 ft."}],
+      "image": "030-08.PNG"},
   
-    {"question": "Määritä laskeutumiseen tarvittava kokonaismatka. (Katso LAPL/PPL 030-09)Painekorkeus 1,000 ftLämpötila 30°CMassa 2300 lbVastatuuli 9 ktPinta öljysora", "answers": [
+    {"question": "Määritä laskeutumiseen tarvittava kokonaismatka. (Katso LAPL/PPL 030-09). Painekorkeus 1,000 ft. Lämpötila 30°C. Massa 2300 lb. Vastatuuli 9 kt. Pinta öljysora", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 565 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1197 ft."},
+      {"answerCorrectness": "correct", "answerText": " 1197 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1330 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 509 ft."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 509 ft."}],
+      "image": "030-09.PNG"},
   
-    {"question": "Määritä laskukiitomatka. (Katso LAPL/PPL 030-09)Painekorkeus 0 ftLämpötila 10°CMassa 2300 lbVastatuuli 10 ktPinta kuiva ruoho", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 510 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1235 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1790 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 739 ft."}]},
-  
-    {"question": "Määritä laskukiitomatka. (Katso LAPL/PPL 030-09)Painekorkeus 0 ftLämpötila 15°CMassa 2300 lbVastatuuli tyyniPinta öljysora", "answers": [
+    {"question": "Määritä laskukiitomatka. (Katso LAPL/PPL 030-09) Painekorkeus 0 ft. Lämpötila 15°C. Massa 2300 lb. Vastatuuli tyyni. Pinta öljysora", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 545 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 510 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 520 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 530 ft."}]},
+      {"answerCorrectness": "correct", "answerText": " 520 ft."},
+      {"answerCorrectness": "incorrect", "answerText": " 530 ft."}],
+      "image": "030-09.PNG"},
   
-    {"question": "Määritä laskukiitomatka. (Katso LAPL/PPL 030-09)Painekorkeus 3,000 ftLämpötila 20°CMassa 2300 lbVastatuuli tyyniPinta kuiva ruoho", "answers": [
+    {"question": "Määritä laskukiitomatka. (Katso LAPL/PPL 030-09). Painekorkeus 3,000 ft. Lämpötila 20°C. Massa 2300 lb. Vastatuuli tyyni. Pinta kuiva ruoho", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 685 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 855 ft."},
+      {"answerCorrectness": "correct", "answerText": " 855 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 590 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 660 ft."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 660 ft."}],
+      "image": "030-09.PNG"},
   
-    {"question": "Määritä laskeutumiseen tarvittava kokonaismatka. (Katso LAPL/PPL 030-09)Painekorkeus 1,000 ftLämpötila 10°CMassa 2300 lbMyötätuuli 10 ktPinta öljysora", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 1,900 ft."},
+    {"question": "Määritä laskeutumiseen tarvittava kokonaismatka. (Katso LAPL/PPL 030-09). Painekorkeus 1,000 ft. Lämpötila 10°C. Massa 2300 lb. Myötätuuli 10 kt. Pinta öljysora", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 1,900 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1265 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1360 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1850 ft."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 1850 ft."}],
+      "image": "030-09.PNG"},
   
-    {"question": "Määritä laskeutumiseen tarvittava kokonaismatka 50 jalkaa korkean esteen yli.(Katso LAPL/PPL 030-09)Painekorkeus 1,500 ftLämpötila 30°CMassa 2300 lbTuuli tyyntäPinta öljysora", "answers": [
+    {"question": "Määritä laskeutumiseen tarvittava kokonaismatka 50 jalkaa korkean esteen yli.(Katso LAPL/PPL 030-09). Painekorkeus 1,500 ft. Lämpötila 30°C. Massa 2300 lb. Tuuli tyyntä. Pinta öljysora", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1,320 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1,385 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1,280 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,350 ft."}]},
+      {"answerCorrectness": "correct", "answerText": " 1,350 ft."}],
+      "image": "030-09.PNG"},
   
-    {"question": "Määritä laskeutumiseen tarvittava kokonaismatka 50 jalkaa korkean esteen yli.(Katso LAPL/PPL 030-09)Painekorkeus 0 ftLämpötila 0°CMassa 2300 lbVastatuuli 18 ktPinta kuiva ruoho", "answers": [
+    {"question": "Määritä laskeutumiseen tarvittava kokonaismatka 50 jalkaa korkean esteen yli.(Katso LAPL/PPL 030-09). Painekorkeus 0 ft. Lämpötila 0°C. Massa 2300 lb. Vastatuuli 18 kt. Pinta kuiva ruoho", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1,445 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1,205 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 965 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1,140 ft."}]},
+      {"answerCorrectness": "correct", "answerText": " 1,140 ft."}],
+      "image": "030-09.PNG"},
   
-    {"question": "Mikä on vaakalennossa olevan lentokoneen ilmanopeus seuraavissaolosuhteissa? (Katso LAPL/PPL 030-07)Painekorkeus 8,000 ftLämpötila 20°C alle standardinTehoasetus 55%", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 104 kts."},
+    {"question": "Mikä on vaakalennossa olevan lentokoneen ilmanopeus seuraavissa olosuhteissa? (Katso LAPL/PPL 030-07). Painekorkeus 8,000 ft. Lämpötila 20°C alle standardin. Tehoasetus 55%", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 104 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 110 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 115 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 120 kts."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 120 kts."}],
+      "image": "030-07.PNG"},
   
-    {"question": "Mikä on odotettavissa oleva polttoaineenkulutus 250 merimailin pituisellelennolle seuraavissa olosuhteissa?(Katso LAPL/PPL 030-07)Painekorkeus 6,000 ftLämpötila 20°C yli standardinTehoasetus 60%Tuuli tyyntä", "answers": [
+    {"question": "Mikä on odotettavissa oleva polttoaineenkulutus 250 merimailin pituiselle lennolle seuraavissa olosuhteissa?(Katso LAPL/PPL 030-07). Painekorkeus 6,000 ft. Lämpötila 20°C yli standardin. Tehoasetus 60%. Tuuli tyyntä", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 19.7 USA gal."},
-      {"answerCorrectness": "incorrect", "answerText": " 15.1 USA gal."},
+      {"answerCorrectness": "correct", "answerText": " 15.1 USA gal."},
       {"answerCorrectness": "incorrect", "answerText": " 12.0 USA gal."},
-      {"answerCorrectness": "incorrect", "answerText": " 16.0 USA gal."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 16.0 USA gal."}],
+      "image": "030-07.PNG"},
   
-    {"question": "Mikä on odotettavissa oleva polttoaineenkulutus 350 merimailin pituisellelennolle seuraavissa olosuhteissa?(Katso LAPL/PPL 030-07)Painekorkeus 4,000 ftLämpötila 20°C alle standardinTehoasetus 60%Tuuli tyyntä", "answers": [
+    {"question": "Mikä on odotettavissa oleva polttoaineenkulutus 350 merimailin pituiselle lennolle seuraavissa olosuhteissa?(Katso LAPL/PPL 030-07)Painekorkeus 4,000 ftLämpötila 20°C alle standardinTehoasetus 60%Tuuli tyyntä", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 15.3 USA gal."},
-      {"answerCorrectness": "incorrect", "answerText": " 22.7 USA gal."},
+      {"answerCorrectness": "correct", "answerText": " 22.7 USA gal."},
       {"answerCorrectness": "incorrect", "answerText": " 18.6 USA gal."},
-      {"answerCorrectness": "incorrect", "answerText": " 14.9 USA gal."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 14.9 USA gal."}],
+      "image": "030-07.PNG"},
   
-    {"question": "Mikä kierroslukuarvo tulisi suunnilleen asettaa moottoriin 60% tehonaikaansaamiseksi matkalennolla 2,000 jalan korkeudessa standardilämpötilassa?(Katso LAPL/PPL 030-07)", "answers": [
+    {"question": "Mikä kierroslukuarvo tulisi suunnilleen asettaa moottoriin 60% tehonaikaan saamiseksi matkalennolla 2,000 jalan korkeudessa standardilämpötilassa?(Katso LAPL/PPL 030-07)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 2200 RPM."},
-      {"answerCorrectness": "incorrect", "answerText": " 2300 RPM."},
+      {"answerCorrectness": "correct", "answerText": " 2300 RPM."},
       {"answerCorrectness": "incorrect", "answerText": " 2400 RPM."},
       {"answerCorrectness": "incorrect", "answerText": " 2500 RPM."}]},
   
-    {"question": "Mikä on odotettavissa oleva polttoaineenkulutus seuraavissa olosuhteissa?(Katso LAPL/PPL 030-07)Painekorkeus 8,000 ftLämpötila 20°C alle standardinTehoasetus 55%", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 6.2 USA gal/h."},
+    {"question": "Mikä on odotettavissa oleva polttoaineenkulutus seuraavissa olosuhteissa?(Katso LAPL/PPL 030-07) Painekorkeus 8,000 ft. Lämpötila 20°C alle standardinTehoasetus 55%", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 6.2 USA gal/h."},
       {"answerCorrectness": "incorrect", "answerText": " 5.8 USA gal/h."},
       {"answerCorrectness": "incorrect", "answerText": " 5.7 USA gal/h."},
-      {"answerCorrectness": "incorrect", "answerText": " 5.2 USA gal/h."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 5.2 USA gal/h."}],
+      "image": "030-07.PNG"},
   
-    {"question": "Mille ilmanopeudelle yleensä hakeudutaan moottorihäiriön sattuessa lennollakevyellä lentokoneella?", "answers": [
+    {"question": "Mille ilmanopeudelle yleensä hakeudutaan moottorihäiriön sattuessa lennolla kevyellä lentokoneella?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Parhaan toiminta-ajan nopeudelle."},
-      {"answerCorrectness": "incorrect", "answerText": " Parhaan liitosuhteen nopeudelle."},
+      {"answerCorrectness": "correct", "answerText": " Parhaan liitosuhteen nopeudelle."},
       {"answerCorrectness": "incorrect", "answerText": " Pienimmälle mahdolliselle nopeudelle."},
       {"answerCorrectness": "incorrect", "answerText": " Pienimmän vajoamisen nopeudelle."}]},
   
-    {"question": "Ilma-aluksen pienimmän vajoamisen nopeus on verrattuna parhaan liitosuhteennopeuteen:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Aina pienempi."},
+    {"question": "Ilma-aluksen pienimmän vajoamisen nopeus on verrattuna parhaan liitosuhteen nopeuteen:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Aina pienempi."},
       {"answerCorrectness": "incorrect", "answerText": " Usein pienempi."},
       {"answerCorrectness": "incorrect", "answerText": " Usein suurempi."},
       {"answerCorrectness": "incorrect", "answerText": " Aina suurempi."}]},
@@ -746,173 +758,152 @@
     {"question": "Mikä on ensimmäinen tehtävä moottorihäiriön sattuessa lennolla?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Laihennusvivun siirtäminen täysin rikkaalle."},
       {"answerCorrectness": "incorrect", "answerText": " Parhaan liitosuhteen nopeuden säilyttävä liitoasennon valitseminen."},
-      {"answerCorrectness": "incorrect", "answerText": " Kaasuttimen imuilman etulämmityksen päälle kytkeminen."},
+      {"answerCorrectness": "correct", "answerText": " Kaasuttimen imuilman etulämmityksen päälle kytkeminen."},
       {"answerCorrectness": "incorrect", "answerText": " Soveltuvan pakkolaskupaikan valitseminen."}]},
   
-    {"question": "Ilma-alus lentää moottori sammuneena pisimmän matkan lähtökorkeudestakohtauskulmalla, jolla:", "answers": [
+    {"question": "Ilma-alus lentää moottori sammuneena pisimmän matkan lähtökorkeudesta kohtauskulmalla, jolla:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Haitallinen vastus on pienimmillään."},
       {"answerCorrectness": "incorrect", "answerText": " Haitallinen vastus ja nostovoimakerroin ovat samansuuruiset."},
       {"answerCorrectness": "incorrect", "answerText": " Nostovoimakerroin on suurimmillaan."},
-      {"answerCorrectness": "incorrect", "answerText": " Indusoitu vastus ja haitallinen vastus ovat samansuuruiset."}]},
+      {"answerCorrectness": "correct", "answerText": " Indusoitu vastus ja haitallinen vastus ovat samansuuruiset."}]},
   
-    {"question": "Mikä on vastatuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaatuuleksi 220°/30 kts? (Katso LAPL/PPL 030-06)", "answers": [
+    {"question": "Mikä on vastatuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaa tuuleksi 220°/30 kts? (Katso LAPL/PPL 030-06)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 30 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 19 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 23 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 34 kts."}]},
+      {"answerCorrectness": "correct", "answerText": " 23 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 34 kts."}],
+      "image": "030-06.PNG"},
   
-    {"question": "Mikä on sivutuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaatuuleksi 220°/30 kts? (Katso LAPL/PPL 030-06)", "answers": [
+    {"question": "Mikä on sivutuulikomponentti laskeuduttaessa kiitotielle 18, jos torni ilmoittaa tuuleksi 220°/30 kts? (Katso LAPL/PPL 030-06)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 23 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 30 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 34 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 19 kts."}]},
+      {"answerCorrectness": "correct", "answerText": " 19 kts."}],
+      "image": "030-06.PNG"},
   
-    {"question": "Minkä kiitotien (06, 14, 24, 32) valitset laskua varten, jos torni ilmoittaa eteläistätuulta 20 kts voimakkuudella ja ilma-aluksesi suurin sallittu sivutuulikomponenttilaskeutumisessa on 13 solmua? (Katso LAPL/PPL 030-06)", "answers": [
+    {"question": "Minkä kiitotien (06, 14, 24, 32) valitset laskua varten, jos torni ilmoittaa eteläistä tuulta 20 kts voimakkuudella ja ilma-aluksesi suurin sallittu sivutuulikomponentti laskeutumisessa on 13 solmua? (Katso LAPL/PPL 030-06)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " RWY 32."},
-      {"answerCorrectness": "incorrect", "answerText": " RWY 14."},
+      {"answerCorrectness": "correct", "answerText": " RWY 14."},
       {"answerCorrectness": "incorrect", "answerText": " RWY 24."},
-      {"answerCorrectness": "incorrect", "answerText": " RWY 06."}]},
+      {"answerCorrectness": "incorrect", "answerText": " RWY 06."}],
+      "image": "030-06.PNG"},
   
-    {"question": "Olet lähestymässä lentokenttää, jolle ilmoitettu tuuli on 360°/20 kts. Minkäkiitotien (06, 14, 24, 32) valitset laskua varten, jos ilma-aluksesi suurin sallittusivutuulikomponentti laskeutumisessa on 13 solmua? (Katso LAPL/PPL 030-06)", "answers": [
+    {"question": "Olet lähestymässä lentokenttää, jolle ilmoitettu tuuli on 360°/20 kts. Minkä kiitotien (06, 14, 24, 32) valitset laskua varten, jos ilma-aluksesi suurin sallittu sivutuulikomponentti laskeutumisessa on 13 solmua? (Katso LAPL/PPL 030-06)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " RWY 24."},
       {"answerCorrectness": "incorrect", "answerText": " RWY 14."},
       {"answerCorrectness": "incorrect", "answerText": " RWY 06."},
-      {"answerCorrectness": "incorrect", "answerText": " RWY 32."}]},
+      {"answerCorrectness": "correct", "answerText": " RWY 32."}],
+      "image": "030-06.PNG"},
   
-    {"question": "Mitkä ovat vastatuuli- ja sivutuulikomponentit kiitotielle, jonka magneettinensuunta on 220°, kun tuulta on ilmoitettu 280°/15 kts? (Katso LAPL/PPL 030-06)", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 7,5 solmua vastatuulta ja 13 solmua sivutuulta."},
+    {"question": "Mitkä ovat vastatuuli- ja sivutuulikomponentit kiitotielle, jonka magneettinen suunta on 220°, kun tuulta on ilmoitettu 280°/15 kts? (Katso LAPL/PPL 030-06)", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 7,5 solmua vastatuulta ja 13 solmua sivutuulta."},
       {"answerCorrectness": "incorrect", "answerText": " 15,5 solmua vastatuulta ja 8 solmua sivutuulta."},
       {"answerCorrectness": "incorrect", "answerText": " 15,5 solmua vastatuulta ja 15 solmua sivutuulta."},
-      {"answerCorrectness": "incorrect", "answerText": " 13,5 solmua vastatuulta ja 24 solmua sivutuulta."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 13,5 solmua vastatuulta ja 24 solmua sivutuulta."}],
+      "image": "030-06.PNG"},
   
-    {"question": "Määritä suurin sallittu voimakkuus 45° kulmassa tulevalle sivutuulelle, jos ilmaaluksensuurin sallittu sivutuulikomponentti on 25 kts? (Katso LAPL/PPL 030-06)", "answers": [
+    {"question": "Määritä suurin sallittu voimakkuus 45° kulmassa tulevalle sivutuulelle, jos ilmaaluksen suurin sallittu sivutuulikomponentti on 25 kts? (Katso LAPL/PPL 030-06)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 29 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 35 kts."},
+      {"answerCorrectness": "correct", "answerText": " 35 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 25 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 18 kts."}]},
+      {"answerCorrectness": "incorrect", "answerText": " 18 kts."}],
+      "image": "030-06.PNG"},
   
-    {"question": "Määritä suurin sallittu voimakkuus 40° kulmassa tulevalle sivutuulelle, jos ilmaaluksensuurin sallittu sivutuulikomponentti on 10 kts? (Katso LAPL/PPL 030-06)", "answers": [
+    {"question": "Määritä suurin sallittu voimakkuus 40° kulmassa tulevalle sivutuulelle, jos ilmaaluksen suurin sallittu sivutuulikomponentti on 10 kts? (Katso LAPL/PPL 030-06)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 20 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 12 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 18 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 15 kts."}]},
+      {"answerCorrectness": "correct", "answerText": " 15 kts."}],
+      "image": "030-06.PNG"},
   
-    {"question": "Määritä suurin sallittu voimakkuus 30° kulmassa tulevalle sivutuulelle, jos ilmaaluksensuurin sallittu sivutuulikomponentti on 10 kts? (Katso LAPL/PPL 030-06)", "answers": [
+    {"question": "Määritä suurin sallittu voimakkuus 30° kulmassa tulevalle sivutuulelle, jos ilmaaluksen suurin sallittu sivutuulikomponentti on 10 kts? (Katso LAPL/PPL 030-06)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 16 kts."},
       {"answerCorrectness": "incorrect", "answerText": " 18 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 20 kts."},
-      {"answerCorrectness": "incorrect", "answerText": " 13 kts."}]},
+      {"answerCorrectness": "correct", "answerText": " 20 kts."},
+      {"answerCorrectness": "incorrect", "answerText": " 13 kts."}],
+      "image": "030-06.PNG"},
   
-    {"question": "Mitkä ovat vastatuuli- ja sivutuulikomponentit kiitotielle, jonka magneettinensuunta on 330°, kun tuulta on ilmoitettu 030°/10 kts? (Katso LAPL/PPL 030-06)", "answers": [
+    {"question": "Mitkä ovat vastatuuli- ja sivutuulikomponentit kiitotielle, jonka magneettinen suunta on 330°, kun tuulta on ilmoitettu 030°/10 kts? (Katso LAPL/PPL 030-06)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 8 solmua vastatuulta ja 4 solmua sivutuulta."},
       {"answerCorrectness": "incorrect", "answerText": " 8 solmua vastatuulta ja 8 solmua sivutuulta."},
       {"answerCorrectness": "incorrect", "answerText": " 10 solmua vastatuulta ja 8 solmua sivutuulta."},
-      {"answerCorrectness": "incorrect", "answerText": " 5 solmua vastatuulta ja 8 solmua sivutuulta."}]},
+      {"answerCorrectness": "correct", "answerText": " 5 solmua vastatuulta ja 8 solmua sivutuulta."}],
+      "image": "030-06.PNG"},
   
-    {"question": "AIP:n lisäykset (AlP Supplements):", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Muuttavat ilmoittamansa asian AIP:ssä tilapäisesti."},
+    {"question": "AIP:n lisäykset (AIP Supplements):", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Muuttavat ilmoittamansa asian AIP:ssä tilapäisesti."},
       {"answerCorrectness": "incorrect", "answerText": " Julkaistaan sinisellä paperilla."},
       {"answerCorrectness": "incorrect", "answerText": " Julkaistaan valkoisella paperilla."},
       {"answerCorrectness": "incorrect", "answerText": " Muuttavat ilmoittamansa asian AIP:ssä pysyvästi."}]},
   
-    {"question": "Jos ilma-alus ei anna sovittua laskuilmoitusta 30 min kuluessalentosuunnitelmassa mainitusta, syntyy:", "answers": [
+    {"question": "Jos ilma-alus ei anna sovittua laskuilmoitusta 30 min kuluessa lentosuunnitelmassa mainitusta, syntyy:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Poikkeustilanne."},
       {"answerCorrectness": "incorrect", "answerText": " Hälytystilanne."},
-      {"answerCorrectness": "incorrect", "answerText": " Epävarmuustilanne."},
+      {"answerCorrectness": "correct", "answerText": " Epävarmuustilanne."},
       {"answerCorrectness": "incorrect", "answerText": " Hätätilanne."}]},
   
-    {"question": "Mikä seuraavista on paras tapa polttoaineen määrän tarkastamiseen ennenlentoa?", "answers": [
+    {"question": "Mikä seuraavista on paras tapa polttoaineen määrän tarkastamiseen ennen lentoa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kysymällä asiaa koneen tankkaajalta."},
       {"answerCorrectness": "incorrect", "answerText": " Kysymällä edelliseltä lentäjältä jäljellä oleva toiminta-aika."},
-      {"answerCorrectness": "incorrect", "answerText": " Vertaamalla polttoaineen määrämittarin näyttöä polttoaineen täyttöaukosta mitattuunmäärään."},
+      {"answerCorrectness": "correct", "answerText": " Vertaamalla polttoaineen määrämittarin näyttöä polttoaineen täyttöaukosta mitattuun määrään."},
       {"answerCorrectness": "incorrect", "answerText": " Polttoainemäärämittareiden avulla koekäytön aikana."}]},
   
     {"question": "Mikä seuraavista on lentobensiinin (100LL) painolaskuissa käytetty tiheys:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 0,62 kg/l"},
       {"answerCorrectness": "incorrect", "answerText": " 0,99 kg/l"},
-      {"answerCorrectness": "incorrect", "answerText": " 0,72 kg/l"},
+      {"answerCorrectness": "correct", "answerText": " 0,72 kg/l"},
       {"answerCorrectness": "incorrect", "answerText": " 0,68 kg/l"}]},
   
     {"question": "Nousualue (Clearway) on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " TORA + ASDA, ja sitä ei voi hyödyntää laskumatkaa määritettäessä."},
-      {"answerCorrectness": "incorrect", "answerText": " TODA - TORA, ja sillä ei ole mitään tekemistä laskumatkan määrittämisen kanssa."},
-      {"answerCorrectness": "incorrect", "answerText": " ASDA - TORA, ja sen voi koko pituudeltaan lukea hyväksi kiihdytys-pysäytysmatkaamääritettäessä."},
+      {"answerCorrectness": "correct", "answerText": " TODA - TORA, ja sillä ei ole mitään tekemistä laskumatkan määrittämisen kanssa."},
+      {"answerCorrectness": "incorrect", "answerText": " ASDA - TORA, ja sen voi koko pituudeltaan lukea hyväksi kiihdytys-pysäytysmatkaa määritettäessä."},
       {"answerCorrectness": "incorrect", "answerText": " TODA - TORA, ja sen voi koko pituudeltaan lukea hyväksi laskumatkaa määritettäessä."}]},
   
     {"question": "Käytettävissä olevat kiitotiematkat (TORA, TODA, ASDA, LDA) löydät:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " AIP:n AD-osasta"},
+      {"answerCorrectness": "correct", "answerText": " AIP:n AD-osasta"},
       {"answerCorrectness": "incorrect", "answerText": " ICAO:n Annex 14:stä (lentokentät)"},
       {"answerCorrectness": "incorrect", "answerText": " ICAO:n VFR-kartasta kunkin kentän kohdalta"},
       {"answerCorrectness": "incorrect", "answerText": " AIP:n GEN-osasta"}]},
   
-    {"question": "Mikä seuraavista väittämistä on totta koskien 45 minuutin \"Final reserve\"polttoainetta?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Vähintään kyseinen polttoainemäärä tulee olla tankeissa jäljellä lennon jälkeen vain kunkyseessä on matkalento."},
-      {"answerCorrectness": "incorrect", "answerText": " Vähintään kyseinen polttoainemäärä on oltava lennon jälkeen tankeissa jäljellä. Mikälilennolla kulutetaan kyseistä polttoainetta on kyseessä hätätilanne."},
-      {"answerCorrectness": "incorrect", "answerText": " 45 minuutin \"Final reserve\" koskee vain suihkukoneita."},
-      {"answerCorrectness": "incorrect", "answerText": " Kyseinen polttoainemäärä ei koske yksityislentotoimintaa."}]},
-  
     {"question": "AIP:n lisäykset, Suplementit, löydät:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " NOTAM-kansiosta Briefingistä."},
+      {"answerCorrectness": "correct", "answerText": " NOTAM-kansiosta Briefingistä."},
       {"answerCorrectness": "incorrect", "answerText": " AIP:n 1-osan yhteydestä."},
       {"answerCorrectness": "incorrect", "answerText": " OPS M1-6 yhteydestä."},
       {"answerCorrectness": "incorrect", "answerText": " Lentosäännöistä."}]},
   
     {"question": "Laskukierroskorkeuden Rovaniemen lentokentälle löydät:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1:500000 VFR-kartasta"},
-      {"answerCorrectness": "incorrect", "answerText": " AIP:n 1-osan yhteydestä."},
+      {"answerCorrectness": "correct", "answerText": " AIP:n 1-osan yhteydestä."},
       {"answerCorrectness": "incorrect", "answerText": " Lentosäännöistä, kohta \"minimilentokorkeudet\""},
       {"answerCorrectness": "incorrect", "answerText": " Lennonjohtajan käsikirjasta, kohdasta \"lentopaikat\""}]},
   
-    {"question": "Lentotoiminnassa lentoonlähtömassaltaan enintään 5700 kg olevilla ilmaaluksillaon standardimassa lapselle 2v-12v:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 35 kg."},
+    {"question": "Lentotoiminnassa lentoonlähtömassaltaan enintään 5700 kg olevilla ilmaaluksilla on standardimassa lapselle 2v-12v:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 35 kg."},
       {"answerCorrectness": "incorrect", "answerText": " 25 kg."},
       {"answerCorrectness": "incorrect", "answerText": " 40 kg."},
       {"answerCorrectness": "incorrect", "answerText": " 30 kg."}]},
   
-    {"question": "Lentotoiminnassa lentoonlähtömassaltaan enintään 5700 kg olevilla ilmaaluksillaon standardimassa täysikasvuiselle matkustajalle:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 85 kg."},
+    {"question": "Lentotoiminnassa lentoonlähtömassaltaan enintään 5700 kg olevilla ilmaaluksilla on standardimassa täysikasvuiselle matkustajalle:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 85 kg."},
       {"answerCorrectness": "incorrect", "answerText": " 70 kg."},
       {"answerCorrectness": "incorrect", "answerText": " 75 kg."},
       {"answerCorrectness": "incorrect", "answerText": " 80 kg."}]},
   
     {"question": "VFR-lennolla on koneessa oltava riittävästi polttoainetta", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lentoon lähtölentopaikalta määrälentopaikalle ja lisäksi 45 minuutin ajaksi"},
-      {"answerCorrectness": "incorrect", "answerText": " Käynnistykseen, koekäyttöön ja rullaukseen, lentoon lähtölentopaikaltamäärälentopaikalla ja lisäksi 45 minuutin ajaksi"},
-      {"answerCorrectness": "incorrect", "answerText": " Käynnistykseen, koekäyttöön ja rullaukseen, lentoon lähtölentopaikaltamäärälentopaikalle ja lisäksi 30 minuutin ajaksi"},
+      {"answerCorrectness": "incorrect", "answerText": " Käynnistykseen, koekäyttöön ja rullaukseen, lentoon lähtölentopaikalta määrälentopaikalla ja lisäksi 45 minuutin ajaksi"},
+      {"answerCorrectness": "correct", "answerText": " Käynnistykseen, koekäyttöön ja rullaukseen, lentoon lähtölentopaikalta määrälentopaikalle ja lisäksi 30 minuutin ajaksi"},
       {"answerCorrectness": "incorrect", "answerText": " Lentoon lähtölentopaikalta määrälentopaikalle ja lisäksi 30 minuutin ajaksi"}]},
-  
-    {"question": "Väärin lastattu helikopteri:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " On vain hankalampi hallita autorotaatiossa, kun moottori ei ole kytkettynä."},
-      {"answerCorrectness": "incorrect", "answerText": " On yleensä vähän helpompi hallita kuin oikein lastattu."},
-      {"answerCorrectness": "incorrect", "answerText": " Ei käytännössä voi joutua hallitsemattomaan tilaan."},
-      {"answerCorrectness": "incorrect", "answerText": " Saattaa olla mahdoton hallita jo leijuntaan noustessa."}]},
-  
-    {"question": "Mikä seuraavista tekijöistä EI vaikuta pisimmän toimintamatkan antavaannopeuteen?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Taantuvan lavan sakkaus."},
-      {"answerCorrectness": "incorrect", "answerText": " Tiheyskorkeus."},
-      {"answerCorrectness": "incorrect", "answerText": " Lentopaino."},
-      {"answerCorrectness": "incorrect", "answerText": " Vastatuuli."}]},
   
     {"question": "Mikä seuraavista vaikuttaa ahtamattomasta mäntämoottorista saatavaan tehoon?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ilmanopeus"},
       {"answerCorrectness": "incorrect", "answerText": " Lentoasu"},
-      {"answerCorrectness": "incorrect", "answerText": " Tiheyskorkeus"},
+      {"answerCorrectness": "correct", "answerText": " Tiheyskorkeus"},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen paino"}]},
   
-    {"question": "Mikäli massakeskiö on liian takana:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Leijunta vaikeutuu"},
-      {"answerCorrectness": "incorrect", "answerText": " Tarvitaan ylimääräistä vetoa ohjaussauvasta"},
-      {"answerCorrectness": "incorrect", "answerText": " Autorotaatioloppuveto voi olla mahdoton suorittaa"},
-      {"answerCorrectness": "incorrect", "answerText": " Helikopteri on nokkapainoinen"}]},
-  
-    {"question": "Helikopterin suurin liukumatka autorotaatiossa saavutetaan yhdistelmällä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Suuri nopeus-pienet roottorin kierrokset"},
-      {"answerCorrectness": "incorrect", "answerText": " Suuri nopeus-suuret roottorin kierrokset"},
-      {"answerCorrectness": "incorrect", "answerText": " Pieni nopeus-pienet roottorin kierrokset"},
-      {"answerCorrectness": "incorrect", "answerText": " Pieni nopeus-suuret roottorin kierrokset"}]},
-  
     {"question": "Mikäli massakeskiö on liian edessä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Loppuveto voi olla vaikea suorittaa"},
+      {"answerCorrectness": "correct", "answerText": " Loppuveto voi olla vaikea suorittaa"},
       {"answerCorrectness": "incorrect", "answerText": " Tarvitaan ylimääräistä työntöä ohjaussauvasta"},
       {"answerCorrectness": "incorrect", "answerText": " Flaren jälkeinen työntö voi olla mahdotonta suorittaa"},
       {"answerCorrectness": "incorrect", "answerText": " Lentäminen suurilla nopeuksilla voi olla mahdotonta"}]},
@@ -921,70 +912,58 @@
       {"answerCorrectness": "incorrect", "answerText": " Sakkausnopeus pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Lennät parhaalla kohoamisnopeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Lennät jyrkimmän nousukulman nopeudella."},
-      {"answerCorrectness": "incorrect", "answerText": " Lentoonlähtömatka pitenee."}]},
+      {"answerCorrectness": "correct", "answerText": " Lentoonlähtömatka pitenee."}]},
   
     {"question": "Tiheyskorkeus tarkoittaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Painekorkeuden suhde kentän korkeuteen."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeus keskimääräisestä merenpinnasta tietyssä lämpötilassa."},
-      {"answerCorrectness": "incorrect", "answerText": " Painekorkeus standardiolosuhteissa +/- lämpötilakorjaus."},
+      {"answerCorrectness": "correct", "answerText": " Painekorkeus standardiolosuhteissa +/- lämpötilakorjaus."},
       {"answerCorrectness": "incorrect", "answerText": " Tosikorkeus +/- lämpötilakorjaus."}]},
   
-    {"question": "Mikä seuraavista ei vaikuta helikopterin tehontarpeeseen?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Tiheyskorkeus."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilmanopeus."},
-      {"answerCorrectness": "incorrect", "answerText": " Voimalaitteen antama teho."},
-      {"answerCorrectness": "incorrect", "answerText": " Lentoasu."}]},
-  
-    {"question": "Mikä seuraavista EI huononna helikopterin suorituskykyä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lapojen pinnan epätasaisuus"},
-      {"answerCorrectness": "incorrect", "answerText": " Lapoihin kertyneet itikat"},
-      {"answerCorrectness": "incorrect", "answerText": " Lapojen vahaus"},
-      {"answerCorrectness": "incorrect", "answerText": " Lapoihin kertynyt jää"}]},
-  
-    {"question": "Missä olosuhteissa tehtyihin mittauksiin ja laskelmiin lentokoneen valmistajanilmoittamat suoritusarvot perustuvat?", "answers": [
+    {"question": "Missä olosuhteissa tehtyihin mittauksiin ja laskelmiin lentokoneen valmistajan ilmoittamat suoritusarvot perustuvat?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " normaalit kesäolosuhteet valmistuspaikkakunnalla"},
-      {"answerCorrectness": "incorrect", "answerText": " lCAO:n standardi-ilmakehän olosuhteet"},
+      {"answerCorrectness": "correct", "answerText": " lCAO:n standardi-ilmakehän olosuhteet"},
       {"answerCorrectness": "incorrect", "answerText": " valmistajien yhteisesti sopimat standardiolosuhteet"},
       {"answerCorrectness": "incorrect", "answerText": " tiheyskorkeus 0 ft ja lämpötila 0°C"}]},
   
     {"question": "64 litraa 100LL:ää painaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 55 kg"},
       {"answerCorrectness": "incorrect", "answerText": " 74 kg"},
-      {"answerCorrectness": "incorrect", "answerText": " 46 kg"},
+      {"answerCorrectness": "correct", "answerText": " 46 kg"},
       {"answerCorrectness": "incorrect", "answerText": " 88 kg"}]},
   
     {"question": "114 fuel lbs on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 72 kg"},
       {"answerCorrectness": "incorrect", "answerText": " 22 gal"},
-      {"answerCorrectness": "incorrect", "answerText": " 72 l"},
+      {"answerCorrectness": "correct", "answerText": " 72 l"},
       {"answerCorrectness": "incorrect", "answerText": " 250 l"}]},
   
     {"question": "Miten kiitotien kaltevuus vaikuttaa lähtö- ja laskumatkoihin?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Alamäki pidentää lähtökiitoa, mutta lyhentää laskumatkaa."},
-      {"answerCorrectness": "incorrect", "answerText": " Ylämäki pidentää lähtökiitoa, mutta lyhentää laskumatkaa."},
+      {"answerCorrectness": "correct", "answerText": " Ylämäki pidentää lähtökiitoa, mutta lyhentää laskumatkaa."},
       {"answerCorrectness": "incorrect", "answerText": " Ylämäki lyhentää lähtökiitoa ja laskumatkaa."},
       {"answerCorrectness": "incorrect", "answerText": " Kaltevuudella ei ole merkitystä lähtö- ja laskumatkaan."}]},
   
     {"question": "Lentokoneen massakeskiö on piste:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Jonka kautta nostovoima vaikuttaa kaikissa lento-olosuhteissa"},
-      {"answerCorrectness": "incorrect", "answerText": " Johon lentokoneen koko massan voi katsoa keskittyvän"},
+      {"answerCorrectness": "correct", "answerText": " Johon lentokoneen koko massan voi katsoa keskittyvän"},
       {"answerCorrectness": "incorrect", "answerText": " Jonka lentokoneen valmistaja on laskenut ja ilmoittanut lentokoneen käsikirjassa"},
       {"answerCorrectness": "incorrect", "answerText": " Johon nähden kuormauksessa lasketaan kuorman momenttivarsi"}]},
   
-    {"question": "Lentokoneen kuormaus muuttuu siten, että massakeskipiste siirtyy läheltäeturajaa sallittuun takarajaan. Lentomassan, lentokorkeuden ja moottoritehonollessa vakiot:", "answers": [
+    {"question": "Lentokoneen kuormaus muuttuu siten, että massakeskipiste siirtyy läheltä eturajaa sallittuun takarajaan. Lentomassan, lentokorkeuden ja moottoritehon ollessa vakiot:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kone muuttuu raskaammaksi ohjata"},
       {"answerCorrectness": "incorrect", "answerText": " Koneen sakkausnopeus kasvaa"},
-      {"answerCorrectness": "incorrect", "answerText": " Koneen maksimilentomatka pitenee"},
+      {"answerCorrectness": "correct", "answerText": " Koneen maksimilentomatka pitenee"},
       {"answerCorrectness": "incorrect", "answerText": " Koneen matkanopeus huononee"}]},
   
-    {"question": "Mikä seuraavista lentokoneen painopistelaskelmaan liittyvistä väittämistä onoikea?", "answers": [
+    {"question": "Mikä seuraavista lentokoneen painopistelaskelmaan liittyvistä väittämistä on oikea?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Voima = varsi / momentti"},
       {"answerCorrectness": "incorrect", "answerText": " Lentokoneen massakeskiön kohdalle lastatun kuorman varsi on nolla, samoin momentti"},
       {"answerCorrectness": "incorrect", "answerText": " Momentti on voiman vaikutuspisteen etäisyys massakeskipisteestä"},
-      {"answerCorrectness": "incorrect", "answerText": " Momentti = voima x varsi"}]},
+      {"answerCorrectness": "correct", "answerText": " Momentti = voima x varsi"}]},
   
-    {"question": "Lähdettäessä suorasta noususta nousukaartoon tehoasetusta muuttamattalentokoneen kohoamisnopeus:", "answers": [
+    {"question": "Lähdettäessä suorasta noususta nousukaartoon tehoasetusta muuttamatta lentokoneen kohoamisnopeus:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa merkittävästi, jos lennetään yli 5000 ft korkeudessa"},
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa hieman"},
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee"},
+      {"answerCorrectness": "correct", "answerText": " Pienenee"},
       {"answerCorrectness": "incorrect", "answerText": " Säilyy ennallaan"}]}]
