@@ -8,7 +8,7 @@ import { QSetService } from '../q-set.service';
 })
 export class BannerComponent implements OnInit {
   constructor(private service: QSetService) { }
-  pageHeader = '010 Ilmailulaki(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
+  pageHeader = '010 Ilmailulaki';
   language = 'fin';
   langButtonText = 'English';
   qSet = 'airLaw';
@@ -41,7 +41,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'airLaw';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '010 Ilmailulaki(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
+            this.pageHeader = '010 Ilmailulaki';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '010 Air Law';
@@ -71,7 +71,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'humanPerformance';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '040 Ihmisen suorituskyky(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
+            this.pageHeader = '040 Ihmisen suorituskyky';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '040 Human Performance';
@@ -81,7 +81,7 @@ export class BannerComponent implements OnInit {
           this.qSet = 'meteorology';
           if (this.language === 'fin') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
-            this.pageHeader = '050 Sääoppi(Huom! Osa-alueen kysymyksiin ei ole vielä vastauksia)';
+            this.pageHeader = '050 Sääoppi';
           } else if (this.language === 'eng') {
             this.service.setActiveQuestionSet(this.qSet, this.language);
             this.pageHeader = '050 Meteorology';

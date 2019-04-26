@@ -2,90 +2,90 @@
     {"question": " Kansainvälisen standardi-ilmakehän (ISA) mukaisesti, korkeuden kasvaessatroposfäärissä, ilman tiheys:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
       {"answerCorrectness": "incorrect", "answerText": " Ei vaikutusta, sillä ilmantiheys ei ole riippuvainen korkeudesta."},
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
+      {"answerCorrectness": "correct", "answerText": " Pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Suurenee."}]},
   
     {"question": "Mikä on kansainvälisen standardi-ilmakehän (ISA) ilmanpaine meren pinnalla?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1014.25 Hpa."},
       {"answerCorrectness": "incorrect", "answerText": " 50 elohopeatuumaa."},
-      {"answerCorrectness": "incorrect", "answerText": " 1013.25 Hpa."},
+      {"answerCorrectness": "correct", "answerText": " 1013.25 Hpa."},
       {"answerCorrectness": "incorrect", "answerText": " 1014.00 Hpa."}]},
   
     {"question": "Ilmakehässä olevan ilman koostumus:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Typpi (21%), Happi (0.03%), Hiilidioksidi (78%) ja Argon (1%)."},
       {"answerCorrectness": "incorrect", "answerText": " Typpi (78%), Happi (21%), Hiilidioksidi (0.03%) ja Vety (1%)."},
       {"answerCorrectness": "incorrect", "answerText": " Typpi (1%), Happi (78%), Hiilidioksidi (21%) ja Argon (0.03%)."},
-      {"answerCorrectness": "incorrect", "answerText": " Typpi (78 %), Happi (21%), Hiilidioksidi (0.03%) ja Argon (1%)."}]},
+      {"answerCorrectness": "correct", "answerText": " Typpi (78 %), Happi (21%), Hiilidioksidi (0.03%) ja Argon (1%)."}]},
   
-    {"question": "Kansainvälisen standardi-ilmakehän (ISA) mukaisesti, korkeuden kasvaessatroposfäärissä, lämpötila:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
+    {"question": "Kansainvälisen standardi-ilmakehän (ISA) mukaisesti, korkeuden kasvaessa troposfäärissä, lämpötila:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
       {"answerCorrectness": "incorrect", "answerText": " Ei vaikutusta, sillä se ei ole riippuvainen korkeudesta."},
       {"answerCorrectness": "incorrect", "answerText": " Suurenee."}]},
   
     {"question": "Jos ilmakehän paine pienenee, hapen osapaine vastaavasti:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
+      {"answerCorrectness": "correct", "answerText": " Pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
       {"answerCorrectness": "incorrect", "answerText": " Ei vaikutusta, sillä se ei ole riippuvainen ilmanpaineesta."},
       {"answerCorrectness": "incorrect", "answerText": " Suurenee."}]},
   
-    {"question": "Kansainvälisen standardi-ilmakehän (ISA) mukaisesti, korkeuden kasvaessatroposfäärissä, paine:", "answers": [
+    {"question": "Kansainvälisen standardi-ilmakehän (ISA) mukaisesti, korkeuden kasvaessa troposfäärissä, paine:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Suurenee."},
       {"answerCorrectness": "incorrect", "answerText": " Ei vaikutusta, sillä ilmanpaine ei ole riippuvainen korkeudesta."},
       {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee."}]},
+      {"answerCorrectness": "correct", "answerText": " Pienenee."}]},
   
     {"question": "Lentokorkeuksissa, ilmakehän hapen osuus tilavuuden suhteen on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pienempi kuin merenpinnan korkeudella (MSL)."},
       {"answerCorrectness": "incorrect", "answerText": " Riippuvainen sen hetkisestä korkeudesta."},
-      {"answerCorrectness": "incorrect", "answerText": " Sama kuin merenpinnan korkeudella (MSL)."},
+      {"answerCorrectness": "correct", "answerText": " Sama kuin merenpinnan korkeudella (MSL)."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeampi kuin merenpinnan korkeudella (MSL)."}]},
   
-    {"question": "Millä kaasulla, joka imeytyy elimistöön normaalin hengityksen aikana, on suurimerkitys alipainetaudin kannalta?", "answers": [
+    {"question": "Millä kaasulla, joka imeytyy elimistöön normaalin hengityksen aikana, on suuri merkitys alipainetaudin kannalta?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Hiilimonoksidi."},
-      {"answerCorrectness": "incorrect", "answerText": " Typpi."},
+      {"answerCorrectness": "correct", "answerText": " Typpi."},
       {"answerCorrectness": "incorrect", "answerText": " Happi."},
       {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidi."}]},
   
-    {"question": "Verenluovutuksen jälkeen, mikä on minimi aika joka lentäjän tulee odottaa ennenlentämistä?", "answers": [
+    {"question": "Verenluovutuksen jälkeen, mikä on minimi aika joka lentäjän tulee odottaa ennen lentämistä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 2 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 48 tuntia."},
-      {"answerCorrectness": "incorrect", "answerText": " 12 tuntia."},
+      {"answerCorrectness": "correct", "answerText": " 12 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 24 tuntia."}]},
   
     {"question": "Mikä voi vaikuttaa siihen, että verenpaine on koholla?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ikä."},
       {"answerCorrectness": "incorrect", "answerText": " Stressi."},
-      {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
+      {"answerCorrectness": "correct", "answerText": " Kaikki vastaukset ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Tupakointi."}]},
   
     {"question": "Mikä elintoiminta huolehtii hapen jakelusta kehossa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Hapetusjärjestelmä."},
       {"answerCorrectness": "incorrect", "answerText": " Hengityselimistö."},
       {"answerCorrectness": "incorrect", "answerText": " Keskushermosto."},
-      {"answerCorrectness": "incorrect", "answerText": " Verenkiertoelimistö."}]},
+      {"answerCorrectness": "correct", "answerText": " Verenkiertoelimistö."}]},
   
     {"question": "Veri kuljettaa ____ kehossa ja poistaa ____. Näiden aineiden vaihto tapahtuu____.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Happea / Hiilidioksidia / Valtimoissa."},
       {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidia / Happea / Keuhkokapillaareissa."},
       {"answerCorrectness": "incorrect", "answerText": " Hiiltä / Dioksidia / Happisuonissa."},
-      {"answerCorrectness": "incorrect", "answerText": " Happea / Hiilidioksidia / Keuhkokapillaareissa."}]},
+      {"answerCorrectness": "correct", "answerText": " Happea / Hiilidioksidia / Keuhkokapillaareissa."}]},
   
     {"question": "Mikä osa hermostosta yleensä säätelee hengitystä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Keskushermosto."},
-      {"answerCorrectness": "incorrect", "answerText": " Tahdosta riippumaton hermosto."},
+      {"answerCorrectness": "correct", "answerText": " Tahdosta riippumaton hermosto."},
       {"answerCorrectness": "incorrect", "answerText": " Ääreishermosto."}]},
   
     {"question": "Aivosolut, jotka eivät saa happea, alkavat kuolla ____ kuluttua:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 2 minuutin"},
+      {"answerCorrectness": "correct", "answerText": " 2 minuutin"},
       {"answerCorrectness": "incorrect", "answerText": " 2 sekunnin"},
       {"answerCorrectness": "incorrect", "answerText": " 2 tunnin"},
       {"answerCorrectness": "incorrect", "answerText": " 30 minuutin"}]},
   
     {"question": "Minkä kaasun määrä veressä säätelee hengityksen tiheyttä ja syvyyttä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Typpi."},
-      {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidi."},
+      {"answerCorrectness": "correct", "answerText": " Hiilidioksidi."},
       {"answerCorrectness": "incorrect", "answerText": " Happi."},
       {"answerCorrectness": "incorrect", "answerText": " Hiilimonoksidi."}]},
   
@@ -93,35 +93,35 @@
       {"answerCorrectness": "incorrect", "answerText": " Väsymystä."},
       {"answerCorrectness": "incorrect", "answerText": " Tajunnan menetyksen."},
       {"answerCorrectness": "incorrect", "answerText": " Sykkeen laskua."},
-      {"answerCorrectness": "incorrect", "answerText": " Sykkeen nousua."}]},
+      {"answerCorrectness": "correct", "answerText": " Sykkeen nousua."}]},
   
-    {"question": "Kuinka kauan keskimäärin ihmisellä kestää kuluttaa yksi yksikkö alkoholiaverestään (vaikkakin kulutus on yksilökohtaista)?", "answers": [
+    {"question": "Kuinka kauan keskimäärin ihmisellä kestää kuluttaa yksi yksikkö alkoholia verestään (vaikkakin kulutus on yksilökohtaista)?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 12 tuntia."},
-      {"answerCorrectness": "incorrect", "answerText": " 2 tuntia."},
+      {"answerCorrectness": "correct", "answerText": " 2 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 5 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 1/2 tuntia."}]},
   
-    {"question": "Täytä puuttuviin kohtiin eniten oikeat vaihtoehdot kaasupareista: Punasoluissaoleva hemoglobiini kiinnittyy paremmin ______ kuin ______.", "answers": [
+    {"question": "Täytä puuttuviin kohtiin eniten oikeat vaihtoehdot kaasupareista: Punasoluissa oleva hemoglobiini kiinnittyy paremmin ______ kuin ______.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Happeen/Typpeen."},
       {"answerCorrectness": "incorrect", "answerText": " Typpeen/Happeen."},
       {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidiin/Typpeen."},
-      {"answerCorrectness": "incorrect", "answerText": " Hiilimonoksidiin/happeen."}]},
+      {"answerCorrectness": "correct", "answerText": " Hiilimonoksidiin/happeen."}]},
   
     {"question": "Mikä elin säätelee kaikkia muita kehon toimintoja?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Sydän."},
       {"answerCorrectness": "incorrect", "answerText": " Selkäydin."},
       {"answerCorrectness": "incorrect", "answerText": " Keuhkot."},
-      {"answerCorrectness": "incorrect", "answerText": " Aivot."}]},
+      {"answerCorrectness": "correct", "answerText": " Aivot."}]},
   
     {"question": "Tilanne, jossa keho ei saa tarpeeksi happea toimiakseen oikein, on nimeltään?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Hypotensio."},
       {"answerCorrectness": "incorrect", "answerText": " Hyperventilaatio."},
       {"answerCorrectness": "incorrect", "answerText": " Hyperglykemia."},
-      {"answerCorrectness": "incorrect", "answerText": " Hypoksia."}]},
+      {"answerCorrectness": "correct", "answerText": " Hypoksia."}]},
   
     {"question": "Hypoksialle todennäköinen oire/oireet:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kohonnut sydämen syke."},
-      {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
+      {"answerCorrectness": "correct", "answerText": " Kaikki vastaukset ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Formikaatio eli tunne siitä, että muurahainen kävelee iholla."},
       {"answerCorrectness": "incorrect", "answerText": " Syanoosi eli sinertävyys."}]},
   
@@ -129,16 +129,16 @@
       {"answerCorrectness": "incorrect", "answerText": " 20,000 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 2,000 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 8,000 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 10,000 ft."}]},
+      {"answerCorrectness": "correct", "answerText": " 10,000 ft."}]},
   
-    {"question": "Verrattuna ei-tupakoivaan henkilöön, tupakoitsija saattaa kokea hypoksianoireita:", "answers": [
+    {"question": "Verrattuna ei-tupakoivaan henkilöön, tupakoitsija saattaa kokea hypoksian oireita:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Millä lentokorkeudella tahansa."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeammalla lentokorkeudella."},
-      {"answerCorrectness": "incorrect", "answerText": " Matalammalla lentokorkeudella."},
+      {"answerCorrectness": "correct", "answerText": " Matalammalla lentokorkeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Samalla lentokorkeudella."}]},
   
     {"question": "Mitkä seuraavista lisäävät hypoksian vaikutuksia?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
+      {"answerCorrectness": "correct", "answerText": " Kaikki vastaukset ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Alkoholi."},
       {"answerCorrectness": "incorrect", "answerText": " Lisääntynyt lentokorkeus."},
       {"answerCorrectness": "incorrect", "answerText": " Kohonnut lämpötila."}]},
@@ -146,24 +146,24 @@
     {"question": "Lennät 6000ft korkeudella ja lennolla mukana oleva kaverisi alkaa tunteakihelmöintiä, huimausta ja näköhäiriöitä, joita seuraa tajuttomuus. Kaverisitodennäköisesti kärsii:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Angiinasta."},
       {"answerCorrectness": "incorrect", "answerText": " Ruokamyrkytyksestä."},
-      {"answerCorrectness": "incorrect", "answerText": " Hyperventilaatiosta."},
+      {"answerCorrectness": "correct", "answerText": " Hyperventilaatiosta."},
       {"answerCorrectness": "incorrect", "answerText": " Hapen puutteesta."}]},
   
     {"question": "Hypoksialle todennäköinen oire/oireet:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kihelmöivät sormet ja varpaat."},
       {"answerCorrectness": "incorrect", "answerText": " Tajuttomuus."},
       {"answerCorrectness": "incorrect", "answerText": " Arvostelukyvyn heikkeneminen."},
-      {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."}]},
+      {"answerCorrectness": "correct", "answerText": " Kaikki vastaukset ovat oikein."}]},
   
-    {"question": "Lennolla oleva lentäjä kohtaa suoraan törmäyskurssilla vastaan tulevan,nopeasti lentävän suihkukoneen. Lentäjä havaitsee suihkukoneen, joka näyttääkasvavan hänen silmissään seuraavasti:", "answers": [
+    {"question": "Lennolla oleva lentäjä kohtaa suoraan törmäyskurssilla vastaan tulevan, nopeasti lentävän suihkukoneen. Lentäjä havaitsee suihkukoneen, joka näyttää kasvavan hänen silmissään seuraavasti:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Nopeasti aluksi ja sitten tasaisella nopeudella törmäykseen asti."},
       {"answerCorrectness": "incorrect", "answerText": " Suihkukone näyttää kasvavan tasaisella nopeudella."},
-      {"answerCorrectness": "incorrect", "answerText": " Aluksi suihkukone näyttää kasvavan hyvin hitaasti, kunnes juuri ennen törmäystä kasvaahyvin nopeasti."},
+      {"answerCorrectness": "correct", "answerText": " Aluksi suihkukone näyttää kasvavan hyvin hitaasti, kunnes juuri ennen törmäystä kasvaa hyvin nopeasti."},
       {"answerCorrectness": "incorrect", "answerText": " Aluksi erittäin nopeasti, mutta lopuksi tasaisella nopeudella."}]},
   
     {"question": "Värisokeuden, tai oikeammalta termiltään väriheikkouden, aiheuttaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Silmässä olevan linssin kudoksen vioittuminen."},
-      {"answerCorrectness": "incorrect", "answerText": " Verkkokalvon väriherkkien tappisolujen rakenteen vioittuminen."},
+      {"answerCorrectness": "correct", "answerText": " Verkkokalvon väriherkkien tappisolujen rakenteen vioittuminen."},
       {"answerCorrectness": "incorrect", "answerText": " Kiliaarilihaksen viallinen toiminta."},
       {"answerCorrectness": "incorrect", "answerText": " Lyhentynyt silmämuna."}]},
   
@@ -171,17 +171,17 @@
       {"answerCorrectness": "incorrect", "answerText": " Huonosti istuvat silmälasit."},
       {"answerCorrectness": "incorrect", "answerText": " Stressi."},
       {"answerCorrectness": "incorrect", "answerText": " Silmän rasitus."},
-      {"answerCorrectness": "incorrect", "answerText": " Epämuodostunut silmämuna."}]},
+      {"answerCorrectness": "correct", "answerText": " Epämuodostunut silmämuna."}]},
   
     {"question": "Kaukotaittoisuuden aiheuttaa _____ silmämuna, joka on korjattavissa _____.Likitaittoisuuden aiheuttaa _____ silmämuna, joka on korjattavissa _____.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pidentynyt / kuperalla linssillä / lyhentynyt / koveralla linssillä."},
-      {"answerCorrectness": "incorrect", "answerText": " Lyhentynyt / kuperalla linssillä / pidentynyt / koveralla linssillä."},
+      {"answerCorrectness": "correct", "answerText": " Lyhentynyt / kuperalla linssillä / pidentynyt / koveralla linssillä."},
       {"answerCorrectness": "incorrect", "answerText": " Lyhentynyt / koveralla linssillä / pidentynyt / kuperalla linssillä."},
       {"answerCorrectness": "incorrect", "answerText": " Pidentynyt / koveralla linssillä / lyhentynyt / kuperalla linssillä."}]},
   
     {"question": "Mikä seuraavista elimistä on kaikkein luotettavin yksittäinen aistitiedonlähde?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Aivokuori."},
-      {"answerCorrectness": "incorrect", "answerText": " Silmä."},
+      {"answerCorrectness": "correct", "answerText": " Silmä."},
       {"answerCorrectness": "incorrect", "answerText": " Nenä."},
       {"answerCorrectness": "incorrect", "answerText": " Korva."}]},
   
@@ -189,89 +189,89 @@
       {"answerCorrectness": "incorrect", "answerText": " Sauvasolut."},
       {"answerCorrectness": "incorrect", "answerText": " Keskuskuoppa."},
       {"answerCorrectness": "incorrect", "answerText": " Tappisolut."},
-      {"answerCorrectness": "incorrect", "answerText": " Verkkokalvo."}]},
+      {"answerCorrectness": "correct", "answerText": " Verkkokalvo."}]},
   
     {"question": "Likinäköisyys on tila, jossa silmä pyrkii luonnostaan tarkentamaan:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Noin 20 - 500 metrin etäisyydelle."},
       {"answerCorrectness": "incorrect", "answerText": " Äärettömyyteen."},
       {"answerCorrectness": "incorrect", "answerText": " Horisonttiin."},
-      {"answerCorrectness": "incorrect", "answerText": " Noin 1 - 2 metrin etäisyydelle."}]},
+      {"answerCorrectness": "correct", "answerText": " Noin 1 - 2 metrin etäisyydelle."}]},
   
     {"question": "Yöllä on helpompi tarkkailla kohdetta, jos:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Katsot suoraan kohdetta samalla kun pidät silmiäsi niin auki kuin mahdollista."},
-      {"answerCorrectness": "incorrect", "answerText": " Katsot kohteen yhdelle reunalle."},
+      {"answerCorrectness": "correct", "answerText": " Katsot kohteen yhdelle reunalle."},
       {"answerCorrectness": "incorrect", "answerText": " Katsot suoraan kohdetta."},
       {"answerCorrectness": "incorrect", "answerText": " Katsot noin 50 astetta kohteen jommallekummalle puolelle."}]},
   
-    {"question": "Vähentääkseen yhteentörmäyksen vaaraa lentokoneeseen, joka saattaa ollalentäjän kuolleessa kulmassa ja lähestyen samalla suhteellisella suuntimalla,lentäjän tulee:", "answers": [
+    {"question": "Vähentääkseen yhteentörmäyksen vaaraa lentokoneeseen, joka saattaa olla lentäjän kuolleessa kulmassa ja lähestyen samalla suhteellisella suuntimalla, lentäjän tulee:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vaihtaa ohjaussuuntaa muutamalla asteella joka kymmenes minuutti."},
       {"answerCorrectness": "incorrect", "answerText": " Kallistaa konetta oikealta vasemmalle muutamia asteita joka kymmenes minuutti."},
-      {"answerCorrectness": "incorrect", "answerText": " Katsella ulos systemaattisesti kaiken aikaa."},
+      {"answerCorrectness": "correct", "answerText": " Katsella ulos systemaattisesti kaiken aikaa."},
       {"answerCorrectness": "incorrect", "answerText": " Suorittaa määrätyin väliajoin tarkistuskaartoja."}]},
   
     {"question": "Missä sijaitsee sokea täplä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Mykiössä."},
       {"answerCorrectness": "incorrect", "answerText": " Iiriksessä."},
       {"answerCorrectness": "incorrect", "answerText": " Keskuskuopassa."},
-      {"answerCorrectness": "incorrect", "answerText": " Kohdassa, jossa verkkokalvo ja näköhermo yhdistyvät."}]},
+      {"answerCorrectness": "correct", "answerText": " Kohdassa, jossa verkkokalvo ja näköhermo yhdistyvät."}]},
   
-    {"question": "Akkommodaatio eli linssin voimakkuus mukauttaa valon säteet lähellä olevistakohteista tarkannäkemisen keskukseen. Akkommodaatiota säätelee:", "answers": [
+    {"question": "Akkommodaatio eli linssin voimakkuus mukauttaa valon säteet lähellä olevista kohteista tarkannäkemisen keskukseen. Akkommodaatiota säätelee:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Verkkokalvo."},
       {"answerCorrectness": "incorrect", "answerText": " Värikalvo (Iris)."},
       {"answerCorrectness": "incorrect", "answerText": " Tappi- ja sauvasolut."},
-      {"answerCorrectness": "incorrect", "answerText": " Kiliaarilihas."}]},
+      {"answerCorrectness": "correct", "answerText": " Kiliaarilihas."}]},
   
     {"question": "Yöadaptaatioon kuluu noin ___ sauvasoluilta ja ___ tappisoluilta.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 15 minuuttia/20 minuuttia"},
       {"answerCorrectness": "incorrect", "answerText": " 7 minuuttia/30 minuuttia"},
       {"answerCorrectness": "incorrect", "answerText": " 25 minuuttia/45 minuuttia"},
-      {"answerCorrectness": "incorrect", "answerText": " 30 minuuttia/7 minuuttia"}]},
+      {"answerCorrectness": "correct", "answerText": " 30 minuuttia/7 minuuttia"}]},
   
     {"question": "Akkommodaation tehokkuus silmässä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ei ole riippuvainen linssin elastisuudesta."},
-      {"answerCorrectness": "incorrect", "answerText": " Heikkenee, kun linssin elastisuus vähenee."},
+      {"answerCorrectness": "correct", "answerText": " Heikkenee, kun linssin elastisuus vähenee."},
       {"answerCorrectness": "incorrect", "answerText": " Ei liity mitenkään linssiin (mykiöön)."},
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa, kun linssin elastisuus vähenee."}]},
   
     {"question": "Yksinlennolla olevan lentäjän, joka epäilee menettäneensä asentotajunsa, tulee:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Räpyttää silmiään useita kertoja."},
-      {"answerCorrectness": "incorrect", "answerText": " Luottaa mittarinäyttämiin."},
+      {"answerCorrectness": "correct", "answerText": " Luottaa mittarinäyttämiin."},
       {"answerCorrectness": "incorrect", "answerText": " Luottaa asentoaistimuksiinsa."},
       {"answerCorrectness": "incorrect", "answerText": " Nielaista kovaa, nipistää sieraimista ja puhaltaa nenän kautta, jotta Eustachin putki(korvatorvi) aukeaisi."}]},
   
     {"question": "Mitä on melun aiheuttama huonokuuloisuus?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kuulon menettäminen tasapainoelimen vaurion vuoksi."},
       {"answerCorrectness": "incorrect", "answerText": " Kuulon menettäminen kuuloluiden vaurion vuoksi."},
-      {"answerCorrectness": "incorrect", "answerText": " Kuulon menettäminen kuuloelimen simpukan vaurion vuoksi."},
+      {"answerCorrectness": "correct", "answerText": " Kuulon menettäminen kuuloelimen simpukan vaurion vuoksi."},
       {"answerCorrectness": "incorrect", "answerText": " Kuulon menettäminen keskikorvan vaurion vuoksi."}]},
   
     {"question": "Milloin lentäjä voi kokea \"nojaamisharhan\"?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Nousussa."},
       {"answerCorrectness": "incorrect", "answerText": " Liu'ussa."},
-      {"answerCorrectness": "incorrect", "answerText": " Sekä nousussa, että liu'ussa."},
+      {"answerCorrectness": "correct", "answerText": " Sekä nousussa, että liu'ussa."},
       {"answerCorrectness": "incorrect", "answerText": " Kaikissa lentotiloissa."}]},
   
     {"question": "Mikä on tärkein aisti asentotajun kannalta?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kuuloaisti ja tasapainoaisti."},
       {"answerCorrectness": "incorrect", "answerText": " Istuinpaikka-aisti (\"perstunto\")."},
-      {"answerCorrectness": "incorrect", "answerText": " Näköaisti."},
+      {"answerCorrectness": "correct", "answerText": " Näköaisti."},
       {"answerCorrectness": "incorrect", "answerText": " Kaikilla aisteilla on oma roolinsa tilannetietoisuuden kannalta."}]},
   
-    {"question": "Mihin seuraavista lentäjän tulisi ensisijaisesti turvautua, jos hän menettääasentotajunsa näkölentosääolosuhteissa (VMC)?", "answers": [
+    {"question": "Mihin seuraavista lentäjän tulisi ensisijaisesti turvautua, jos hän menettää asentotajunsa näkölentosääolosuhteissa (VMC)?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pään kääntämiseen palautuakseen asentotajun menetyksestä."},
       {"answerCorrectness": "incorrect", "answerText": " Tasapainoaistiin."},
-      {"answerCorrectness": "incorrect", "answerText": " Näköaistiin."},
+      {"answerCorrectness": "correct", "answerText": " Näköaistiin."},
       {"answerCorrectness": "incorrect", "answerText": " Lentokoneen mittareihin."}]},
   
     {"question": "Mitkä tekijät vaikuttavat melun aiheuttamaan huonokuuloisuuteen?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Yli 100 desibelin ylittävän melun kesto."},
-      {"answerCorrectness": "incorrect", "answerText": " Yli 90 desibelin ylittävän melun voimakkuus ja kesto."},
+      {"answerCorrectness": "correct", "answerText": " Yli 90 desibelin ylittävän melun voimakkuus ja kesto."},
       {"answerCorrectness": "incorrect", "answerText": " Yli 110 desibelin ylittävän melun kesto."},
       {"answerCorrectness": "incorrect", "answerText": " Yli 100 desibelin ylittävän melun voimakkuus ja kesto."}]},
   
     {"question": "Taajuusalue, jonka terve nuori ihminen voi kuulla on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 500 - 15.000 sykliä sekunnissa."},
-      {"answerCorrectness": "incorrect", "answerText": " 20 - 20.000 sykliä sekunnissa."},
+      {"answerCorrectness": "correct", "answerText": " 20 - 20.000 sykliä sekunnissa."},
       {"answerCorrectness": "incorrect", "answerText": " 80 - 20.000 sykliä sekunnissa."},
       {"answerCorrectness": "incorrect", "answerText": " 70 - 15.000 sykliä sekunnissa."}]},
   
@@ -279,34 +279,34 @@
       {"answerCorrectness": "incorrect", "answerText": " Tasata ympäristön ilmanpaine tärykalvosta keskikorvan puolelle."},
       {"answerCorrectness": "incorrect", "answerText": " Päästää ääniaallot keskikorvan kautta kuulohermoon."},
       {"answerCorrectness": "incorrect", "answerText": " Tasata ympäristön ilmanpaine molemmille puolille tasapainoelintä."},
-      {"answerCorrectness": "incorrect", "answerText": " Tasata ympäristön ilmanpaine molemmille puolille tärykalvoa."}]},
+      {"answerCorrectness": "correct", "answerText": " Tasata ympäristön ilmanpaine molemmille puolille tärykalvoa."}]},
   
     {"question": "Yksi tärkeimmistä osatekijöistä matkapahoinvoinnin laukeamisen kannalta on?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Suuria G-voimia sisältävien liikkeiden suorittaminen."},
       {"answerCorrectness": "incorrect", "answerText": " Sakkaaminen."},
-      {"answerCorrectness": "incorrect", "answerText": " Epäsuhta visuaalisen näkemisen ja tasapainoelimen aistien välillä."},
+      {"answerCorrectness": "correct", "answerText": " Epäsuhta visuaalisen näkemisen ja tasapainoelimen aistien välillä."},
       {"answerCorrectness": "incorrect", "answerText": " Nopeat kallistukset kaartoon lähdettäessä."}]},
   
-    {"question": "Suoran vaakalennon aikana suoritettu suoraviivainen kiihdytys saattaa aiheuttaatuntemuksen, että koneen nokka nousee ylös. Tällaisessa tilanteessa lentäjänpitää:", "answers": [
+    {"question": "Suoran vaakalennon aikana suoritettu suoraviivainen kiihdytys saattaa aiheuttaa tuntemuksen, että koneen nokka nousee ylös. Tällaisessa tilanteessa lentäjän pitää:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Luottaa tasapainoelimeen säilyttääkseen asentonsa."},
       {"answerCorrectness": "incorrect", "answerText": " Korjata nokan asennonmuutos työntämällä ohjaussauvaa hieman eteenpäin."},
       {"answerCorrectness": "incorrect", "answerText": " Luottaa \"perstuntoon\" ja tehdä sen avulla tarvittavat korjaukset."},
-      {"answerCorrectness": "incorrect", "answerText": " Olla välittämättä tasapainoelimen tuntemuksista ja luottaa mittarinäyttämiin."}]},
+      {"answerCorrectness": "correct", "answerText": " Olla välittämättä tasapainoelimen tuntemuksista ja luottaa mittarinäyttämiin."}]},
   
     {"question": "Äänenvoimakkuutta mittaava suure on?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Desibeli."},
+      {"answerCorrectness": "correct", "answerText": " Desibeli."},
       {"answerCorrectness": "incorrect", "answerText": " Pascal."},
       {"answerCorrectness": "incorrect", "answerText": " Hertsi."},
       {"answerCorrectness": "incorrect", "answerText": " Kierros/sekunti."}]},
   
-    {"question": "Mihin seuraavista lentäjän tulee pääasiassa turvautua, jos hän menettääasentotajunsa lentäessään mittarilento-olosuhteissa (IMC)?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen mittareihin."},
+    {"question": "Mihin seuraavista lentäjän tulee pääasiassa turvautua, jos hän menettää asentotajunsa lentäessään mittarilento-olosuhteissa (IMC)?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Ilma-aluksen mittareihin."},
       {"answerCorrectness": "incorrect", "answerText": " Ulkoisiin näköreferensseihin."},
       {"answerCorrectness": "incorrect", "answerText": " Tasapainon tuntemukseen."},
       {"answerCorrectness": "incorrect", "answerText": " Päänkääntämiseen, palauttaakseen asentotajunsa."}]},
   
     {"question": "Tasapainoelin havaitsee ______ -kiihtyvyyksiä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kulma- ja suoraviivaisia."},
+      {"answerCorrectness": "correct", "answerText": " Kulma- ja suoraviivaisia."},
       {"answerCorrectness": "incorrect", "answerText": " Positiivisia G-voima."},
       {"answerCorrectness": "incorrect", "answerText": " Suoraviivaisia."},
       {"answerCorrectness": "incorrect", "answerText": " Kulma-."}]},
@@ -315,29 +315,29 @@
       {"answerCorrectness": "incorrect", "answerText": " Ilma-alus on nousussa ja kaartaa."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-alus kaartaa."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen nokka laskee."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen nokka nousee."}]},
+      {"answerCorrectness": "correct", "answerText": " Ilma-aluksen nokka nousee."}]},
   
     {"question": "Jos Eustachin putkesi (korvatorvi) on tukossa, etkä pysty avaamaan korviasi,toimit seuraavasti:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Jätät lentämättä kunnes Eustachin putken (korvatorven) tukos on auennut."},
+      {"answerCorrectness": "correct", "answerText": " Jätät lentämättä kunnes Eustachin putken (korvatorven) tukos on auennut."},
       {"answerCorrectness": "incorrect", "answerText": " Aukaiset nenäsi nenäsumutteella ennen lentoa."},
       {"answerCorrectness": "incorrect", "answerText": " Lennät ainoastaan matkustajana."},
       {"answerCorrectness": "incorrect", "answerText": " Jatkat lentoasi, mutta sinun tulee niellä voimakkaasti ja usein."}]},
   
-    {"question": "Lennon aikana ilmanpaineen muutokset voivat saada kehon onteloihin jääneenilman supistumaan ja laajentumaan. Tähän tilaan joutumista kutsutaan nimelläbarotrauma ja sillä on vaikutusta:", "answers": [
+    {"question": "Lennon aikana ilmanpaineen muutokset voivat saada kehon onteloihin jääneen ilman supistumaan ja laajentumaan. Tähän tilaan joutumista kutsutaan nimellä barotrauma ja sillä on vaikutusta:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Hampaisiin."},
       {"answerCorrectness": "incorrect", "answerText": " Nenän sivuonteloihin."},
-      {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
+      {"answerCorrectness": "correct", "answerText": " Kaikki vastaukset ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Keskikorvaan."}]},
   
-    {"question": "Paras ennaltaehkäisevä keino välttää stroboskooppi-ilmiö, kun henkilöllähavaitaan sen oireita?", "answers": [
+    {"question": "Paras ennaltaehkäisevä keino välttää stroboskooppi-ilmiö, kun henkilöllä havaitaan sen oireita?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Annetaan henkilölle jokin tehtävä, jotta hän kiinnittäisi huomionsa muualle."},
-      {"answerCorrectness": "incorrect", "answerText": " Sijoittaa henkilö varjoon ja saada hänet sulkemaan silmänsä."},
+      {"answerCorrectness": "correct", "answerText": " Sijoittaa henkilö varjoon ja saada hänet sulkemaan silmänsä."},
       {"answerCorrectness": "incorrect", "answerText": " Sijoittaa henkilö aurinkoiseen paikkaan."},
       {"answerCorrectness": "incorrect", "answerText": " Ei tarvita toimenpiteitä, sillä oireet kestävät vain lyhyen aikaa."}]},
   
     {"question": "Onko lääkekuurin aikana suositeltua lähteä lentämään ilma-alusta?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kyllä, kunhan kyseessä ei ole reseptilääkkeet."},
-      {"answerCorrectness": "incorrect", "answerText": " Ei, ellei ole ilmailulääketieteen asiantuntijan hyväksyntää."},
+      {"answerCorrectness": "correct", "answerText": " Ei, ellei ole ilmailulääketieteen asiantuntijan hyväksyntää."},
       {"answerCorrectness": "incorrect", "answerText": " Ei, koskaan ei ole soveliasta lentää lääkkeiden käytön aikana."},
       {"answerCorrectness": "incorrect", "answerText": " Kyllä, kunhan kyseessä on antibiootit, sillä niillä ei ole sivuvaikutuksia."}]},
   
@@ -345,28 +345,28 @@
       {"answerCorrectness": "incorrect", "answerText": " Huonokuuloisuus, joka on aiheutunut aistisolujen vähitellen rappeutuessa(presbyacusis)."},
       {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen maksimikuormituskerroin."},
-      {"answerCorrectness": "incorrect", "answerText": " Lentäjän väsymys."}]},
+      {"answerCorrectness": "correct", "answerText": " Lentäjän väsymys."}]},
   
     {"question": "Paikallispuudutuksen jälkeen lentäjän pitäisi odottaa vähintään _____ ennenlentämistä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 12 tuntia."},
+      {"answerCorrectness": "correct", "answerText": " 12 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 48 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 2 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 24 tuntia."}]},
   
-    {"question": "Olet varannut ilma-aluksen lentoasi varten, mutta olet hieman flunssainen jakärsit lievästä nenän ja sivuonteloiden tukkoisuudesta. Miten toimit asiansuhteen?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Jätät lennon lentämättä."},
+    {"question": "Olet varannut ilma-aluksen lentoasi varten, mutta olet hieman flunssainen ja kärsit lievästä nenän ja sivuonteloiden tukkoisuudesta. Miten toimit asian suhteen?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Jätät lennon lentämättä."},
       {"answerCorrectness": "incorrect", "answerText": " Lennät ihan normaalisti."},
       {"answerCorrectness": "incorrect", "answerText": " Lennät, mutta ainoastaan pienillä pystynopeuksilla noustessa ja laskeutuessa."},
       {"answerCorrectness": "incorrect", "answerText": " Otat tukoksen avaavaa lääkettä 1/2 tuntia ennen lentoa."}]},
   
     {"question": "Kuinka kauan lentäjän tulisi odottaa yleisanestesian jälkeen ennen lentämistä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 2 tuntia."},
-      {"answerCorrectness": "incorrect", "answerText": " 48 tuntia."},
+      {"answerCorrectness": "correct", "answerText": " 48 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 24 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 12 tuntia."}]},
   
     {"question": "Mikä seuraavista voi aiheuttaa pyörtymistä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Yllättävä/äkillinen järkytys."},
+      {"answerCorrectness": "correct", "answerText": " Yllättävä/äkillinen järkytys."},
       {"answerCorrectness": "incorrect", "answerText": " Liian huolellinen lennonsuunnittelu."},
       {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Liian nopea silmien liikuttelu."}]},
@@ -374,17 +374,17 @@
     {"question": "Verrattuna visuaalisiin ärsykkeisiin, kuuloärsykkeet (äänet):", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kiinnittävät helpommin huomiota ja aiheuttavat helpommin virheellisiä toimintoja."},
       {"answerCorrectness": "incorrect", "answerText": " Eivät kiinnitä niin helpolla huomiota, mutta aiheuttavat helpommin virheellisiä toimintoja."},
-      {"answerCorrectness": "incorrect", "answerText": " Kiinnittävät helpommin huomiota ja eivät johda virheellisiin toimenpiteisiin niin helposti."},
+      {"answerCorrectness": "correct", "answerText": " Kiinnittävät helpommin huomiota ja eivät johda virheellisiin toimenpiteisiin niin helposti."},
       {"answerCorrectness": "incorrect", "answerText": " Eivät kiinnitä niin helpolla huomiota eivätkä johda virheellisiin toimenpiteisiin niin helposti."}]},
   
     {"question": "Lentäjä lähestyy kiitotietä, joka on paljon isompi kuin hänen kotikentällään olevakiitotie. Mikä vaikutus tällä seikalla on lentäjän havainnointiin tilanteessa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kiitotie näyttää olevan kauempana kuin se oikeasti on."},
-      {"answerCorrectness": "incorrect", "answerText": " Kiitotie näyttää olevan lähempänä kuin se oikeasti on."},
+      {"answerCorrectness": "correct", "answerText": " Kiitotie näyttää olevan lähempänä kuin se oikeasti on."},
       {"answerCorrectness": "incorrect", "answerText": " Lähestymisessä tulisi käyttää erilaista liukukulmaa."},
       {"answerCorrectness": "incorrect", "answerText": " Etäisyydet on helppo arvioida."}]},
   
     {"question": "Termi, jota käytetään oikeiden aistimusten väärintulkinnasta, on?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kangastus."},
+      {"answerCorrectness": "correct", "answerText": " Kangastus."},
       {"answerCorrectness": "incorrect", "answerText": " Hallusinaatio."},
       {"answerCorrectness": "incorrect", "answerText": " Ikävystyminen."},
       {"answerCorrectness": "incorrect", "answerText": " Unelmointi."}]},
@@ -393,208 +393,208 @@
       {"answerCorrectness": "incorrect", "answerText": " Kehottaminen."},
       {"answerCorrectness": "incorrect", "answerText": " Summaaminen."},
       {"answerCorrectness": "incorrect", "answerText": " Muisti-induktio."},
-      {"answerCorrectness": "incorrect", "answerText": " Harjoittelu."}]},
+      {"answerCorrectness": "correct", "answerText": " Harjoittelu."}]},
   
     {"question": "Montako yksikköä ja kuinka kauan lyhytaikainen muistimme pystyy pitämään?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 15 yksikköä, 1-5 minuuttia"},
       {"answerCorrectness": "incorrect", "answerText": " 7 yksikköä, 5-10 minuuttia"},
       {"answerCorrectness": "incorrect", "answerText": " 4 yksikköä, 15 sekuntia"},
-      {"answerCorrectness": "incorrect", "answerText": " 7 yksikköä, 10-20 sekuntia"}]},
+      {"answerCorrectness": "correct", "answerText": " 7 yksikköä, 10-20 sekuntia"}]},
   
-    {"question": "Jos lentäjä on tottunut lentämään suhteellisen saastuneessa ja utuisessaympäristössä ja tämän jälkeen hän lentää hyvin kirkkaassa ja selkeässäympäristössä:", "answers": [
+    {"question": "Jos lentäjä on tottunut lentämään suhteellisen saastuneessa ja utuisessa ympäristössä ja tämän jälkeen hän lentää hyvin kirkkaassa ja selkeässä ympäristössä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lentäjä saattaa sekoittaa lähellä olevat kohteet kaukana oleviin."},
       {"answerCorrectness": "incorrect", "answerText": " Kaukaiset kohteet saattavat näyttää olevan kauempana kuin oikeasti ovat."},
       {"answerCorrectness": "incorrect", "answerText": " Kaukaiset kohteet saattavat näyttää olevan lähempänä kuin oikeasti ovat."},
-      {"answerCorrectness": "incorrect", "answerText": " Lähellä olevat kohteet saattavat näyttää olevan kauempana kuin ne oikeasti ovat."}]},
+      {"answerCorrectness": "correct", "answerText": " Lähellä olevat kohteet saattavat näyttää olevan kauempana kuin ne oikeasti ovat."}]},
   
-    {"question": "Valitse seuraavista oikeassa järjestyksessä olevat tiedonkäsittelyprosessin osaalueet:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Havainnointi, tiedon käsittely, päätöksenteko, toiminta, palaute."},
+    {"question": "Valitse seuraavista oikeassa järjestyksessä olevat tiedonkäsittely prosessin osaalueet:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Havainnointi, tiedon käsittely, päätöksenteko, toiminta, palaute."},
       {"answerCorrectness": "incorrect", "answerText": " Havainnointi, tiedon käsittely, päätöksenteko, palaute, toiminta."},
       {"answerCorrectness": "incorrect", "answerText": " Tiedon käsittely, toiminta, palaute, havainnointi, päätöksenteko."},
       {"answerCorrectness": "incorrect", "answerText": " Havainnointi, palaute, päätöksenteko, toiminta, tiedon käsittely."}]},
   
-    {"question": "Mikä seuraavista aiheuttaa harha-aistimuksen siitä, että ilma-alus on liianmatalalla lähestymisen aikana?", "answers": [
+    {"question": "Mikä seuraavista aiheuttaa harha-aistimuksen siitä, että ilma-alus on liian matalalla lähestymisen aikana?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Voimakkaasti valaistu lentokenttä, muuten pimeässä ympäristössä."},
       {"answerCorrectness": "incorrect", "answerText": " Kiitotie ylämäkeen."},
       {"answerCorrectness": "incorrect", "answerText": " Normaalia kapeampi kiitotie."},
-      {"answerCorrectness": "incorrect", "answerText": " Kiitotie alamäkeen."}]},
+      {"answerCorrectness": "correct", "answerText": " Kiitotie alamäkeen."}]},
   
-    {"question": "Ilma-aluksen kapteenilla tulee olla hyvät taidot johtamisen eri osa-alueilla. Mikäseuraavista ei ole sellainen?", "answers": [
+    {"question": "Ilma-aluksen kapteenilla tulee olla hyvät taidot johtamisen eri osa-alueilla. Mikä seuraavista ei ole sellainen?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Hyvän tilannetietoisuuden ylläpitäminen."},
       {"answerCorrectness": "incorrect", "answerText": " Etukäteissuunnittelu."},
       {"answerCorrectness": "incorrect", "answerText": " Taito delegoida."},
-      {"answerCorrectness": "incorrect", "answerText": " Aggressiivinen itsevarmuus."}]},
+      {"answerCorrectness": "correct", "answerText": " Aggressiivinen itsevarmuus."}]},
   
-    {"question": "Olet suunnitellut ottavasi pari kaveria mukaasi lennolle. Ajankohtana, jolloinolitte sopineet lentävänne, sääolosuhteet ovat marginaaliset ja kiitotielläpuhaltaa voimakas sivutuuli. Pätevänä riskin arvioitsijana, minkä seuraavistapäätöksistä teet?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Muutat lennon ajankohdan, siitäkin huolimatta, että ystäväsi pettyvät."},
+    {"question": "Olet suunnitellut ottavasi pari kaveria mukaasi lennolle. Ajankohtana, jolloin olitte sopineet lentävänne, sääolosuhteet ovat marginaaliset ja kiitotiellä puhaltaa voimakas sivutuuli. Pätevänä riskin arvioitsijana, minkä seuraavista päätöksistä teet?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Muutat lennon ajankohdan, siitäkin huolimatta, että ystäväsi pettyvät."},
       {"answerCorrectness": "incorrect", "answerText": " Jatkat lennon suorittamista suunnitellusti, sillä tämä on hyvä tilaisuus harjoitellalentämistä vaikeissa olosuhteissa."},
       {"answerCorrectness": "incorrect", "answerText": " Ennen kuin arvioit tilanteen itse, kysyt ystäviltäsi, että ovatko he valmiit lentämäänkyseisissä olosuhteissa."},
       {"answerCorrectness": "incorrect", "answerText": " Lennät lennon suunnitellusti, koska lentosuunnitelmassa pysyttäytyminen on ainajärkevää, jos vain suinkin pystyt."}]},
   
-    {"question": "Kun lentäjä tekee päätöksiä, onko hänen aikaisemmilla kokemuksillaanvaikutusta asiaan?", "answers": [
+    {"question": "Kun lentäjä tekee päätöksiä, onko hänen aikaisemmilla kokemuksillaan vaikutusta asiaan?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ei, jokainen päätös on itsenäinen."},
       {"answerCorrectness": "incorrect", "answerText": " Kyllä, mutta vain jos aikaisemmat kokemukset ovat olleet negatiivisia."},
-      {"answerCorrectness": "incorrect", "answerText": " Kyllä, aikaisemmat kokemukset voivat vaikuttaa päätöksentekoon."},
+      {"answerCorrectness": "correct", "answerText": " Kyllä, aikaisemmat kokemukset voivat vaikuttaa päätöksentekoon."},
       {"answerCorrectness": "incorrect", "answerText": " Kyllä, mutta vain jos aikaisemmat kokemukset ovat olleet positiivisia."}]},
   
     {"question": "Henkinen kuormittavuus (Mental Overload) yleensä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Johtaa alentuneeseen suorituskykyyn."},
+      {"answerCorrectness": "correct", "answerText": " Johtaa alentuneeseen suorituskykyyn."},
       {"answerCorrectness": "incorrect", "answerText": " Ei vaikuta suorituskykyyn."},
       {"answerCorrectness": "incorrect", "answerText": " Johtaa parempaan suorituskykyyn."},
       {"answerCorrectness": "incorrect", "answerText": " Riippuen yksilöstä, aiheuttaa muutoksia suorituskyvyn nopeudelle ja tarkkuudelle."}]},
   
-    {"question": "Olet kokematon lentäjä ja lennät hyvin kokeneen lentäjän kanssa. Huomaattämän kokeneen lentäjän tekevän jonkin toimenpiteen, jonka itse koetvaaralliseksi. Tällaisessa tilanteessa sinun tulee:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Olla välittämättä tilanteesta sillä hetkellä, mutta laskeutumisen jälkeen keskusteletlennonopettajan kanssa tällaisten toimenpiteiden oikeellisuudesta ja järkevyydestä."},
-      {"answerCorrectness": "incorrect", "answerText": " Odottaa, että hän saa toimenpiteensä suoritettua, jonka jälkeen vasta kyseenalaistathänen toimintatapansa."},
+    {"question": "Olet kokematon lentäjä ja lennät hyvin kokeneen lentäjän kanssa. Huomaat tämän kokeneen lentäjän tekevän jonkin toimenpiteen, jonka itse koet vaaralliseksi. Tällaisessa tilanteessa sinun tulee:", "answers": [
+      {"answerCorrectness": "incorrect", "answerText": " Olla välittämättä tilanteesta sillä hetkellä, mutta laskeutumisen jälkeen keskustelet lennonopettajan kanssa tällaisten toimenpiteiden oikeellisuudesta ja järkevyydestä."},
+      {"answerCorrectness": "incorrect", "answerText": " Odottaa, että hän saa toimenpiteensä suoritettua, jonka jälkeen vasta kyseenalaistat hänen toimintatapansa."},
       {"answerCorrectness": "incorrect", "answerText": " Olla välittämättä tilanteesta, sillä hän kokeneena lentäjä todennäköisesti tietää mitä ontekemässä."},
-      {"answerCorrectness": "incorrect", "answerText": " Välittömästi kyseenalaistaa hänen toimintatapansa."}]},
+      {"answerCorrectness": "correct", "answerText": " Välittömästi kyseenalaistaa hänen toimintatapansa."}]},
   
-    {"question": "Hyvin suoritettu lentoa edeltävä ohjeistus (briefaus) on tärkeää. Mikä seuraavistasaattaa olla seurauksena, jos suoritetaan ohjeistus (briefaus) huonosti?", "answers": [
+    {"question": "Hyvin suoritettu lentoa edeltävä ohjeistus (briefaus) on tärkeää. Mikä seuraavista saattaa olla seurauksena, jos suoritetaan ohjeistus (briefaus) huonosti?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Tiedon välittäminen parantuu."},
       {"answerCorrectness": "incorrect", "answerText": " Tiedot ymmärretään hyvin."},
-      {"answerCorrectness": "incorrect", "answerText": " Epätietoisuus lisääntyy."},
+      {"answerCorrectness": "correct", "answerText": " Epätietoisuus lisääntyy."},
       {"answerCorrectness": "incorrect", "answerText": " Epätietoisuus vähenee."}]},
   
-    {"question": "Täydennä seuraava lause. Soveltuvin ajankohta lentäjän suorittamallematkustajien ohjeistukselle hätätilanteissa on:", "answers": [
+    {"question": "Täydennä seuraava lause. Soveltuvin ajankohta lentäjän suorittamalle matkustajien ohjeistukselle hätätilanteissa on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Odotuspaikalla lentoonlähtöä odotellessa."},
-      {"answerCorrectness": "incorrect", "answerText": " Ennen lentoa suoritettavan turvallisuusohjeistuksen aikana."},
+      {"answerCorrectness": "correct", "answerText": " Ennen lentoa suoritettavan turvallisuusohjeistuksen aikana."},
       {"answerCorrectness": "incorrect", "answerText": " Heti lentoonlähdön jälkeen."},
       {"answerCorrectness": "incorrect", "answerText": " Hätätilanteen ilmetessä; ei ole tarvetta huolehtia hätätilanneohjeistuksista aikaisemmin."}]},
   
-    {"question": "Kaksi lentäjää, molemmilla ohjaimet ja tyyppikelpuutettuja lentämään kyseistäilma-alusta, ovat juuri aloittaneet lennon ja ilma-alukseen tulee moottorihäiriö.Kumman tulisi lentää ilma-alusta moottorihäiriön sattuessa?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lentoa edeltävässä hätätilanneohjeistuksessa (briefaus) sovitun lentäjän, kapteenin,hyväksymän menetelmän mukaisesti."},
+    {"question": "Kaksi lentäjää, molemmilla ohjaimet ja tyyppikelpuutettuja lentämään kyseistä ilma-alusta, ovat juuri aloittaneet lennon ja ilma-alukseen tulee moottorihäiriö.Kumman tulisi lentää ilma-alusta moottorihäiriön sattuessa?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Lentoa edeltävässä hätätilanneohjeistuksessa (briefaus) sovitun lentäjän, kapteenin,hyväksymän menetelmän mukaisesti."},
       {"answerCorrectness": "incorrect", "answerText": " Kokeneemman lentäjän."},
       {"answerCorrectness": "incorrect", "answerText": " Kapteenin."},
       {"answerCorrectness": "incorrect", "answerText": " Vasemmalla istuimella istuvan lentäjän."}]},
   
-    {"question": "Mikä seuraavista asenteista ja luonteenpiirteistä on huonoa kommunikointia jaerityisen vaarallisia lentämisen yhteydessä?", "answers": [
+    {"question": "Mikä seuraavista asenteista ja luonteenpiirteistä on huonoa kommunikointia ja erityisen vaarallisia lentämisen yhteydessä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vahva tunne johtajuudesta."},
       {"answerCorrectness": "incorrect", "answerText": " Toisten ihmisten mielipiteiden kunnioittaminen."},
       {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
-      {"answerCorrectness": "incorrect", "answerText": " Ylimielisyys ja aggressiivisuus."}]},
+      {"answerCorrectness": "correct", "answerText": " Ylimielisyys ja aggressiivisuus."}]},
   
     {"question": "Mikä seuraavista tavoista auttaa välttämään stressiä ohjaamossa?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Maltillinen toiminta niin, että et kiirehdi tekemään asioita ennen kuin olet siihen valmis."},
+      {"answerCorrectness": "correct", "answerText": " Maltillinen toiminta niin, että et kiirehdi tekemään asioita ennen kuin olet siihen valmis."},
       {"answerCorrectness": "incorrect", "answerText": " Muutat ennakkoon sovittua suunnitelmaan aina kun huomaat poikkeavasi siitä tai oletsuunnitelmasta jäljessä."},
       {"answerCorrectness": "incorrect", "answerText": " Pidä kylmä juoma kädessäsi jatkuvasti."},
       {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."}]},
   
     {"question": "Mitä ovat stressitekijät?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Tekijät, jotka lisäävät pulssia."},
-      {"answerCorrectness": "incorrect", "answerText": " Tapahtumat ja tilanteet, jotka aiheuttavat stressiä."},
+      {"answerCorrectness": "correct", "answerText": " Tapahtumat ja tilanteet, jotka aiheuttavat stressiä."},
       {"answerCorrectness": "incorrect", "answerText": " Henkilöstä päällepäin näkyvän stressin määrä."},
-      {"answerCorrectness": "incorrect", "answerText": " Tilanteet ja tapahtumat, jotka aiheuttavat mitä tahansa reaktioita ihmisen elimistölleasetettuihin vaatimuksiin."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Tilanteet ja tapahtumat, jotka aiheuttavat mitä tahansa reaktioita ihmisen elimistölle asetettuihin vaatimuksiin."}]},
   
-    {"question": "Minkä tyyppisen tiedon välittämisessä analoginen näyttö on yleisellä tasollaparempi kuin digitaalinen näyttö?", "answers": [
+    {"question": "Minkä tyyppisen tiedon välittämisessä analoginen näyttö on yleisellä tasolla parempi kuin digitaalinen näyttö?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Määrällisen tiedon."},
       {"answerCorrectness": "incorrect", "answerText": " Subjektiivisen tiedon."},
       {"answerCorrectness": "incorrect", "answerText": " Numeerisen tiedon."},
-      {"answerCorrectness": "incorrect", "answerText": " Laadullisen tiedon."}]},
+      {"answerCorrectness": "correct", "answerText": " Laadullisen tiedon."}]},
   
-    {"question": "Mikä seuraavista ilmenee, kun lentäjä istuu liian korkealla ohjaamossa?a) Hyvä näkyvyys ulos alaviistoonb) Huono näkyvyys mittaristoonc) Heikentynyt näkyvyys ulos yläviistoon", "answers": [
+    {"question": "Mikä seuraavista ilmenee, kun lentäjä istuu liian korkealla ohjaamossa? a) Hyvä näkyvyys ulos alaviistoon b) Huono näkyvyys mittaristoon c) Heikentynyt näkyvyys ulos yläviistoon", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " a) ja b) ainoastaan."},
       {"answerCorrectness": "incorrect", "answerText": " a) ja c) ainoastaan."},
       {"answerCorrectness": "incorrect", "answerText": " Ainoastaan a)."},
-      {"answerCorrectness": "incorrect", "answerText": " a), b) ja c)."}]},
+      {"answerCorrectness": "correct", "answerText": " a), b) ja c)."}]},
   
-    {"question": "Olet valmistelemassa koululentoa lennonopettajan kanssa ja huomaat, ettätarkistuslista on kadoksissa. Mitä teet?", "answers": [
+    {"question": "Olet valmistelemassa koululentoa lennonopettajan kanssa ja huomaat, että tarkistuslista on kadoksissa. Mitä teet?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Luotat siihen, että lennonopettaja huomauttaa kaikesta mitä sinä mahdollisesti unohdat."},
       {"answerCorrectness": "incorrect", "answerText": " Otat erityyppisestä ilma-aluksesta tarkistuslistan lainaksi."},
-      {"answerCorrectness": "incorrect", "answerText": " Etsit tarkistuslistan silläkin uhalla, että saatat menettää osan päivän lentoajastasi."},
+      {"answerCorrectness": "correct", "answerText": " Etsit tarkistuslistan silläkin uhalla, että saatat menettää osan päivän lentoajastasi."},
       {"answerCorrectness": "incorrect", "answerText": " Suoritat tarkastukset ulkomuistista."}]},
   
     {"question": "Mikäli lentäjänä tarvitset neuvoa mahdollisesta lentämisestä sairaana, otatyhteyttä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lähimpään terveyskeskukseen."},
       {"answerCorrectness": "incorrect", "answerText": " Perheen omalääkäriin."},
       {"answerCorrectness": "incorrect", "answerText": " Yleislääkäriin."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilmailulääkäriin."}]},
+      {"answerCorrectness": "correct", "answerText": " Ilmailulääkäriin."}]},
   
     {"question": "Mitkä seuraavista aina vaikuttavat lentokykyyn?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Homeopaattiset valmisteet."},
       {"answerCorrectness": "incorrect", "answerText": " Käsikaupasta saatavat kipulääkkeet ja antihistamiinit."},
       {"answerCorrectness": "incorrect", "answerText": " Antibiootit."},
-      {"answerCorrectness": "incorrect", "answerText": " Reseptillä saatavat vahvat kipulääkkeet ja antihistamiinit."}]},
+      {"answerCorrectness": "correct", "answerText": " Reseptillä saatavat vahvat kipulääkkeet ja antihistamiinit."}]},
   
-    {"question": "Kun lentäjä lentää pitkiä aikoja kuuman kesäpäivän aikana, hän saattaa altistuanestehukkaan, koska:", "answers": [
+    {"question": "Kun lentäjä lentää pitkiä aikoja kuuman kesäpäivän aikana, hän saattaa altistua nestehukkaan, koska:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lentokorkeuksilla kostea ilma auttaa säilyttämään kehon nestetasapainon."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila pienenee noustaessa korkeammalle."},
-      {"answerCorrectness": "incorrect", "answerText": " Lentokorkeuksissa lennettäessä kuivalla ilmalla on taipumus lisätä nesteen häviämistäkehosta."},
+      {"answerCorrectness": "correct", "answerText": " Lentokorkeuksissa lennettäessä kuivalla ilmalla on taipumus lisätä nesteen häviämistä kehosta."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila kasvaa noustaessa korkeammalle."}]},
   
     {"question": "Matkapahoinvoinnin aiheuttaa:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Sisäkorvan tasapainosta vastaavien pienten osien jatkuva ärsytys (stimulointi)."},
+      {"answerCorrectness": "correct", "answerText": " Sisäkorvan tasapainosta vastaavien pienten osien jatkuva ärsytys (stimulointi)."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen liikehdintä, joka saa vatsan kehittämään hapanta ainetta, josta aiheutuuvatsaontelon supistelua."},
       {"answerCorrectness": "incorrect", "answerText": " Epätasapaino aivosoluissa, jolla on vaikutusta henkilön tasapainoon ja mikä yleensäheikkenee kokemuksen myötä."},
       {"answerCorrectness": "incorrect", "answerText": " Silmien työskentely, yrittäessään hallita/jakaa horisonttia, kun ilma-alus on jatkuvassaliikkeessä."}]},
   
-    {"question": "Minkä olotilaa parantavan keinon voisit kertoa ystävällesi, jolla onmatkapahoinvointia?", "answers": [
+    {"question": "Minkä olotilaa parantavan keinon voisit kertoa ystävällesi, jolla on matkapahoinvointia?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Laske pääsi alaspäin, sulje silmäsi ja hengitä syvään."},
-      {"answerCorrectness": "incorrect", "answerText": " Vältä tarpeetonta pään liikuttamista ja pidä katseesi ilma-aluksen ulkopuolella."},
+      {"answerCorrectness": "correct", "answerText": " Vältä tarpeetonta pään liikuttamista ja pidä katseesi ilma-aluksen ulkopuolella."},
       {"answerCorrectness": "incorrect", "answerText": " Ota matkapahoinvointiin soveltuvaa lääkettä."},
       {"answerCorrectness": "incorrect", "answerText": " Hengitä paperipussiin."}]},
   
-    {"question": "Lennettäessä korkealla paineistamattomalla ilma-aluksella, keuhkojen kauttavereen siirtyvän hapen määrä:", "answers": [
+    {"question": "Lennettäessä korkealla paineistamattomalla ilma-aluksella, keuhkojen kautta vereen siirtyvän hapen määrä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " On vähentynyt pienemmän lämpötilan vuoksi."},
       {"answerCorrectness": "incorrect", "answerText": " On lisääntynyt, koska hapen osapaine on suurentunut."},
       {"answerCorrectness": "incorrect", "answerText": " Pysyy samana verrattuna merenpintatasoon."},
-      {"answerCorrectness": "incorrect", "answerText": " On vähentynyt, koska hapen osapaine on pienentynyt."}]},
+      {"answerCorrectness": "correct", "answerText": " On vähentynyt, koska hapen osapaine on pienentynyt."}]},
   
-    {"question": "Nousulennon aikana 18,000 jalan korkeuteen, hapen prosenttiosuusympäröivässä ilmakehässä:", "answers": [
+    {"question": "Nousulennon aikana 18,000 jalan korkeuteen, hapen prosenttiosuus ympäröivässä ilmakehässä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
-      {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."},
+      {"answerCorrectness": "correct", "answerText": " Pysyy samana."},
       {"answerCorrectness": "incorrect", "answerText": " Räjähtää."},
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa."}]},
   
     {"question": "Hypoksia on seurausta:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Liiallinen typen määrä verenkierrossa."},
       {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
-      {"answerCorrectness": "incorrect", "answerText": " Hapen puutteesta kehossa."},
+      {"answerCorrectness": "correct", "answerText": " Hapen puutteesta kehossa."},
       {"answerCorrectness": "incorrect", "answerText": " Riittämätön määrä happea ilmassa."}]},
   
     {"question": "Puhuttaessa hypoksiasta, mikä seuraavista on totta?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Keskittymällä tietoisesti lennonvalvontamittareihin voidaan sietää hypoksian oireita."},
-      {"answerCorrectness": "incorrect", "answerText": " Ihon kihelmöinti ja yleinen huolettomuus ovat hypoksian oireita."},
+      {"answerCorrectness": "correct", "answerText": " Ihon kihelmöinti ja yleinen huolettomuus ovat hypoksian oireita."},
       {"answerCorrectness": "incorrect", "answerText": " Hypoksian aiheuttaa typpikuplat nivelissä ja verenkierrossa."},
       {"answerCorrectness": "incorrect", "answerText": " Hypoksia on aina helppo havaita."}]},
   
-    {"question": "Mitä aiheutuu, kun noustaan yli 18,000 jalan korkeuteen paineistamattomallailma-aluksella ilman lisähappea?", "answers": [
+    {"question": "Mitä aiheutuu, kun noustaan yli 18,000 jalan korkeuteen paineistamattomalla ilma-aluksella ilman lisähappea?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Keskikorvassa oleva paine laskee alle sen ilmanpaineen, joka vallitsee matkustamossa."},
-      {"answerCorrectness": "incorrect", "answerText": " Hapen osapainetta keuhkoissa ei pystytä säilyttämään ilman hapen paineen lisäystä."},
+      {"answerCorrectness": "correct", "answerText": " Hapen osapainetta keuhkoissa ei pystytä säilyttämään ilman hapen paineen lisäystä."},
       {"answerCorrectness": "incorrect", "answerText": " Kaasut jäävät kehoon loukkuun ja näin ollen estävät typpeä poistumasta verenkierrosta."},
       {"answerCorrectness": "incorrect", "answerText": " Hapen osapaine keuhkoissa pysyy samana."}]},
   
     {"question": "Vaara altistua häkämyrkytykselle kasvaa:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Korkeuden kasvaessa."},
+      {"answerCorrectness": "correct", "answerText": " Korkeuden kasvaessa."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmanopeuden kasvaessa."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeuden pienentyessä."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaineen kasvaessa."}]},
   
     {"question": "Ilma-aluksen matkustamossa esiintyvä häkä on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Helppo havaita, koska sillä on erikoinen haju."},
-      {"answerCorrectness": "incorrect", "answerText": " Vaikea havaita, koska häkä on hajuton ja väritön."},
+      {"answerCorrectness": "correct", "answerText": " Vaikea havaita, koska häkä on hajuton ja väritön."},
       {"answerCorrectness": "incorrect", "answerText": " Helpompi havaita lennettäessä yli 18,000 jalan korkeudella, koska hapen määräpienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Helppo havaita, koska sillä on erikoinen väri."}]},
   
     {"question": "Suuri määrä hiilimonoksidia ihmiskehossa aiheuttaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lihasvoimien heikkenemisen."},
       {"answerCorrectness": "incorrect", "answerText": " Lisääntynyttä hyvän olon tunnetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Kiristävän tunteen otsalla."},
+      {"answerCorrectness": "correct", "answerText": " Kiristävän tunteen otsalla."},
       {"answerCorrectness": "incorrect", "answerText": " Hyperventilaatiota."}]},
   
     {"question": "Mitä seuraavista tupakointi aiheuttaa lentäjille?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Yönäkökyky heikentyy 50 prosentilla."},
+      {"answerCorrectness": "correct", "answerText": " Yönäkökyky heikentyy 50 prosentilla."},
       {"answerCorrectness": "incorrect", "answerText": " Kohonneen ruumiinlämpötilan, mikä vuorostaan aiheuttaa tarpeen hengittää lisäähappea."},
       {"answerCorrectness": "incorrect", "answerText": " Lisääntynyt hyvänolontunne."},
       {"answerCorrectness": "incorrect", "answerText": " Lisääntynyt hiilidioksidin määrä kehossa, mikä usein johtaa hyperventilaatioon."}]},
   
     {"question": "Mikä seuraavista todennäköisimmin aiheuttaa hyperventilaation?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ketjutupakointi."},
-      {"answerCorrectness": "incorrect", "answerText": " Tunnejännitteet, ahdistus ja pelko."},
+      {"answerCorrectness": "correct", "answerText": " Tunnejännitteet, ahdistus ja pelko."},
       {"answerCorrectness": "incorrect", "answerText": " Liiallinen alkoholin käyttö."},
       {"answerCorrectness": "incorrect", "answerText": " Äärimmäisen hidas hengitystiheys ja vähäinen hapen määrä."}]},
   
     {"question": "Käytettäessä happea nopea tai erityisen syvään hengittäminen saattaa aiheuttaa:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Hyperventilaation."},
+      {"answerCorrectness": "correct", "answerText": " Hyperventilaation."},
       {"answerCorrectness": "incorrect", "answerText": " Barosinusiitin."},
       {"answerCorrectness": "incorrect", "answerText": " Barotiitin."},
       {"answerCorrectness": "incorrect", "answerText": " Hypoksian."}]},
@@ -602,17 +602,17 @@
     {"question": "Hyperventilaation aiheuttaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Liian korkealla lentäminen ilman lisähappea."},
       {"answerCorrectness": "incorrect", "answerText": " Liiallinen määrä hiilidioksidia kehossa."},
-      {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidin puute kehossa."},
+      {"answerCorrectness": "correct", "answerText": " Hiilidioksidin puute kehossa."},
       {"answerCorrectness": "incorrect", "answerText": " Liian nopea hengittäminen, joka aiheuttaa hapen puutteen."}]},
   
-    {"question": "Millä keino(i)lla lentäjän pitäisi pystyä selättämään tai välttämään jatkossahyperventilaatiota?", "answers": [
+    {"question": "Millä keino(i)lla lentäjän pitäisi pystyä selättämään tai välttämään jatkossa hyperventilaatiota?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Hengitystiheyden lisääminen, jotta keuhkojen ilmanvaihto lisääntyisi."},
       {"answerCorrectness": "incorrect", "answerText": " Lentokoneen hallinta lennonvalvontamittareita läheltä seuraamalla."},
       {"answerCorrectness": "incorrect", "answerText": " Hengitystiheyden lisääminen."},
-      {"answerCorrectness": "incorrect", "answerText": " Hengitystiheyden pienentäminen, hengittäminen pussiin tai ääneen puhuminen."}]},
+      {"answerCorrectness": "correct", "answerText": " Hengitystiheyden pienentäminen, hengittäminen pussiin tai ääneen puhuminen."}]},
   
-    {"question": "Jos henkilö on ollut sukeltamassa ja on ollut tarvetta käyttää hallittua nousua,hänen suositeltu odotusaikansa ennen seuraavaa 8000 jalan korkeuteen(matkustamon painekorkeus) asti ulottuvaa lentoaan on:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 4 tuntia."},
+    {"question": "Jos henkilö on ollut sukeltamassa ja on ollut tarvetta käyttää hallittua nousua, hänen suositeltu odotusaikansa ennen seuraavaa 8000 jalan korkeuteen(matkustamon painekorkeus) asti ulottuvaa lentoaan on:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 4 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 12 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 48 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 24 tuntia."}]},
@@ -620,275 +620,257 @@
     {"question": "Mikä seuraavista heikentää sopeutumista hämärään?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " A-vitamiini ruokavaliossa."},
       {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidi."},
-      {"answerCorrectness": "incorrect", "answerText": " Yli 5000 jalan korkeus matkustamon ilmanpaineessa."},
+      {"answerCorrectness": "correct", "answerText": " Yli 5000 jalan korkeus matkustamon ilmanpaineessa."},
       {"answerCorrectness": "incorrect", "answerText": " Typpi."}]},
   
-    {"question": "Jotta silmät tottuisivat pimeään, mitä lentäjän olisi hyvä tehdä valmistautuessaanyölennolle?", "answers": [
+    {"question": "Jotta silmät tottuisivat pimeään, mitä lentäjän olisi hyvä tehdä valmistautuessaan yölennolle?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pitää aurinkolaseja auringonlaskun jälkeen lennolle saakka."},
       {"answerCorrectness": "incorrect", "answerText": " Pysytellä pimeässä huoneessa vähintään 60 minuuttia ennen lentoa."},
       {"answerCorrectness": "incorrect", "answerText": " Välttää punaisia valoja vähintään 30 minuuttia ennen lentoa."},
-      {"answerCorrectness": "incorrect", "answerText": " Välttää kirkkaita valkoisia valoja vähintään 30 minuuttia ennen lentoa."}]},
+      {"answerCorrectness": "correct", "answerText": " Välttää kirkkaita valkoisia valoja vähintään 30 minuuttia ennen lentoa."}]},
   
     {"question": "Yksi keino parantaa yönäkökyvyn tehokkuutta on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Katsoa suoraan kohteeseen."},
-      {"answerCorrectness": "incorrect", "answerText": " Kiinnittää katse pois katsottavan kohteen keskeltä."},
+      {"answerCorrectness": "correct", "answerText": " Kiinnittää katse pois katsottavan kohteen keskeltä."},
       {"answerCorrectness": "incorrect", "answerText": " Katsoa kaukaisuuteen."},
       {"answerCorrectness": "incorrect", "answerText": " Lisätä ohjaamon sisävalaistusta."}]},
   
     {"question": "Mikä on tehokkain tapa katsoa yölennolla?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Tähyile hitaasti, jotta vältät katsomasta suoraan kohdetta."},
+      {"answerCorrectness": "correct", "answerText": " Tähyile hitaasti, jotta vältät katsomasta suoraan kohdetta."},
       {"answerCorrectness": "incorrect", "answerText": " Keskitä katseesi jokaiseen kohteeseen suoraan ja muutaman sekunnin ajan."},
       {"answerCorrectness": "incorrect", "answerText": " Katso ainoastaan kaukaisuuteen ja himmennä valot."},
       {"answerCorrectness": "incorrect", "answerText": " Lisää sisätilan valaistusta."}]},
   
-    {"question": "Paras tekniikka toisen ilma-aluksen havaitsemiseksi yöllä on:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Välttää tähyilemästä horisontin alapuolella olevaa aluetta, jotta vältytään näkemästämaassa olevia valoja."},
-      {"answerCorrectness": "incorrect", "answerText": " Välttää tuijottamasta suoraan paikkaan, jossa ilma-aluksen oletetaan lentävän."},
-      {"answerCorrectness": "incorrect", "answerText": " Kääntää päätä ja siirtää katsetta nopeasti koko näkyvissä olevalla alueella."},
-      {"answerCorrectness": "incorrect", "answerText": " Katsoa kaukaisuuteen ja tähyillä hitaasti."}]},
-  
     {"question": "Paras keino, jolla havaitset toisen ilma-aluksen yöllä, on:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Katsoa kohteen sivulle ja siirrellä katsetta hitaasti."},
+      {"answerCorrectness": "correct", "answerText": " Katsoa kohteen sivulle ja siirrellä katsetta hitaasti."},
       {"answerCorrectness": "incorrect", "answerText": " Katsoa kohteen sivulle ja siirrellä katsetta hyvin nopeasti."},
       {"answerCorrectness": "incorrect", "answerText": " Tähyillä näkyvällä alueella hyvin nopealla tahdilla."},
       {"answerCorrectness": "incorrect", "answerText": " Välttää tähyilemästä horisontin alapuolella olevaa aluetta, jotta vältytään näkemästämaassa olevia valoja."}]},
   
     {"question": "Ennen kuin lentäjä aloittaa liikehtimisen ilma-aluksellaan, hänen tulisi:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Silmämääräisesti katsoa ja tarkistaa koko alue törmäysten välttämiseksi."},
+      {"answerCorrectness": "correct", "answerText": " Silmämääräisesti katsoa ja tarkistaa koko alue törmäysten välttämiseksi."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmoittaa aikeistaan lähimmällä käyttökelpoisella radiotaajuudella."},
       {"answerCorrectness": "incorrect", "answerText": " Aina ensin pyytää lennonjohtajalta selvitys."},
       {"answerCorrectness": "incorrect", "answerText": " Tarkistaa korkeus, ilmanopeus ja lentosuunta."}]},
   
-    {"question": "Millä tekniikalla lentäjän kannattaa katsella vasemmalla ja oikealla olevaa muutaliikennettä, suoran vaakalennon aikana?", "answers": [
+    {"question": "Millä tekniikalla lentäjän kannattaa katsella vasemmalla ja oikealla olevaa muuta liikennettä, suoran vaakalennon aikana?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Keskittyä ääreisnäön alueella havaittuihin suhteellisiin liikkeisiin."},
       {"answerCorrectness": "incorrect", "answerText": " Systemaattisesti keskittyä eri taivaan osiin lyhyin väliajoin."},
       {"answerCorrectness": "incorrect", "answerText": " Jatkuvaa pälyilyä tuulilasin kautta vasemmalle ja oikealle."},
-      {"answerCorrectness": "incorrect", "answerText": " Katsoa kaukaisuuteen ja tähyillä hitaasti."}]},
+      {"answerCorrectness": "correct", "answerText": " Katsoa kaukaisuuteen ja tähyillä hitaasti."}]},
   
-    {"question": "Miten utu vaikuttaa muun liikenteen tai maaston muotojen havainnointiinlennolla?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Muu liikenne tai maaston muodot näyttäisivät olevan lähempänä kuin ne oikeasti ovat."},
-      {"answerCorrectness": "incorrect", "answerText": " Utu saa silmät työskentelemään niin voimakkaasti, että suhteellista liikettä on vaikeaenää havaita."},
+    {"question": "Miten utu vaikuttaa muun liikenteen tai maaston muotojen havainnointiin lennolla?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Muu liikenne tai maaston muodot näyttäisivät olevan lähempänä kuin ne oikeasti ovat."},
+      {"answerCorrectness": "incorrect", "answerText": " Utu saa silmät työskentelemään niin voimakkaasti, että suhteellista liikettä on vaikea enää havaita."},
       {"answerCorrectness": "incorrect", "answerText": " Utu saa katseen keskittymään kaukaisuuteen."},
       {"answerCorrectness": "incorrect", "answerText": " Muu liikenne tai maaston muodot näyttäisivät olevan kauempana kuin ne oikeasti ovat."}]},
   
-    {"question": "Eri aistien aivoille lähettämä harhaanjohtava tieto, joka johtaa tilapäiseensekaannustilaan, on nimeltään:", "answers": [
+    {"question": "Eri aistien aivoille lähettämä harhaanjohtava tieto, joka johtaa tilapäiseen sekaannustilaan, on nimeltään:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Hypoksia."},
-      {"answerCorrectness": "incorrect", "answerText": " Asentotajun menetys."},
+      {"answerCorrectness": "correct", "answerText": " Asentotajun menetys."},
       {"answerCorrectness": "incorrect", "answerText": " Hyperventilaatio."},
       {"answerCorrectness": "incorrect", "answerText": " Monokromaattisuus."}]},
-  
-    {"question": "Mikä seuraavista on suositeltu menetelmä välttää tai päästä eroon asentotajunmenetyksestä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Vältä jyrkkiä kaartoja ja äkkinäisiä ohjainten poikkeutuksia."},
-      {"answerCorrectness": "incorrect", "answerText": " Systemaattisesti ja lyhyin väliajoin keskitä katseesi eri taivaan osiin."},
-      {"answerCorrectness": "incorrect", "answerText": " Luota ainoastaan ilma-aluksen mittarinäyttämiin."},
-      {"answerCorrectness": "incorrect", "answerText": " Vähennä pään ja silmien liikkeet niin vähäisiksi kuin mahdollista."}]},
   
     {"question": "Lentäjät menettävät helpommin asentotajunsa, jos:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Katsetta muutetaan usein lentomittareiden ristiintarkkailun aikana."},
       {"answerCorrectness": "incorrect", "answerText": " He eivät huomioi kaikkia kehon tuntemuksia."},
       {"answerCorrectness": "incorrect", "answerText": " He eivät huomioi tuntemuksiaan lihaksissa ja keskikorvassa."},
-      {"answerCorrectness": "incorrect", "answerText": " Lentotilan määrittämiseen käytetään apuna kehon tuntemuksia."}]},
+      {"answerCorrectness": "correct", "answerText": " Lentotilan määrittämiseen käytetään apuna kehon tuntemuksia."}]},
   
-    {"question": "Riskiä menettää asentotajunsa lennon aikana huonoissa näkösääolosuhteissavoidaan vähentää:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Luottamalla mittareihin ennemmin kuin muihin tuntemuksiin."},
+    {"question": "Riskiä menettää asentotajunsa lennon aikana huonoissa näkösääolosuhteissa voidaan vähentää:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Luottamalla mittareihin ennemmin kuin muihin tuntemuksiin."},
       {"answerCorrectness": "incorrect", "answerText": " Nojaamalla vastakkaiseen suuntaan, jonne ilma-aluksen liike kohdistuu."},
-      {"answerCorrectness": "incorrect", "answerText": " Vaihtamalla katsetta nopeassa tahdissa ulkoisten referenssien ja ilma-aluksen mittaristonvälillä."},
+      {"answerCorrectness": "incorrect", "answerText": " Vaihtamalla katsetta nopeassa tahdissa ulkoisten referenssien ja ilma-aluksen mittariston välillä."},
       {"answerCorrectness": "incorrect", "answerText": " Määrätietoisesti keskittymällä lyhyin jaksoin eri taivaan osiin."}]},
   
-    {"question": "Jos lentäjä kokee menettävänsä asentotajunsa lentäessään olosuhteissa, joissaon huono lentonäkyvyys, paras tapa selviytyä tilanteesta on:", "answers": [
+    {"question": "Jos lentäjä kokee menettävänsä asentotajunsa lentäessään olosuhteissa, joissa on huono lentonäkyvyys, paras tapa selviytyä tilanteesta on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Tietoisesti hidastaa hengityksen tiheyttä kunnes tuntemukset ovat hävinneet ja jatkaatämän jälkeen normaalisti."},
-      {"answerCorrectness": "incorrect", "answerText": " Luottaa ilma-aluksen mittarinäyttämiin."},
+      {"answerCorrectness": "correct", "answerText": " Luottaa ilma-aluksen mittarinäyttämiin."},
       {"answerCorrectness": "incorrect", "answerText": " Nopeuttaa hengityksen tiheyttä."},
       {"answerCorrectness": "incorrect", "answerText": " Keskittyä luiston, nokanasennon ja kallistuksen tuntemuksiin."}]},
   
     {"question": "Nopea kiihdytys saattaa aiheuttaa harha-aistimuksen siitä, että ilma-alus olisi:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vasemmassa kaarrossa."},
       {"answerCorrectness": "incorrect", "answerText": " Liu'ussa."},
-      {"answerCorrectness": "incorrect", "answerText": " Nousussa."},
+      {"answerCorrectness": "correct", "answerText": " Nousussa."},
       {"answerCorrectness": "incorrect", "answerText": " Syöksykierteessä."}]},
   
-      {"question": "Kenellä on viimeinen vastuu siitä, että lentäjä on lentokelpoisessa kunnossatietylle lennolle, vaikka hänellä olisikin voimassaoleva lääketieteellinenkelpoisuustodistus?", "answers": [
+      {"question": "Kenellä on viimeinen vastuu siitä, että lentäjä on lentokelpoisessa kunnossa tietylle lennolle, vaikka hänellä olisikin voimassaoleva lääketieteellinen kelpoisuustodistus?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Ilmailulääkäri."},
         {"answerCorrectness": "incorrect", "answerText": " Viranomainen."},
         {"answerCorrectness": "incorrect", "answerText": " Lennonjohtaja."},
-        {"answerCorrectness": "incorrect", "answerText": " Lentäjä itse."}]},
+        {"answerCorrectness": "correct", "answerText": " Lentäjä itse."}]},
   
-      {"question": "Mikä on yleinen tekijä, joka vaikuttaa eniten ennaltaehkäistävissä oleviinonnettomuuksiin?", "answers": [
+      {"question": "Mikä on yleinen tekijä, joka vaikuttaa eniten ennaltaehkäistävissä oleviin onnettomuuksiin?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Mekaaninen vika."},
-        {"answerCorrectness": "incorrect", "answerText": " Inhimillinen erehdys."},
+        {"answerCorrectness": "correct", "answerText": " Inhimillinen erehdys."},
         {"answerCorrectness": "incorrect", "answerText": " Toisten osallisten tekemät virheet."},
         {"answerCorrectness": "incorrect", "answerText": " Rakenteiden pettäminen."}]},
   
       {"question": "Hyväksytyn tarkistuslistan johdonmukainen noudattaminen on merkki:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Kokemattomasta lentäjästä."},
-        {"answerCorrectness": "incorrect", "answerText": " Kurinalaisesta ja pätevästä lentäjästä."},
+        {"answerCorrectness": "correct", "answerText": " Kurinalaisesta ja pätevästä lentäjästä."},
         {"answerCorrectness": "incorrect", "answerText": " Lentäjästä, jolla on vaillinaiset tiedot kyseisestä aiheesta."},
         {"answerCorrectness": "incorrect", "answerText": " Lentäjästä, jolla on huono stressinsietokyky."}]},
   
       {"question": "Jotta et unohda tärkeitä asioita tai toimenpiteitä, käytä aina:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Lentokäsikirjaa."},
         {"answerCorrectness": "incorrect", "answerText": " Merkittyjä ilmanopeuksia."},
-        {"answerCorrectness": "incorrect", "answerText": " Tarkoituksenmukaista tarkistuslistaa."},
+        {"answerCorrectness": "correct", "answerText": " Tarkoituksenmukaista tarkistuslistaa."},
         {"answerCorrectness": "incorrect", "answerText": " Lentokelpoisuustodistusta."}]},
   
-      {"question": "Positiivinen kolmivaiheprosessi vaihdettaessa ohjaimia ilma-aluksessa lentäjienvälillä sisältää seuraavat sanonnat: (a) Sinä ohjaat, (b) Minä ohjaan ja (c) ____.", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Minun ilma-alus."},
-        {"answerCorrectness": "incorrect", "answerText": " Sinä ohjaat."},
-        {"answerCorrectness": "incorrect", "answerText": " Minä ohjaan."},
-        {"answerCorrectness": "incorrect", "answerText": " Minun ilma-alus ja minä ohjaan."}]},
-  
-      {"question": "Mihin perustuu riskien hallinta ilmailun päätöksentekoprosessissa, jollavähennetään jokaisella lennolla olevia riskejä?", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
+      {"question": "Mihin perustuu riskien hallinta ilmailun päätöksentekoprosessissa, jolla vähennetään jokaisella lennolla olevia riskejä?", "answers": [
+        {"answerCorrectness": "correct", "answerText": " Kaikki vastaukset ovat oikein."},
         {"answerCorrectness": "incorrect", "answerText": " Tietyssä tilanteessa kaiken tiedon analysointi henkisellä tasolla ja ajoissa tehdytpäätökset tarvittavista toimenpiteistä."},
         {"answerCorrectness": "incorrect", "answerText": " Stressin hallinnan soveltaminen ja riskin alkutekijämenetelmä."},
         {"answerCorrectness": "incorrect", "answerText": " Tilannetietoisuus, ongelmien tunnistaminen ja hyvä harkinta."}]},
   
-      {"question": "Vaarallista asennoitumista esiintyy jokaisella lentäjällä jollakin tasolla ja jonkinaikaa. Mitä tällaisia vaarallisia asennoitumisia on?", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
+      {"question": "Vaarallista asennoitumista esiintyy jokaisella lentäjällä jollakin tasolla ja jonkin aikaa. Mitä tällaisia vaarallisia asennoitumisia on?", "answers": [
+        {"answerCorrectness": "correct", "answerText": " Kaikki vastaukset ovat oikein."},
         {"answerCorrectness": "incorrect", "answerText": " Huono tilannetietoisuus, nopeasti tuomitseva ja puutteellinen päätöksentekokyky."},
         {"answerCorrectness": "incorrect", "answerText": " Huono riskien hallinta ja stressin hallinnan puute."},
         {"answerCorrectness": "incorrect", "answerText": " Auktoriteettivastaisuus, impulsiivisuus, machoilu, vetäytyvyys ja haavoittumattomuudentunne."}]},
   
-      {"question": "Mikä on ilmailussa tapahtuvan päätöksentekoprosessin ensimmäinen lähtökohtavaarallisen asennoitumisen välttämiseksi?", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Vaarallisen asennoitumisen tunnistaminen."},
+      {"question": "Mikä on ilmailussa tapahtuvan päätöksentekoprosessin ensimmäinen lähtökohta vaarallisen asennoitumisen välttämiseksi?", "answers": [
+        {"answerCorrectness": "correct", "answerText": " Vaarallisen asennoitumisen tunnistaminen."},
         {"answerCorrectness": "incorrect", "answerText": " Vahinkojen minimointi."},
         {"answerCorrectness": "incorrect", "answerText": " Järkevien päätösten tekeminen."},
         {"answerCorrectness": "incorrect", "answerText": " Tilanteen haavoittumattomuuden tunnistaminen."}]},
   
-      {"question": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseenasennoitumiseen, kuten impulsiivisuuteen?", "answers": [
+      {"question": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseen asennoitumiseen, kuten impulsiivisuuteen?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Tee se nopeasti, jotta saat sen tehtyä."},
-        {"answerCorrectness": "incorrect", "answerText": " Ei niin nopeasti, ajattele ensin."},
+        {"answerCorrectness": "correct", "answerText": " Ei niin nopeasti, ajattele ensin."},
         {"answerCorrectness": "incorrect", "answerText": " En välitä."},
         {"answerCorrectness": "incorrect", "answerText": " Se voisi sattua myös minulle."}]},
   
-      {"question": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseenasennoitumiseen, kuten auktoriteettivastaisuuteen?", "answers": [
+      {"question": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseen asennoitumiseen, kuten auktoriteettivastaisuuteen?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Tiedän mitä olen tekemässä."},
         {"answerCorrectness": "incorrect", "answerText": " En välitä."},
         {"answerCorrectness": "incorrect", "answerText": " Säännöt eivät päde tässä tapauksessa."},
-        {"answerCorrectness": "incorrect", "answerText": " Noudata sääntöjä."}]},
+        {"answerCorrectness": "correct", "answerText": " Noudata sääntöjä."}]},
   
-      {"question": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseenasennoitumiseen, kuten haavoittumattomuuden tunteeseen?", "answers": [
+      {"question": "Mitä sellaisen lentäjän tulisi ajatella, jolla on taipumusta vaaralliseen asennoitumiseen, kuten haavoittumattomuuden tunteeseen?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " En välitä."},
         {"answerCorrectness": "incorrect", "answerText": " Ei se voi olla niin paha."},
         {"answerCorrectness": "incorrect", "answerText": " Se ei voi sattua minulle."},
-        {"answerCorrectness": "incorrect", "answerText": " Se voisi sattua myös minulle."}]},
+        {"answerCorrectness": "correct", "answerText": " Se voisi sattua myös minulle."}]},
   
       {"question": "Lennettäessä korkealla ilmakehässä olevan hapen paine on:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Korkeampi kuin MSL-korkeudessa."},
-        {"answerCorrectness": "incorrect", "answerText": " Pienempi kuin MSL-korkeudessa."},
+        {"answerCorrectness": "correct", "answerText": " Pienempi kuin MSL-korkeudessa."},
         {"answerCorrectness": "incorrect", "answerText": " Muuttumaton, sillä hapen osapaine on riippumaton lentokorkeudesta."},
         {"answerCorrectness": "incorrect", "answerText": " Sama kuin merenpintakorkeudessa (MSL)."}]},
   
       {"question": "Mikäli lentäjä on reilusti ylipainoinen, on hänellä suurentunut riski:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Saada sydänkohtaus."},
         {"answerCorrectness": "incorrect", "answerText": " Hypotermiaan."},
-        {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
+        {"answerCorrectness": "correct", "answerText": " Kaikki vastaukset ovat oikein."},
         {"answerCorrectness": "incorrect", "answerText": " Altistua hypoksialle lennettäessä korkealla."}]},
   
-      {"question": "\"Virhe\" on yleisnimi kuvaamaan kaikkia niitä tapahtumia, joissa sarja henkisiä taifyysisiä toimintoja ei johda haluttuun lopputulokseen. Jatka seuraavaa lausetta.Virheet:", "answers": [
+      {"question": "\"Virhe\" on yleisnimi kuvaamaan kaikkia niitä tapahtumia, joissa sarja henkisiä tai fyysisiä toimintoja ei johda haluttuun lopputulokseen. Jatka seuraavaa lausetta. Virheet:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Ovat kumulatiivisia: yksi virhe johtaa toiseen, joka johtaa kolmanteen jne."},
         {"answerCorrectness": "incorrect", "answerText": " Ovat aina osa virheketjua."},
         {"answerCorrectness": "incorrect", "answerText": " Ovat yksittäisiä, ilman että niillä olisi muita seurauksia tai vaikutuksia jatkossa."},
-        {"answerCorrectness": "incorrect", "answerText": " Voivat olla yksittäisiä tai kumulatiivisia."}]},
+        {"answerCorrectness": "correct", "answerText": " Voivat olla yksittäisiä tai kumulatiivisia."}]},
   
       {"question": "Mikä seuraavista pitää paikkansa, puhuttaessa alkoholista ja ihmisistä?", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Alkoholin vaikutuksesta lentäjä altistuu herkemmin hypoksialle."},
+        {"answerCorrectness": "correct", "answerText": " Alkoholin vaikutuksesta lentäjä altistuu herkemmin hypoksialle."},
         {"answerCorrectness": "incorrect", "answerText": " Kahvi auttaa haihduttamaan alkoholia ja lievittää krapulaa."},
         {"answerCorrectness": "incorrect", "answerText": " Pieni määrä alkoholia parantaa toimintoja."},
         {"answerCorrectness": "incorrect", "answerText": " Pieni määrä alkoholia ei vaikuta lentotaitoon."}]},
   
       {"question": "Mikä seuraavista parhaiten kuvaa hypoksiaa?", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Hapen puute elimistössä."},
+        {"answerCorrectness": "correct", "answerText": " Hapen puute elimistössä."},
         {"answerCorrectness": "incorrect", "answerText": " Hengitetyn ilmamäärän epänormaali väheneminen."},
         {"answerCorrectness": "incorrect", "answerText": " Hengitetyn ilmamäärän epänormaali lisääntyminen."},
         {"answerCorrectness": "incorrect", "answerText": " Kaasukuplien muodostuminen niveliin ja lihaksiin."}]},
   
-      {"question": "Harha-aistimuksen siitä, että ilma-alus lentää korkeammalla kuin mitä se oikeastion, voi aiheuttaa:", "answers": [
+      {"question": "Harha-aistimuksen siitä, että ilma-alus lentää korkeammalla kuin mitä se oikeasti on, voi aiheuttaa:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Utuinen ilmanala."},
         {"answerCorrectness": "incorrect", "answerText": " Nouseva maasto."},
-        {"answerCorrectness": "incorrect", "answerText": " Aleneva maasto."},
+        {"answerCorrectness": "correct", "answerText": " Aleneva maasto."},
         {"answerCorrectness": "incorrect", "answerText": " Leveä kiitotie."}]},
   
-      {"question": "Pienlentokoneissa yleisesti käytetty kolmella osoittimella varustettukorkeusmittari:a) On helppo lukea väärin.b) Tuskin koskaan luetaan väärin.c) On tarkka ja luotettava.d) Ei ole kovin tarkka eikä luotettava.", "answers": [
+      {"question": "Pienlentokoneissa yleisesti käytetty kolmella osoittimella varustettu korkeusmittari:a) On helppo lukea väärin.b) Tuskin koskaan luetaan väärin.c) On tarkka ja luotettava.d) Ei ole kovin tarkka eikä luotettava.", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Ainoastaan b)."},
-        {"answerCorrectness": "incorrect", "answerText": " a) ja c)."},
+        {"answerCorrectness": "correct", "answerText": " a) ja c)."},
         {"answerCorrectness": "incorrect", "answerText": " Ainoastaan a)."},
         {"answerCorrectness": "incorrect", "answerText": " b) ja d)."}]},
   
-      {"question": "Mikä seuraavista Ihmisen suorituskyky -oppiaineessa käytetyistä termeistäkuvaa yleisesti yhtä muistityyppiä?", "answers": [
+      {"question": "Mikä seuraavista Ihmisen suorituskyky -oppiaineessa käytetyistä termeistä kuvaa yleisesti yhtä muistityyppiä?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Kaikki vastaukset ovat oikein."},
         {"answerCorrectness": "incorrect", "answerText": " Herkkyysmuisti."},
-        {"answerCorrectness": "incorrect", "answerText": " Pitkäkestoinen muisti."},
+        {"answerCorrectness": "correct", "answerText": " Pitkäkestoinen muisti."},
         {"answerCorrectness": "incorrect", "answerText": " Onnellisuusmuisti."}]},
   
       {"question": "Ulko-, väli- ja sisäkorvan täyteaineet ovat esitetyssä järjestyksessään:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Neste, neste ja ilma."},
         {"answerCorrectness": "incorrect", "answerText": " Neste, ilma ja ilma."},
-        {"answerCorrectness": "incorrect", "answerText": " Ilma, ilma ja neste."},
+        {"answerCorrectness": "correct", "answerText": " Ilma, ilma ja neste."},
         {"answerCorrectness": "incorrect", "answerText": " Ilma, neste ja neste."}]},
   
       {"question": "Huonokuuloisuuden aiheuttava tekijä, jossa aistisolut vähitellen rappeutuvat(presbyacusis), on:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Tupakointi."},
         {"answerCorrectness": "incorrect", "answerText": " Ikä."},
-        {"answerCorrectness": "incorrect", "answerText": " Vaurio kuuloelimen simpukassa."},
+        {"answerCorrectness": "correct", "answerText": " Vaurio kuuloelimen simpukassa."},
         {"answerCorrectness": "incorrect", "answerText": " Vaurio kaarikäytävissä."}]},
   
       {"question": "Mikä aiheuttaa konduktiivisen kuulovaurion?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Vaurio korvalehdessä."},
-        {"answerCorrectness": "incorrect", "answerText": " Vaurio välikorvassa."},
+        {"answerCorrectness": "correct", "answerText": " Vaurio välikorvassa."},
         {"answerCorrectness": "incorrect", "answerText": " Vaurio ulkokorvassa."},
         {"answerCorrectness": "incorrect", "answerText": " Mikä tahansa äänen johtumista estävä tekijä, esim. korvakäytävän tukkiva vaikku."}]},
   
       {"question": "Missä silmän osassa sijaitsee tarkan näkemisen keskus?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Pupilli."},
         {"answerCorrectness": "incorrect", "answerText": " Sarveiskalvo."},
-        {"answerCorrectness": "incorrect", "answerText": " Verkkokalvo."},
+        {"answerCorrectness": "correct", "answerText": " Verkkokalvo."},
         {"answerCorrectness": "incorrect", "answerText": " Keskuskuoppa (fovea)."}]},
   
-      {"question": "Nähdäkseen tarkasti kohti lentävän ilma-aluksen, jonka silmä on jo havainnut,lentäjän tulisi:", "answers": [
+      {"question": "Nähdäkseen tarkasti kohti lentävän ilma-aluksen, jonka silmä on jo havainnut, lentäjän tulisi:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Aloittaa edessään olevan ilmatilan systemaattinen tarkkailu."},
-        {"answerCorrectness": "incorrect", "answerText": " Katsoa suoraan kohti vastaan tulevaa ilma-alusta."},
-        {"answerCorrectness": "incorrect", "answerText": " Räpäyttää silmiään useita kertoja saadakseen vastaan tulevasta ilma-aluksestatarkemman kuvan."},
+        {"answerCorrectness": "correct", "answerText": " Katsoa suoraan kohti vastaan tulevaa ilma-alusta."},
+        {"answerCorrectness": "incorrect", "answerText": " Räpäyttää silmiään useita kertoja saadakseen vastaan tulevasta ilma-aluksesta tarkemman kuvan."},
         {"answerCorrectness": "incorrect", "answerText": " Tarkentaa katse vastaan tulevan ilma-aluksen yhdelle sen reunoista."}]},
   
       {"question": "Silmään tulevan valon määrään vaikuttaa:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Sarveiskalvo."},
         {"answerCorrectness": "incorrect", "answerText": " Verkkokalvo."},
-        {"answerCorrectness": "incorrect", "answerText": " Pupilli."},
+        {"answerCorrectness": "correct", "answerText": " Pupilli."},
         {"answerCorrectness": "incorrect", "answerText": " Linssi."}]},
   
       {"question": "Mikä seuraavista kuljettaa happea läpi kehon?", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Veren punasolut."},
+        {"answerCorrectness": "correct", "answerText": " Veren punasolut."},
         {"answerCorrectness": "incorrect", "answerText": " Vesi."},
         {"answerCorrectness": "incorrect", "answerText": " Veriplasma."},
         {"answerCorrectness": "incorrect", "answerText": " Veren valkosolut."}]},
   
       {"question": "Korkea verenpaine, sydänsairaudet ja diabetes ovat yhteydessä:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Hapenpuutteeseen."},
-        {"answerCorrectness": "incorrect", "answerText": " Liikalihavuuteen."},
+        {"answerCorrectness": "correct", "answerText": " Liikalihavuuteen."},
         {"answerCorrectness": "incorrect", "answerText": " Anorexia nervosaan."},
         {"answerCorrectness": "incorrect", "answerText": " Koleraan."}]},
   
       {"question": "Mikä aiheuttaa siniset huulet?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Hiilimonoksidimyrkytys."},
         {"answerCorrectness": "incorrect", "answerText": " Hyperventilaatio."},
-        {"answerCorrectness": "incorrect", "answerText": " Hapenpuute."},
+        {"answerCorrectness": "correct", "answerText": " Hapenpuute."},
         {"answerCorrectness": "incorrect", "answerText": " Positiivisten G-voimien vaikutus."}]},
   
       {"question": "Mikä seuraavista kaasuista on merkityksellisessä osassa sukeltajan tautia?", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Vety."},
         {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidi."},
-        {"answerCorrectness": "incorrect", "answerText": " Typpi."},
+        {"answerCorrectness": "correct", "answerText": " Typpi."},
         {"answerCorrectness": "incorrect", "answerText": " Happi."}]},
   
-      {"question": "Lentämisen opettelu aiheuttaa yleensä jonkin verran stressiä, koska lentooppilason tilanteessa, jossa hänellä ei ole täydellistä hallintaa. Tällaisen stressintodennäköisin oire on:", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Hermostuneisuus, lihasjännitys ja tarkkaavaisuusongelmat."},
+      {"question": "Lentämisen opettelu aiheuttaa yleensä jonkin verran stressiä, koska lentooppilas on tilanteessa, jossa hänellä ei ole täydellistä hallintaa. Tällaisen stressin todennäköisin oire on:", "answers": [
+        {"answerCorrectness": "correct", "answerText": " Hermostuneisuus, lihasjännitys ja tarkkaavaisuusongelmat."},
         {"answerCorrectness": "incorrect", "answerText": " Unettomuus, tupakoinnin ja juomisen lisääntyminen."},
         {"answerCorrectness": "incorrect", "answerText": " Nälän tunne, uneliaisuus ja näköharhat."},
         {"answerCorrectness": "incorrect", "answerText": " Lentäminen karkeasti ja yleinen sekavuus."}]},
   
       {"question": "Keho saa energiansa:", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Hiilihydraateista, proteiineista ja rasvoista."},
+        {"answerCorrectness": "correct", "answerText": " Hiilihydraateista, proteiineista ja rasvoista."},
         {"answerCorrectness": "incorrect", "answerText": " Kivennäisaineista, hiilihydraateista ja vitamiineista."},
         {"answerCorrectness": "incorrect", "answerText": " Proteiineista ja vitamiineista."},
         {"answerCorrectness": "incorrect", "answerText": " Kivennäisaineista ja vitamiineista."}]},
@@ -896,12 +878,12 @@
       {"question": "Keuhkokapillaarien ohuista seinämistä menevät läpi:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Veren punasolut."},
         {"answerCorrectness": "incorrect", "answerText": " Proteiinit."},
-        {"answerCorrectness": "incorrect", "answerText": " Kaasut."},
+        {"answerCorrectness": "correct", "answerText": " Kaasut."},
         {"answerCorrectness": "incorrect", "answerText": " Vesi."}]},
   
       {"question": "Mikä seuraavista väittämistä on oikein:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Alkoholi parantaa näön tarkkuutta."},
-        {"answerCorrectness": "incorrect", "answerText": " Arviointikyky voi heiketä jo pienestäkin alkoholimäärästä."},
+        {"answerCorrectness": "correct", "answerText": " Arviointikyky voi heiketä jo pienestäkin alkoholimäärästä."},
         {"answerCorrectness": "incorrect", "answerText": " Lentokorkeuden lisääminen vähentää alkoholin haitallisia vaikutuksia."},
         {"answerCorrectness": "incorrect", "answerText": " Ihmisen keho polttaa alkoholia nopeammin, jos sen kanssa nautitaan kahvia."}]},
   
@@ -909,16 +891,16 @@
         {"answerCorrectness": "incorrect", "answerText": " Umpilisäkkeen tulehdusta"},
         {"answerCorrectness": "incorrect", "answerText": " Nopeasti kehittyvää epätavallista lentotilaa"},
         {"answerCorrectness": "incorrect", "answerText": " Moottorihäiriötä kriittisessä lentovaiheessa"},
-        {"answerCorrectness": "incorrect", "answerText": " Ohjaajan suorituskyvyn pettämistä esim. lennolla"}]},
+        {"answerCorrectness": "correct", "answerText": " Ohjaajan suorituskyvyn pettämistä esim. lennolla"}]},
   
       {"question": "Hiilimonoksidi on:", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Hajuton, mauton ja väritön kaasu"},
+        {"answerCorrectness": "correct", "answerText": " Hajuton, mauton ja väritön kaasu"},
         {"answerCorrectness": "incorrect", "answerText": " Ihmiselle elintärkeä kaasu"},
         {"answerCorrectness": "incorrect", "answerText": " Pistävän hajuinen, väritön kaasu"},
         {"answerCorrectness": "incorrect", "answerText": " Mauton ja harmaa kaasu"}]},
   
       {"question": "Kuinka paljon ilmanpaine on pudonnut noustessa 18000 jalan korkeuteen?", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " 50%"},
+        {"answerCorrectness": "correct", "answerText": " 50%"},
         {"answerCorrectness": "incorrect", "answerText": " 25%"},
         {"answerCorrectness": "incorrect", "answerText": " 80%"},
         {"answerCorrectness": "incorrect", "answerText": " 10%"}]},
@@ -926,17 +908,17 @@
       {"question": "Hengityksen tärkein säätelijä on:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Hengitysnopeus"},
         {"answerCorrectness": "incorrect", "answerText": " Typpi"},
-        {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidi"},
+        {"answerCorrectness": "correct", "answerText": " Hiilidioksidi"},
         {"answerCorrectness": "incorrect", "answerText": " Happi"}]},
   
       {"question": "Kaasujen vaihto tapahtuu:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Keuhkoputkissa."},
         {"answerCorrectness": "incorrect", "answerText": " Keuhkovaltimossa."},
         {"answerCorrectness": "incorrect", "answerText": " Aortassa."},
-        {"answerCorrectness": "incorrect", "answerText": " Keuhkorakkuloissa eli alveoleissa."}]},
+        {"answerCorrectness": "correct", "answerText": " Keuhkorakkuloissa eli alveoleissa."}]},
   
       {"question": "Nuhaisena lentäminen:", "answers": [
-        {"answerCorrectness": "incorrect", "answerText": " Pahentaa korvien lukkiutumistaipumusta"},
+        {"answerCorrectness": "correct", "answerText": " Pahentaa korvien lukkiutumistaipumusta"},
         {"answerCorrectness": "incorrect", "answerText": " Aiheuttaa hämäränäkökyvyn heikkenemistä"},
         {"answerCorrectness": "incorrect", "answerText": " Parantaa nuhan nopeasti"},
         {"answerCorrectness": "incorrect", "answerText": " Voi aiheuttaa harha-aistimuksia kaartamisesta"}]},
@@ -944,11 +926,11 @@
       {"question": "Tasapainoaisti sijaitsee ihmisellä:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Välikorvassa"},
         {"answerCorrectness": "incorrect", "answerText": " Istuinlihaksissa ja alaraajoissa"},
-        {"answerCorrectness": "incorrect", "answerText": " Sisäkorvassa"},
+        {"answerCorrectness": "correct", "answerText": " Sisäkorvassa"},
         {"answerCorrectness": "incorrect", "answerText": " Aivolisäkkeessä"}]},
   
       {"question": "Punasoluissa happi kiinnittyy:", "answers": [
         {"answerCorrectness": "incorrect", "answerText": " Hematokriittiin"},
-        {"answerCorrectness": "incorrect", "answerText": " Hemoglobiiniin"},
+        {"answerCorrectness": "correct", "answerText": " Hemoglobiiniin"},
         {"answerCorrectness": "incorrect", "answerText": " Hiilidioksidiin"},
         {"answerCorrectness": "incorrect", "answerText": " Hiilimonoksidiin"}]}]

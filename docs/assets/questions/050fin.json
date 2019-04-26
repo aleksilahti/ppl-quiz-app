@@ -2,46 +2,47 @@
     {"question": " Troposfäärissä ICAO:n standardi-ilmakehän (ISA) mukaan:", "answers":[
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine merenpinnan tasolla on 1225g/m3, lämpötila on 15 °C ja lämpötila laske 2 °C/1000ft 36.090ft:n korkeuteen asti."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine merenpinnan tasolla on 1013,25 hPa, lämpötila on 15 °C ja lämpötila laskee 1,98 °C / 1000ft, kunnes saavuttaa absoluuttisen nollapisteen. "},
-      {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine merenpinnan tasolla on 1013,25 hPa, lämpötila on 15 °C ja lämpötila laskee 1,98 °C / 1000ft 36.090 ft:n korkeuteen asti. "},
+      {"answerCorrectness": "correct", "answerText": " Ilmanpaine merenpinnan tasolla on 1013,25 hPa, lämpötila on 15 °C ja lämpötila laskee 1,98 °C / 1000ft 36.090 ft:n korkeuteen asti. "},
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine merenpinnan tasolla on 1013,25 hPa, lämpötila on 15 °C ja lämpötila laskee 2°C / 1000ft, kunnes saavuttaa lämpötilan -65,6°C 36.060ft:n korkeudessa."}]},
   
     {"question": "Missä suurin osa ilmakehän vesihöyrystä sijaitsee?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Tropopaussissa."},
-      {"answerCorrectness": "incorrect", "answerText": " Troposfäärissä."},
+      {"answerCorrectness": "correct", "answerText": " Troposfäärissä."},
       {"answerCorrectness": "incorrect", "answerText": " Stratosfäärissä."},
       {"answerCorrectness": "incorrect", "answerText": " Stratopaussissa."}]},
   
     {"question": "Mikä on ilmakehän kaasujen suhteelliset osuudet?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Typpeä 21%, argonia 78%, happea 1%."},
+      {"answerCorrectness": "correct", "answerText": " Happea 21%, typpeä 78%, muut kaasut 1%."},
       {"answerCorrectness": "incorrect", "answerText": " Typpeä 21%, happea 78%, vetyä 1%."}]},
   
     {"question": "Mikä on ilmakehän kerroksen nimi, joka on lähinnä maanpintaa?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Troposfääri."},
+      {"answerCorrectness": "correct", "answerText": " Troposfääri."},
       {"answerCorrectness": "incorrect", "answerText": " Stratosfääri."},
       {"answerCorrectness": "incorrect", "answerText": " Tropopaussi."},
       {"answerCorrectness": "incorrect", "answerText": " Stratopaussi."}]},
   
     {"question": "Ennustettu lämpötila 2000 ft:n korkeudessa on 5°C; ICAO:n standardiilmakehään(ISA) verrattuna tämä on:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " ISA -6."},
+      {"answerCorrectness": "correct", "answerText": " ISA -6."},
       {"answerCorrectness": "incorrect", "answerText": " IAS +6."},
       {"answerCorrectness": "incorrect", "answerText": " IAS -6."},
       {"answerCorrectness": "incorrect", "answerText": " ISA +5."}]},
   
     {"question": "Miksi kutsutaan ilmanpaineen piirturia?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Anemografi."},
-      {"answerCorrectness": "incorrect", "answerText": " Barometri."},
+      {"answerCorrectness": "correct", "answerText": " Barometri."},
       {"answerCorrectness": "incorrect", "answerText": " Barografi."},
       {"answerCorrectness": "incorrect", "answerText": " Hygrometri."}]},
   
     {"question": "Ilmakehän ilmanpaine:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pienenee tasaisesti korkeuden kasvaessa."},
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee hitaammin korkeuden kasvaessa."},
+      {"answerCorrectness": "correct", "answerText": " Pienenee hitaammin korkeuden kasvaessa."},
       {"answerCorrectness": "incorrect", "answerText": " Pienenee tasaisesti tropopaussiin asti, jonka jälkeen pysyy vakiona."},
       {"answerCorrectness": "incorrect", "answerText": " Pienenee kasvavalla nopeudella korkeuden kasvaessa."}]},
   
     {"question": "Mitä toisiaan lähellä olevat isobaarit tarkoittavat?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Heikkoa paine-erovoimaa ja heikkoja tuulia."},
-      {"answerCorrectness": "incorrect", "answerText": " Suurta paine-erovoimaa ja voimakkaita tuulia."},
+      {"answerCorrectness": "correct", "answerText": " Suurta paine-erovoimaa ja voimakkaita tuulia."},
       {"answerCorrectness": "incorrect", "answerText": " Heikkoa paine-erovoimaa ja voimakkaita tuulia."},
       {"answerCorrectness": "incorrect", "answerText": " Suurta paine-erovoimaa ja heikkoja tuulia."}]},
   
@@ -49,10 +50,10 @@
       {"answerCorrectness": "incorrect", "answerText": " Isotermi."},
       {"answerCorrectness": "incorrect", "answerText": " Isohypsi."},
       {"answerCorrectness": "incorrect", "answerText": " Isallobaari."},
-      {"answerCorrectness": "incorrect", "answerText": " Isobaari."}]},
+      {"answerCorrectness": "correct", "answerText": " Isobaari."}]},
   
-    {"question": "Miten standardia lämpimämpi ilma vaikuttaa korkeudenmuutokseen, joka vastaa1hPa painemuutosta ISA:ssa?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kasvattaa."},
+    {"question": "Miten standardia lämpimämpi ilma vaikuttaa korkeudenmuutokseen, joka vastaa 1hPa painemuutosta ISA:ssa?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Kasvattaa."},
       {"answerCorrectness": "incorrect", "answerText": " Ei vaikutusta."},
       {"answerCorrectness": "incorrect", "answerText": " Mahdotonta päätellä."},
       {"answerCorrectness": "incorrect", "answerText": " Pienentää."}]},
@@ -61,40 +62,40 @@
       {"answerCorrectness": "incorrect", "answerText": " 122,5 g/m³."},
       {"answerCorrectness": "incorrect", "answerText": " 1,225 g/m³."},
       {"answerCorrectness": "incorrect", "answerText": " 12,25 g/m³."},
-      {"answerCorrectness": "incorrect", "answerText": " 1225 g/m³."}]},
+      {"answerCorrectness": "correct", "answerText": " 1225 g/m³."}]},
   
     {"question": "Ilman tiheys lähellä maanpintaa on pieni kun:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine on korkea ja lämpötila korkea."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine on korkea ja lämpötila on matala."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine on matala ja lämpötila korkea."},
+      {"answerCorrectness": "correct", "answerText": " Ilmanpaine on matala ja lämpötila korkea."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine on matala ja lämpötila on matala."}]},
   
     {"question": "Yleensä korkeuden kasvaessa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila sekä ilmanpaine kasvaa, ja tiheys pienenee."},
-      {"answerCorrectness": "incorrect", "answerText": " Lämpötila, ilmanpaine ja ilmantiheys pienenee."},
+      {"answerCorrectness": "correct", "answerText": " Lämpötila, ilmanpaine ja ilmantiheys pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila pienenee, ja ilmanpaine sekä tiheys kasvaa."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila pienenee ja tiheys kasvaa."}]},
   
     {"question": "Miten tiheys määritellään?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Massa tilavuusyksikköä kohden."},
+      {"answerCorrectness": "correct", "answerText": " Massa tilavuusyksikköä kohden."},
       {"answerCorrectness": "incorrect", "answerText": " Massa pinta-alayksikköä kohden."},
       {"answerCorrectness": "incorrect", "answerText": " Paino pinta-alayksikköä kohden."},
       {"answerCorrectness": "incorrect", "answerText": " Tilavuus jaettuna massalla."}]},
   
     {"question": "Koska tiheys on pienimmillään missä tahansa paikassa?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kun on korkea korkeus, korkea lämpötila ja korkea ilmankosteus."},
+      {"answerCorrectness": "correct", "answerText": " Kun on korkea korkeus, korkea lämpötila ja korkea ilmankosteus."},
       {"answerCorrectness": "incorrect", "answerText": " Kun on korkea korkeus, korkea lämpötila ja matala ilmankosteus."},
       {"answerCorrectness": "incorrect", "answerText": " Kun on matala korkeus, korkea lämpötila ja korkea ilmankosteus."},
       {"answerCorrectness": "incorrect", "answerText": " Kun on korkea korkeus, matala lämpötila ja matala ilmankosteus."}]},
   
     {"question": "Mikä seuraavista väittämistä on oikein koskien ilman tiheyttä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Ilman tiheys pienenee korkeuden kasvaessa standardi-ilmakehässä (ISA)."},
+      {"answerCorrectness": "correct", "answerText": " Ilman tiheys pienenee korkeuden kasvaessa standardi-ilmakehässä (ISA)."},
       {"answerCorrectness": "incorrect", "answerText": " Millä tahansa annetulla lämpötilalla ilman tiheys on suurempi korkeapaineessa kuinmatalapaineessa."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötilan muutoksella on suurempi vaikutus ilman tiheyteen kuin ilmanpaineenmuutoksella."},
       {"answerCorrectness": "incorrect", "answerText": " Ilman tiheys kasvaa kun ilman kosteus kasvaa."}]},
   
     {"question": "Lämpötilan vuorokautinen vaihtelu:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee pilvien vaikutuksesta."},
+      {"answerCorrectness": "correct", "answerText": " Pienenee pilvien vaikutuksesta."},
       {"answerCorrectness": "incorrect", "answerText": " On pienempi aavikkoalueella kuin keskileveysasteiden niityillä."},
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa kaikkialla, kun tuulen nopeus kasvaa."},
       {"answerCorrectness": "incorrect", "answerText": " On suurempi merellä kuin mantereella."}]},
@@ -103,46 +104,46 @@
       {"answerCorrectness": "incorrect", "answerText": " Isohypsi."},
       {"answerCorrectness": "incorrect", "answerText": " Inversio."},
       {"answerCorrectness": "incorrect", "answerText": " Pienentynyt lämpötilavähete."},
-      {"answerCorrectness": "incorrect", "answerText": " Isoterminen kerros."}]},
+      {"answerCorrectness": "correct", "answerText": " Isoterminen kerros."}]},
   
     {"question": "Matalapaineen solaan liittyy yleensä pinnassa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Subsidenssi, joka vähentää pilvisyyttä ja sadetta."},
       {"answerCorrectness": "incorrect", "answerText": " Divergenssi, joka lisää pilvisyyttä ja sadetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Konvergenssi, joka lisää pilvisyyttä ja sadetta."},
+      {"answerCorrectness": "correct", "answerText": " Konvergenssi, joka lisää pilvisyyttä ja sadetta."},
       {"answerCorrectness": "incorrect", "answerText": " Subsidenssi, joka lisää pilvisyyttä ja sadetta."}]},
   
-    {"question": "Mikä seuraavista säätilanteista olisi todennäköisin korkeapaineen alueellatalvella?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Laaja alainen subsidenssi, jossa adiabaattista lämpenemistä, pilvetön taivas ja inversio."},
-      {"answerCorrectness": "incorrect", "answerText": " Päivällä pinnan lämpeneminen voi synnyttää epävakaan ilmakehän ja konvektiivistäpilvisyyttä."},
+    {"question": "Mikä seuraavista säätilanteista olisi todennäköisin korkeapaineen alueella talvella?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Laaja alainen subsidenssi, jossa adiabaattista lämpenemistä, pilvetön taivas ja inversio."},
+      {"answerCorrectness": "incorrect", "answerText": " Päivällä pinnan lämpeneminen voi synnyttää epävakaan ilmakehän ja konvektiivistä pilvisyyttä."},
       {"answerCorrectness": "incorrect", "answerText": " Yöllä, kun maanpinta jäähtyy, pilvisyys kasvattaa korkeutta."},
       {"answerCorrectness": "incorrect", "answerText": " Subsidenssiä johtuen pinnan jäähtymisestä, joka lisää pilvisyyttä ja sadetta."}]},
   
     {"question": "Pintalämpötilan vuorokautinen vaihtelu:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee tuulen voimakkuuden kasvaessa."},
+      {"answerCorrectness": "correct", "answerText": " Pienenee tuulen voimakkuuden kasvaessa."},
       {"answerCorrectness": "incorrect", "answerText": " On pienimmillään tyynessä tilanteessa."},
       {"answerCorrectness": "incorrect", "answerText": " Ei muutu tuulen vaikutuksesta."},
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa tuulen voimakkuuden kasvaessa."}]},
   
-    {"question": "Kahden matalapaineen ja kahden korkeapaineen välissä olevaamäärittelemätöntä paine-aluetta kutsutaan:", "answers": [
+    {"question": "Kahden matalapaineen ja kahden korkeapaineen välissä olevaa määrittelemätöntä paine-aluetta kutsutaan:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Solaksi."},
-      {"answerCorrectness": "incorrect", "answerText": " Satulapinnaksi."},
+      {"answerCorrectness": "correct", "answerText": " Satulapinnaksi."},
       {"answerCorrectness": "incorrect", "answerText": " Satulaksi."},
       {"answerCorrectness": "incorrect", "answerText": " Selänteeksi."}]},
   
-    {"question": "Miksi kutsutaan tapaa, jolla energia siirtyy kappaleesta toiseen suorankosketuksen avulla?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Johtuminen."},
+    {"question": "Miksi kutsutaan tapaa, jolla energia siirtyy kappaleesta toiseen suoran kosketuksen avulla?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Johtuminen."},
       {"answerCorrectness": "incorrect", "answerText": " Säteily."},
       {"answerCorrectness": "incorrect", "answerText": " Konvektio."},
       {"answerCorrectness": "incorrect", "answerText": " Latentti lämpö."}]},
   
-    {"question": "Aurinko säteilee ____ määriä energiaa ____ aallonpituuksilla. Maanpinta säteileesuhteellisesti ____ määriä energia suhteellisen ____ aallonpituuksilla.", "answers": [
+    {"question": "Aurinko säteilee ____ määriä energiaa ____ aallonpituuksilla. Maanpinta säteilee suhteellisesti ____ määriä energia suhteellisen ____ aallonpituuksilla.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " pieniä / pienillä / suuria / suurilla."},
       {"answerCorrectness": "incorrect", "answerText": " suuria / suurilla / pieniä / pienillä."},
       {"answerCorrectness": "incorrect", "answerText": " suuria / suurilla / pieniä / suurilla."},
-      {"answerCorrectness": "incorrect", "answerText": " suuria / pienillä / pieniä / suurilla."}]},
+      {"answerCorrectness": "correct", "answerText": " suuria / pienillä / pieniä / suurilla."}]},
   
     {"question": "On kyse inversiosta, kun:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lämpötila kasvaa korkeuden kasvaessa."},
+      {"answerCorrectness": "correct", "answerText": " Lämpötila kasvaa korkeuden kasvaessa."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila ei muutu horisontaalisuunnassa."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila ei muutu korkeuden kasvaessa."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila laskee korkeuden kasvaessa."}]},
@@ -151,23 +152,23 @@
       {"answerCorrectness": "incorrect", "answerText": " Alue kahden korkeapaineen välissä jossa isobaarit ovat lähellä toisiaan."},
       {"answerCorrectness": "incorrect", "answerText": " Matalapaineesta venymä isobaareissa."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeapaineen alueesta venymä isobaareissa."},
-      {"answerCorrectness": "incorrect", "answerText": " Alue kahden matalapaineen ja korkeapaineen välissä, jossa isobaarit ovat etäällätoisistaan."}]},
+      {"answerCorrectness": "correct", "answerText": " Alue kahden matalapaineen ja korkeapaineen välissä, jossa isobaarit ovat etäällätoisistaan."}]},
   
     {"question": "Korkeapaineen selänteeseen liittyy yleensä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pinnassa konvergenssia, joka lisää pilvisyyttä ja sadetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Ensin subsidenssia ja sitten pinnassa divergenssiä, joka aiheuttaa pilvisyydenvähenemisen ja sateen voimistumisen."},
+      {"answerCorrectness": "incorrect", "answerText": " Ensin subsidenssia ja sitten pinnassa divergenssiä, joka aiheuttaa pilvisyyden vähenemisen ja sateen voimistumisen."},
       {"answerCorrectness": "incorrect", "answerText": " Pinnassa konvergenssia, joka parantaa näkyvyyttä."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilman subsidenssia ja pinnan lähellä divergenssiä, joka aiheuttaa pilvettömän taivaan jaheikkoa näkyvyyttä."}]},
+      {"answerCorrectness": "correct", "answerText": " Ilman subsidenssia ja pinnan lähellä divergenssiä, joka aiheuttaa pilvettömän taivaan ja heikkoa näkyvyyttä."}]},
   
-    {"question": "Lennettäessä kohti matalampaa painetta, kun korkeusmittarin asetuksia eimuuteta, tosikorkeus on:", "answers": [
+    {"question": "Lennettäessä kohti matalampaa painetta, kun korkeusmittarin asetuksia ei muuteta, tosikorkeus on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Alussa alempana ja myöhemmin sama kuin mittarin näyttämä."},
-      {"answerCorrectness": "incorrect", "answerText": " Alempana kuin mittari näyttämä."},
+      {"answerCorrectness": "correct", "answerText": " Alempana kuin mittari näyttämä."},
       {"answerCorrectness": "incorrect", "answerText": " Sama kuin mittarin näyttämä."},
       {"answerCorrectness": "incorrect", "answerText": " Ylempänä kuin mittari näyttämä."}]},
   
     {"question": "Kun korkeusmittarin paineasetuksena laitetaan QFE, niin mittari näyttää:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lentokentän korkeutta merenpinnasta."},
-      {"answerCorrectness": "incorrect", "answerText": " Nollakorkeutta lentokentän virallisella korkeudella."},
+      {"answerCorrectness": "correct", "answerText": " Nollakorkeutta lentokentän virallisella korkeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Ilma-aluksen senhetkisen korkeuden merenpinnasta."},
       {"answerCorrectness": "incorrect", "answerText": " Painekorkeutta lentokentän virallisella korkeudella."}]},
   
@@ -175,112 +176,106 @@
       {"answerCorrectness": "incorrect", "answerText": " 1013 asetuksella korkeuden merenpinnasta."},
       {"answerCorrectness": "incorrect", "answerText": " Lentokentän QNH arvolla korkeuden lentokentän referenssipisteestä."},
       {"answerCorrectness": "incorrect", "answerText": " Oikean lentopinnan, kun korkeusmittariin on asetettu alueellinen QFE."},
-      {"answerCorrectness": "incorrect", "answerText": " Korkeuden painepintaan, joka on asetettu mittarin asteikolle."}]},
+      {"answerCorrectness": "correct", "answerText": " Korkeuden painepintaan, joka on asetettu mittarin asteikolle."}]},
   
-    {"question": "Ilma-alus lentää samaa mittarikorkeutta lentokentältä A (QNH 1009 hPa)lentokentälle B (QNH 1019 hPa) muuttamatta asetuksia. Tässä tilanteessalentokentällä B:", "answers": [
+    {"question": "Ilma-alus lentää samaa mittarikorkeutta lentokentältä A (QNH 1009 hPa) lentokentälle B (QNH 1019 hPa) muuttamatta asetuksia. Tässä tilanteessa lentokentällä B:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin näyttämä korkeus on pienempi kuin todellinen lentokorkeus."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin näyttämä korkeus on suurempi kuin todellinen lentokorkeus."},
-      {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin näyttämä korkeus on joko suurempi tai pienempi kuin todellinenlentokorkeus, riippuen lentokentän korkeudesta merenpinnasta."},
+      {"answerCorrectness": "correct", "answerText": " Korkeusmittarin näyttämä korkeus on joko suurempi tai pienempi kuin todellinenlentokorkeus, riippuen lentokentän korkeudesta merenpinnasta."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeusmittarin näyttämä korkeus on sama kuin todellinen lentokorkeus."}]},
   
-    {"question": "Lento suoritetaan lentokentältä A, jossa QNH on 1020 hPa, lentokentälle B, jossaQNH on 999hPa. Lentokenttä A on 800ft ja lentokenttä B 500ft merenpinnanyläpuolella. Jos korkeusmittariin asetettu arvo 1020 hPa ei muuteta, niin mitämittari näyttää ilma-aluksen laskeutuessa kentälle B? (oleta että 1 hPa= 30 ft)", "answers": [
+    {"question": "Lento suoritetaan lentokentältä A, jossa QNH on 1020 hPa, lentokentälle B, jossa QNH on 999hPa. Lentokenttä A on 800ft ja lentokenttä B 500ft merenpinnan yläpuolella. Jos korkeusmittariin asetettu arvo 1020 hPa ei muuteta, niin mitä mittari näyttää ilma-aluksen laskeutuessa kentälle B? (oleta että 1 hPa= 30 ft)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1.430ft."},
       {"answerCorrectness": "incorrect", "answerText": " 100ft."},
       {"answerCorrectness": "incorrect", "answerText": " 130ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 1.130ft."}]},
+      {"answerCorrectness": "correct", "answerText": " 1.130ft."}]},
   
-    {"question": "Lennettäessä Euroopassa koet sortumaa oikealle. Korkeusmittarin näyttäessäkoko ajan samaa lukemaa eikä painelukemaa muuteta, niin:", "answers": [
+    {"question": "Lennettäessä Euroopassa koet sortumaa oikealle. Korkeusmittarin näyttäessä koko ajan samaa lukemaa eikä painelukemaa muuteta, niin:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lennetään yhä korkeammalla tosikorkeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Lennetään yhä korkeammalla mittarikorkeudella."},
-      {"answerCorrectness": "incorrect", "answerText": " Lennetään yhä matalammalla tosikorkeudella."},
+      {"answerCorrectness": "correct", "answerText": " Lennetään yhä matalammalla tosikorkeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Lennetään yhä matalammalla mittarikorkeudella."}]},
   
-    {"question": "Lennät samalla korkeusmittarin näyttämää korkeutta ja mittariin on asetettu QNH1015, kun huomaat että ulkolämpötila on jatkuvasti pudonnut. Mitä voit olettaatapahtuvan tosikorkeudelle?", "answers": [
+    {"question": "Lennät samalla korkeusmittarin näyttämää korkeutta ja mittariin on asetettu QNH 1015, kun huomaat että ulkolämpötila on jatkuvasti pudonnut. Mitä voit olettaa tapahtuvan tosikorkeudelle?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa."},
-      {"answerCorrectness": "incorrect", "answerText": " Pienenee."},
+      {"answerCorrectness": "correct", "answerText": " Pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Kasvaa jonka jälkeen pienenee."},
       {"answerCorrectness": "incorrect", "answerText": " Pysyy samana."}]},
   
     {"question": "Väline, jolla mitataan ilman kosteutta, kutsutaan nimellä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kostealämpötilamittari."},
       {"answerCorrectness": "incorrect", "answerText": " Hygroskooppi."},
-      {"answerCorrectness": "incorrect", "answerText": " Hygrometri."},
+      {"answerCorrectness": "correct", "answerText": " Hygrometri."},
       {"answerCorrectness": "incorrect", "answerText": " Hydrometri."}]},
   
     {"question": "Tiivistymistä tapahtuessa pätee seuraava: Mitä korkeampi lämpötila, sitä ___määrä latenttia lämpöä ___.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " suurempi / sitoutuu."},
-      {"answerCorrectness": "incorrect", "answerText": " pienempi / vapautuu."},
+      {"answerCorrectness": "correct", "answerText": " pienempi / vapautuu."},
       {"answerCorrectness": "incorrect", "answerText": " pienempi / sitoutuu."},
       {"answerCorrectness": "incorrect", "answerText": " suurempi / vapautuu."}]},
   
     {"question": "Kostealämpötila on yleensä alempi kuin lämpötila, koska:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Haihdunta jäähdyttää kostealämpötilamittaria."},
-      {"answerCorrectness": "incorrect", "answerText": " Tiivistyminen vapauttaa latenttia lämpöä."},
+      {"answerCorrectness": "correct", "answerText": " Tiivistyminen vapauttaa latenttia lämpöä."},
       {"answerCorrectness": "incorrect", "answerText": " Tiivistymistä tapahtuu mittarin puuvillasukan kohdalla."},
       {"answerCorrectness": "incorrect", "answerText": " Latenttia lämpöä sitoutuu kostealämpötilamittariin."}]},
   
     {"question": "Olomuodon muutos, jossa höyry muuttuu nestemäiseksi, kutsutaan:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Haihdunnaksi, jossa latenttia lämpöä sitoutuu."},
-      {"answerCorrectness": "incorrect", "answerText": " Tiivistymiseksi, jossa latenttia lämpöä vapautuu."},
+      {"answerCorrectness": "correct", "answerText": " Tiivistymiseksi, jossa latenttia lämpöä vapautuu."},
       {"answerCorrectness": "incorrect", "answerText": " Tiivistymiseksi, jossa latenttia lämpöä sitoutuu."},
       {"answerCorrectness": "incorrect", "answerText": " Haihdunnaksi, jossa latenttia lämpöä vapautuu."}]},
   
     {"question": "Olomuodon muutos kiinteästä aineesta kaasuksi kutsutaan:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Haihtumiseksi."},
       {"answerCorrectness": "incorrect", "answerText": " Säteilyksi."},
-      {"answerCorrectness": "incorrect", "answerText": " Sublimaatioksi."},
+      {"answerCorrectness": "correct", "answerText": " Sublimaatioksi."},
       {"answerCorrectness": "incorrect", "answerText": " Tiivistymiseksi."}]},
   
-    {"question": "Yöllä, kun on kirkas taivas, pintalämpötila ____, suhteellinen kosteus ____ jakastepistelämpötila ____.", "answers": [
+    {"question": "Yöllä, kun on kirkas taivas, pintalämpötila ____, suhteellinen kosteus ____ ja kastepistelämpötila ____.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " nousee / kasvaa / laskee."},
       {"answerCorrectness": "incorrect", "answerText": " laskee / kasvaa / pysyy muuttomattomana."},
       {"answerCorrectness": "incorrect", "answerText": " laskee / kasvaa / nousee."},
-      {"answerCorrectness": "incorrect", "answerText": " laskee / pienenee / pysyy muuttumattomana."}]},
+      {"answerCorrectness": "correct", "answerText": " laskee / pienenee / pysyy muuttumattomana."}]},
   
     {"question": "Mikä seuraavista prosesseista voi johtaa ilman kyllästymiseen?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Tiivistyminen."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpeneminen."},
-      {"answerCorrectness": "incorrect", "answerText": " Höyrystyminen."},
+      {"answerCorrectness": "correct", "answerText": " Höyrystyminen."},
       {"answerCorrectness": "incorrect", "answerText": " Sulaminen."}]},
   
-    {"question": "Tilanteessa, jossa suhteellinen kosteus on 60% ja ympäristön lämpötilavähete(lapse rate) on pienempi kuin kostea-adiabaattinen lämpötilavähete, ilmapakettijoutuu pakotettuun nousevaan liikkeeseen. Tällöin tilanne on:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Epävakaa ja ilmapaketti jatkaa nousevaa liikettään."},
-      {"answerCorrectness": "incorrect", "answerText": " Vakaa ja ilmapaketti jatkaa nousevaa liikettään."},
-      {"answerCorrectness": "incorrect", "answerText": " Epävakaa ja ilmapaketti pyrkii palautumaan lähtötasolleen."},
-      {"answerCorrectness": "incorrect", "answerText": " Vakaa ja ilmapaketti pyrkii palautumaan lähtötasolleen."}]},
-  
-    {"question": "Ilma-aluksen lentäjä lähestyy vuoristoa tuulen suojan puolelta muutama satajalkaa huipun yläpuolella ja havaitsee mantelinmuotoisia pilviä. Mikä seuraavistalento-olosuhteista on odotettavissa?", "answers": [
+    {"question": "Ilma-aluksen lentäjä lähestyy vuoristoa tuulen suojan puolelta muutama satajalkaa huipun yläpuolella ja havaitsee mantelin muotoisia pilviä. Mikä seuraavistalento-olosuhteista on odotettavissa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Voimakkaita katabaattisia alaspäin suuntautuneita virtauksia vuoren huipun kohdalla."},
-      {"answerCorrectness": "incorrect", "answerText": " Voimakkaita alaspäin suuntautuneita virtauksia ennen vuoren huippua ja voimakkaitaylöspäin suuntautuneita virtauksia huipun ylityksen jälkeen vuoren tuulen puolella."},
+      {"answerCorrectness": "incorrect", "answerText": " Voimakkaita alaspäin suuntautuneita virtauksia ennen vuoren huippua ja voimakkaita ylöspäin suuntautuneita virtauksia huipun ylityksen jälkeen vuoren tuulen puolella."},
       {"answerCorrectness": "incorrect", "answerText": " Voimakkaita katabaattisia alaspäin suuntautuneita virtauksia ja turbulenssia vuorenhuipun ylityksen jälkeen."},
-      {"answerCorrectness": "incorrect", "answerText": " Voimakkaita ylöspäinsuuntautuneita virtauksia ennen vuoren huippua ja voimakkaitaalaspäinsuuntautuneita virtauksia vuoren huipun ylityksen jälkeen."}]},
+      {"answerCorrectness": "correct", "answerText": " Voimakkaita ylöspäinsuuntautuneita virtauksia ennen vuoren huippua ja voimakkaita alaspäinsuuntautuneita virtauksia vuoren huipun ylityksen jälkeen."}]},
   
     {"question": "Todellista lämpötilanmuutosta korkeuden kasvaessa kutsutaan:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Adiabaattiseksi lämpötilaväheteeksi (adiabatic lapse rate)."},
+      {"answerCorrectness": "correct", "answerText": " Adiabaattiseksi lämpötilaväheteeksi (adiabatic lapse rate)."},
       {"answerCorrectness": "incorrect", "answerText": " Diagrammiksi."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötilakäyräksi."},
       {"answerCorrectness": "incorrect", "answerText": " Ympäristön lämpötilavähetteeksi (enviromental lapse rate)."}]},
   
     {"question": "Mikä seuraavista väittämistä on tosi koskien alimman kerroksen tuuliväännettä(wind shear)?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Voidaan kokea 15 - 20 mailia nopeasti liikkuvan ukkosen edellä."},
+      {"answerCorrectness": "correct", "answerText": " Voidaan kokea 15 - 20 mailia nopeasti liikkuvan ukkosen edellä."},
       {"answerCorrectness": "incorrect", "answerText": " Löytyy vain mikropurkauksen reuna-alueilta."},
       {"answerCorrectness": "incorrect", "answerText": " Löytyy vain ukkospilven alasimen-muotoisen yläosan alapuolella."},
       {"answerCorrectness": "incorrect", "answerText": " On harvinainen kun on voimakas inversio maanpinnan lähellä."}]},
   
-    {"question": "Ilma-alus lentää vuoriston läheisyydessä. Vuoristo on pohjois-eteläsuuntainen jatuuli on lännestä itään. Mikä seuraavista tilanteista voi johtaa siihen että ilmaaluskohtaa vaarallisia alaspäin suuntautuneita virtauksia?", "answers": [
+    {"question": "Ilma-alus lentää vuoriston läheisyydessä. Vuoristo on pohjois-eteläsuuntainen ja tuuli on lännestä itään. Mikä seuraavista tilanteista voi johtaa siihen että ilmaalus kohtaa vaarallisia alaspäin suuntautuneita virtauksia?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lennettäessä pohjoisesta etelään kohti vuoristoa."},
       {"answerCorrectness": "incorrect", "answerText": " Lennettäessä lännestä itään kohti vuoristoa."},
       {"answerCorrectness": "incorrect", "answerText": " Lennettäessä etelästä pohjoiseen kohti vuoristoa."},
-      {"answerCorrectness": "incorrect", "answerText": " Lennettäessä idästä länteen kohti vuoristoa."}]},
+      {"answerCorrectness": "correct", "answerText": " Lennettäessä idästä länteen kohti vuoristoa."}]},
   
-    {"question": "Vuoristoaaltoja esiintyessä, voimakkain turbulenssi löytyy todennäköisemminlennettäessä:", "answers": [
+    {"question": "Vuoristoaaltoja esiintyessä, voimakkain turbulenssi löytyy todennäköisemmin lennettäessä:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vuoren huipun peittävässä pilvessä."},
-      {"answerCorrectness": "incorrect", "answerText": " Roottoripilvessä tai sen alapuolelta."},
+      {"answerCorrectness": "correct", "answerText": " Roottoripilvessä tai sen alapuolelta."},
       {"answerCorrectness": "incorrect", "answerText": " Keskikorkeuksissa, mantelinmuotoisten- ja roottoripilvien välistä."},
       {"answerCorrectness": "incorrect", "answerText": " Mantelinmuotoisessa pilvessä."}]},
   
-    {"question": "Kevyt ilma-alus lentää matalalla lähellä vuoristoa. Vuoristoa kohti on kova tuuli,joka voi aiheuttaa:1. Kovaa turbulenssia roottorivirtauksessa tai sen alapuolella.2. Alaspäin suuntautuneita ilmanvirtauksia, joiden nopeus voi ylittää ilmaaluksennousunopeuden.3. Normaalia suuremman jäätämisen todennäköisyyden vuoren peittävässäpilvessä.4. Mantelinmuotoisia pilviä.", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 1, 2, 3 ja 4 ovat oikein."},
+    {"question": "Kevyt ilma-alus lentää matalalla lähellä vuoristoa. Vuoristoa kohti on kova tuuli,joka voi aiheuttaa:1. Kovaa turbulenssia roottorivirtauksessa tai sen alapuolella.2. Alaspäin suuntautuneita ilmanvirtauksia, joiden nopeus voi ylittää ilmaaluksen nousunopeuden.3. Normaalia suuremman jäätämisen todennäköisyyden vuoren peittävässäpilvessä.4. Mantelinmuotoisia pilviä.", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 1, 2, 3 ja 4 ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Vain 1 ja 2 ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Vain 1, 2 ja 3 ovat oikein."},
       {"answerCorrectness": "incorrect", "answerText": " Vain 1 ja 3 ovat oikein."}]},
@@ -288,12 +283,12 @@
     {"question": "Mihin alla mainittuihin pilvisyyksiin valokehä auringon tai kuun ympärillä viittaa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Cirrocumulus tai cumulus."},
       {"answerCorrectness": "incorrect", "answerText": " Korkea pilvisyys."},
-      {"answerCorrectness": "incorrect", "answerText": " Altostratus tai cirrostratus."},
+      {"answerCorrectness": "correct", "answerText": " Altostratus tai cirrostratus."},
       {"answerCorrectness": "incorrect", "answerText": " Cumulus tai stratocumulus."}]},
   
-    {"question": "Pintalämpötila on +21°C ja kastepiste +7°C. Mille korkeudelle kumpupilvenalaraja muodostuu?", "answers": [
+    {"question": "Pintalämpötila on +21°C ja kastepiste +7°C. Mille korkeudelle kumpupilven alaraja muodostuu?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 560 ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 5.600 ft."},
+      {"answerCorrectness": "correct", "answerText": " 5.600 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 4.000 ft."},
       {"answerCorrectness": "incorrect", "answerText": " 56.000 ft."}]},
   
@@ -301,233 +296,209 @@
       {"answerCorrectness": "incorrect", "answerText": " NS."},
       {"answerCorrectness": "incorrect", "answerText": " AC."},
       {"answerCorrectness": "incorrect", "answerText": " AS."},
-      {"answerCorrectness": "incorrect", "answerText": " CB."}]},
+      {"answerCorrectness": "correct", "answerText": " CB."}]},
   
     {"question": "Valitse seuraavista oikea vaihtoehto järjestyksessä: ala-, keski- ja yläpilvi.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Nimbostratus, Cumulonimbus, Cirrus."},
-      {"answerCorrectness": "incorrect", "answerText": " Stratus, Altocumulus, Cirrus."},
+      {"answerCorrectness": "correct", "answerText": " Stratus, Altocumulus, Cirrus."},
       {"answerCorrectness": "incorrect", "answerText": " Altostratus, Altocumulus, Cirrus."},
       {"answerCorrectness": "incorrect", "answerText": " Cirrus, Cumulonimbus, Stratus."}]},
   
     {"question": "Mitä liitteet \"nimbus\" tai \"nimbo\" tarkoittavat?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Keskipilveä."},
       {"answerCorrectness": "incorrect", "answerText": " Tumma ja uhkaava."},
-      {"answerCorrectness": "incorrect", "answerText": " Sadetta tai sadetta tuova."},
+      {"answerCorrectness": "correct", "answerText": " Sadetta tai sadetta tuova."},
       {"answerCorrectness": "incorrect", "answerText": " Hattara, irrallaan oleva tai kuitumainen."}]},
   
     {"question": "Yleensä stratukseen liittyvä sade on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kova sadekuuro."},
       {"answerCorrectness": "incorrect", "answerText": " Kova sade."},
-      {"answerCorrectness": "incorrect", "answerText": " Tihkusadetta."},
+      {"answerCorrectness": "correct", "answerText": " Tihkusadetta."},
       {"answerCorrectness": "incorrect", "answerText": " Heikko sadekuuro."}]},
   
     {"question": "Epävakaa ilma joutuu vuoriston yhteydessä pakotettuun nousevaan liikkeeseen.Millaista säätä on odotettavissa vuoriston tuulen puolella?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Paksuja stratusmaisia pilviä, todennäköisesti nimbostratusta."},
       {"answerCorrectness": "incorrect", "answerText": " Ei pilvisyyttä, sillä ilma vajoaa alaspäin ja lämpiää adiabaattisesti vuoren huipun ylityksenjälkeen."},
-      {"answerCorrectness": "incorrect", "answerText": " Korkeaksi kasvavia pilviä."},
+      {"answerCorrectness": "correct", "answerText": " Korkeaksi kasvavia pilviä."},
       {"answerCorrectness": "incorrect", "answerText": " Vuoren huippua peittävä pilvisyys ja mahdollisesti altocumulus lenticularis."}]},
   
     {"question": "Suotuisat olosuhteet ukkosen kehitykselle ovat:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kehitystä laukaiseva tekijä, riittävä kosteus ja vakaa ilmakehä."},
-      {"answerCorrectness": "incorrect", "answerText": " Riittävä määrä kosteutta ja jyrkkä lämpötilavähete (lapse rate) riittävän paksussailmakerroksessa sekä kehitystä laukaisevaa tekijä."},
+      {"answerCorrectness": "correct", "answerText": " Riittävä määrä kosteutta ja jyrkkä lämpötilavähete (lapse rate) riittävän paksussa ilmakerroksessa sekä kehitystä laukaisevaa tekijä."},
       {"answerCorrectness": "incorrect", "answerText": " Jyrkkä lämpötilavähete (lapse rate), vakaa ilma paksussa kerroksessa ja riittävä kosteus."},
-      {"answerCorrectness": "incorrect", "answerText": " Jyrkkä lämpötilavähete (lapse rate) paksussa kerroksessa, pieni suhteellinen kosteus jakehitystä laukaiseva tekijä."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Jyrkkä lämpötilavähete (lapse rate) paksussa kerroksessa, pieni suhteellinen kosteus ja kehitystä laukaiseva tekijä."}]},
   
-    {"question": "Mikä seuraavista sää-tilanteista synnyttää todennäköisemmin kumpupilviä,hyvää näkyvyyttä, kuuroittaista sadetta ja mahdollisesti silojään muodostumistapilvessä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Vakaa, kostea ilma ja orografinen noste."},
+    {"question": "Mikä seuraavista sää-tilanteista synnyttää todennäköisemmin kumpupilviä,hyvää näkyvyyttä, kuuroittaista sadetta ja mahdollisesti silojään muodostumista pilvessä?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Vakaa, kostea ilma ja orografinen noste."},
       {"answerCorrectness": "incorrect", "answerText": " Vakaa, kuiva ilma ja orografinen noste."},
       {"answerCorrectness": "incorrect", "answerText": " Epävakainen kostea ilma ilman nostetta aiheuttavaa tekijää."},
       {"answerCorrectness": "incorrect", "answerText": " Epävakainen kostea ilma ja orografinen noste."}]},
   
     {"question": "Ukkosen ____ vaiheessa pilvessä on ____. Täydennä lause oikeallavaihtoehdolla.", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " kehitys / ylös- ja alaspäin suuntautuneita ilmanvirtauksia."},
-      {"answerCorrectness": "incorrect", "answerText": " kypsässä / ylös- ja alaspäin suuntautuneita ilmanvirtauksia."},
+      {"answerCorrectness": "correct", "answerText": " kypsässä / ylös- ja alaspäin suuntautuneita ilmanvirtauksia."},
       {"answerCorrectness": "incorrect", "answerText": " häviämis / ylös- ja alaspäin suuntautuneita ilmanvirtauksia."},
       {"answerCorrectness": "incorrect", "answerText": " kehitys / vain alaspäin suuntautuneita ilmanvirtauksia."}]},
   
     {"question": "Missä ukkosen kehitysvaiheessa pilven sisällä on enimmäkseen alaspäinsuuntautuneita virtauksia?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kypsässä vaiheessa."},
       {"answerCorrectness": "incorrect", "answerText": " Kehitysvaiheessa."},
-      {"answerCorrectness": "incorrect", "answerText": " Häviämisvaiheessa."},
+      {"answerCorrectness": "correct", "answerText": " Häviämisvaiheessa."},
       {"answerCorrectness": "incorrect", "answerText": " Kumpupilvivaiheessa."}]},
   
     {"question": "Cumulonimbus-pilven kehittymiselle tarvitaan:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Matala kerros erittäin epävakaista ja kosteaa ilmaa."},
       {"answerCorrectness": "incorrect", "answerText": " Matala kerros erittäin epävakaista ilmaa ja jyrkkä suuri lämpötilavähete (lapse rate)."},
-      {"answerCorrectness": "incorrect", "answerText": " Paksu kerros epävakaista ja kosteaa ilmaa."},
+      {"answerCorrectness": "correct", "answerText": " Paksu kerros epävakaista ja kosteaa ilmaa."},
       {"answerCorrectness": "incorrect", "answerText": " Paksu kerros erittäin epävakaista kosteaa ilmaa ja pieni lämpötilavähete (lapse rate)."}]},
   
     {"question": "Missä vaiheessa ukkospilven kehityksessä pilvessä on vain ylöspäinsuuntautuneita virtauksia?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kypsässä vaiheessa."},
-      {"answerCorrectness": "incorrect", "answerText": " Kumpupilvivaiheessa."},
+      {"answerCorrectness": "correct", "answerText": " Kumpupilvivaiheessa."},
       {"answerCorrectness": "incorrect", "answerText": " Loppuvaiheessa."},
       {"answerCorrectness": "incorrect", "answerText": " Häviämisvaiheessa."}]},
   
     {"question": "Mikä seuraavista olosuhteista kehittää todennäköisemmin ukkosta:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Pieni kosteus ja pieni lämpötilavähete (lapse rate)."},
       {"answerCorrectness": "incorrect", "answerText": " Pieni kosteus ja jyrkkä lämpötilavähete (lapse rate)."},
-      {"answerCorrectness": "incorrect", "answerText": " Suuri kosteus ja jyrkkä lämpötilavähete (lapse rate)."},
+      {"answerCorrectness": "correct", "answerText": " Suuri kosteus ja jyrkkä lämpötilavähete (lapse rate)."},
       {"answerCorrectness": "incorrect", "answerText": " Suuri kosteus ja pieni lämpötilavähete (lapse rate)."}]},
   
     {"question": "Ilma-alukselle vaarallisia CB-pilvisyyteen liittyviä ilmiöitä voidaan kokea:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " CB-pilven läheisyydessä."},
+      {"answerCorrectness": "correct", "answerText": " CB-pilven läheisyydessä."},
       {"answerCorrectness": "incorrect", "answerText": " Vain kun ilma-alus on pilven ulkopuolella."},
       {"answerCorrectness": "incorrect", "answerText": " Vain kun ilma-alus on pilven sisällä."},
       {"answerCorrectness": "incorrect", "answerText": " Vain kun ilma alus on pilven sisällä tai alapuolella."}]},
   
     {"question": "Ukkospilven kypsään vaiheeseen liittyvät vaaralliset ilmiöt ovat salamointi,turbulenssi sekä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Jäätäminen, tihkusade ja mikropurkaus."},
+      {"answerCorrectness": "correct", "answerText": " Jäätäminen, tihkusade ja mikropurkaus."},
       {"answerCorrectness": "incorrect", "answerText": " Mikropurkaus, tuuliväänne (windshear) ja alasimen muotoinen yläosa."},
       {"answerCorrectness": "incorrect", "answerText": " Jäätäminen, mikropurkaus ja tuuliväänne (wind shear)."},
       {"answerCorrectness": "incorrect", "answerText": " Tuuliväänne, rakeet ja sumu."}]},
   
-    {"question": "Tuuli 2000 ft:n korkeudella lentokentän kohdalla on 330/15kt. Peukalosääntöäkäyttäen, mikä olisi odotettavissa oleva pintatuuli?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 355/30kt."},
-      {"answerCorrectness": "incorrect", "answerText": " 305/30kt."},
-      {"answerCorrectness": "incorrect", "answerText": " 300/07kt."},
-      {"answerCorrectness": "incorrect", "answerText": " 315/30kt."}]},
-  
     {"question": "Pohjoisella pallonpuoliskolla coriolisvoima kääntää liikkuvan ilman:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Oikealle, ja siten geostrofinen tuuli virtaa isobaarien suuntaisesti n. 2000ft aglkorkeudella."},
+      {"answerCorrectness": "correct", "answerText": " Oikealle, ja siten geostrofinen tuuli virtaa isobaarien suuntaisesti n. 2000ft agl korkeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Oikealle, ja siten tuuli virtaa hiukan isobaarien poikki n. 2000ft agl korkeudella."},
-      {"answerCorrectness": "incorrect", "answerText": " Vasemmalle, ja siten geostrofinen tuuli virtaa isobaarien suuntaisesti n. 2000ft aglkorkeudella."},
+      {"answerCorrectness": "incorrect", "answerText": " Vasemmalle, ja siten geostrofinen tuuli virtaa isobaarien suuntaisesti n. 2000ft agl korkeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Vasemmalle, ja siten tuuli virtaa hiukan isobaarien poikki n. 2000ft agl korkeudella."}]},
   
-    {"question": "Pohjoisella pallonpuoliskolla, tuulet antisyklonin (korkeapaineen) ympärilläpintakartassa virtaavat:", "answers": [
+    {"question": "Pohjoisella pallonpuoliskolla, tuulet antisyklonin (korkeapaineen) ympärillä pintakartassa virtaavat:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vastapäivään."},
       {"answerCorrectness": "incorrect", "answerText": " Syklonaalisesti."},
-      {"answerCorrectness": "incorrect", "answerText": " Myötäpäivään."},
+      {"answerCorrectness": "correct", "answerText": " Myötäpäivään."},
       {"answerCorrectness": "incorrect", "answerText": " Myötäpäivään, jos on lämmin ilma ja vastapäivään, jos on kylmä ilma."}]},
   
-    {"question": "Pintakartassa pohjoisen pallonpuoliskon alatuulet virtaavat matalapaineenympäri:", "answers": [
+    {"question": "Pintakartassa pohjoisen pallonpuoliskon alatuulet virtaavat matalapaineen ympäri:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Myötäpäivään."},
       {"answerCorrectness": "incorrect", "answerText": " Antisyklonaalisesti."},
       {"answerCorrectness": "incorrect", "answerText": " Joko myötä- tai vastapäivään riippuen siitä, onko matalapaine syklonaalinen vaiantisyklonaalinen."},
-      {"answerCorrectness": "incorrect", "answerText": " Vastapäivään."}]},
+      {"answerCorrectness": "correct", "answerText": " Vastapäivään."}]},
   
     {"question": "Advektiosumu (siirtymäsumu) muodostuu useimmiten, kun:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " On kova tuuli, lämmin kostea ilmamassa ja kirkas pilvetön yö."},
-      {"answerCorrectness": "incorrect", "answerText": " On lähes tyyntä ja lämmin kostea ilmamassa virtaa kylmemmän alustan yli jäähtyenkastepisteen alapuolelle."},
-      {"answerCorrectness": "incorrect", "answerText": " On kohtalainen tuuli ja lämmin kostea ilmamassa virtaa lämpimän alustan yli ja lämpiääkastepisteen alapuolelle."},
-      {"answerCorrectness": "incorrect", "answerText": " On kohtalainen tuuli ja lämmin kostea ilmamassa virtaa kylmemmän alustan yli jäähtyenkastepisteen alapuolelle."}]},
+      {"answerCorrectness": "incorrect", "answerText": " On lähes tyyntä ja lämmin kostea ilmamassa virtaa kylmemmän alustan yli jäähtyen kastepisteen alapuolelle."},
+      {"answerCorrectness": "incorrect", "answerText": " On kohtalainen tuuli ja lämmin kostea ilmamassa virtaa lämpimän alustan yli ja lämpiää kastepisteen alapuolelle."},
+      {"answerCorrectness": "correct", "answerText": " On kohtalainen tuuli ja lämmin kostea ilmamassa virtaa kylmemmän alustan yli jäähtyen kastepisteen alapuolelle."}]},
   
-    {"question": "Matalalla oleva utu huonontaa näkyvyyttä lennettäessä 2000ft:n korkeudessa.Jotta näkyvyys parantuisi, sinun pitää:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lentää korkeammalla."},
+    {"question": "Matalalla oleva utu huonontaa näkyvyyttä lennettäessä 2000ft:n korkeudessa. Jotta näkyvyys parantuisi, sinun pitää:", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Lentää korkeammalla."},
       {"answerCorrectness": "incorrect", "answerText": " Lentää juuri utukerroksen yläreunalla."},
       {"answerCorrectness": "incorrect", "answerText": " Sytyttää laskeutumisvalot ja strobe-valot."},
       {"answerCorrectness": "incorrect", "answerText": " Lentää matalammalla."}]},
   
-    {"question": "Mitkä seuraavista olosuhteista ovat suotuisia säteilysumun muodostumistavarten?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Korkea suhteellinen kosteus, heikko tuuli ja pilvetön taivas."},
+    {"question": "Mitkä seuraavista olosuhteista ovat suotuisia säteilysumun muodostumista varten?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Korkea suhteellinen kosteus, heikko tuuli ja pilvetön taivas."},
       {"answerCorrectness": "incorrect", "answerText": " Matala suhteellinen kosteus, heikko tuuli ja pilvetön taivas."},
       {"answerCorrectness": "incorrect", "answerText": " Korkea suhteellinen kosteus, heikko tuuli ja pilviä."},
       {"answerCorrectness": "incorrect", "answerText": " Korkea suhteellinen kosteus, kohtalainen tuuli ja pilviä."}]},
   
-    {"question": "Aamulla, sisämaassa olevalla lentokentällä, havaitaan säteilysumua. Kun tuulivoimistuu 10 solmuun, mitä on odotettavissa?", "answers": [
+    {"question": "Aamulla, sisämaassa olevalla lentokentällä, havaitaan säteilysumua. Kun tuuli voimistuu 10 solmuun, mitä on odotettavissa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Sekoittumisen määrä kasvaa, joka lisää sumun muodostumista."},
       {"answerCorrectness": "incorrect", "answerText": " Sumu sakenee."},
       {"answerCorrectness": "incorrect", "answerText": " Sumu nousee ja muodostaa matalaa stratus-pilvisyyttä."},
-      {"answerCorrectness": "incorrect", "answerText": " Sumu leviää."}]},
+      {"answerCorrectness": "correct", "answerText": " Sumu leviää."}]},
   
-    {"question": "Mitä on odotettavissa kylmän rintaman ylityksen yhteydessä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kastepiste nousee, lämpötila laskee ja tuuli kääntyy vastapäivään."},
-      {"answerCorrectness": "incorrect", "answerText": " Kastepiste laskee, lämpötila laskee ja tuuli kääntyy myötäpäivään."},
-      {"answerCorrectness": "incorrect", "answerText": " Kastepiste ja lämpötila pysyy matalana, tuuli kääntyy voimakkaasti vastapäivään."},
-      {"answerCorrectness": "incorrect", "answerText": " Kastepiste nousee, lämpötila laskee ja tuuli kääntyy myötäpäivään."}]},
-  
-    {"question": "Jos muhkurainen jäätyyppi kerääntyy ja kasvaa ilma-aluksen johtoreunastaeteenpäin, mikä jäätämistyyppi voisi olla kyseessä?", "answers": [
+    {"question": "Jos muhkurainen jäätyyppi kerääntyy ja kasvaa ilma-aluksen johtoreunasta eteenpäin, mikä jäätämistyyppi voisi olla kyseessä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kuura."},
       {"answerCorrectness": "incorrect", "answerText": " Silojää."},
       {"answerCorrectness": "incorrect", "answerText": " Jäätävä sade."},
-      {"answerCorrectness": "incorrect", "answerText": " Rosojää."}]},
-  
-    {"question": "Lämpimän rintaman ylityksen yhteydessä pintatuuli:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Pysyy vakiona."},
-      {"answerCorrectness": "incorrect", "answerText": " Kääntyy vastapäivään."},
-      {"answerCorrectness": "incorrect", "answerText": " Kääntyy myötäpäivään."},
-      {"answerCorrectness": "incorrect", "answerText": " Kääntyy ensin myötäpäivään ja sen jälkeen vastapäivään."}]},
+      {"answerCorrectness": "correct", "answerText": " Rosojää."}]},
   
     {"question": "Sadealue lämpimän rintaman yhteydessä voi ulottua jopa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 200 mailia pintarintaman edelle."},
-      {"answerCorrectness": "incorrect", "answerText": " 500 mailia pintarintaman edelle."},
+      {"answerCorrectness": "correct", "answerText": " 500 mailia pintarintaman edelle."},
       {"answerCorrectness": "incorrect", "answerText": " 2 mailia pintarintaman edelle."},
       {"answerCorrectness": "incorrect", "answerText": " 50 mailia pintarintaman edelle."}]},
   
     {"question": "Mihin seuraavista rintamista liittyy todennäköisemmin ukkosta?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kylmä rintama."},
       {"answerCorrectness": "incorrect", "answerText": " Paikallaan pysyvä (stationäärinen) rintama."},
-      {"answerCorrectness": "incorrect", "answerText": " Lämmin rintama."},
+      {"answerCorrectness": "correct", "answerText": " Lämmin rintama."},
       {"answerCorrectness": "incorrect", "answerText": " Korkeapaineen selänne."}]},
   
     {"question": "Silojää muodostuu, kun:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Jääjyväset osuvat ilma-alukseen."},
       {"answerCorrectness": "incorrect", "answerText": " Vesihöyry jäätyy ilma-alukseen."},
-      {"answerCorrectness": "incorrect", "answerText": " Isot alijäähtyneet pisarat leviävät jäätymisen yhteydessä."},
+      {"answerCorrectness": "correct", "answerText": " Isot alijäähtyneet pisarat leviävät jäätymisen yhteydessä."},
       {"answerCorrectness": "incorrect", "answerText": " Pienet alijäähtyneet pisarat osuvat ilma-alukseen."}]},
   
-    {"question": "Mikä muutos säähän on odotettavissa tyypillisen lämpimän rintaman ylityksenyhteydessä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine laskee, 8/8 pilvisyyttä, pilven alaraja pienenee ja huono näkyvyys."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilmanpaineen lasku pysähtyy, 4/8 pilvisyyttä jossa matala alaraja ja nopeasti paranevanäkyvyys."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine laskee, 8/8 pilvisyyttä, pilven alaraja pienenee ja näkyvyys paranee."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine kasvaa tasaisesti, korkeintaan 4/8 pilvisyyttä ja hyvä näkyvyys."}]},
-  
-    {"question": "Mikä on pääsyy sille, että vesi voi olla nestemäisessä muodossa, vaikkalämpötila on pakkasen puolella?", "answers": [
+    {"question": "Mikä on pääsyy sille, että vesi voi olla nestemäisessä muodossa, vaikka lämpötila on pakkasen puolella?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vedellä menee jonkin aikaa jäähtyä pakkasen puolelle."},
-      {"answerCorrectness": "incorrect", "answerText": " Siinä ei ole jäätymisytimiä."},
+      {"answerCorrectness": "correct", "answerText": " Siinä ei ole jäätymisytimiä."},
       {"answerCorrectness": "incorrect", "answerText": " Vesi on hygroskooppista."},
       {"answerCorrectness": "incorrect", "answerText": " Siinä ei ole tiivistymisytimiä."}]},
   
-    {"question": "Lennät pakkasen puolella kylmässä ilmamassassa juuri ennen lämmintärintamaa. Jos alueella sataa, niin minkä tyyppistä jäätämistä voisi olla kyseessä?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Rosojää."},
+    {"question": "Lennät pakkasen puolella kylmässä ilmamassassa juuri ennen lämmintä rintamaa. Jos alueella sataa, niin minkä tyyppistä jäätämistä voisi olla kyseessä?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Rosojää."},
       {"answerCorrectness": "incorrect", "answerText": " Kuura."},
       {"answerCorrectness": "incorrect", "answerText": " Kaasuttimen jäätyminen."},
       {"answerCorrectness": "incorrect", "answerText": " Jäätävä sade tai silojää."}]},
   
     {"question": "Mikä seuraavista on oikea tulkinta alla olevasta METARista? METAR EGKL130350Z 32005KT 0900 0400N DZ BCFG VV002=", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Voimassa kuukauden 13. päivä klo 0300 - 1500Z, pintatuuli 320° T/05kt, vallitsevanäkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta,sumuhattaroita ja vertikaalinäkyvyys 200ft."},
+      {"answerCorrectness": "incorrect", "answerText": " Voimassa kuukauden 13. päivä klo 0300 - 1500Z, pintatuuli 320° T/05kt, vallitseva näkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta,sumuhattaroita ja vertikaalinäkyvyys 200ft."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmoitettu kuukauden 13. päivä klo 0350Z, pintatuuli 320° magneettinen suunta, 05kt,vallitseva näkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta,sumuhattaroita ja vertikaalinäkyvyys 200ft."},
-      {"answerCorrectness": "incorrect", "answerText": " Havaittu kuukauden 13. päivä klo 0350Z, pintatuuli 320° tosisuunta, 05kt, vallitsevanäkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta,sumuhattaroita ja vertikaalinäkyvyys 200ft."},
+      {"answerCorrectness": "correct", "answerText": " Havaittu kuukauden 13. päivä klo 0350Z, pintatuuli 320° tosisuunta, 05kt, vallitseva näkyvyys 900m, huonoin näkyvyys 400m pohjoiseen, kohtalaista tihkusadetta,sumuhattaroita ja vertikaalinäkyvyys 200ft."},
       {"answerCorrectness": "incorrect", "answerText": " Voimassa klo 1300Z - 1350Z, pintatuuli 320° T/05kt, vallitseva näkyvyys 900m, huonoinnäkyvyys 400m pohjoiseen, kohtalaista tihkusadetta, sumuhattaroita ja vertikaalinäkyvyys200ft."}]},
   
     {"question": "Kun TREND on liitetty METARiin, TRENDin voimassaoloaika on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 1 tunti havainnon jälkeen."},
       {"answerCorrectness": "incorrect", "answerText": " 1 tunti laatimisen jälkeen."},
-      {"answerCorrectness": "incorrect", "answerText": " 2 tuntia havainnon jälkeen."},
+      {"answerCorrectness": "correct", "answerText": " 2 tuntia havainnon jälkeen."},
       {"answerCorrectness": "incorrect", "answerText": " 30 minuuttia laatimisen jälkeen."}]},
   
     {"question": "METARin näkyvyysryhmässä R20/0050 tarkoittaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kiitotiellä 20, näkyvyys alle 5000 metriä."},
       {"answerCorrectness": "incorrect", "answerText": " Kiitotiellä 20, näkyvyys 500 metriä mitattuna kiitotien näkyvyysmittareilla."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmoitettu kiitotien näkyvyys 50 metriä, mitattuna kiitotien näkyvyysmittareilla viimeisen 20minuutin aikana."},
-      {"answerCorrectness": "incorrect", "answerText": " Mitattuna kiitotien 20 mittauslaitteistolla, näkyvyys on 50 metriä."}]},
+      {"answerCorrectness": "correct", "answerText": " Mitattuna kiitotien 20 mittauslaitteistolla, näkyvyys on 50 metriä."}]},
   
     {"question": "Sanoma \"BECMG FM 1100 -SHRA\" METARissa tarkoittaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Klo 1100 UTC sadekuurojen loppuminen."},
       {"answerCorrectness": "incorrect", "answerText": " Alkaen klo 1100 UTC, kohtalaista kuuroittaista sadetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Alkaen klo 1100 UTC, heikkoa kuuroittaista sadetta."},
+      {"answerCorrectness": "correct", "answerText": " Alkaen klo 1100 UTC, heikkoa kuuroittaista sadetta."},
       {"answerCorrectness": "incorrect", "answerText": " Alkaen klo 1100 UTC ja klo 0000 UTC asti, heikkoja sadekuuroja."}]},
   
     {"question": "METARissa lämpötilaryhmässä 28/24 tarkoittaa:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Lämpötila 28°C ja kastepiste 24°C."},
+      {"answerCorrectness": "correct", "answerText": " Lämpötila 28°C ja kastepiste 24°C."},
       {"answerCorrectness": "incorrect", "answerText": " Kuivalämpötila 28°C ja kostealämpötila 24°C."},
       {"answerCorrectness": "incorrect", "answerText": " Kastepiste 28°C ja lämpötila 24°C."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila on 28°C havaintohetkellä, mutta odotettavissa muuttuvan 24°C asteeseenTREND ilmoituksen jälkeen."}]},
   
-    {"question": "Alla olevassa METARissa puutuu pilvenkorkeus. Millä korkeudella voisit odottaapilven pohjan olevan, jos kyseessä olisi kumpupilviä?28005KT 9999 SCT??? 12/05 Q1020 NOSIG", "answers": [
+    {"question": "Alla olevassa METARissa puuttuu pilvenkorkeus. Millä korkeudella voisit odottaa pilven pohjan olevan, jos kyseessä olisi kumpupilviä? 28005KT 9999 SCT??? 12/05 Q1020 NOSIG", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " SCT042."},
       {"answerCorrectness": "incorrect", "answerText": " SCT020."},
-      {"answerCorrectness": "incorrect", "answerText": " SCT028."},
+      {"answerCorrectness": "correct", "answerText": " SCT028."},
       {"answerCorrectness": "incorrect", "answerText": " SCT280."}]},
   
     {"question": "Jos \"minimum sector altitude\" ei ole määräävä tekijä, niin CAVOK TAFissa taiMETARissa tarkoittaa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vallitseva näkyvyys 10NM tai enemmän, ei hajanaisia pilviä alle 5000ft."},
       {"answerCorrectness": "incorrect", "answerText": " Vallitseva näkyvyys 10km tai enemmän, 1/8 tai 2/8 pilviä alle 5000ft."},
-      {"answerCorrectness": "incorrect", "answerText": " Vallitseva näkyvyys 10km tai enemmän, ei pilviä alle 5000ft."},
+      {"answerCorrectness": "correct", "answerText": " Vallitseva näkyvyys 10km tai enemmän, ei pilviä alle 5000ft."},
       {"answerCorrectness": "incorrect", "answerText": " Vallitseva näkyvyys 10NM tai enemmän, ei pilviä alle 5000ft."}]},
   
     {"question": "Mikä seuraavista on oikea tulkinta seuraavasta TAFista:LYBE 161100Z 1612/1712 VRB08KT 9999 SCT025?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Havaittu 1612 UTC; pintatuuli vaihteleva suunnaltaan ja voimakkuudeltaan; vallitsevanäkyvyys 10km; pilven alaraja 2500ft maanpinnan yläpuolella."},
-      {"answerCorrectness": "incorrect", "answerText": " Voimassa kuukauden 16. päivänä klo 1200 ja kuukauden 17. päivänä klo 1200 välisenäaikana; pintatuuli vaihteleva suunta 8kt; vallitseva näkyvyys 10km tai enemmän; 3/8 tai4/8 pilvisyyttä, alaraja 2500ft lentokentän yläpuolella."},
+      {"answerCorrectness": "correct", "answerText": " Voimassa kuukauden 16. päivänä klo 1200 ja kuukauden 17. päivänä klo 1200 välisenäaikana; pintatuuli vaihteleva suunta 8kt; vallitseva näkyvyys 10km tai enemmän; 3/8 tai4/8 pilvisyyttä, alaraja 2500ft lentokentän yläpuolella."},
       {"answerCorrectness": "incorrect", "answerText": " Voimassa 1612 ja 1712 UTC välisenä aikana; pintatuuli vaihteleva suunta 8kt; vallitsevanäkyvyys 10NM tai enemmän; pilven alaraja 2500ft keskimääräisen merenpinnanyläpuolella."},
       {"answerCorrectness": "incorrect", "answerText": " Havaittu 1611UTC; pintatuuli vaihteleva suunnaltaan ja voimakkuudeltaan;keskimääräinen voimakkuus 8kt; vallitseva näkyvyys 10km tai enemmän; pilven alaraja2500ft lentokentän yläpuolella."}]},
   
@@ -535,46 +506,48 @@
       {"answerCorrectness": "incorrect", "answerText": " Tulossa 1621 UTC ja 1701 UTC välisenä aikana 3/8-4/8 pilvisyyttä 300 ft maanpinnanyläpuolella."},
       {"answerCorrectness": "incorrect", "answerText": " Tulossa alkaen 1621 UTC 5/8-7/8 pilvisyyttä 3000ft maanpinnan yläpuolella."},
       {"answerCorrectness": "incorrect", "answerText": " Tulossa alkaen 1621 UTC 3/8-4/8 pilvisyyttä 300ft maanpinnan yläpuolella."},
-      {"answerCorrectness": "incorrect", "answerText": " Tulossa 16. päivä klo 2100UTC ja 17. päivä klo 0100UTC välisenä aikana 5/8-7/8pilvisyyttä 3000ft maanpinnan yläpuolella."}]},
+      {"answerCorrectness": "correct", "answerText": " Tulossa 16. päivä klo 2100UTC ja 17. päivä klo 0100UTC välisenä aikana 5/8-7/8pilvisyyttä 3000ft maanpinnan yläpuolella."}]},
   
     {"question": "Mitä tämä merkki sääkartassa tarkoittaa? (Liite LAPL/PPL 050-03)", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Ukkosta."},
+      {"answerCorrectness": "correct", "answerText": " Ukkosta."},
       {"answerCorrectness": "incorrect", "answerText": " Kovaa turbulenssia."},
       {"answerCorrectness": "incorrect", "answerText": " Kovaa jäätämistä."},
-      {"answerCorrectness": "incorrect", "answerText": " Voimakkaita vuoristoaaltoja."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Voimakkaita vuoristoaaltoja."}],
+      "image": "050-03.PNG"},
   
     {"question": "Mitä tämä merkki sääkartassa tarkoittaa? (Liite LAPL/PPL 050-04)", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kovaa jäätämistä."},
+      {"answerCorrectness": "correct", "answerText": " Kovaa jäätämistä."},
       {"answerCorrectness": "incorrect", "answerText": " Ukkosta."},
       {"answerCorrectness": "incorrect", "answerText": " Voimakkaita vuoristoaaltoja."},
-      {"answerCorrectness": "incorrect", "answerText": " Kovaa turbulenssia."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Kovaa turbulenssia."}],
+      "image": "050-04.PNG"},
   
     {"question": "Mikä on se ajallinen jakso, joka on kuvattu SWC kartassa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 3 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " Aika on yhden ennalta määritellyn hetken ennustettu tilanne."},
-      {"answerCorrectness": "incorrect", "answerText": " 6 tuntia."},
+      {"answerCorrectness": "correct", "answerText": " 6 tuntia."},
       {"answerCorrectness": "incorrect", "answerText": " 30 minuuttia."}]},
   
     {"question": "Mitä SWC kartassa kirjainyhdistelmä \"CB\" sisältää?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kohtalaista jäätämistä ja turbulenssia."},
-      {"answerCorrectness": "incorrect", "answerText": " Kohtalaista tai kovaa jäätämistä ja turbulenssia sekä rakeita."},
+      {"answerCorrectness": "correct", "answerText": " Kohtalaista tai kovaa jäätämistä ja turbulenssia sekä rakeita."},
       {"answerCorrectness": "incorrect", "answerText": " Kohtalaista tai kovaa jäätämistä ja turbulenssia."},
       {"answerCorrectness": "incorrect", "answerText": " Kovaa jäätämistä ja turbulenssia."}]},
   
     {"question": "Alue-ennuste ulottuu mihin asti maanpinnasta?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " FL010."},
-      {"answerCorrectness": "incorrect", "answerText": " FL100."},
+      {"answerCorrectness": "correct", "answerText": " FL100."},
       {"answerCorrectness": "incorrect", "answerText": " FL240."},
       {"answerCorrectness": "incorrect", "answerText": " FL180."}]},
   
     {"question": "Koska VOLMET päivitetään?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 2 kertaa päivässä."},
-      {"answerCorrectness": "incorrect", "answerText": " Kerran puolessa tunnissa."},
+      {"answerCorrectness": "correct", "answerText": " Kerran puolessa tunnissa."},
       {"answerCorrectness": "incorrect", "answerText": " Joka tunti."},
       {"answerCorrectness": "incorrect", "answerText": " 4 kertaa päivässä."}]},
   
     {"question": "VOLMETin määritelmä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Jatkuva radiolähetys säähavainnoista ja ennusteista valikoiduista lentokentistä."},
+      {"answerCorrectness": "correct", "answerText": " Jatkuva radiolähetys säähavainnoista ja ennusteista valikoiduista lentokentistä."},
       {"answerCorrectness": "incorrect", "answerText": " Tekstiviesti METAReista valikoiduista lentokentistä."},
       {"answerCorrectness": "incorrect", "answerText": " Faxilla saatavissa oleva viesti TAF ja METAR-sanomista valikoiduista lentokentistä."},
       {"answerCorrectness": "incorrect", "answerText": " Radiolähetys ennusteista valikoiduista lentokentistä."}]},
@@ -583,58 +556,59 @@
       {"answerCorrectness": "incorrect", "answerText": " Ilmasta maahan radiolähetys HF ja VHF alueilla."},
       {"answerCorrectness": "incorrect", "answerText": " Maasta ilmaan radiolähetys HF ja VHF alueilla."},
       {"answerCorrectness": "incorrect", "answerText": " Ilmasta maahan radiolähetys HF ja SVHF alueilla."},
-      {"answerCorrectness": "incorrect", "answerText": " Maasta ilmaan radiolähetys LF ja VHF alueilla."}]},
+      {"answerCorrectness": "correct", "answerText": " Maasta ilmaan radiolähetys LF ja VHF alueilla."}]},
   
     {"question": "Koska ATIS päivitetään?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Joka tunti."},
       {"answerCorrectness": "incorrect", "answerText": " Vain kun lentokentän tiedot muuttuvat."},
       {"answerCorrectness": "incorrect", "answerText": " Aina kun säätiedot muuttuvat."},
-      {"answerCorrectness": "incorrect", "answerText": " Kerran puolessa tunnissa."}]},
+      {"answerCorrectness": "correct", "answerText": " Kerran puolessa tunnissa."}]},
   
     {"question": "Mikä on ATIS?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Jatkuva lähetys säätiedoista."},
       {"answerCorrectness": "incorrect", "answerText": " Tulostettu teksti ajankohtaisesta lentokenttä- ja säätiedoista."},
-      {"answerCorrectness": "incorrect", "answerText": " Jatkuva lähetys lentokenttä- ja säätiedoista."},
+      {"answerCorrectness": "correct", "answerText": " Jatkuva lähetys lentokenttä- ja säätiedoista."},
       {"answerCorrectness": "incorrect", "answerText": " Kartta ajankohtaisesta lentokenttä- ja säätiedoista."}]},
   
     {"question": "Mikä on ajankohtaisen ATIS sanoman tunniste?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Laadinta-aika."},
       {"answerCorrectness": "incorrect", "answerText": " Voimassaoloaika."},
       {"answerCorrectness": "incorrect", "answerText": " Numero."},
-      {"answerCorrectness": "incorrect", "answerText": " Aakkosesta kirjain."}]},
+      {"answerCorrectness": "correct", "answerText": " Aakkosesta kirjain."}]},
   
     {"question": "Millä taajuudella ATIS yleensä lähetetään?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " HF."},
       {"answerCorrectness": "incorrect", "answerText": " ADR."},
       {"answerCorrectness": "incorrect", "answerText": " LF."},
-      {"answerCorrectness": "incorrect", "answerText": " VHF."}]},
+      {"answerCorrectness": "correct", "answerText": " VHF."}]},
   
     {"question": "Mikä olisi odotettavissa oleva lämpötila 7000ft:n korkeudessa, jos ilmanlämpötila 1500ft:n korkeudella on 15°C?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " +3°C."},
       {"answerCorrectness": "incorrect", "answerText": " -2°C."},
-      {"answerCorrectness": "incorrect", "answerText": " +4°C."},
+      {"answerCorrectness": "correct", "answerText": " +4°C."},
       {"answerCorrectness": "incorrect", "answerText": " 0°C."}]},
   
     {"question": "Mitä tuulta sääkartasta otettu symboli esittää? (Liite LAPL/PPL 050-05)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Itätuulta 15 solmua."},
-      {"answerCorrectness": "incorrect", "answerText": " Länsituulta 60 solmua."},
+      {"answerCorrectness": "correct", "answerText": " Länsituulta 60 solmua."},
       {"answerCorrectness": "incorrect", "answerText": " Pohjoistuulta 15 solmua."},
-      {"answerCorrectness": "incorrect", "answerText": " Etelätuulta 15 solmua."}]},
+      {"answerCorrectness": "incorrect", "answerText": " Etelätuulta 15 solmua."}],
+      "image": "050-05.PNG"},
   
     {"question": "Säähän liittyviin fysikaalisiin prosesseihin liittyy aina jollain tavalla:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ilman liike."},
       {"answerCorrectness": "incorrect", "answerText": " Kosteuden ero."},
-      {"answerCorrectness": "incorrect", "answerText": " Lämmön vaihto."},
+      {"answerCorrectness": "correct", "answerText": " Lämmön vaihto."},
       {"answerCorrectness": "incorrect", "answerText": " Paine-ero."}]},
   
     {"question": "Mikä sääilmiö liittyy lämpötilainversioon?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Vakaa ilmakerros."},
+      {"answerCorrectness": "correct", "answerText": " Vakaa ilmakerros."},
       {"answerCorrectness": "incorrect", "answerText": " Epävakaa ilmakerros."},
       {"answerCorrectness": "incorrect", "answerText": " Ukkoset ilmamassassa."},
       {"answerCorrectness": "incorrect", "answerText": " Laskevat ilmanvirtaukset vuorenrinnettä pitkin."}]},
   
     {"question": "Tavallisin syntytapa pinnan lähellä esiintyvälle inversiolle on:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kylmemmän ilman liikkuessa lämpimämmän ilman alle tai lämpimän ilman liikkuessakylmemmän ilman päälle."},
+      {"answerCorrectness": "correct", "answerText": " Kylmemmän ilman liikkuessa lämpimämmän ilman alle tai lämpimän ilman liikkuessa kylmemmän ilman päälle."},
       {"answerCorrectness": "incorrect", "answerText": " Maapallon ulossäteily kirkkaana heikkotuulisena yönä."},
       {"answerCorrectness": "incorrect", "answerText": " Lämpimän ilman voimakkaan nousun johdosta vuoriston läheisyydessä."},
       {"answerCorrectness": "incorrect", "answerText": " Maapallon ulossäteily pilvisellä ja suhteellisen tuulisena yönä."}]},
@@ -642,54 +616,42 @@
     {"question": "Ilmassa olevan vesihöyryn määrä on riippuvainen:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ilmanpaineesta."},
       {"answerCorrectness": "incorrect", "answerText": " Kastepisteestä."},
-      {"answerCorrectness": "incorrect", "answerText": " Ilman lämpötilasta."},
+      {"answerCorrectness": "correct", "answerText": " Ilman lämpötilasta."},
       {"answerCorrectness": "incorrect", "answerText": " Ilman stabiilisuudesta."}]},
   
     {"question": "Mikä on lentokentän kastepiste, jos lämpötila on 20°C ja kumpupilvien alaraja on1100m lentokentän yläpuolella?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 5°C."},
       {"answerCorrectness": "incorrect", "answerText": " -3°C."},
       {"answerCorrectness": "incorrect", "answerText": " 7°C."},
-      {"answerCorrectness": "incorrect", "answerText": " 11°C."}]},
-  
-    {"question": "Mitä ovat epävakaan ilmamassan ominaisuudet?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Nimbostratus-pilvisyyttä ja hyvä näkyvyys."},
-      {"answerCorrectness": "incorrect", "answerText": " Turbulenssia ja hyvä näkyvyys."},
-      {"answerCorrectness": "incorrect", "answerText": " Turbulenssia ja huono näkyvyys."},
-      {"answerCorrectness": "incorrect", "answerText": " Stratus-tyyppistä pilvisyyttä ja huono näkyvyys."}]},
+      {"answerCorrectness": "correct", "answerText": " 11°C."}]},
   
     {"question": "Mitkä pilvet liittyvät tyypillisen lämpimän rintaman ylitykseen?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " CC, AC, CU, CB."},
-      {"answerCorrectness": "incorrect", "answerText": " CI, CS, AS, NS."},
+      {"answerCorrectness": "correct", "answerText": " CI, CS, AS, NS."},
       {"answerCorrectness": "incorrect", "answerText": " CC, SC, ST, NS."},
       {"answerCorrectness": "incorrect", "answerText": " CI, CC, NS, CB."}]},
-  
-    {"question": "Mitkä sääolosuhteet ovat odotettavissa, jos pinnan lähellä esiintyy inversio jasuhteellinen kosteus on korkea?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Tasainen ilma, huono näkyvyys, sumua, matalaa stratus-pilvisyyttä ja kuurottaistasadetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Nimbostratus pilvisyyttä ja hyvä näkyvyys."},
-      {"answerCorrectness": "incorrect", "answerText": " Turbulenttista ilmaa ja hyvä näkyvyys."},
-      {"answerCorrectness": "incorrect", "answerText": " Heikko tuuliväänne (windshear), huono näkyvyys, auerta ja heikkoa sadetta."}]},
   
     {"question": "Mitä voidaan laskea seuraavalla kaavalla?(Lämpötila - kastepiste) x 123 = ?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Suhteellinen kosteus."},
       {"answerCorrectness": "incorrect", "answerText": " Stratuspilvien toppi metreinä."},
-      {"answerCorrectness": "incorrect", "answerText": " Kumpupilvien pilvikorkeus metreinä."},
+      {"answerCorrectness": "correct", "answerText": " Kumpupilvien pilvikorkeus metreinä."},
       {"answerCorrectness": "incorrect", "answerText": " Yläpuolinen lämpötila."}]},
   
     {"question": "Mikä on arvio kumpupilvien alarajasta, kun pinnan lämpötila on 27°C jakastepiste on 15°C?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 2000m"},
       {"answerCorrectness": "incorrect", "answerText": " 2700m"},
-      {"answerCorrectness": "incorrect", "answerText": " 1500m"},
+      {"answerCorrectness": "correct", "answerText": " 1500m"},
       {"answerCorrectness": "incorrect", "answerText": " 1000m"}]},
   
-    {"question": "Mikä on arvio kumpupilvien alarajasta, kun kastepiste on 5°C ja päivänennustettu maksimilämpötila on 25°C?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 2500m"},
+    {"question": "Mikä on arvio kumpupilvien alarajasta, kun kastepiste on 5°C ja päivän ennustettu maksimilämpötila on 25°C?", "answers": [
+      {"answerCorrectness": "correct", "answerText": " 2500m"},
       {"answerCorrectness": "incorrect", "answerText": " 2000m"},
       {"answerCorrectness": "incorrect", "answerText": " 2800m"},
       {"answerCorrectness": "incorrect", "answerText": " 1500m"}]},
   
     {"question": "Mihin pilvisyyteen kuuroittaiset sateet liittyvät?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " ST"},
-      {"answerCorrectness": "incorrect", "answerText": " NS"},
+      {"answerCorrectness": "correct", "answerText": " NS"},
       {"answerCorrectness": "incorrect", "answerText": " CB"},
       {"answerCorrectness": "incorrect", "answerText": " CI"}]},
   
@@ -697,52 +659,52 @@
       {"answerCorrectness": "incorrect", "answerText": " Alasvirtausvaiheessa."},
       {"answerCorrectness": "incorrect", "answerText": " Häviämisvaiheessa."},
       {"answerCorrectness": "incorrect", "answerText": " Kumpupilvivaiheessa."},
-      {"answerCorrectness": "incorrect", "answerText": " Kypsässä vaiheessa."}]},
+      {"answerCorrectness": "correct", "answerText": " Kypsässä vaiheessa."}]},
   
-    {"question": "Lentokentän läheisyydessä on ukkosta. Mikä vaarallinen ilmiö voisi esiintyälähestyessä kenttää laskua varten?", "answers": [
+    {"question": "Lentokentän läheisyydessä on ukkosta. Mikä vaarallinen ilmiö voisi esiintyä lähestyessä kenttää laskua varten?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Staattista sadetta."},
       {"answerCorrectness": "incorrect", "answerText": " Heikkoja sadekuuroja."},
       {"answerCorrectness": "incorrect", "answerText": " Tasainen sade."},
-      {"answerCorrectness": "incorrect", "answerText": " Tuuliväännettä (Windshear)."}]},
+      {"answerCorrectness": "correct", "answerText": " Tuuliväännettä (Windshear)."}]},
   
     {"question": "Missä tuuliväännettä (windshear) voi esiintyä?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Vain matalilla korkeuksilla."},
       {"answerCorrectness": "incorrect", "answerText": " Vain korkeilla korkeuksilla."},
       {"answerCorrectness": "incorrect", "answerText": " Vain sateen aikana."},
-      {"answerCorrectness": "incorrect", "answerText": " Kaikilla korkeuksilla, kaikissa suunnissa."}]},
+      {"answerCorrectness": "correct", "answerText": " Kaikilla korkeuksilla, kaikissa suunnissa."}]},
   
     {"question": "Miksi lentotoiminnassa kuura koetaan vaaralliseksi ilmiöksi?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Kuura lisää lentokoneen painoa."},
       {"answerCorrectness": "incorrect", "answerText": " Kuura hidastaa virtausta profiilin yli ja siten kasvattaa tehokkuutta."},
       {"answerCorrectness": "incorrect", "answerText": " Kuura muuttaa siiven profiilin muotoa ja lisää siten nostetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Kuura rikkoo tasaisen virtauksen siiven yli ja siten pienentää nostetta."}]},
+      {"answerCorrectness": "correct", "answerText": " Kuura rikkoo tasaisen virtauksen siiven yli ja siten pienentää nostetta."}]},
   
     {"question": "Missä ympäristössä ilma-alus kerää eniten jäätä rakenteisiin?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Jäätävässä sateessa."},
       {"answerCorrectness": "incorrect", "answerText": " Sumussa, kun pakkasta on -25 astetta."},
-      {"answerCorrectness": "incorrect", "answerText": " Cumulus-pilvessä pakkasen puolella."},
+      {"answerCorrectness": "correct", "answerText": " Cumulus-pilvessä pakkasen puolella."},
       {"answerCorrectness": "incorrect", "answerText": " Jäätävässä tihkusateessa."}]},
   
-    {"question": "Minkä tyyppistä sadetta on havaittu METARin mukaan?METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC02017/16 Q1018 BECMG TL 1700 0800 FG BECMG AT1800 9999 NSW=", "answers": [
+    {"question": "Minkä tyyppistä sadetta on havaittu METARin mukaan?METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL 1700 0800 FG BECMG AT1800 9999 NSW=", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Rakeita."},
       {"answerCorrectness": "incorrect", "answerText": " Jatkuva ja heikko sade."},
       {"answerCorrectness": "incorrect", "answerText": " Sadekuuroja."},
-      {"answerCorrectness": "incorrect", "answerText": " Kohtalainen tihkusade."}]},
+      {"answerCorrectness": "correct", "answerText": " Kohtalainen tihkusade."}]},
   
-    {"question": "Mikä on alimman pilvisyyden korkeus seuraavassa METARissa:METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC02017/16 Q1018 BECMG TL 1700 0800 FG BECMG AT1800 9999 NSW=", "answers": [
+    {"question": "Mikä on alimman pilvisyyden korkeus seuraavassa METARissa:METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL 1700 0800 FG BECMG AT1800 9999 NSW=", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 10ft."},
       {"answerCorrectness": "incorrect", "answerText": " 100ft."},
-      {"answerCorrectness": "incorrect", "answerText": " 300ft."},
+      {"answerCorrectness": "correct", "answerText": " 300ft."},
       {"answerCorrectness": "incorrect", "answerText": " 1000m."}]},
   
-    {"question": "Mikä seuraavista METAReista voitaisiin lyhentää osittain käyttämällä CAVOKkoodia? (Minimi sektorikorkeus 4000ft)", "answers": [
+    {"question": "Mikä seuraavista METAReista voitaisiin lyhentää osittain käyttämällä CAVOK koodia? (Minimi sektorikorkeus 4000ft)", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 00000KT 0100 FG VV001 11/11 Q1025 BECMG 0500="},
       {"answerCorrectness": "incorrect", "answerText": " 34004KT 7000 MIFG SCT260 09/08 Q1019 NOSIG="},
       {"answerCorrectness": "incorrect", "answerText": " 26012KT 8000 -SHRA BKN025TCU 16/12 Q1018 NOSIG="},
-      {"answerCorrectness": "incorrect", "answerText": " 27019G37KT 9999 BKN050 18/14 Q1016 NOSIG="}]},
+      {"answerCorrectness": "correct", "answerText": " 27019G37KT 9999 BKN050 18/14 Q1016 NOSIG="}]},
   
-    {"question": "Mitä säätä on ennustettu olevan klo 12.00 UTC:n jälkeen?TAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CBBKN020 FM161200 15006KT 9999 BKN020 BKN100=", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Kaakon puoleista heikkoa tuulta, näkyvyys paranee vähintään 10km:iin, sade loppuu,pilvisyyden määrä lisääntyy ja pilvikorkeus on 600m."},
+    {"question": "Mitä säätä on ennustettu olevan klo 12.00 UTC:n jälkeen? TAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608 SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CBBKN020 FM161200 15006KT 9999 BKN020 BKN100=", "answers": [
+      {"answerCorrectness": "correct", "answerText": " Kaakon puoleista heikkoa tuulta, näkyvyys paranee vähintään 10km:iin, sade loppuu,pilvisyyden määrä lisääntyy ja pilvikorkeus on 600m."},
       {"answerCorrectness": "incorrect", "answerText": " Näkyvyys paranee 5km:ista 10km:iin ja pilvisyys vähenee 1/8 osaan 600m korkeudella ja1/8 osaan 3000m korkeudella."},
       {"answerCorrectness": "incorrect", "answerText": " Sateista säätä ja sadekuuroja, puuskainen tuuli ja näkyvyys alle 10km."},
       {"answerCorrectness": "incorrect", "answerText": " Kaakon puoleista tuulta 6 solmua, näkyvyys on sopiva VFR lentoa varten ja taivas ontäysin pilvien peitossa 600m korkeudella."}]},
@@ -751,28 +713,28 @@
       {"answerCorrectness": "incorrect", "answerText": " FG ja MZ"},
       {"answerCorrectness": "incorrect", "answerText": " FO ja MZ"},
       {"answerCorrectness": "incorrect", "answerText": " FG ja PR"},
-      {"answerCorrectness": "incorrect", "answerText": " FG ja BR"}]},
+      {"answerCorrectness": "correct", "answerText": " FG ja BR"}]},
   
     {"question": "Milloin sääsanomissa ilmoitetaan puuskat?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " kun ne ovat yli 20 solmua keskituulesta"},
       {"answerCorrectness": "incorrect", "answerText": " kun ne ovat yli 5 solmua keskituulesta"},
-      {"answerCorrectness": "incorrect", "answerText": " kun ne ovat yli 10 solmua keskituulesta"},
+      {"answerCorrectness": "correct", "answerText": " kun ne ovat yli 10 solmua keskituulesta"},
       {"answerCorrectness": "incorrect", "answerText": " kun ne ovat yli 15 solmua keskituulesta"}]},
   
-    {"question": "Cumulonimbus pilvestä löytyy suuria alijäähtyneitä vesipisaroita, jotkamuodostavat:", "answers": [
+    {"question": "Cumulonimbus pilvestä löytyy suuria alijäähtyneitä vesipisaroita, jotka muodostavat:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Huurrejäätä"},
       {"answerCorrectness": "incorrect", "answerText": " Teräsjäätä"},
-      {"answerCorrectness": "incorrect", "answerText": " Silojäätä"},
+      {"answerCorrectness": "correct", "answerText": " Silojäätä"},
       {"answerCorrectness": "incorrect", "answerText": " Rosojäätä"}]},
   
     {"question": "SWC-kartan nimi on lyhennys sanoista:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Special weather chart"},
       {"answerCorrectness": "incorrect", "answerText": " Surface weather chart"},
-      {"answerCorrectness": "incorrect", "answerText": " Significant weather chart"},
+      {"answerCorrectness": "correct", "answerText": " Significant weather chart"},
       {"answerCorrectness": "incorrect", "answerText": " Space weather chart"}]},
   
     {"question": "Mikä aiheuttaa tuulen?", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Ilmanpaine-erot"},
+      {"answerCorrectness": "correct", "answerText": " Ilmanpaine-erot"},
       {"answerCorrectness": "incorrect", "answerText": " Coriolis-voima"},
       {"answerCorrectness": "incorrect", "answerText": " Ilman tiheys"},
       {"answerCorrectness": "incorrect", "answerText": " Lämpötilaerot"}]},
@@ -781,10 +743,10 @@
       {"answerCorrectness": "incorrect", "answerText": " HA"},
       {"answerCorrectness": "incorrect", "answerText": " RA"},
       {"answerCorrectness": "incorrect", "answerText": " SG"},
-      {"answerCorrectness": "incorrect", "answerText": " GR"}]},
+      {"answerCorrectness": "correct", "answerText": " GR"}]},
   
     {"question": "Matalapaine pyörii pohjoisella pallonpuoliskolla:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Vastapäivään"},
+      {"answerCorrectness": "correct", "answerText": " Vastapäivään"},
       {"answerCorrectness": "incorrect", "answerText": " Myötäpäivään"},
       {"answerCorrectness": "incorrect", "answerText": " Pyörii sekä myötä- että vastapäivään"},
       {"answerCorrectness": "incorrect", "answerText": " Riippuu vuodenajasta"}]},
@@ -792,71 +754,65 @@
     {"question": "Miten lyhennetään tihkusade sääsanomissa?", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " SN"},
       {"answerCorrectness": "incorrect", "answerText": " DR"},
-      {"answerCorrectness": "incorrect", "answerText": " DZ"},
+      {"answerCorrectness": "correct", "answerText": " DZ"},
       {"answerCorrectness": "incorrect", "answerText": " TS"}]},
   
     {"question": "Miten merkitään sääsanomaan \"lentokentän ympäristössä\":", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " CV"},
-      {"answerCorrectness": "incorrect", "answerText": " VC"},
+      {"answerCorrectness": "correct", "answerText": " VC"},
       {"answerCorrectness": "incorrect", "answerText": " YM"},
       {"answerCorrectness": "incorrect", "answerText": " CL"}]},
   
     {"question": "Saman ilmanpaineen käyrää kutsutaan nimellä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Isobaari"},
+      {"answerCorrectness": "correct", "answerText": " Isobaari"},
       {"answerCorrectness": "incorrect", "answerText": " Rintama"},
       {"answerCorrectness": "incorrect", "answerText": " Millibaari"},
       {"answerCorrectness": "incorrect", "answerText": " Isotaksi"}]},
   
     {"question": "Ilmanpaineena (QNH) ilmoitetaan METAR - sanomissa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lentopaikan korkeuden tasoon korjattu ilmanpaine"},
-      {"answerCorrectness": "incorrect", "answerText": " Keskimääräisen merenpinnan tasoon korjattu ilmanpaine"},
+      {"answerCorrectness": "correct", "answerText": " Keskimääräisen merenpinnan tasoon korjattu ilmanpaine"},
       {"answerCorrectness": "incorrect", "answerText": " Käytössä olevan siirtopinnan tasoon korjattu ilmanpaine"},
       {"answerCorrectness": "incorrect", "answerText": " Referenssikorkeuteen korjattu ilmanpaine"}]},
   
-    {"question": "Siirtokorkeus on Suomessa:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " 5000 FT (AGL)"},
-      {"answerCorrectness": "incorrect", "answerText": " sama kuin siirtokerros"},
-      {"answerCorrectness": "incorrect", "answerText": " 5000 FT (QNH)"},
-      {"answerCorrectness": "incorrect", "answerText": " sama kuin siirtopinta"}]},
-  
     {"question": "Muutosryhmä TEMPO tarkoittaa sääsanomassa sitä, että:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Ajoittainen ilmiön esiintymistodennäköisyys on yli 30%"},
-      {"answerCorrectness": "incorrect", "answerText": " Esiintyy alle tunnin kestoisia muutoksia yhteensä alle puolet koko muutosryhmänkestosta"},
+      {"answerCorrectness": "correct", "answerText": " Esiintyy alle tunnin kestoisia muutoksia yhteensä alle puolet koko muutosryhmän kestosta"},
       {"answerCorrectness": "incorrect", "answerText": " Esiintyy nopeita, enintään puolen tunnin kestoisia muutoksia"},
       {"answerCorrectness": "incorrect", "answerText": " Sää heilahtelee taajaan annetuissa rajoissa"}]},
   
     {"question": "PILVIKORKEUS on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " CB tai TCU pilvikerroksen alarajan korkeus"},
       {"answerCorrectness": "incorrect", "answerText": " Alimman pilven korkeus riippumatta määrästä"},
-      {"answerCorrectness": "incorrect", "answerText": " Yli puoli taivasta peittävän kerroksen alarajan korkeus maan tai veden pinnasta"},
+      {"answerCorrectness": "correct", "answerText": " Yli puoli taivasta peittävän kerroksen alarajan korkeus maan tai veden pinnasta"},
       {"answerCorrectness": "incorrect", "answerText": " Pilven alarajan ja huipun välinen pystyetäisyys"}]},
   
     {"question": "Koodisanaa CAVOK käytetään sääsanomissa, kun:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Näkyvyys on vähintään 10 km, pilvenkorkeus on vähintään 1500 FT eikä esiinny mitäänsääilmiöitä"},
-      {"answerCorrectness": "incorrect", "answerText": " Näkyvyys on enintään 10 km, pilvenkorkeus on enintään 5000 FT eikä esiinny mitäänsääilmiöitä"},
-      {"answerCorrectness": "incorrect", "answerText": " Näkyvyys on vähintään 10 km, pilvenkorkeus on vähintään 5000 FT eikä esiinny mitäänsääilmiöitä"},
-      {"answerCorrectness": "incorrect", "answerText": " Näkyvyys on enintään 10 km, pilvenkorkeus on enintään 1500 FT eikä esiinny mitäänsääilmiöitä"}]},
+      {"answerCorrectness": "incorrect", "answerText": " Näkyvyys on vähintään 10 km, pilvenkorkeus on vähintään 1500 FT eikä esiinny mitään sääilmiöitä"},
+      {"answerCorrectness": "incorrect", "answerText": " Näkyvyys on enintään 10 km, pilvenkorkeus on enintään 5000 FT eikä esiinny mitään sääilmiöitä"},
+      {"answerCorrectness": "correct", "answerText": " Näkyvyys on vähintään 10 km, pilvenkorkeus on vähintään 5000 FT eikä esiinny mitään sääilmiöitä"},
+      {"answerCorrectness": "incorrect", "answerText": " Näkyvyys on enintään 10 km, pilvenkorkeus on enintään 1500 FT eikä esiinny mitään sääilmiöitä"}]},
   
     {"question": "Mitä tarkoittaa sääsanomassa \"FEW\":", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " 3-4/8 taivaasta pilvien peitossa"},
-      {"answerCorrectness": "incorrect", "answerText": " 1-2/8 taivaasta pilvien peitossa"},
+      {"answerCorrectness": "correct", "answerText": " 1-2/8 taivaasta pilvien peitossa"},
       {"answerCorrectness": "incorrect", "answerText": " 4-7/8 taivaasta pilvien peitossa"},
       {"answerCorrectness": "incorrect", "answerText": " 8/8 taivaasta pilvien peitossa"}]},
   
     {"question": "Inversio on sellainen kerros ilmakehässä, jossa:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Lämpötila laskee ylöspäin mentäessä"},
       {"answerCorrectness": "incorrect", "answerText": " Ilman kosteus pienenee ylöspäin mentäessä"},
-      {"answerCorrectness": "incorrect", "answerText": " Lämpötila kohoaa ylöspäin mentäessä"},
+      {"answerCorrectness": "correct", "answerText": " Lämpötila kohoaa ylöspäin mentäessä"},
       {"answerCorrectness": "incorrect", "answerText": " Ilman kosteus suurenee ylöspäin mentäessä"}]},
   
     {"question": "Ukkospilven nimi on:", "answers": [
       {"answerCorrectness": "incorrect", "answerText": " Cirrostratus"},
       {"answerCorrectness": "incorrect", "answerText": " Altocumulus"},
       {"answerCorrectness": "incorrect", "answerText": " Nimbostratus"},
-      {"answerCorrectness": "incorrect", "answerText": " Cumulonimbus"}]},
+      {"answerCorrectness": "correct", "answerText": " Cumulonimbus"}]},
   
     {"question": "Jatkuva vesi- tai lumisade tulee yleensä:", "answers": [
-      {"answerCorrectness": "incorrect", "answerText": " Nimbostratuspilvestä"},
+      {"answerCorrectness": "correct", "answerText": " Nimbostratuspilvestä"},
       {"answerCorrectness": "incorrect", "answerText": " Stratuspilvestä"},
       {"answerCorrectness": "incorrect", "answerText": " Stratocumuluspilvestä"},
       {"answerCorrectness": "incorrect", "answerText": " Cumuluspilvestä"}]}]
